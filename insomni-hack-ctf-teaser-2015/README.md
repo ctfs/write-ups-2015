@@ -9,4 +9,8 @@
 
 ## Incomplete write-ups
 
-* none yet
+* [APRS/331](aprs-331)
+* [Baby Haskell](baby-haskell)
+* [Elysium ropchain](elysium-ropchain)
+* [Interview](interview)
+* [YNOS](ynos)
