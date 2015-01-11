@@ -1,0 +1,24 @@
+<?php
+include("classes.php");
+include("functions.php");
+global $session;
+global $message;
+
+if(isset($_COOKIE['session'])) {
+  $session = new session($_COOKIE['session']);
+}
+else {
+  $id = substr(str_shuffle(sha1(microtime())), 0, 32);
+  $session = new session($id);
+  setcookie("session",$id);
+}
+
+$input = json_decode(file_get_contents("php://input"),true);
+if(isset($input)) {
+  myDeserialize($input);
+}
+
+
+print $message;
+
+?>
