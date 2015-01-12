@@ -5,7 +5,8 @@
 
 ## Completed write-ups
 
-* none yet
+* [programming-2](programming-2)
+* (TODO)
 
 ## Incomplete write-ups
 
