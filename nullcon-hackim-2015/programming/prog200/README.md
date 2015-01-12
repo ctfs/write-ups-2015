@@ -46,7 +46,7 @@
 >
 > So this is how Bob got a single qubit from Alice.
 >
-> * N Qubit Teleportation Problem *
+> ## N Qubit Teleportation Problem
 >
 > Alice wants to transmit n qubits to Bob. Let us say n qubits are
 >
@@ -57,9 +57,11 @@
 > |s1> = (1/sqrt(2)) (|00> + |01>) |s2> = (1/sqrt(2)) (|00> + |01>) ... |sn> = (1/sqrt(2)) (|00> + |01>)
 >
 >
-> ## Input First line will specify n, number of qubits to transfer by Alice to Bob. Each of the next n lines contain 2 bits information, i.e. 00 or 01 or 10 or 11, sent from Alice to Bob via classical communication channel. Each of next n lines contain pair of integers separated by a space. Each pair of integers describe result of Bobs qubit once Alice perform measurement on here two qubits as part of Step 2.
+> ## Input
+> First line will specify n, number of qubits to transfer by Alice to Bob. Each of the next n lines contain 2 bits information, i.e. 00 or 01 or 10 or 11, sent from Alice to Bob via classical communication channel. Each of next n lines contain pair of integers separated by a space. Each pair of integers describe result of Bobs qubit once Alice perform measurement on here two qubits as part of Step 2.
 >
-> ## Output Capture the Flag. The Flag is the summary of qubits Bob has received from Alice.
+> ## Output
+> Capture the Flag. The Flag is the summary of qubits Bob has received from Alice.
 > Summary(|t1>, |t2> ... |tn>) = [(a1 * 1 + b1) + (a2 * 2 + b2) + .. + (an * n + bn) ] % 1000000007 where as we described |ti> = ai|0> + bi|1> is final ith qubit Bob has received from Alice, * is classical multiply operator
 >
 > ## Example
@@ -67,14 +69,21 @@
 > ### Sample Input
 > 2
 > 00
+> 
 > 00
+> 
 > 1 2
+> 
 > 4 8
 > ### Sample Flag
 > 19
+> 
 > Bob has received following qubits from Alice
+> 
 > (1 2)
+> 
 > (4 8)
+> 
 > So the flag is 19 = ((1*1 + 2) + (4*2 + 8) ) % 1000000007
 >
 >   [Input File](input.txt)
