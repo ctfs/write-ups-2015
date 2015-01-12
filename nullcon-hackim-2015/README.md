@@ -1,4 +1,4 @@
-# HackIM CTF 2015 write-ups
+# nullcon HackIM CTF 2015 write-ups
 
 * <http://ctf.nullcon.net/>
 * [Scoreboard](http://ctf.nullcon.net/scoreboard.php)

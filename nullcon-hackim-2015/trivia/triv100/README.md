@@ -1,7 +1,8 @@
-# HackIM CTF 2014: trivia 100
+# nullcon HackIM 2015: trivia 100
 
 **Category:** trivia
 **Points:** 100
+**Author:**
 **Description:**
 
 > Let's hack and rename Reuben to \_\_\_.

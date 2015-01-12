@@ -1,7 +1,8 @@
-# HackIM CTF 2014: reversing 300
+# nullcon HackIM 2015: reversing 300
 
 **Category:** reversing
 **Points:** 300
+**Author:**
 **Description:**
 
 >Sherlock's Method: Its made of Wood not Metal

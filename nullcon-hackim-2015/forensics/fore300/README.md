@@ -1,7 +1,8 @@
-# HackIM CTF 2014: forensics 300
+# nullcon HackIM 2015: forensics 300
 
 **Category:** forensics
 **Points:** 300
+**Author:**
 **Description:**
 
 > Find the hidden key

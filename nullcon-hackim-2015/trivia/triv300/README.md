@@ -1,7 +1,8 @@
-# HackIM CTF 2014: trivia 300
+# nullcon HackIM 2015: trivia 300
 
 **Category:** trivia
 **Points:** 300
+**Author:**
 **Description:**
 
 > What is the version of Sharepoint running on an US based server with following details:

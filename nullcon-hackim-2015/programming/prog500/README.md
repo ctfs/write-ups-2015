@@ -1,7 +1,8 @@
-# HackIM CTF 2014: programming 500
+# nullcon HackIM 2015: programming 500
 
 **Category:** programming
 **Points:** 500
+**Author:**
 **Description:**
 
 > Capture Aldrich Killian:

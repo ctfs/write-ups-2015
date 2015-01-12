@@ -1,7 +1,8 @@
-# HackIM CTF 2014: web 400
+# nullcon HackIM 2015: web 400
 
 **Category:** web
 **Points:** 400
+**Author:**
 **Description:**
 
 > Buy Nullcon Pass For Free. 

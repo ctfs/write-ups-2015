@@ -1,7 +1,8 @@
-# HackIM CTF 2014: programming 200
+# nullcon HackIM 2015: programming 200
 
 **Category:** prorgramming
 **Points:** 200
+**Author:**
 **Description:**
 
 > Teleport Iron Man:

@@ -1,4 +1,4 @@
-# HackIM CTF 2014: forensics 100
+# nullcon HackIM 2015: forensics 100
 
 **Category:** forensics
 **Points:** 100

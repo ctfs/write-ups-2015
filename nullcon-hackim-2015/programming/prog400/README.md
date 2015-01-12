@@ -1,7 +1,8 @@
-# HackIM CTF 2014: programming 400
+# nullcon HackIM 2015: programming 400
 
 **Category:** programming
 **Points:** 400
+**Author:**
 **Description:**
 
 > Decrypt Aldrich Killian City Map:

@@ -1,7 +1,8 @@
-# HackIM CTF 2014: web 300
+# nullcon HackIM 2015: web 300
 
 **Category:** web
 **Points:** 300
+**Author:**
 **Description:**
 
 > Find the keys to your home. [Flag: Updated]

@@ -1,7 +1,8 @@
-# HackIM CTF 2014: misc 200
+# nullcon HackIM 2015: misc 200
 
 **Category:** misc
 **Points:** 200
+**Author:**
 **Description:**
 
 > Find out whats hidden in this garbage IP PORT - 54.165.191.231:2909 

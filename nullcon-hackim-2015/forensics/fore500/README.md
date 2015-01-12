@@ -1,7 +1,8 @@
-# HackIM CTF 2014: forensics 500
+# nullcon HackIM 2015: forensics 500
 
 **Category:** forensics
 **Points:** 500
+**Author:**
 **Description:**
 
 > This image contains a pagefile. Can you tell the size of it (in bytes)? 

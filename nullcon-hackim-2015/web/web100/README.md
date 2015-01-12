@@ -1,7 +1,8 @@
-# HackIM CTF 2014: web 100
+# nullcon HackIM 2015: web 100
 
 **Category:** web
 **Points:** 100
+**Author:**
 **Description:**
 
 > To Err is human! 

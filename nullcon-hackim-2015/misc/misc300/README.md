@@ -1,7 +1,8 @@
-# HackIM CTF 2014: misc 300
+# nullcon HackIM 2015: misc 300
 
 **Category:** misc
 **Points:** 300
+**Author:**
 **Description:**
 
 > Do the math ! 

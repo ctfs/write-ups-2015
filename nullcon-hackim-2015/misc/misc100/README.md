@@ -1,7 +1,8 @@
-# HackIM CTF 2014: misc 100
+# nullcon HackIM 2015: misc 100
 
 **Category:** misc
 **Points:** 100
+**Author:**
 **Description:**
 
 > Talk to me pls @ IP PORT - 54.165.191.231:2908 

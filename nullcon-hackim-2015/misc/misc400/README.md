@@ -1,7 +1,8 @@
-# HackIM CTF 2014: misc 400
+# nullcon HackIM 2015: misc 400
 
 **Category:** misc
 **Points:** 400
+**Author:**
 **Description:**
 
 > Find out the hidden gift in this SERVER : PORT - 54.165.191.231:2910 

@@ -1,7 +1,8 @@
-# HackIM CTF 2014: crypto 100 - 2
+# nullcon HackIM 2015: crypto 100 - 2
 
 **Category:** crypto
 **Points:** 100
+**Author:**
 **Description:**
 
 > A message has been intercepted from Alice to Bob. Decode and find the flag.

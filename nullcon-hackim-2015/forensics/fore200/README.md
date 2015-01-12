@@ -1,7 +1,8 @@
-# HackIM CTF 2014: forensics 200
+# nullcon HackIM 2015: forensics 200
 
 **Category:** forensics
 **Points:** 200
+**Author:**
 **Description:**
 
 > A friend of mine says his SSH server is super secure. Can you pls help me find the hidden message ?

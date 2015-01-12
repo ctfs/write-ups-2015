@@ -1,7 +1,8 @@
-# HackIM CTF 2014: crypto 100 - 1
+# nullcon HackIM 2015: crypto 100 - 1
 
 **Category:** crypto
 **Points:** 100
+**Author:**
 **Description:**
 
 > Find the key: 

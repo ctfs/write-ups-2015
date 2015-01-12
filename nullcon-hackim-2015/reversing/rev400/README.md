@@ -1,7 +1,8 @@
-# HackIM CTF 2014: reversing 400
+# nullcon HackIM 2015: reversing 400
 
 **Category:** reversing
 **Points:** 400
+**Author:**
 **Description:**
 
 >Here you go!

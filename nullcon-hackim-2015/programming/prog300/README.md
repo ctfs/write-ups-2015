@@ -1,7 +1,8 @@
-# HackIM CTF 2014: programming 300
+# nullcon HackIM 2015: programming 300
 
 **Category:** programming
 **Points:** 300
+**Author:**
 **Description:**
 
 > Design GPS device:

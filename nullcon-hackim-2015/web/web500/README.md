@@ -1,7 +1,8 @@
-# HackIM CTF 2014: web 500
+# nullcon HackIM 2015: web 500
 
 **Category:** web
 **Points:** 500
+**Author:**
 **Description:**
 
 > Break the captcha! 

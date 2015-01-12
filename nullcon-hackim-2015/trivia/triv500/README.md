@@ -1,7 +1,8 @@
-# HackIM CTF 2014: trivia 500
+# nullcon HackIM 2015: trivia 500
 
 **Category:** trivia
 **Points:** 500
+**Author:**
 **Description:**
 
 > Holy :O :O :O

@@ -1,7 +1,8 @@
-# HackIM CTF 2014: reversing 200
+# nullcon HackIM 2015: reversing 200
 
 **Category:** reversing
 **Points:** 200
+**Author:**
 **Description:**
 
 >Not that Bob!

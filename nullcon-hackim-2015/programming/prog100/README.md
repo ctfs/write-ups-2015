@@ -1,7 +1,8 @@
-# HackIM CTF 2014: programming 100
+# nullcon HackIM 2015: programming 100
 
 **Category:** programming
 **Points:** 100
+**Author:**
 **Description:**
 
 > Get Aldrich Killian's Coordinates:
