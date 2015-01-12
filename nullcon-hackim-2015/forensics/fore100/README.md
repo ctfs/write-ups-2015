@@ -2,6 +2,7 @@
 
 **Category:** forensics
 **Points:** 100
+**Author:**
 **Description:**
 
 > We have been closely watching the movements of a wanted suspect.However, there is another incident which points the evidence towards him on last christmas @ 10PM. Can you pls help us to identify whether he is hidden in any cave? 

@@ -2,7 +2,7 @@
 
 **Category:** forensics
 **Points:** 300
-**Author:**
+**Author:** mehimansu
 **Description:**
 
 > Find the hidden key
