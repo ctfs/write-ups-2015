@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/hackim-2015-web-100/>
