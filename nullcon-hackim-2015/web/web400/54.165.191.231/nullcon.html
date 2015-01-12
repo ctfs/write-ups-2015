@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+     <meta charset="UTF-8">
+  <TITLE> Web Challenge</TITLE>
+  
+ </HEAD>
+
+ <BODY>
+
+     <center>
+             
+         <h3> Buy Nullcon Corporate Pass in ZERO rupee.</h3>
+         <table border="1">
+         <tr>
+             <td>Id:</td>
+             <td>Nullcon2015</td>
+         </tr>
+         <tr>
+             <td>Type:</td>
+             <td>Corporate</td>
+         </tr>
+         <tr>
+             <td>Price:</td>
+             <td>10999</td>
+         </tr>
+         
+         
+     </table>
+         
+         <form action=checkout.php method=POST>
+         <input type=hidden name=msg value="Nullcon2015%7Ccorporate%7C10999"><br>
+         <input type=hidden name=checksum value="568fe78b29ac377a58ae1fbf02b4d1a158e605b3897916227e4b3ecfc78973db"><br>
+         
+	<input type=submit value=Buy>
+ </form>
+         
+   <!-- 
+        
+        
+    if( $checksum === hash("sha256",$secretkey . $msg))   // secretkey is XXXXXXXXXXXXXXXXXXX    :-P
+    {
+      // Success; :)
+    }
+   
+  ?> 
+   -->
+     </center>
+ 
+ </BODY>
+</HTML>
+
