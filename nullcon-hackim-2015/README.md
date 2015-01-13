@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* [prog200](programming/prog200)
+* [programming-2](programming-2)
 
 ## Incomplete write-ups
 
@@ -28,7 +28,6 @@
 * [misc-3](misc-3)
 * [misc-4](misc-4)
 * [programming-1](programming-1)
-* [programming-2](programming-2)
 * [programming-3](programming-3)
 * [programming-4](programming-4)
 * [programming-5](programming-5)
