@@ -6,6 +6,8 @@
 **Description:**
 
 > Image represents a randomness from the last night. Help us find the flag hidden behind.
+>
+>	[Trivia-200.PNG](Trivia-200.PNG)
 
 ## Write-up
 

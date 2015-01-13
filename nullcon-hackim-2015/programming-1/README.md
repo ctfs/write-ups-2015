@@ -11,7 +11,7 @@
 >
 >Decode the following image to get the flag:
 >
->       [Image File](image1.png)
+>	[Image File](image1.png)
 
 ## Write-up
 

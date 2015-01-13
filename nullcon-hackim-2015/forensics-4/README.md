@@ -1,6 +1,6 @@
-# nullcon HackIM 2015: forensics 500
+# nullcon HackIM 2015: Forensics 500
 
-**Category:** forensics
+**Category:** Forensics
 **Points:** 500
 **Author:**
 **Description:**

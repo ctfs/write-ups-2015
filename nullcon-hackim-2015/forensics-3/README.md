@@ -1,6 +1,6 @@
-# nullcon HackIM 2015: forensics 300
+# nullcon HackIM 2015: Forensics 300
 
-**Category:** forensics
+**Category:** Forensics
 **Points:** 300
 **Author:** mehimansu
 **Description:**

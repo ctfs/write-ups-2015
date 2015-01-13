@@ -1,6 +1,6 @@
-# nullcon HackIM 2015: misc 200
+# nullcon HackIM 2015: Misc 200
 
-**Category:** misc
+**Category:** Misc
 **Points:** 200
 **Author:**
 **Description:**

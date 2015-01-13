@@ -20,6 +20,8 @@
 >In order to make it more challenging, each position in the word can have only predefined characters in M. Iron Man has got following image as a clue.
 >
 >Get the Flag. Flag is (F mod 1000000007)
+>
+>	[Image File](input4.png)
 
 ## Write-up
 

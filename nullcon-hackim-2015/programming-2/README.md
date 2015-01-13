@@ -89,6 +89,8 @@
 >(4 8)
 >
 >So the flag is 19 = ((1 * 1 + 2) + (4 *  2 + 8) ) % 1000000007
+>
+>	[Image File](input2.txt)
 
 ## Write-up
 
