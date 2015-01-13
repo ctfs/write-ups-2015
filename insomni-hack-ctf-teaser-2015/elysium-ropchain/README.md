@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://kitctf.de/writeups/insomnihack-teaser-2015/elysium/>
