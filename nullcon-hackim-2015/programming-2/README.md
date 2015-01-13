@@ -79,6 +79,31 @@
 
 ## Write-up
 
-(TODO)
+This problem introduces us some basic knowledge about Quantum Computing. The Quantum State Transformations is a traditional application. And we know 
+Bob need$
+```
+   (H * I * I)(Cnot * I)(|tâ^ß©*|s0â^ß©)
+ = (H * I * I)(1/sqrt(2)) (a|000â^ß©+a|011â^ß©+b|110â^ß©+b|101â^ß©)
+ = 1/2 (a(|000â^ß©+|011â^ß©+|100â^ß©+|111â^ß©)+b(|010â^ß©+|001â^ß©-|110â^ß©-|101â^ß©))
+ = 1/2 (|00â^ß©(a|0â^ß©+b|1â^ß©)+|01â^ß©(a|1â^ß©+b|0â^ß©+|10â^ß©(a|0â^ß©-b|1â^ß©)+|11â^ß©(a|1â^ß©-b|0â^ß©)))
+ ```
+
+Then Bob could know this state table:
+```
+State         Bits received  Decodeing
+(a|0â^ß©+b|1â^ß©    00             I matrix
+(a|1â^ß©+b|0â^ß©    01             X matrix
+(a|0â^ß©-b|1â^ß©    10             Z matrix
+(a|1â^ß©-b|0â^ß©    11             Y matrix
+```
+
+So not Bob can decode all a[i] and b[i]. For the first state, do nothing, for the second state, `swap(a[i], b[i])`, for the third state, `b[i] = 
+-b[i]`, for $
+
+After the decoding, just get the modulo of the sum with one pass.
+
+The flag is `307287759`.
 
 ## Other write-ups and resources
+
+* [Quantum Computing: A Gentle Introduction](http://goo.gl/5o0Atj)
