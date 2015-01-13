@@ -6,7 +6,7 @@
 **Description:**
 
 > <https://www.youtube.com/watch?v=O2rGTXHvPCQ>
-> <a href="http://www.youtube.com/watch?v=O2rGTXHvPCQ"><img src="http://img.youtube.com/vi/O2rGTXHvPCQ/0.jpg" border="3"/></a>
+> <a href="http://www.youtube.com/watch?v=O2rGTXHvPCQ"><img src="http://img.youtube.com/vi/O2rGTXHvPCQ/0.jpg" border="3" width="480" height="270"/></a>
 >
 > So many hacking scenes, so little sk1llz…
 >
