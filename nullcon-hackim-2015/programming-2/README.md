@@ -21,8 +21,7 @@
 >
 >So the start state is three-qubit quantum state:
 >
->|t> * |s0> = (1/sqrt(2)) (a|0⟩*(|00⟩+|11⟩)+b|1⟩*(|00⟩+|11⟩))
->= (1/sqrt(2)) (a|000⟩+a|011⟩+b|100⟩+b|111⟩)
+>|t> * |s0> = (1/sqrt(2)) (a|0⟩(|00⟩ + |11⟩) + b|1⟩(|00⟩ + |11⟩)) = (1/sqrt(2)) (a|000⟩ + a|011⟩ + b|100⟩ + b|111⟩)
 >
 >(Please note * is the tensor product operator).
 >
@@ -31,8 +30,7 @@
 >
 >*Step 1:*
 >
->Alice apply (Cnot * I) operator followed by (H * I * I) on the 3 qubit state (|t> * |s0>) i.e.
->(H * I * I)(Cnot * I)(|t⟩*|s0⟩)
+>Alice apply (Cnot * I) operator followed by (H * I * I) on the 3 qubit state (|t> * |s0>) i.e. (H * I * I)(Cnot * I)(|t⟩*|s0⟩)
 >
 >The result of this will be entangled 3 qubit state.
 >
@@ -46,7 +44,7 @@
 >
 >So this is how Bob got a single qubit from Alice.
 >
->* N Qubit Teleportation Problem *
+>### N Qubit Teleportation Problem
 >
 >Alice wants to transmit n qubits to Bob. Let us say n qubits are
 >
@@ -57,48 +55,61 @@
 >|s1> = (1/sqrt(2)) (|00> + |01>) |s2> = (1/sqrt(2)) (|00> + |01>) ... |sn> = (1/sqrt(2)) (|00> + |01>) 
 >
 >
->## Input First line will specify n, number of qubits to transfer by Alice to Bob. Each of the next n lines contain 2 bits information, i.e. 00 or 01 or 10 or 11, sent from Alice to Bob via classical communication channel. Each of next n lines contain pair of integers separated by a space. Each pair of integers describe result of Bobs qubit once Alice perform measurement on here two qubits as part of Step 2.
+>##Input
 >
->## Output Capture the Flag. The Flag is the summary of qubits Bob has received from Alice.
+>First line will specify n, number of qubits to transfer by Alice to Bob. Each of the next n lines contain 2 bits information, i.e. 00 or 01 or 10 or 11, sent from Alice to Bob via classical communication channel. Each of next n lines contain pair of integers separated by a space. Each pair of integers describe result of Bobs qubit once Alice perform measurement on here two qubits as part of Step 2.
+>
+>##Output
+>
+> Capture the Flag. The Flag is the summary of qubits Bob has received from Alice.
 >Summary(|t1>, |t2> ... |tn>) = [(a1 * 1 + b1) + (a2 * 2 + b2) + .. + (an * n + bn) ] % 1000000007 where as we described |ti> = ai|0> + bi|1> is final ith qubit Bob has received from Alice, * is classical multiply operator
 >
 >## Example 
 >
 >### Sample Input
+>
 >2
+>
 >00
+>
 >00
+>
 >1 2
+>
 >4 8
+>
 >### Sample Flag
+>
 >19
->Bob has received following qubits from Alice
+>
+>Bob has received following qubits from Alice:
+>
 >(1 2)
+>
 >(4 8)
->So the flag is 19 = ((1*1 + 2) + (4*2 + 8) ) % 1000000007
+>
+>So the flag is 19 = ((1 * 1 + 2) + (4 *  2 + 8) ) % 1000000007
 
 ## Write-up
 
-This problem introduces us some basic knowledge about Quantum Computing. The Quantum State Transformations is a traditional application. And we know 
-Bob need$
+This problem introduces us some basic knowledge about Quantum Computing. The Quantum State Transformations is a traditional application. And we know Bob needs to use different decoding operator depending on the value of the bits he received from Alice. Consider the expansion formula with the quantum gates substituted with the help of [wikipedia](http://en.wikipedia.org/wiki/Quantum_gate):
 ```
-   (H * I * I)(Cnot * I)(|t�^ߩ*|s0�^ߩ)
- = (H * I * I)(1/sqrt(2)) (a|000�^ߩ+a|011�^ߩ+b|110�^ߩ+b|101�^ߩ)
- = 1/2 (a(|000�^ߩ+|011�^ߩ+|100�^ߩ+|111�^ߩ)+b(|010�^ߩ+|001�^ߩ-|110�^ߩ-|101�^ߩ))
- = 1/2 (|00�^ߩ(a|0�^ߩ+b|1�^ߩ)+|01�^ߩ(a|1�^ߩ+b|0�^ߩ+|10�^ߩ(a|0�^ߩ-b|1�^ߩ)+|11�^ߩ(a|1�^ߩ-b|0�^ߩ)))
+   (H * I * I)(Cnot * I)(|t⟩*|s0⟩)
+ = (H * I * I)(1/sqrt(2)) (a|000⟩+a|011⟩+b|110⟩+b|101⟩)
+ = 1/2 (a(|000⟩+|011⟩+|100⟩+|111⟩)+b(|010⟩+|001⟩-|110⟩-|101⟩))
+ = 1/2 (|00⟩(a|0⟩+b|1⟩)+|01⟩(a|1⟩+b|0⟩+|10⟩(a|0⟩-b|1⟩)+|11⟩(a|1⟩-b|0⟩)))
  ```
 
 Then Bob could know this state table:
 ```
 State         Bits received  Decodeing
-(a|0�^ߩ+b|1�^ߩ    00             I matrix
-(a|1�^ߩ+b|0�^ߩ    01             X matrix
-(a|0�^ߩ-b|1�^ߩ    10             Z matrix
-(a|1�^ߩ-b|0�^ߩ    11             Y matrix
+(a|0⟩+b|1⟩    00             I matrix
+(a|1⟩+b|0⟩    01             X matrix
+(a|0⟩-b|1⟩    10             Z matrix
+(a|1⟩-b|0⟩    11             Y matrix
 ```
 
-So not Bob can decode all a[i] and b[i]. For the first state, do nothing, for the second state, `swap(a[i], b[i])`, for the third state, `b[i] = 
--b[i]`, for $
+So not Bob can decode all a[i] and b[i]. For the first state, do nothing, for the second state, `swap(a[i], b[i])`, for the third state, `b[i] = -b[i]`, for the last state, `swap(a[i], b[i])` and then `b[i] = -b[i]`.
 
 After the decoding, just get the modulo of the sum with one pass.
 
