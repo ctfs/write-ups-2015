@@ -46,7 +46,11 @@
 >
 > So this is how Bob got a single qubit from Alice.
 >
+<<<<<<< HEAD
 > ## N Qubit Teleportation Problem
+=======
+> * N Qubit Teleportation Problem *
+>>>>>>> pr/5
 >
 > Alice wants to transmit n qubits to Bob. Let us say n qubits are
 >
@@ -54,6 +58,7 @@
 >
 > Assume, Alice and Bob need to share n Entangled pairs |s1>, |s2> .. |sn> between each other.
 >
+<<<<<<< HEAD
 > |s1> = (1/sqrt(2)) (|00> + |01>) |s2> = (1/sqrt(2)) (|00> + |01>) ... |sn> = (1/sqrt(2)) (|00> + |01>)
 >
 >
@@ -65,10 +70,22 @@
 > Summary(|t1>, |t2> ... |tn>) = [(a1 * 1 + b1) + (a2 * 2 + b2) + .. + (an * n + bn) ] % 1000000007 where as we described |ti> = ai|0> + bi|1> is final ith qubit Bob has received from Alice, * is classical multiply operator
 >
 > ## Example
+=======
+> |s1> = (1/sqrt(2)) (|00> + |01>) |s2> = (1/sqrt(2)) (|00> + |01>) ... |sn> = (1/sqrt(2)) (|00> + |01>) 
+>
+>
+> ## Input First line will specify n, number of qubits to transfer by Alice to Bob. Each of the next n lines contain 2 bits information, i.e. 00 or 01 or 10 or 11, sent from Alice to Bob via classical communication channel. Each of next n lines contain pair of integers separated by a space. Each pair of integers describe result of Bobs qubit once Alice perform measurement on here two qubits as part of Step 2.
+>
+> ## Output Capture the Flag. The Flag is the summary of qubits Bob has received from Alice.
+> Summary(|t1>, |t2> ... |tn>) = [(a1 * 1 + b1) + (a2 * 2 + b2) + .. + (an * n + bn) ] % 1000000007 where as we described |ti> = ai|0> + bi|1> is final ith qubit Bob has received from Alice, * is classical multiply operator
+>
+> ## Example 
+>>>>>>> pr/5
 >
 > ### Sample Input
 > 2
 > 00
+<<<<<<< HEAD
 >
 > 00
 >
@@ -116,3 +133,24 @@ The flag is `307287759`.
 ## Other write-ups and resources
 
 * [Quantum Computing: A Gentle Introduction](http://goo.gl/5o0Atj)
+=======
+> 00
+> 1 2
+> 4 8
+> ### Sample Flag
+> 19
+> Bob has received following qubits from Alice
+> (1 2)
+> (4 8)
+> So the flag is 19 = ((1*1 + 2) + (4*2 + 8) ) % 1000000007
+>
+>	[Input File](input.txt)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
+>>>>>>> pr/5
