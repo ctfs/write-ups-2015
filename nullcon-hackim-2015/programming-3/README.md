@@ -62,6 +62,8 @@
 >str(delta(E)) || ':' || str(delta(N) || ':' || str(delta(U)) || ':' || str(delta(b))
 >
 >with no spaces and where || is the string concatnation operator
+>
+>	[Input File](input3.txt)
 
 ## Write-up
 

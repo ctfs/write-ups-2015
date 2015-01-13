@@ -44,6 +44,8 @@
 >
 >##Flag
 >Flag is the sha1 of the expected output. We computed sha1 using the following command. cat output.txt | openssl dgst -sha1
+>
+>	[Input File](input5.txt)
 
 ## Write-up
 
