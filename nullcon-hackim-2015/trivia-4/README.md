@@ -12,3 +12,5 @@
 (TODO)
 
 ## Other write-ups and resources
+
+* <https://ctf-team.vulnhub.com/hackim-2015-trivia-400/>
