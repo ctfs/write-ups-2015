@@ -5,7 +5,9 @@
 
 ## Completed write-ups
 
+* [forensics-4](forensics-4)
 * [programming-2](programming-2)
+* [web-5](web-5)
 
 ## Incomplete write-ups
 
@@ -22,7 +24,6 @@
 * [forensics-1](forensics-1)
 * [forensics-2](forensics-2)
 * [forensics-3](forensics-3)
-* [forensics-4](forensics-4)
 * [misc-1](misc-1)
 * [misc-2](misc-2)
 * [misc-3](misc-3)
@@ -45,4 +46,3 @@
 * [web-2](web-2)
 * [web-3](web-3)
 * [web-4](web-4)
-* [web-5](web-5)
