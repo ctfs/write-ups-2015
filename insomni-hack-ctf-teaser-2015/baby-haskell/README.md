@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/VMXh/write-ups/blob/master/Insomnihack%20CTF%202015/Baby%20Haskell/README.md>
