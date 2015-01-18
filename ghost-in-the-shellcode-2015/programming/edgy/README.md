@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [Sourcecode](https://github.com/LightningTH/GiTS/blob/master/2015/Edgy)
+* <http://pastebin.com/9zYJm4DC>
