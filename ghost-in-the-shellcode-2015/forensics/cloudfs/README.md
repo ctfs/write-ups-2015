@@ -68,3 +68,24 @@ So the flag is: **key{WhyWouldYouEverUseThis}**
 ## Other write-ups and resources
 
 http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html
+
+## Alternate Writeup
+
+**forensics/CloudFS** - Ghost in the shell code 2015
+
+On initial investigation I noticed there were 4 differant ICMP request ID's with 1066 bytes of data.
+
+ID's in order being: 0x0d00, 0x0e00, 0x0f00, 0x1000
+
+In the first ICMP request there was a bz2 file header after the first 32 bytes of ICMP request.
+
+42 5a 68 39 31 41 59 26 53 59 | BZh91AY&SY
+
+Copy the hex data and paste it into a hex editor for each of the unique ICMP requests using the data after the inital 32 bytes.
+
+once all pasted and the bz2 file recompiled 
+
+Uncompress it and find "key" which included the **flag: key{WhyWouldYouEverUseThis}**
+along with a copy of the python script used to create the challenge.
+
+I'm sure there was an easier way to do this with automation but this seemed to work for me.
