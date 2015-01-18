@@ -12,4 +12,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/ZM55bhRs>
+* [Oscilloscoping](https://www.youtube.com/watch?v=XM8kYRS-cNk)

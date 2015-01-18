@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/sinfocol/87a3593f038984c9a549>
