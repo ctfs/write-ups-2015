@@ -1,0 +1,11 @@
+[+] VIG128 - A Polyalphabetic Substition Block Cipher
+[!] Decryption Module Disabled.
+[+] Beginning Encryption with VIG128...
+[+] IV:
+[!] Non-alphabetic character in IV, using System Key instead.
+[+] Key:
+[!] Non-alphabetic character in key, using System Key instead.
+[+] Plaintext:
+[+] Generating padding...
+[+] Encrypted text is:
+lzzmywnpaaeeggkkzzmywnpaaeeggkkm
