@@ -8,7 +8,15 @@
 
 ## Write-up
 
-(TODO)
+The archive contains two files [ciphertext.txt](ciphertext.txt) and [sudoku\_challenge.png](sudoku_challenge.png).
+
+Solving the given sudoku with any online sudoku solver results in this [solution](solution).
+
+The ciphertext is encrypted with a [Hill cipher](http://en.wikipedia.org/wiki/Hill\_cipher), they decryption key is the 3x3 block in the center of the solution.
+
+Solving the Hill cipher with an online [service](https://cloud.sagemath.com/) results in the following cleartext:
+
+> JACKANDJILLWENTUPTHEHILLTOFETCHAPAILOFWATERJACKFELLDOWNANDBROKEHISCROWNANDJILLCAMETUMBLINGAFTERTHEFLAGISCYMOPOLEIA
 
 ## Other write-ups and resources
 
