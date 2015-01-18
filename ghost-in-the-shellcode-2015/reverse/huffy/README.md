@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/kitctf/writeups/tree/master/gits2015/huffy>

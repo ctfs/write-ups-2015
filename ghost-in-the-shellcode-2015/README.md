@@ -51,6 +51,5 @@
 * [pwn\_adventure/until\_the\_cows\_come\_home](pwn\_adventure/until_the_cows_come_home)
 * [pwnable/boxxy](pwnable/boxxy)
 * [pwnable/gitschat](pwnable/gitschat)
-* [reverse/huffy](reverse/huffy)
 * [wev/aart](web/aart)
 
