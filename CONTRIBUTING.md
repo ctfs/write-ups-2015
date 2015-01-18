@@ -19,12 +19,13 @@ Please take a moment to review this document in order to make the contribution p
 These rules exist to keep the repo maintainable and complete. Please consider following them.
 
 1. Update the root `big-ctf/README.md` file, when adding a writeup to `big-ctf/task/`:
-	* If you add a writeup in the `write-up` section of the `big-ctf/task/README.md` file, then move the task link from `Repo: Incomplete` to `Repo: Completed`
-	* If there already exists a writeup in the `write-up` section, add another `Alternative write-up` section above the `Other write-ups and resources` section
+	* If you add a writeup in the `Write-up` section of the `big-ctf/task/README.md` file, then move the task link from `Repo: Incomplete` to `Repo: Completed`
+	* If there already exists a writeup in the `Write-up` section, add another `Alternative write-up` section above the `Other write-ups and resources` section
 	* If you add a writeup *link* in the `Other write-ups and resources` section, please remove the task link in the `Links: Missing` section
 2. Do not add files that have a filesize bigger than 15MB to keep the repo relatively small. Upload the file instead to a service or reference it from somewhere else.
-3. Consider following these committing rules](https://atom.io/docs/latest/contributing#git-commit-messages). For this repo, we like to use these [emojis](http://www.emoji-cheat-sheet.com/):
+3. Consider following these [committing rules](https://atom.io/docs/latest/contributing#git-commit-messages). For this repo, we like to use these [emojis](http://www.emoji-cheat-sheet.com/):
 	* :memo: when adding a writeup to the `Write-up` section of a task
 	* :floppy_disk: when adding resources for a task, e.g. files or scripts
 	* :link: when adding a writeup link to the `Other write-ups and resources` section of a task
+	* :pill: when fixing broken links or corrupt Markup stuff
 	* :books: when updating the structure of this repo or adding a ctf skeleton structure
