@@ -18,6 +18,8 @@ Solving the Hill cipher with an online [service](https://cloud.sagemath.com/) re
 
 > JACKANDJILLWENTUPTHEHILLTOFETCHAPAILOFWATERJACKFELLDOWNANDBROKEHISCROWNANDJILLCAMETUMBLINGAFTERTHEFLAGISCYMOPOLEIA
 
+The python scrpit using the sage libraries is [here](sage_decrypt.py).
+
 ## Other write-ups and resources
 
 * none yet
