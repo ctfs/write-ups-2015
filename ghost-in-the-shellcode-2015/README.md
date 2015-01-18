@@ -6,13 +6,13 @@
 
 ## Repo: Completed write-ups
 
-* [forensics/cloudfs](forensics/cloudfs)
+* [crypto/knockers](crypto/knockers)
 * [crypto/nikoli](crypto/nikoli)
+* [forensics/cloudfs](forensics/cloudfs)
 * [trivia/biggest](trivia/biggest)
 
 ## Repo: Incomplete write-ups
 
-* [crypto/knockers](crypto/knockers)
 * [crypto/mtgo](crypto/mtgo)
 * [crypto/vig128](crypto/vig128)
 * [forensics/portal2](forensics/portal2)
