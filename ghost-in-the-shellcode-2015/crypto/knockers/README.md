@@ -87,9 +87,9 @@ def parse_and_verify(h, k, m):
 			break
 		port_list.append(struct.unpack_from('!H', msg, i)[0])
 	return port_list
-	```
+```
 	
-	The data part of the token is just a list of ports with 2 bytes for each port in [big endian](http://en.wikipedia.org/wiki/Endianness). We still don't know where k in the MAC is coming from, but it is basically loaded from secret.txt so one last important bit:
+The data part of the token is just a list of ports with 2 bytes for each port in [big endian](http://en.wikipedia.org/wiki/Endianness). We still don't know where k in the MAC is coming from, but it is basically loaded from secret.txt so one last important bit:
 	
 ```python
 	elif sys.argv[1]=='setup':
