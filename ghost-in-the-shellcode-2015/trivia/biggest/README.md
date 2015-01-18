@@ -8,7 +8,9 @@
 
 ## Write-up
 
-(TODO)
+The task was to find the CTF with the longest name.
+
+The answer was `Ghost in the Shellcode`.
 
 ## Other write-ups and resources
 
