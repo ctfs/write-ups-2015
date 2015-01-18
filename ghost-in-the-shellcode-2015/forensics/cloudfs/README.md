@@ -67,4 +67,4 @@ So the flag is: **key{WhyWouldYouEverUseThis}**
 
 ## Other write-ups and resources
 
-* none yet
+http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html
