@@ -65,10 +65,6 @@ $ key{WhyWouldYouEverUseThis}
 ````
 So the flag is: **key{WhyWouldYouEverUseThis}**
 
-## Other write-ups and resources
-
-http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html
-
 ## Alternate Writeup
 
 **forensics/CloudFS** - Ghost in the shell code 2015
@@ -89,3 +85,7 @@ Uncompress it and find "key" which included the **flag: key{WhyWouldYouEverUseTh
 along with a copy of the python script used to create the challenge.
 
 I'm sure there was an easier way to do this with automation but this seemed to work for me.
+
+## Other write-ups and resources
+
+http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html
