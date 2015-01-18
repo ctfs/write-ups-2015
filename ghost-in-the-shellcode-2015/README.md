@@ -6,7 +6,6 @@
 
 * [crypto/knockers](crypto/knockers)
 * [crypto/mtgo](crypto/mtgo)
-* [crypto/nikoli](crypto/nikoli)
 * [crypto/vig128](crypto/vig128)
 * [forensics/cloudfs](forensics/cloudfs)
 * [forensics/portal2](forensics/portal2)
@@ -24,18 +23,17 @@
 * [pwnable/giggles](pwnable/giggles)
 * [pwnable/gitschat](pwnable/gitschat)
 * [reverse/huffy](reverse/huffy)
-* [trivia/biggest](trivia/biggest)
 * [wev/aart](web/aart)
 
 ## Repo: Completed write-ups
 
-* none yet
+* [crypto/nikoli](crypto/nikoli)
+* [trivia/biggest](trivia/biggest)
 
 ## Repo: Incomplete write-ups
 
 * [crypto/knockers](crypto/knockers)
 * [crypto/mtgo](crypto/mtgo)
-* [crypto/nikoli](crypto/nikoli)
 * [crypto/vig128](crypto/vig128)
 * [forensics/cloudfs](forensics/cloudfs)
 * [forensics/portal2](forensics/portal2)
@@ -53,5 +51,4 @@
 * [pwnable/giggles](pwnable/giggles)
 * [pwnable/gitschat](pwnable/gitschat)
 * [reverse/huffy](reverse/huffy)
-* [trivia/biggest](trivia/biggest)
 * [wev/aart](web/aart)
