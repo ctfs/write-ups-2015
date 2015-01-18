@@ -7,7 +7,6 @@
 * [crypto/knockers](crypto/knockers)
 * [crypto/mtgo](crypto/mtgo)
 * [crypto/vig128](crypto/vig128)
-* [forensics/cloudfs](forensics/cloudfs)
 * [forensics/portal2](forensics/portal2)
 * [forensics/rubicon](forensics/rubicon)
 * [forensics/the\_alpha\_molecule](forensics/the_alpha_molecule)
@@ -27,6 +26,7 @@
 
 ## Repo: Completed write-ups
 
+* [forensics/cloudfs](forensics/cloudfs)
 * [crypto/nikoli](crypto/nikoli)
 * [trivia/biggest](trivia/biggest)
 
@@ -35,7 +35,6 @@
 * [crypto/knockers](crypto/knockers)
 * [crypto/mtgo](crypto/mtgo)
 * [crypto/vig128](crypto/vig128)
-* [forensics/cloudfs](forensics/cloudfs)
 * [forensics/portal2](forensics/portal2)
 * [forensics/rubicon](forensics/rubicon)
 * [forensics/the\_alpha\_molecule](forensics/the_alpha_molecule)
