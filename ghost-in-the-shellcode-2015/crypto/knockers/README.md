@@ -67,9 +67,8 @@ def generate_token(h, k, *pl):
 
 The token consists of a [MAC](http://en.wikipedia.org/wiki/Message_authentication_code) and then some other data. Since [SHA-512](http://en.wikipedia.org/wiki/SHA-2) is 512 bits we know the token provided to us is really:
 
-MAC: 6e248dc3dec420c42f48f720475f9cb70f2485d8214715c66106050fd1a7b687326b2c82114419474042bb5df1602d578c059ba5dac260f644b8584dd5a0a38b
-
-data: 0050
+* MAC: 6e248dc3dec420c42f48f720475f9cb70f2485d8214715c66106050fd1a7b687326b2c82114419474042bb5df1602d578c059ba5dac260f644b8584dd5a0a38b
+* data: 0050
 
 Continuing on:
 
@@ -102,9 +101,9 @@ def parse_and_verify(h, k, m):
 
 So we need a token that is ```SHA-512(<secret><port_list>)<port_list>``` and the port list needs to contain 7175.  There isn't a way for us to leak the secret so we cannot generate a MAC for a different list of ports.
 
-SHA-512 (and several other popular hash functions) are all based on a [Merkle–Damgård construction](http://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction). Basically, messages are padded to the size of blocks and and the hash function has an intial state. A new internal state for the hash function is generated from the current state and a message block. The new state and the next message block are fed to the function again until all message blocks are processed. Once all of the message blocks are processed the state is output as the digest. This leads to a [length extension attack](http://en.wikipedia.org/wiki/Length_extension_attack) as given the internal state of a hash we can compute the digest of messages that consist of the original message (plus padding) and any additonal blocks of our choosing.
+SHA-512 (and several other popular hash functions) are all based on a [Merkle–Damgård construction](http://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction). Messages are padded to the size of blocks and the hash function has an intial state. A new internal state for the hash function is generated from the current state and a message block. The new state and the next message block are fed to the function again until all message blocks are processed. Once all of the message blocks are processed the state is output as the digest. This leads to a [length extension attack](http://en.wikipedia.org/wiki/Length_extension_attack), given the internal state of a hash we can compute the digest of messages that consist of the original message (plus padding) and any additonal blocks of our choosing.
 
-Since we know that ```SHA-512(<secret><[80,]>)``` is really ```SHA-512(<secret><[80,]>||<padding>)``` and the state after computing it we can compute ```SHA-512(<secret><[80,]>||<padding>||<our_block>)``` without having to know ```<secret>``` as long as we know how long ```<secret>``` is so we can generate the correct padding (or just guess the size until it works). We happen to know it is 16 bytes long though so all we need is to do a little math.
+Since we know that ```SHA-512(<secret><[80,]>)``` is really ```SHA-512(<secret><[80,]>||<padding>)``` and the state after computing it we can compute ```SHA-512(<secret><[80,]>||<padding>||<our_block>)``` without having to know ```<secret>``` provided we know how long ```<secret>``` is so we can generate the correct padding (or just guess the size until it works). We know it is 16 bytes long though so all we need is to do a little math.
 
 Thankfully, [iagox86/hash_extender](https://github.com/iagox86/hash_extender) and [bwall/HashPump](https://github.com/bwall/HashPump) (and others) already do the drudge work for you so:
 
@@ -255,7 +254,7 @@ the_snozberries_taste_like_snozberries
 
 ```
 
-I actually had a harder time getting IPv6 working than solving the challenge as I was familiar with it, remembered when Flickr and a few other services had similiar vulnerabilities and solved a [similar challenge in StripeCTF 2.0](https://github.com/stripe-ctf/stripe-ctf-2.0/tree/master/levels/7). 
+I actually had a harder time getting IPv6 working than solving the challenge as I was familiar with it, remembered when Flickr and a few other services had similiar vulnerabilities, and solved a [similar challenge in StripeCTF 2.0](https://github.com/stripe-ctf/stripe-ctf-2.0/tree/master/levels/7). 
 
 Somehow I can connect to several IPv6 destinations, but not the knocker box. After spending way longer than I should have trying to fix that I just spun up a new ec2 instance and used [Hurricane Electric's](https://tunnelbroker.net/) [tunnel broker](http://en.wikipedia.org/wiki/IPv6_transition_mechanisms#Tunnel_broker). I saw a few similar complaints on IRC so IPv6 is clearly ready for the mainstream.
 
