@@ -1,0 +1,9 @@
+[+] VIG128 - A Polyalphabetic Substition Block Cipher
+[!] Decryption Module Disabled.
+[+] Beginning Encryption with VIG128...
+[+] IV:
+[!] Invalid IV length, using System IV instead.
+[+] Key:
+[!] Key length too short, using System Key instead.
+[+] Plaintext:
+[-] ERROR: Plaintext length must be a multiple of 16 characters.
