@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://kitctf.de/writeups/gits2015/giggles/
