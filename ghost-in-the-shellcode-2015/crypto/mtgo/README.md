@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* <http://0xa.li/ghost-in-the-shellcode-2015-ctf-mtgo-writeup/>
 * <https://gist.github.com/sinfocol/87a3593f038984c9a549>

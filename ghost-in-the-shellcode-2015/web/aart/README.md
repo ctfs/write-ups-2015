@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
+* <http://misterch0c.ghost.io/gits-aart/>
 * <http://pastebin.com/nXszqW0M>
