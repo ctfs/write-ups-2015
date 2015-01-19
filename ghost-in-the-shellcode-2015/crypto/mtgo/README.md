@@ -16,3 +16,4 @@
 
 * <http://0xa.li/ghost-in-the-shellcode-2015-ctf-mtgo-writeup/>
 * <https://gist.github.com/sinfocol/87a3593f038984c9a549>
+* [French](https://t0x0sh.org/ghosts-in-the-shellcodes-2015-mtgo-crypto-200.html)
