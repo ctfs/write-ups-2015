@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+http://lockboxx.blogspot.com/2015/01/ghost-in-shellcode-2015-ctf-writeup-pwn.html
 
 ## Other write-ups and resources
 
