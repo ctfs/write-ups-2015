@@ -30,7 +30,7 @@
 * [pwnable/giggles](pwnable/giggles)
 * [pwnable/gitschat](pwnable/gitschat)
 * [reverse/huffy](reverse/huffy)
-* [wev/aart](web/aart)
+* [web/aart](web/aart)
 
 ## Links: Missing write-ups
 
