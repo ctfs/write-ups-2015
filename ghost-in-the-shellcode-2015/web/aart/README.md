@@ -13,5 +13,6 @@
 
 ## Other write-ups and resources
 
+* <http://kitctf.de/writeups/gits2015/aart/>
 * <http://misterch0c.ghost.io/gits-aart/>
 * <http://pastebin.com/nXszqW0M>
