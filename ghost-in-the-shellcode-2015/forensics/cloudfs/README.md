@@ -88,4 +88,4 @@ I'm sure there was an easier way to do this with automation but this seemed to w
 
 ## Other write-ups and resources
 
-http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html
+* <http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html>
