@@ -43,4 +43,3 @@
 * [pwn\_adventure/overachiever](pwn\_adventure/overachiever)
 * [pwn\_adventure/pirates\_treasure](pwn\_adventure/pirates_treasure)
 * [pwn\_adventure/unbearable\_revenge](pwn\_adventure/unbearable_revenge)
-* [pwn\_adventure/until\_the\_cows\_come\_home](pwn\_adventure/until_the_cows_come_home)

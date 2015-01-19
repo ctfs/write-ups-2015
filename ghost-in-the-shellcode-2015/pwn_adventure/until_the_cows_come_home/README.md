@@ -8,8 +8,8 @@
 
 ## Write-up
 
-http://lockboxx.blogspot.com/2015/01/ghost-in-shellcode-2015-ctf-writeup-pwn.html
+(TODO)
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lockboxx.blogspot.com/2015/01/ghost-in-shellcode-2015-ctf-writeup-pwn.html>
