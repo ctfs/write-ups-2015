@@ -22,4 +22,4 @@ The python scrpit using the sage libraries is [here](sage_decrypt.py).
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>

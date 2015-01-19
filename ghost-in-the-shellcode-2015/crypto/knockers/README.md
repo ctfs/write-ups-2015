@@ -260,4 +260,4 @@ Somehow I can connect to several IPv6 destinations, but not the knocker box. Aft
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
