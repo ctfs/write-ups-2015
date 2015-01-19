@@ -20,7 +20,7 @@ Use scapy to extract all icmp packets:
 
 ```python
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -\*- coding: utf-8 -\*-
 from scapy.all import *
 
 r = rdpcap("cloudfs.pcap")
@@ -91,3 +91,5 @@ I'm sure there was an easier way to do this with automation but this seemed to w
 * <http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html>
 * <http://0xa.li/ghost-in-the-shellcode-2015-ctf-cloudfs-writeup/>
 * <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
+* <http://0x1337seichi.wordpress.com/2015/01/18/ghost-in-the-shellcode-2015-cloudfs-writeup/>
+* <http://labs.jumpsec.com/2015/01/19/ghost-shellcode-2015-ctf-write-cloudfs-challenge/>
