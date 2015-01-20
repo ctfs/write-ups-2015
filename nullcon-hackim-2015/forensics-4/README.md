@@ -34,3 +34,4 @@ The flag is `flag{2146951168}`.
 
 * <https://zairon.wordpress.com/2015/01/19/nullcon-hackim-2015-forensics-500-writeup/>
 * <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/>
+* [Portuguese](https://ctf-br.org/wiki/nullcon-hackim/nullcon-hackim-2015/f500-question-4/)

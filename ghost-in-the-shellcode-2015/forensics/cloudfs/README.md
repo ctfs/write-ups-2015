@@ -93,3 +93,4 @@ I'm sure there was an easier way to do this with automation but this seemed to w
 * <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
 * <http://0x1337seichi.wordpress.com/2015/01/18/ghost-in-the-shellcode-2015-cloudfs-writeup/>
 * <http://labs.jumpsec.com/2015/01/19/ghost-shellcode-2015-ctf-write-cloudfs-challenge/>
+* <https://ctf-team.vulnhub.com/ghost-in-the-shellcode-2015-cloudfs/>

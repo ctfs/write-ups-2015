@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Spanish](https://blog.ka0labs.net/post/20/)
