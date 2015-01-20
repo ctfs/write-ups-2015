@@ -20,7 +20,7 @@ These rules exist to keep the repo maintainable and complete. Please consider fo
 
 1. Update the root `big-ctf/README.md` file, when adding a writeup to `big-ctf/task/`. We have three different sections:
 	* `Completed write-ups` - Tasks, for which there is at least one local repo writeup (see the `Write-up` section of each task)
-	* `External write-ups only` - Tasks, for which there is at least one external writeups (see the `Other write-ups and resources` section of each task, but no local writeup
+	* `External write-ups only` - Tasks, for which there is at least one external writeup (see the `Other write-ups and resources` section of each task, but no local writeup
 	* `Missing write-ups` - Tasks, for which there are no writeups available (yet).
 
 
