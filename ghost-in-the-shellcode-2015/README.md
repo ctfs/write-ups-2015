@@ -4,27 +4,18 @@
 * [Scoreboard](https://gist.github.com/suspendrs/2c07fbf8e82ebcfe0e8f)
 * [Tasks ordered by solves](https://gist.github.com/suspendrs/2c7272c941799e06ed12)
 
-## Repo: Completed write-ups
+## Completed write-ups
 
 * [crypto/knockers](crypto/knockers)
 * [crypto/nikoli](crypto/nikoli)
 * [forensics/cloudfs](forensics/cloudfs)
 * [trivia/biggest](trivia/biggest)
 
-## Repo: Incomplete write-ups
+## External write-ups only
 
 * [crypto/mtgo](crypto/mtgo)
-* [crypto/vig128](crypto/vig128)
-* [forensics/portal2](forensics/portal2)
-* [forensics/rubicon](forensics/rubicon)
 * [forensics/the\_alpha\_molecule](forensics/the_alpha_molecule)
 * [programming/edgy](programming/edgy)
-* [pwn\_adventure/blockys\_revenge](pwn\_adventure/blockys_revenge)
-* [pwn\_adventure/egg\_hunter](pwn\_adventure/egg_hunter)
-* [pwn\_adventure/fire\_and\_ice](pwn\_adventure/fire_and_ice)
-* [pwn\_adventure/overachiever](pwn\_adventure/overachiever)
-* [pwn\_adventure/pirates\_treasure](pwn\_adventure/pirates_treasure)
-* [pwn\_adventure/unbearable\_revenge](pwn\_adventure/unbearable_revenge)
 * [pwn\_adventure/until\_the\_cows\_come\_home](pwn\_adventure/until_the_cows_come_home)
 * [pwnable/boxxy](pwnable/boxxy)
 * [pwnable/giggles](pwnable/giggles)
@@ -32,7 +23,7 @@
 * [reverse/huffy](reverse/huffy)
 * [web/aart](web/aart)
 
-## Links: Missing write-ups
+## Missing write-ups
 
 * [crypto/vig128](crypto/vig128)
 * [forensics/portal2](forensics/portal2)
