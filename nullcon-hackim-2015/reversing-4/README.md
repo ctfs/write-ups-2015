@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/>

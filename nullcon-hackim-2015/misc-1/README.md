@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/hackim-2015-misc-100/>
+* <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/#result_box>
