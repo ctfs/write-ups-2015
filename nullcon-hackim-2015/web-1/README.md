@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/hackim-2015-web-100/>
+* [Spanish](https://blog.ka0labs.net/post/20/)
