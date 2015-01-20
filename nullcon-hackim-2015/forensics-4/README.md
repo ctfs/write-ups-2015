@@ -32,4 +32,5 @@ The flag is `flag{2146951168}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://zairon.wordpress.com/2015/01/19/nullcon-hackim-2015-forensics-500-writeup/>
+* <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/>

@@ -135,5 +135,6 @@ The flag shows up after we solved ~40 captchas in 120 seconds.
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/hackim-2015-web-500/>
+* <https://github.com/S42X/CTF/blob/master/HACKIM/captcha.md>
 * <https://gist.github.com/pich4ya/4cbfb645b29d75a81d3f>
 * <http://pastebin.com/juq973EU>
