@@ -5,12 +5,14 @@
 
 ## Completed write-ups
 
-* none yet
+* [YNOS](ynos)
 
-## Incomplete write-ups
+## External write-ups only
 
-* [APRS/331](aprs-331)
 * [Baby Haskell](baby-haskell)
 * [Elysium ropchain](elysium-ropchain)
+
+## Missing write-ups
+
+* [APRS/331](aprs-331)
 * [Interview](interview)
-* [YNOS](ynos)
