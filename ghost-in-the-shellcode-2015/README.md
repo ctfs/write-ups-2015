@@ -9,6 +9,7 @@
 * [crypto/knockers](crypto/knockers)
 * [crypto/nikoli](crypto/nikoli)
 * [forensics/cloudfs](forensics/cloudfs)
+* [forensics/rubicon](forensics/rubicon)
 * [trivia/biggest](trivia/biggest)
 
 ## External write-ups only
@@ -27,7 +28,6 @@
 
 * [crypto/vig128](crypto/vig128)
 * [forensics/portal2](forensics/portal2)
-* [forensics/rubicon](forensics/rubicon)
 * [pwn\_adventure/blockys\_revenge](pwn\_adventure/blockys_revenge)
 * [pwn\_adventure/egg\_hunter](pwn\_adventure/egg_hunter)
 * [pwn\_adventure/fire\_and\_ice](pwn\_adventure/fire_and_ice)
