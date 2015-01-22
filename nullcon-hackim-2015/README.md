@@ -5,13 +5,13 @@
 
 ## Completed write-ups
 
+* [crypto-1](crypto-1)
 * [forensics-4](forensics-4)
 * [programming-2](programming-2)
 * [web-5](web-5)
 
 ## External write-ups only
 
-* [crypto-1](crypto-1)
 * [exploit-1](exploit-1)
 * [exploit-2](exploit-2)
 * [exploit-3](exploit-3)
