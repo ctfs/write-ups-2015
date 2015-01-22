@@ -4,7 +4,7 @@
 
 import numpy as np
 global debug
-debug=1
+debug=0
 
 def modMatInv(A,p):       # Finds the inverse of matrix A mod p
 	n=len(A)
