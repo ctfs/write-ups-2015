@@ -20,6 +20,8 @@ Solving the Hill cipher with an online [service](https://cloud.sagemath.com/) re
 
 The python script using the sage libraries is [here](sage_decrypt.py).
 
+I also wrote the encryption/decryption algorithmn in python [here](hilly.py).
+
 ## Other write-ups and resources
 
 * <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
