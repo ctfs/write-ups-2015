@@ -43,4 +43,4 @@ Removing all dashes (`-`) and we get the flag: `flag{S0.3asy.chall}`
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0xa.li/th3jackers-2015-ctf-crypto100-writeup/>

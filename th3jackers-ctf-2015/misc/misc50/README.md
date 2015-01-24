@@ -30,4 +30,4 @@ This results in the correct flag: `flag{upload+download+right+here+left4dead}`
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0xa.li/th3jackers-2015-ctf-misc50-writeup/>

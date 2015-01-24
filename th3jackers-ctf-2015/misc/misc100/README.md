@@ -24,4 +24,4 @@ thisizjus7ali77lej0k3;)flag{g1v3-m3-th4-flag}
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0xa.li/th3jackers-2015-ctf-misc100-writeup/>
