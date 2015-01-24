@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://kbhat95.github.io/2015/01/24/wctf-writeup/](http://kbhat95.github.io/2015/01/24/wctf-writeup/)
