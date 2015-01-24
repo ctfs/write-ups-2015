@@ -13,6 +13,8 @@
 
 The flag was `flag{john frink}`.
 
+![](frink.png)
+
 ## Other write-ups and resources
 
 * none yet
