@@ -1,0 +1,34 @@
+<?php
+
+if(isset($_GET["passphase"]))
+	{
+		
+
+		$passp=$_GET["passphase"];
+		$pass="XXXXXXXXXXXX";
+
+
+		if(strlen($pass)!=strlen($passp))
+			{
+				echo "nop";
+				exit(1);
+			}
+
+
+		for($i;$i<strlen($passp);$i++)
+			{
+				if($pass[$i]!=$passp[$i])
+					{
+						echo "incorrect";
+						exit(1);
+					}
+			}
+
+
+		echo nextstep();
+
+
+	}
+
+
+?>
