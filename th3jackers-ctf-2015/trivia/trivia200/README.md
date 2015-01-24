@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+The flag was `flag{john frink}`.
 
 ## Other write-ups and resources
 
