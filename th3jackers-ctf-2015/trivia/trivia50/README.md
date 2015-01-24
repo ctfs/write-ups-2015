@@ -9,7 +9,7 @@
 
 ## Write-up
 
-(TODO)
+The flag was `flag{the password of omar}`.
 
 ## Other write-ups and resources
 
