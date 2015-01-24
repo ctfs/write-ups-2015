@@ -1,7 +1,7 @@
 # Th3Jackers CTF 2015 write-ups
 
 * <https://ctf.th3jackers.com>
-* [Scoreboard](159.8.48.196:1337/scoreboard)
+* [Unofficial Scoreboard](http://pastebin.com/g8UbRFvL)
 
 ## Completed write-ups
 
