@@ -15,13 +15,13 @@
 ## External write-ups only
 
 * [crypto/cry200](crypto/cry200)
+* [crypto/cry300](crypto/cry300)
+* [reverse/rev100](reverse/rev100)
 * [stegano/steg100](stegano/steg100)
 
 ## Missing write-ups
 
-* [crypto/cry300](crypto/cry300)
 * [forensics/for200](forensics/for200)
-* [reverse/rev100](reverse/rev100)
 * [reverse/rev200](reverse/rev200)
 * [reverse/rev300](reverse/rev300)
 * [stegano/steg200](stegano/steg200)
