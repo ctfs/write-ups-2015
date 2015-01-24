@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0xa.li/th3jackers-2015-ctf-crypto200-writeup/>
