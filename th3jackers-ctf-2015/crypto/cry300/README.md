@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://maltekraus.de/blog/ctf/english/2015/01/24/th3jackers.html>
