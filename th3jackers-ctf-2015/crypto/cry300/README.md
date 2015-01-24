@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.randomguys.fr/th3jackers2015-crypto300.html
