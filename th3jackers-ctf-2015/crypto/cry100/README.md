@@ -29,7 +29,7 @@ $ ./crypto a
 Crypted text: 1b
 ```
 
-Because this mtches one of our encode character sequences, we will run the binary with every lower/uppercase character as well as number and special character we can think of:
+Because this matches one of our encode character sequences, we will run the binary with every lower/uppercase character as well as number and special character we can think of:
 
 ```
 for i in {{A..z},{0..9},.}; do echo -n "[$i]: "; ./crypto $i; done
