@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://maltekraus.de/blog/ctf/english/2015/01/24/th3jackers.html>
+* <http://blog.randomguys.fr/th3jackers2015-crypto300.html>
