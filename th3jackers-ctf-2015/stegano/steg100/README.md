@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * [http://kbhat95.github.io/2015/01/24/wctf-writeup/](http://kbhat95.github.io/2015/01/24/wctf-writeup/)
+* <https://ctf-team.vulnhub.com/the3jackers-2015-steg100/>
