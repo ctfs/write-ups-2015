@@ -25,3 +25,4 @@ The task here is to find the "general reign of order in nature" or rather guess,
 * <https://ctf-team.vulnhub.com/hackim-2015-crypto-100/>
 * <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/#crayon-54bed0c4c778b288261421>
 * [Spanish](https://blog.ka0labs.net/post/20/)
+* [Portuguese](https://ctf-br.org/wiki/nullcon-hackim/nullcon-hackim-2015/c100-question-1/)

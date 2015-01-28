@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Portuguese](https://ctf-br.org/wiki/nullcon-hackim/nullcon-hackim-2015/m200-question-2/)

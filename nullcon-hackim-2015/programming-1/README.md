@@ -21,3 +21,4 @@
 
 * <https://ctf-team.vulnhub.com/hackim-2015-programming-100/>
 * <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/#more-122>
+* [Portuguese](https://ctf-br.org/wiki/nullcon-hackim/nullcon-hackim-2015/p100-question-1/)

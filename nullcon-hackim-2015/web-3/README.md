@@ -17,3 +17,4 @@
 
 * <https://ctf-team.vulnhub.com/hackim-2015-web-300/>
 * [Spanish](https://blog.ka0labs.net/post/20/)
+* [Portuguese](https://ctf-br.org/wiki/nullcon-hackim/nullcon-hackim-2015/w300-question-3/)
