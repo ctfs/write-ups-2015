@@ -15,4 +15,4 @@
 ## Other write-ups and resources
 
 * <https://rzhou.org/~ricky/gits2015/gitschat.py>
-* http://idabook.com/ctf/gitschat_writeup.txt
+* <http://idabook.com/ctf/gitschat_writeup.txt>
