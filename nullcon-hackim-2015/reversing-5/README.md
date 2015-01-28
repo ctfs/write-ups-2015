@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/>
+* <http://pastebin.com/qpAMCiMJ>
