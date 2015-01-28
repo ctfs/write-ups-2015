@@ -16,3 +16,4 @@
 
 * <http://pastebin.com/0SNq6yvR#>
 * <http://pastebin.com/j3vHGYA3>
+* http://idabook.com/ctf/boxxy_writeup.txt
