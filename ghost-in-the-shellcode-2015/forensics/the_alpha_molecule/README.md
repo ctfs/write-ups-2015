@@ -12,5 +12,6 @@
 
 ## Other write-ups and resources
 
+* <http://hxp.io/blog/10/Ghost%20in%20the%20Shellcode%202015:%20Forensics%20200%20%22The%20Alpha%20Molecule%22/>
 * <http://pastebin.com/ZM55bhRs>
 * [Oscilloscoping](https://www.youtube.com/watch?v=XM8kYRS-cNk)
