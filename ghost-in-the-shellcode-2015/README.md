@@ -3,6 +3,7 @@
 * <https://2015.ghostintheshellcode.com/>
 * [Scoreboard](https://gist.github.com/suspendrs/2c07fbf8e82ebcfe0e8f)
 * [Tasks ordered by solves](https://gist.github.com/suspendrs/2c7272c941799e06ed12)
+* [Hacks for PwnAdventure3](https://github.com/zku/PwnAdventure3Hacks)
 
 ## Completed write-ups
 
