@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.0xebfe.net/blog/2015/01/24/ghost-in-the-shellcode-2015-pirates-treasure-500-write-up/>
