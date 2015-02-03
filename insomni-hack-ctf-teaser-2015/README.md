@@ -11,8 +11,8 @@
 
 * [Baby Haskell](baby-haskell)
 * [Elysium ropchain](elysium-ropchain)
+* [Interview](interview)
 
 ## Missing write-ups
 
 * [APRS/331](aprs-331)
-* [Interview](interview)
