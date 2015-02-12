@@ -3,8 +3,10 @@
 **Category:** Website
 **Points:** 200
 **Author:** abdilahrf
-**Description:** Be a lucky visitor
+**Description:**
 
+> Be a lucky visitor
+>
 > Directory Listing http://ctf.web-attack.info/soalweb/Web2/
 
 ## Write-up
@@ -15,4 +17,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet

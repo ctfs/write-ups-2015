@@ -3,8 +3,10 @@
 **Category:** Website
 **Points:** 300
 **Author:** abdilahrf
-**Description:** Full Privilages
+**Description:**
 
+> Full Privilages
+>
 > Directory Listing http://ctf.web-attack.info/soalweb/Web3/
 
 ## Write-up
@@ -15,4 +17,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet
