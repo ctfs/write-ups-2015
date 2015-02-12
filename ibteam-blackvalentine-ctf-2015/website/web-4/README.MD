@@ -3,8 +3,10 @@
 **Category:** Website
 **Points:** 500
 **Author:** abdilahrf
-**Description:** find the baby
+**Description:**
 
+> find the baby
+>
 > Directory Listing http://ctf.web-attack.info/soalweb/Web3/
 
 ## Write-up
@@ -15,4 +17,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet
