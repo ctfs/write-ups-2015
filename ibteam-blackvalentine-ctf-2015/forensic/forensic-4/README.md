@@ -5,7 +5,7 @@
 **Author:** mirfansulaiman
 **Description:**
 
-> basisSixtyFour , Password: *7sdj@L[a/xc<Xms02-z=203dl;
+> basisSixtyFour , Password: `*7sdj@L[a/xc<Xms02-z=203dl;`
 >
 > http://ctf.web-attack.info/misssion/9
 

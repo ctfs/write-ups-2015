@@ -5,7 +5,7 @@
 **Author:** mirfansulaiman
 **Description:**
 
-> Clue: Wota , Password: Nz3#s)2=1@./AS|\sas;192Sljd!*&^
+> Clue: Wota , Password: `Nz3#s)2=1@./AS|\sas;192Sljd!*&^`
 >
 > http://ctf.web-attack.info/misssion/7
 
