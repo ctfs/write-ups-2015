@@ -87,4 +87,4 @@ Our flag should be `H31S3NB3RG 4ND P1NKM4N`.
 
 ## Other write-ups and resources
 
-* [Origin of cipher](http://crypto-tasks.livejournal.com/)
+* [Origin of cipher](http://crypto-tasks.livejournal.com/28226.html)
