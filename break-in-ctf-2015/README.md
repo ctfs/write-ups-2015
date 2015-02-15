@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [strangeimage](forensic/strangeimage)
 
 ## Missing write-ups
 
@@ -22,6 +22,5 @@
 * [numbero](crypto/numbero)
 * [regcomp](reverse/regcomp)
 * [serial\_killer](forensic/serial_killer)
-* [strangeimage](forensic/strangeimage)
 * [substitution](crypto/substitution)
 * [valentines\_day](forensic/valentines_day)

@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0x1337seichi.wordpress.com/2015/02/15/break-in-2015-ctf-strangeimage-writeup-forensic-200/>
