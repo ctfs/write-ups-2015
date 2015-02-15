@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [substitution](crypto/substitution)
 
 ## External write-ups only
 
@@ -22,5 +22,4 @@
 * [numbero](crypto/numbero)
 * [regcomp](reverse/regcomp)
 * [serial\_killer](forensic/serial_killer)
-* [substitution](crypto/substitution)
 * [valentines\_day](forensic/valentines_day)
