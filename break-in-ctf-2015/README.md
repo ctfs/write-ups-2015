@@ -1,7 +1,7 @@
 # BreakIn CTF 2015 write-ups
 
 * <http://felicity.iiit.ac.in/contest/break_in/>
-* [Unofficial Scoreboard](http://felicity.iiit.ac.in/contest/break_in/scoreboard)
+* [Scoreboard](http://felicity.iiit.ac.in/contest/break_in/scoreboard)
 
 ## Completed write-ups
 
