@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Origin of cipher](http://crypto-tasks.livejournal.com/)
