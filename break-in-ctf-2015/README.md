@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [heisenberg](misc/heisenberg)
 * [substitution](crypto/substitution)
 
 ## External write-ups only
@@ -16,7 +17,6 @@
 * [breakingame](reverse/breakingame)
 * [breakit](reverse/breakit)
 * [cheaters](forensic/cheaters)
-* [heisenberg](misc/heisenberg)
 * [investigator](forensic/investigator)
 * [jaggipalace](reverse/jaggipalace)
 * [numbero](crypto/numbero)
