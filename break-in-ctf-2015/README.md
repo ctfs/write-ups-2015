@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* [strangeimage](forensic/strangeimage)
+* [strangeimage](forensic/strangelmage)
 
 ## Missing write-ups
 
