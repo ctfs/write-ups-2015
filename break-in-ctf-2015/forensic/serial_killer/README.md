@@ -20,6 +20,8 @@
 
 (TODO)
 
+Flag is `flag{05:02:2015,15.368603,73.835396}`.
+
 ## Other write-ups and resources
 
 * none yet
