@@ -12,6 +12,8 @@
 
 (TODO)
 
+Flag is `CLASSICALCRYPTORULEZMODERNCRYPTO`.
+
 ## Other write-ups and resources
 
 * none yet
