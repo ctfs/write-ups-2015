@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [heisenberg](misc/heisenberg)
+* [serial\_killer](forensic/serial_killer)
 * [substitution](crypto/substitution)
 
 ## External write-ups only
@@ -21,5 +22,4 @@
 * [jaggipalace](reverse/jaggipalace)
 * [numbero](crypto/numbero)
 * [regcomp](reverse/regcomp)
-* [serial\_killer](forensic/serial_killer)
 * [valentines\_day](forensic/valentines_day)
