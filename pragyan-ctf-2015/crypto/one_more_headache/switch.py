@@ -1,7 +1,4 @@
-encrypt='dhkuagsn'
-trans = 'prgyanbcdefhijklmnoqstuvwxz'
-
-res=''
-for i, c in enumerate(encrypt):
-	res += trans[i]
-print res
+import string
+cip = 'dhkuagsn'
+trans = string.maketrans("prgyanbcdefhijklmoqstuvwxz", "abcdefghijklmnopqrstuvwxyz")
+print cip.translate(trans)
