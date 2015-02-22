@@ -11,6 +11,7 @@
 * [Fast and Furious](android/fast_and_furious)
 * [Find the flag](web/find_the_flag)
 * [Hackerz](android/hackerz)
+* [Haunted 1's](crypto/haunted_1s)
 
 ## External write-ups only
 
@@ -22,7 +23,6 @@
 * [Access Code](forensics/access_code)
 * [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Emma Watson](stegano/emma_watson)
-* [Haunted 1's](crypto/haunted_1s)
 * [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
