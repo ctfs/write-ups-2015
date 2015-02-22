@@ -19,6 +19,7 @@
 * [Practice Flag](misc/practice_flag)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
 * [Roman](crypto/roman)
+* [Rubies on rails](crypto/rubies_on_rails)
 * [Something is different](stegano/something_is_different)
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
@@ -31,5 +32,4 @@
 ## Missing write-ups
 
 * [Access Code](forensics/access_code)
-* [Rubies on rails](crypto/rubies_on_rails)
 * [Weak RSA](crypto/weak_rsa)
