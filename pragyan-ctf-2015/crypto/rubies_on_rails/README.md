@@ -30,7 +30,7 @@ The title of this challenge, `Rubies on Rails`, hints that the railfence cipher 
 
 The flag is `rubiesaretoosweet`.
 
-Thanks to the Hexpresso CTF team!
+Thanks to the [Hexpresso CTF team](https://hexpresso.wordpress.com/)!
 
 ## Other write-ups and resources
 
