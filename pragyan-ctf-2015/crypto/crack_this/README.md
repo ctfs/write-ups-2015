@@ -11,7 +11,14 @@
 
 ## Write-up
 
-(TODO)
+The ciphertext `qsbfvdmdpjtmamrY` is encrypted with the Playfair cipher.
+
+We can use an online tool to decrypt the ciphertext:
+
+![](playfair.png)
+![](cleartext.png)
+
+The flag is `pragyanctfrocksX`.
 
 ## Other write-ups and resources
 
