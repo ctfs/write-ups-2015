@@ -8,6 +8,7 @@
 
 * [Crack this](crypto/crack_this)
 * [Don't stop](stegano/dont_stop)
+* [Fast and Furious](android/fast_and_furious)
 
 ## External write-ups only
 
@@ -19,7 +20,6 @@
 * [Access Code](forensics/access_code)
 * [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Emma Watson](stegano/emma_watson)
-* [Fast and Furious](android/fast_and_furious)
 * [Find the flag](web/find_the_flag)
 * [Hackerz](android/hackerz)
 * [Haunted 1's](crypto/haunted_1s)
