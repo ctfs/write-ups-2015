@@ -21,7 +21,7 @@ ctf/gumby.css:.icon-flag.icon-left a:before, .icon-flag.icon-right a:after, i.ic
 
 We see a SHA1 hash sum, `904d553eae0a2a5b82d82fd4f0c7ae6f5fe955f5`, which is also the flag.
 
-NOTE: `904d553eae0a2a5b82d82fd4f0c7ae6f5fe955f5` is the hashsum of `39giraffes`.
+NOTE: `904d553eae0a2a5b82d82fd4f0c7ae6f5fe955f5` is the hashsum of `39giraffes`. [Source](http://www.hashkiller.co.uk/sha1-decrypter.aspx).
 
 ## Other write-ups and resources
 
