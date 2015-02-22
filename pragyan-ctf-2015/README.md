@@ -16,6 +16,7 @@
 * [Haunted 1's](crypto/haunted_1s)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
 * [Roman](crypto/roman)
+* [Something is different](stegano/something_is_different)
 * [What you see is what you get.](stegano/what_you_see_is_what_you_get)
 
 ## External write-ups only
@@ -29,7 +30,6 @@
 * [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
 * [Rubies on rails](crypto/rubies_on_rails)
-* [Something is different](stegano/something_is_different)
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
-* [Weak RSA](crypto/weak_rsa)
+ [Weak RSA](crypto/weak_rsa)
