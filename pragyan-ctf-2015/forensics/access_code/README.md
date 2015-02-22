@@ -6,6 +6,7 @@
 **Description:**
 
 > Find the access code
+>
 > [painter.pdf](painter.pdf)
 
 ## Write-up
