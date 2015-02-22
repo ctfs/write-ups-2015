@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Crack this](crypto/crack_this)
 * [Don't stop](stegano/dont_stop)
 * [Fast and Furious](android/fast_and_furious)
@@ -22,7 +23,6 @@
 
 * [255,255,255 is the best color](misc/255_255_255_is_the_best_color)
 * [Access Code](forensics/access_code)
-* [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Emma Watson](stegano/emma_watson)
 * [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
