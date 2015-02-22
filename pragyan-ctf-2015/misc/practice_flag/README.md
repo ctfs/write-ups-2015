@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `capture the flag`.
 
 ## Other write-ups and resources
 
