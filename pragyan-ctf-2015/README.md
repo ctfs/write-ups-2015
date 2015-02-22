@@ -14,6 +14,7 @@
 * [Hackerz](android/hackerz)
 * [Haunted 1's](crypto/haunted_1s)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
+* [Roman](crypto/roman)
 
 ## External write-ups only
 
@@ -26,7 +27,6 @@
 * [Emma Watson](stegano/emma_watson)
 * [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
-* [Roman](crypto/roman)
 * [Rubies on rails](crypto/rubies_on_rails)
 * [Something is different](stegano/something_is_different)
 * [The impossible](crypto/the_impossible)
