@@ -26,7 +26,7 @@ Archive:  misc.zip
 We bruteforce the passphrase using a big list of passwords, e.g. [rockyou.txt](http://downloads.skullsecurity.org/passwords/rockyou.txt.bz2), and `fcrackzip`:
 
 ```bash
-$ fcrackzip -u -D -p "./rockyou.txt" "$1"
+$ fcrackzip -u -D -p "./rockyou.txt" misc.zip
 
 
 PASSWORD FOUND!!!!: pw == jumanji
