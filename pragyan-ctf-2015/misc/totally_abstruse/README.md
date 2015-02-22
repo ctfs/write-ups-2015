@@ -20,7 +20,7 @@ Hello, World!
 
 The flag is `Hello, World!`.
 
-Thanks to Notfound of the Hexpresso Team for the solution!
+Thanks to Notfound of the [Hexpresso Team](https://hexpresso.wordpress.com/) for the solution!
 
 ## Other write-ups and resources
 
