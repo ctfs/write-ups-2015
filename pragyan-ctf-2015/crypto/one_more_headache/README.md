@@ -11,7 +11,12 @@
 
 ## Write-up
 
-(TODO)
+We substitute the given ciphertext letters with the "new" alphabet `prgyanbcdefhijklmnoqstuvwxz`. Proof of concept is `switch.py`:
+
+```bash
+$ python switch.py
+prgyanbc
+```
 
 ## Other write-ups and resources
 
