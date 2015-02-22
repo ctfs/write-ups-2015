@@ -6,6 +6,7 @@
 **Description:**
 
 > Find and submit the {flag}
+>
 > [stego_50.jpg](stego_50.jpg)
 
 ## Write-up
