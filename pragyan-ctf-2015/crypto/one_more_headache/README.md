@@ -15,8 +15,10 @@ We substitute the given ciphertext letters with the "new" alphabet `prgyanbcdefh
 
 ```bash
 $ python switch.py
-prgyanbc
+ilovectf
 ```
+
+The flag is `ilovectf`.
 
 ## Other write-ups and resources
 
