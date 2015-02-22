@@ -17,10 +17,10 @@ $ cat clue.py
 
 i = 1
 while (i>0):
-        print i
-		        i = i + 1
+	print i
+	i = i + 1
 
-				# i feel so sad for you if you couldn't find the clue :-(
+# i feel so sad for you if you couldn't find the clue :-(
 $ cat encrypt
 sfblvmlhyhpgrudnntagfxstbgxyk
 ```
