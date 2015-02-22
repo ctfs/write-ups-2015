@@ -11,7 +11,16 @@
 
 ## Write-up
 
-(TODO)
+The picture is a Piet program. We can execute it using [npiet](http://www.bertnase.de/npiet/):
+
+```bash
+$ npiet world.png
+Hello, World!
+```
+
+The flag is `Hello, World!`.
+
+Thanks to Notfound of the Hexpresso Team for the solution!
 
 ## Other write-ups and resources
 
