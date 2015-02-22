@@ -15,6 +15,7 @@
 * [Haunted 1's](crypto/haunted_1s)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
 * [Roman](crypto/roman)
+* [What you see is what you get.](stegano/what_you_see_is_what_you_get)
 
 ## External write-ups only
 
@@ -32,4 +33,3 @@
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
 * [Weak RSA](crypto/weak_rsa)
-* [What you see is what you get.](stegano/what_you_see_is_what_you_get)
