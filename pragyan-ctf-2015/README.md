@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [255,255,255 is the best color](misc/255_255_255_is_the_best_color)
 * [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Crack this](crypto/crack_this)
 * [Don't stop](stegano/dont_stop)
@@ -25,11 +26,10 @@
 
 ## Missing write-ups
 
-* [255,255,255 is the best color](misc/255_255_255_is_the_best_color)
 * [Access Code](forensics/access_code)
 * [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
 * [Rubies on rails](crypto/rubies_on_rails)
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
- [Weak RSA](crypto/weak_rsa)
+* [Weak RSA](crypto/weak_rsa)
