@@ -13,7 +13,7 @@
 
 The ciphertext `qsbfvdmdpjtmamrY` is encrypted with the Playfair cipher.
 
-We can use an online tool to decrypt the ciphertext:
+We can use an [online tool](http://rumkin.com/tools/cipher/playfair.php) to decrypt the ciphertext:
 
 ![](playfair.png)
 ![](cleartext.png)
