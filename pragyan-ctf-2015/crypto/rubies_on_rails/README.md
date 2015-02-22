@@ -11,7 +11,7 @@
 
 The ciphertext is encrypted using the [telephone keypad](http://en.wikipedia.org/wiki/Telephone_keypad):
 
-![](keypad.svg)
+![](keypad.png)
 
 We decrypt this using [this code](https://github.com/YASME-Tim/crypto-tools/tree/master/handycode):
 
