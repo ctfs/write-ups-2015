@@ -15,6 +15,7 @@
 * [Find the flag](web/find_the_flag)
 * [Hackerz](android/hackerz)
 * [Haunted 1's](crypto/haunted_1s)
+* [One more headache](crypto/one_more_headache)
 * [Practice Flag](misc/practice_flag)
 * [Put on your reading glasses](stegano/put_on_your_reading_glasses)
 * [Roman](crypto/roman)
@@ -28,7 +29,6 @@
 ## Missing write-ups
 
 * [Access Code](forensics/access_code)
-* [One more headache](crypto/one_more_headache)
 * [Rubies on rails](crypto/rubies_on_rails)
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
