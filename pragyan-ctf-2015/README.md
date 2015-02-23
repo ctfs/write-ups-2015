@@ -7,6 +7,7 @@
 ## Completed write-ups
 
 * [255,255,255 is the best color](misc/255_255_255_is_the_best_color)
+* [Access Code](forensics/access_code)
 * [are you a good ripper?](misc/are_you_a_good_ripper)
 * [Crack this](crypto/crack_this)
 * [Don't stop](stegano/dont_stop)
@@ -31,5 +32,4 @@
 
 ## Missing write-ups
 
-* [Access Code](forensics/access_code)
 * [Weak RSA](crypto/weak_rsa)
