@@ -15,7 +15,7 @@ Extracting the xz compressed archive using `unxz < misc-2 > here` and the result
 
 The file contains `307200` RGB values.
 
-We visualize these RGB values and guess a picture format using [](go.py):
+We visualize these RGB values and guess a picture format using [go.py](go.py):
 
 ```bash
 $ python go.py flag.txt
