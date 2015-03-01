@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>level5</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+<body>
+
+<?php
+
+require 'flag.php';
+
+if (isset ($_GET['name']) and isset ($_GET['password'])) {
+    $name = $_GET['name'];
+    $password = $_GET['password'];
+
+    if (ctype_alnum ($name) and ctype_alnum ($password)) {
+        $request = 'SELECT login FROM user where login = ' . $name . ' AND password = ' . $password . ';';
+        $db = new SQLite3 (sha1($flag).'.db', SQLITE3_OPEN_READONLY); // Ghetto anti-database-download
+        $result = $db->querySingle ($request);
+        $db->close ();
+
+        if ($result === FALSE)
+            echo '<p class="alert">"Invalid login or password</p>';
+        else
+            die('Flag: ' . $flag);
+    } else
+        echo '<p class="alert">Invalid chars detected</p>';
+}
+?>
+
+<section class="login">
+        <div class="title">
+                <a href="./index.txt">Level 5</a>
+        </div>
+
+        <form method="get">
+                <input type="text" required name="name" placeholder="Name"/><br/>
+                <input type="text" required name="password" placeholder="Password" /><br/>
+                <input type="submit"/>
+        </form>
+</section>
+</body>
+</html>
+
