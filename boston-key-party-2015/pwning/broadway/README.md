@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [H4x0rPsch0rr](http://hxp.io/blog/15/Boston%20Key%20Party%202015%20-%20pwn%20275:%20Broadway/)
