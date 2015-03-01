@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [H4x0rPsch0rr](http://hxp.io/blog/11/BkP%20CTF%202015:%20crypto500%20%22Airport%22/)
