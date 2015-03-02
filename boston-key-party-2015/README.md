@@ -1,7 +1,7 @@
 # Boston Key Party CTF 2015 write-ups
 
 * <http://bostonkey.party/>
-* [Scoreboard](http://bostonkey.party/scoreboard)
+* [Scoreboard](http://bostonkey.party/scoreboard) or [here](scoreboard.txt)
 
 ## Completed write-ups
 
