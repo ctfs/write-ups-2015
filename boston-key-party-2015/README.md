@@ -28,6 +28,7 @@
 * [Park Street](school-bus/park-street)
 * [Sullivan Square](reversing/sullivan-square)
 * [Wellington](reversing/wellington)
+* [Wonderland](crypto/wonderland)
 
 ## Missing write-ups
 
@@ -41,4 +42,4 @@
 * [Orient Heights](crypto/orient-heights)
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)
-* [Wonderland](crypto/wonderland)
+

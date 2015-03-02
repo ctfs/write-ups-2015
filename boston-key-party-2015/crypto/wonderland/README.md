@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [H4x0rPsch0rr](http://hxp.io/blog/12/BkP%20CTF%202015:%20Crypto%20600%20"Wonderland"%20writeup/)
