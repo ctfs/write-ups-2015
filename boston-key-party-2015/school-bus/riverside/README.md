@@ -144,6 +144,15 @@ the quick brown fox jumps over the lazy dog thekeyisiheardyoulikedsketchyetching
 ```
 If you aren't a fan of decyphering awk, there is an ugly python example for you to re-write.  [usb-mouse_osk_decode.py](usb-mouse_osk_decode.py)
 
+# Samurai's Analog Jujitsu Method
+Using a list of mouse movement delta information ([see our coords file](rel_coord_log)) and a slick [python script](plot_coords_py.py) using matplotlib from [@kavefish](https://github.com/kavefish) we get an animated gif of all the mouse clicks:
+
+![Mouse Click Animation](animaion.gif)
+
+And with a quick scotch tape and marker job, you can easily decode it:
+
+![Analog Jujitsu](Missy.jpg)
+
 ## Other write-ups and resources
 
 * none yet
