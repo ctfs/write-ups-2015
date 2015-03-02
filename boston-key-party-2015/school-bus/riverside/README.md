@@ -74,7 +74,16 @@ $ head mouse_data.txt
 00:03:ff:00
 00:01:00:00
 ```
-Hmm.  What does mouse data usually look like?  Here is some quick code http://johnroach.info/2011/02/16/getting-raw-data-from-a-usb-mouse-in-linux-using-python/ to run while wiggling around a mouse.  Looks like the status byte passes click info.  The next value is signed relative X movement, and the last is signed relative Y movement.  Look back at the captured data and see if it is similar.
+Hmm.  What does mouse data usually look like?  Here is some [quick usb-mouse code](http://johnroach.info/2011/02/16/getting-raw-data-from-a-usb-mouse-in-linux-using-python/) to run while wiggling around a mouse.  If I run this and move my mouse up one pixel, right, down, left then click, I get this output:
+```
+0x8 0 1
+0x8 1 0
+0x28 0 -1
+0x18 -1 0
+0x9 0 0
+0x8 0 0
+```
+Looks like the status byte passes click info.  The next value is signed relative X movement, and the last is signed relative Y movement.  Look back at the captured data and see if it is similar.
 ```
 $ sed -n 7597,7604p mouse_data.txt
 00:f4:02:00
@@ -88,24 +97,15 @@ $ sed -n 7597,7604p mouse_data.txt
 ```
 That section looks pretty good for 8-bit two's compliment X and Y values in the middle.  Do the first or last values change?
 ```
-$ awk -F: '$1!="00"{print}' mouse_data.txt | head -5
-01:00:00:00
-01:00:00:00
-01:00:00:00
-01:00:00:00
-01:00:00:00
-awk -F: '$4!="00"{print}' mouse_data.txt | head
-```
-First one does, but the last byte is just a waste of space.
-```
 $ awk -F: '{print$1}' mouse_data.txt | sort | uniq -c
    7518 00
      90 01
+$ awk -F: '{print$4}' mouse_data.txt | sort | uniq -c
+   7608 00
 ```
-The only status bit change we have is 0x01.  So maybe we have 90 clicks?  Time to start summing relative movement and printing values on click events.
+First value has two states, but the last value is always 0x00.  So maybe we have 90 clicks?  Time to start summing relative movement and printing values on click events.
 ```
-$ awk -F: 'function comp(v){if(v>127)v-=256;return v}{x+=comp(strtonum("0x"$2));y+=comp(strtonum("0x"$3))}$1=="01"{print x,y}' mouse_data.txt > click_coordinates.txt
-$ head -5 click_coordinates.txt
+$ awk -F: 'function comp(v){if(v>127)v-=256;return v}{x+=comp(strtonum("0x"$2));y+=comp(strtonum("0x"$3))}$1=="01"{print x,y}' mouse_data.txt | tee click_coordinates.txt | head -5
 460 -286
 586 -203
 289 -288
@@ -141,7 +141,7 @@ $ awk -F: 'function comp(v){if(v>127)v-=256;return v}{x+=comp(strtonum("0x"$2));
 $ awk 'BEGIN{split("          zxcvbnm  asdfghjkl qwertyuiop",key,//)}{r=int(($2-20)/-100);c=int(($1 - 117 + (r % 2 * 40)) / 85);k=r*10+c;printf "%s",key[k]}END{print""}' click_coordinates.txt 
 the quick brown fox jumps over the lazy dog thekeyisiheardyoulikedsketchyetchinglastyear
 ```
-If you aren't a fan of decyphering awk, there is some ugly python to re-write here too.  [usb-mouse_osk_decode.py]
+If you aren't a fan of decyphering awk, there is an ugly python example for you to re-write.  [usb-mouse_osk_decode.py](usb-mouse_osk_decode.py)
 
 ## Other write-ups and resources
 
