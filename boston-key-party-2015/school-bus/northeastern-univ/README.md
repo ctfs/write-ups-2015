@@ -9,8 +9,17 @@
 
 ## Write-up
 
-this one is just strcmp function fail
-http://52.10.107.64:8003/?password[]=
+If we look at the given [php file](52.10.107.64:8003/index.txt) we see that the author compares the `password` with the contents of `$flag` using `strcmp`:
+
+```php
+if (strcmp($_GET['password'], $flag) == 0)
+```
+
+However, if you compare the result of `strcmp` using `==` instead of `===`, it [might fail](https://coderwall.com/p/lflzkq/php-strcmp-could-leave-you-alone-in-deep-sh-t).
+
+So if we specify the `password` parameter as an array, e.g. `http://52.10.107.64:8003/?password[]=`, we will get the flag:
+
+> Flag: `Still_better_than_the_d0uble_equals`
 
 ## Other write-ups and resources
 
