@@ -77,4 +77,4 @@ The full signature is thus:
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://math314.hateblo.jp/entry/2015/03/02/025356)
