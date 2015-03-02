@@ -33,3 +33,4 @@ These rules exist to keep the repo maintainable and complete. Please consider fo
 	* :link: when adding a writeup link to the `Other write-ups and resources` section of a task
 	* :pill: when fixing broken links or corrupt Markup stuff
 	* :books: when updating the structure of this repo or adding a ctf skeleton structure
+	* :fire: when deleting files
