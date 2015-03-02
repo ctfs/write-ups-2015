@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Writeup by tasteless](http://tasteless.eu/2015/03/boston-key-party-2015-jfkumass/)
