@@ -7,6 +7,7 @@
 
 * [Wood Island](crypto/wood-island)
 * [Harvard Square](pwning/harvard-square)
+* [Brigham Circle](school-bus/brigham-circle)
 
 ## External write-ups only
 
@@ -19,7 +20,6 @@
 * [Alewife](pwning/alewife)
 * [Bowdoin](crypto/bowdoin)
 * [Braintree](pwning/braintree)
-* [Brigham Circle](school-bus/brigham-circle)
 * [BU Central](school-bus/bu-central)
 * [Central Square](pwning/central-square)
 * [Community College](reversing/community-college)
