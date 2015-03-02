@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: oak-grove
+# Boston Key Party CTF 2015: Oak Grove
 
-**Category:** 
-**Points:** 
+**Category:** Reversing
+**Points:** 300
 **Solves** 
 **Description:**
 

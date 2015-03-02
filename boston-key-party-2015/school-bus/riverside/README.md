@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: riverside
+# Boston Key Party CTF 2015: Riverside
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 200
 **Solves** 
 **Description:**
 

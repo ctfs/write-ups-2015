@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: wellington
+# Boston Key Party CTF 2015: Wellington
 
-**Category:** 
-**Points:** 
+**Category:** Reversing
+**Points:** 250
 **Solves** 
 **Description:**
 

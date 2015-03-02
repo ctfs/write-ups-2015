@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: mattapan
+# Boston Key Party CTF 2015: Mattapan
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 150
 **Solves** 
 **Description:**
 

@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: museum-of-fine-arts
+# Boston Key Party CTF 2015: Museum Of Fine Arts
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 25
 **Solves** 
 **Description:**
 

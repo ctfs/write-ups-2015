@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: brigham-circle
+# Boston Key Party CTF 2015: Brigham Circle
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 25
 **Solves** 
 **Description:**
 

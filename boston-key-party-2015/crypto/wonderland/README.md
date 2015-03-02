@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: wonderland
+# Boston Key Party CTF 2015: Wonderland
 
-**Category:** 
-**Points:** 
+**Category:** Cryptography
+**Points:** 600
 **Solves** 
 **Description:**
 

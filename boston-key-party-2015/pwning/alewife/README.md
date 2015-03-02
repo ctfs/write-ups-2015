@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: alewife
+# Boston Key Party CTF 2015: Alewife
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 400
 **Solves** 
 **Description:**
 

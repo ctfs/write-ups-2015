@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: northeastern-univ
+# Boston Key Party CTF 2015: Northeastern Univ
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 25
 **Solves** 
 **Description:**
 

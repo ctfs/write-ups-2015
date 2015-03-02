@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: quincy-adams
+# Boston Key Party CTF 2015: Quincy Adams
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 200
 **Solves** 
 **Description:**
 

@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: jfk-umass
+# Boston Key Party CTF 2015: JFK/Umass
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 300
 **Solves** 
 **Description:**
 

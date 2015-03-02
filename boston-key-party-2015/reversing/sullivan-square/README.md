@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: sullivan-square
+# Boston Key Party CTF 2015: Sullivan Square
 
-**Category:** 
-**Points:** 
+**Category:** Reversing
+**Points:** 350
 **Solves** 
 **Description:**
 

@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: bowdoin
+# Boston Key Party CTF 2015: Bowdoin
 
-**Category:** 
-**Points:** 
+**Category:** Cryptography
+**Points:** 350
 **Solves** 
 **Description:**
 

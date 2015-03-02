@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: orient-heights
+# Boston Key Party CTF 2015: Orient Heights
 
-**Category:** 
-**Points:** 
+**Category:** Cryptography
+**Points:** 250
 **Solves** 
 **Description:**
 

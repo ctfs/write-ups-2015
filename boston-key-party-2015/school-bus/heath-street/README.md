@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: heath-street
+# Boston Key Party CTF 2015: Heath Street
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 100
 **Solves** 
 **Description:**
 

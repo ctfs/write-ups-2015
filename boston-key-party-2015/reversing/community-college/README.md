@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: community-college
+# Boston Key Party CTF 2015: Community College
 
-**Category:** 
-**Points:** 
+**Category:** Reversing
+**Points:** 300
 **Solves** 
 **Description:**
 
