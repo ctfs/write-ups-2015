@@ -17,6 +17,7 @@
 * [Airport](crypto/airport)
 * [Andrew](pwning/andrew)
 * [Broadway](pwning/broadway)
+* [JFK/Umass](pwning/jfk-umass)
 
 ## Missing write-ups
 
@@ -27,7 +28,6 @@
 * [Community College](reversing/community-college)
 * [Haymarket](reversing/haymarket)
 * [Heath Street](school-bus/heath-street)
-* [JFK/Umass](pwning/jfk-umass)
 * [Kendall](pwning/kendall)
 * [Mattapan](pwning/mattapan)
 * [Museum Of Fine Arts](school-bus/museum-of-fine-arts)
