@@ -25,7 +25,7 @@ You could certainly decode all 31 cards manually now but that would take you a l
 Some Googling revealed a punch card decoder for another punch card challenge that was modified and calibrated to images provided. (will add url when I find it again) 
 
 
-
+```python
 from PIL import Image
 
 def decode(code):
@@ -117,10 +117,12 @@ for num in range(31):
             text += decode(code)
             code = []
     print text
+```
 
 When you run this script on the folder of images you get the following ouput. (The script doesn't properly account 
 for spaces and a couple of the special characters) You can now pull the flag out of the code without having to run the application (Thanks goodness).
 
+```
 IDENTIFICATIONDIVISION.PROGRAM-ID.LETS-MAKE-A-DEAL.AUTHORMONTEHALPARIN.
 DATADIVISION.WORKING-STORAGESECTION.01DOORCHOICES.02GOODDOOR
 PIC9.02FIRSTCHOICEPIC9.02OPENDOORPIC9.02CH
@@ -152,9 +154,9 @@ SETCHANGEDOORTOFIRSTCHOICE.IFCHANGEDOOR=GOODDOORDISPLAY'MH:CONGRA
 SETULATIONS!YOUFOUNDAKEY.'DISPLAY'MH:THEKEYIS:'DISPLAY'KEY(
 SETALEXTREBEKISASOCIALENGINEER)'ELSEDISPLAY'MONTYHALLOPENSTHEDOOR.A
 GOATJUMPSOUT.'DISPLAY'MH:THISISTHEINCORRECTDOOR.'DISPLAY'THE
+```
 
-
-FLAG: ALEXTREBEKISASOCIALENGINEER (found in second to last line of output
+FLAG: ALEXTREBEKISASOCIALENGINEER (found in second to last line of output)
 
 
 ## Other write-ups and resources
