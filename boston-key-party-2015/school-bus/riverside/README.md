@@ -113,9 +113,8 @@ $ head -5 click_coordinates.txt
 117 -291
 $ gnuplot -e "plot 'click_coordinates.txt'"
 ```
-Sure enough, that looks like a keyboard with a spacebar up at the top.  Why is the keyboard upside down, you ask?  Couldn't tell ya.
 ![Image of Gnuplot coordinate plot](coordinates_plot.png)
-Let's map those positions to keys!
+Sure enough, that looks like a keyboard with a spacebar up at the top.  Why is the keyboard upside down, you ask?  Couldn't tell ya.  Let's map those positions to keys!
 ```
 $ awk 'BEGIN{split("          zxcvbnm  asdfghjkl qwertyuiop",key,//)}{r=int(($2-20)/-100);c=int(($1 - 117 + (r % 2 * 40)) / 85);k=r*10+c;printf "%s",key[k]}END{print""}' click_coordinates.txt 
 the quick brown fox jumps ovver the lazy dog thekeyisiheardyoulikedsketchyetchingglastyear
