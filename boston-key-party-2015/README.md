@@ -9,6 +9,7 @@
 * [BU Central](school-bus/bu-central)
 * [Harvard Square](pwning/harvard-square)
 * [Longwood Medical](school-bus/longwood-medical)
+* [Riverside](school-bus/riverside)
 * [Wood Island](crypto/wood-island)
 
 ## External write-ups only
@@ -28,7 +29,6 @@
 * [Heath Street](school-bus/heath-street)
 * [JFK/Umass](pwning/jfk-umass)
 * [Kendall](pwning/kendall)
-
 * [Mattapan](pwning/mattapan)
 * [Museum Of Fine Arts](school-bus/museum-of-fine-arts)
 * [Northeastern Univ.](school-bus/northeastern-univ)
@@ -36,7 +36,6 @@
 * [Orient Heights](crypto/orient-heights)
 * [Park Street](school-bus/park-street)
 * [Prudential](school-bus/prudential)
-* [Riverside](school-bus/riverside)
 * [Sullivan Square](reversing/sullivan-square)
 * [Symphony](school-bus/symphony)
 * [Quincy Adams](pwning/quincy-adams)
