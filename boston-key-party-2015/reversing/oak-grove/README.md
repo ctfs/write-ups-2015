@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://binja.github.io/2015/03/02/bkpctf2015-oakgrove-writeup/>
