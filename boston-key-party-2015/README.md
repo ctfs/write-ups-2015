@@ -27,6 +27,7 @@
 * [Museum Of Fine Arts](school-bus/museum-of-fine-arts)
 * [Park Street](school-bus/park-street)
 * [Sullivan Square](reversing/sullivan-square)
+* [Wellington](reversing/wellington)
 
 ## Missing write-ups
 
@@ -40,5 +41,4 @@
 * [Orient Heights](crypto/orient-heights)
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)
-* [Wellington](reversing/wellington)
 * [Wonderland](crypto/wonderland)
