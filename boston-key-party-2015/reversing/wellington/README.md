@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-https://github.com/noobdoesre/write-ups/tree/master/boston-key-party-2015/wellington
+* <https://github.com/noobdoesre/write-ups/tree/master/boston-key-party-2015/wellington>
+* <http://wiremask.eu/boston-key-party-2015-wellington/>
