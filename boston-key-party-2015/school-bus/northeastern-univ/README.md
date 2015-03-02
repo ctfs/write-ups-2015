@@ -9,7 +9,8 @@
 
 ## Write-up
 
-(TODO)
+this one is just strcmp function fail
+http://52.10.107.64:8003/?password[]=
 
 ## Other write-ups and resources
 
