@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [Wood Island](crypto/wood-island)
+* [Harvard Square](pwning/harvard-square)
 
 ## External write-ups only
 
@@ -22,7 +23,6 @@
 * [BU Central](school-bus/bu-central)
 * [Central Square](pwning/central-square)
 * [Community College](reversing/community-college)
-* [Harvard Square](pwning/harvard-square)
 * [Haymarket](reversing/haymarket)
 * [Heath Street](school-bus/heath-street)
 * [JFK/Umass](pwning/jfk-umass)
