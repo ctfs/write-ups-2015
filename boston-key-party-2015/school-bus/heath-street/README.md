@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://wiremask.eu/boston-key-party-2015-heath-street/
+* <http://wiremask.eu/boston-key-party-2015-heath-street/>
