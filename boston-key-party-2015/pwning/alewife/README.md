@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/g05u/4126f452ee41d4d5328c>

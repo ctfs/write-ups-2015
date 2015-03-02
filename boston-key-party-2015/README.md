@@ -21,6 +21,7 @@
 ## External write-ups only
 
 * [Airport](crypto/airport)
+* [Alewife](pwning/alewife)
 * [Andrew](pwning/andrew)
 * [Broadway](pwning/broadway)
 * [Community College](reversing/community-college)
@@ -34,7 +35,6 @@
 
 ## Missing write-ups
 
-* [Alewife](pwning/alewife)
 * [Bowdoin](crypto/bowdoin)
 * [Braintree](pwning/braintree)
 * [Central Square](pwning/central-square)
