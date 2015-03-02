@@ -12,6 +12,7 @@
 * [Northeastern Univ.](school-bus/northeastern-univ)
 * [Prudential](school-bus/prudential)
 * [Riverside](school-bus/riverside)
+* [Symphony](school-bus/symphony)
 * [Wood Island](crypto/wood-island)
 
 ## External write-ups only
@@ -37,7 +38,6 @@
 * [Orient Heights](crypto/orient-heights)
 * [Park Street](school-bus/park-street)
 * [Sullivan Square](reversing/sullivan-square)
-* [Symphony](school-bus/symphony)
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)
 * [Wellington](reversing/wellington)
