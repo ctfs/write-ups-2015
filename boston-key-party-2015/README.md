@@ -5,9 +5,11 @@
 
 ## Completed write-ups
 
-* [Wood Island](crypto/wood-island)
-* [Harvard Square](pwning/harvard-square)
 * [Brigham Circle](school-bus/brigham-circle)
+* [BU Central](school-bus/bu-central)
+* [Harvard Square](pwning/harvard-square)
+* [Longwood Medical](school-bus/longwood-medical)
+* [Wood Island](crypto/wood-island)
 
 ## External write-ups only
 
@@ -20,14 +22,13 @@
 * [Alewife](pwning/alewife)
 * [Bowdoin](crypto/bowdoin)
 * [Braintree](pwning/braintree)
-* [BU Central](school-bus/bu-central)
 * [Central Square](pwning/central-square)
 * [Community College](reversing/community-college)
 * [Haymarket](reversing/haymarket)
 * [Heath Street](school-bus/heath-street)
 * [JFK/Umass](pwning/jfk-umass)
 * [Kendall](pwning/kendall)
-* [Longwood Medical](school-bus/longwood-medical)
+
 * [Mattapan](pwning/mattapan)
 * [Museum Of Fine Arts](school-bus/museum-of-fine-arts)
 * [Northeastern Univ.](school-bus/northeastern-univ)

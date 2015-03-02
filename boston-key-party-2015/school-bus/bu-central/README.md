@@ -9,7 +9,7 @@
 
 ## Write-up
 
-(TODO)
+Just submit `party` as a flag.
 
 ## Other write-ups and resources
 
