@@ -9,7 +9,9 @@
 
 ## Write-up
 
-(TODO)
+we need an input that is less than 3 chars and get beyond is_numeric
+we can get beyond is_numeric with hex input likt 0x1 but 0x0->0xf noone is > 999
+so the solution is with e like 5e8
 
 ## Other write-ups and resources
 
