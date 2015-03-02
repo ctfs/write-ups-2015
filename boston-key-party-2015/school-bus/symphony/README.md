@@ -9,9 +9,11 @@
 
 ## Write-up
 
-we need an input that is less than 3 chars and get beyond is_numeric
-we can get beyond is_numeric with hex input likt 0x1 but 0x0->0xf noone is > 999
-so the solution is with e like 5e8
+Given the [php source code](52.10.107.64:8002/index.txt), we see that we need an input that is less than 3 chars and get beyond `is_numeric`.
+
+The solution to this problem is using float numbers, e.g. `http://52.10.107.64:8002/?password=1e3`.
+
+The flag is `B4SE10_IS_F0R_LOSERS`.
 
 ## Other write-ups and resources
 
