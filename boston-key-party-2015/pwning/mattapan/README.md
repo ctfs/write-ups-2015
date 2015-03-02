@@ -12,14 +12,6 @@
 Mattapan Writeup
 By: Dogshep - #jmp-esp
 
-Challenge:
-(UPDATED!) We have come across an OpenFlow switch. 
-Maybe you could pwn the traffic for us? nc 54.88.69.118 8888 
-or nc mattapan.bostonkey.party 8888 : 150
-
-Type: pwning
-Points: 150
-
 Summary:
 
 This challenge required a basic use of SDN (Software Defined Networking). Basically you told the server to set up a switch and connect to your controller at a set IP address at port 3366.
@@ -36,12 +28,10 @@ Walkthrough:
 
 Setting up NOX (Openflow controller):
 
-http://archive.openflow.org/wp/deploy-labsetup/#OpenFlow_Controller_NOX_0_6
+<http://archive.openflow.org/wp/deploy-labsetup/#OpenFlow_Controller_NOX_0_6>
 1. Follow the above to set up a normal controller and get it running so you can launch it.
-2. Run ./nox_core -i ptcp:6633 switch
+2. Run `./nox_core -i ptcp:6633 switch`
    a. This will set up an openflow controller on 6633 and the switch syntax runs a basic switch module so the switch can actually send data when it connects
-   
-   
    
 If you have any questions/concerns please contact me on freenode as dogshep, or dogshep {at} gmail { dot } com.
 
