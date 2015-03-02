@@ -9,7 +9,11 @@
 
 ## Write-up
 
-(TODO)
+From the [source code](./52.10.107.64\:8004/index.txt) we can see that we need to guess a random number, this is stored in the session to be compared.
+
+The actual comparison between `$_GET['password']` and `$_SESSION['password']` takes place before the assignment of the next random number and with a `==` instead of `===`. 
+
+Therefore, by deleting the session cookie and sending the request `http://52.10.107.64:8004/?password=` we can get the flag as `$_SESSION['password']` would not contain anything.
 
 ## Other write-ups and resources
 
