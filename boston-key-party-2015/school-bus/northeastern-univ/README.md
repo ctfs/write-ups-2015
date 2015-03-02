@@ -9,7 +9,7 @@
 
 ## Write-up
 
-If we look at the given [php file](52.10.107.64:8003/index.txt) we see that the author compares the `password` with the contents of `$flag` using `strcmp`:
+If we look at the given [php file](52.10.107.64\:8003/index.txt) we see that the author compares the `password` with the contents of `$flag` using `strcmp`:
 
 ```php
 if (strcmp($_GET['password'], $flag) == 0)

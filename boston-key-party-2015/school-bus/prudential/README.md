@@ -9,7 +9,7 @@
 
 ## Write-up
 
-We are given the [php source code](52.10.107.64:8001/index.txt) and see that the author compares the sha1 hashes of the `name` and `password` query parameters:
+We are given the [php source code](52.10.107.64\:8001/index.txt) and see that the author compares the sha1 hashes of the `name` and `password` query parameters:
 
 ```php
 [...]
