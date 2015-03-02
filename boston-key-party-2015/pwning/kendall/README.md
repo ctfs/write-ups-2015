@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfcrew.org/writeup/97>
+* [How the challenge was designed](http://mweissbacher.com/blog/2015/03/01/boston-key-party-2015-kendall-challenge-superfish/)
