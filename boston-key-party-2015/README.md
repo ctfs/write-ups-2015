@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/wood-island](crypto/wood-island)
 
 ## External write-ups only
 
