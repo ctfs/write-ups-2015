@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Resulting Cobold Code](ideone_ylIgJz.cbl) - [Source](http://ideone.com/ylIgJz)
