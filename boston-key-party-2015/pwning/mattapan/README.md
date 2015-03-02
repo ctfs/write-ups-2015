@@ -29,9 +29,10 @@ Walkthrough:
 Setting up NOX (Openflow controller):
 
 <http://archive.openflow.org/wp/deploy-labsetup/#OpenFlow_Controller_NOX_0_6>
+
 1. Follow the above to set up a normal controller and get it running so you can launch it.
 2. Run `./nox_core -i ptcp:6633 switch`
-   a. This will set up an openflow controller on 6633 and the switch syntax runs a basic switch module so the switch can actually send data when it connects
+   * This will set up an openflow controller on 6633 and the switch syntax runs a basic switch module so the switch can actually send data when it connects
    
 If you have any questions/concerns please contact me on freenode as dogshep, or dogshep {at} gmail { dot } com.
 
