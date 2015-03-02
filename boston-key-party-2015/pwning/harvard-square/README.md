@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: harvard-square
+# Boston Key Party CTF 2015: Harvard Square
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 275
 **Solves** 
 **Description:**
 

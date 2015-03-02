@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: braintree
+# Boston Key Party CTF 2015: Braintree
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 300
 **Solves** 
 **Description:**
 

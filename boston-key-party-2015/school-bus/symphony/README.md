@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: symphony
+# Boston Key Party CTF 2015: Symphony
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 25
 **Solves** 
 **Description:**
 

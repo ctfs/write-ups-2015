@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: park-street
+# Boston Key Party CTF 2015: Park Street
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 10
 **Solves** 
 **Description:**
 

@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: bu-central
+# Boston Key Party CTF 2015: BU Central
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 10
 **Solves** 
 **Description:**
 

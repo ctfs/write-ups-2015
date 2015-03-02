@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: wood-island
+# Boston Key Party CTF 2015: Wood Island
 
-**Category:** 
-**Points:** 
+**Category:** Cryptography
+**Points:** 150
 **Solves** 
 **Description:**
 

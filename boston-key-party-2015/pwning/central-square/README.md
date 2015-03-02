@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: central-square
+# Boston Key Party CTF 2015: Central Square
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 200
 **Solves** 
 **Description:**
 

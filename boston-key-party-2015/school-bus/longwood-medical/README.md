@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: longwood-medical
+# Boston Key Party CTF 2015: Longwood Medical
 
-**Category:** 
-**Points:** 
+**Category:** School-Bus
+**Points:** 25
 **Solves** 
 **Description:**
 

@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: haymarket
+# Boston Key Party CTF 2015: Haymarket
 
-**Category:** 
-**Points:** 
+**Category:** Reversing
+**Points:** 150
 **Solves** 
 **Description:**
 

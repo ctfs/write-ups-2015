@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: kendall
+# Boston Key Party CTF 2015: Kendall
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 300
 **Solves** 
 **Description:**
 

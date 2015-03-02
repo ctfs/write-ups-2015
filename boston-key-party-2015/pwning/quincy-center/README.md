@@ -1,7 +1,7 @@
-# Boston Key Party CTF 2015: quincy-center
+# Boston Key Party CTF 2015: Quincy Center
 
-**Category:** 
-**Points:** 
+**Category:** Pwning
+**Points:** 100
 **Solves** 
 **Description:**
 
