@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://rce4fun.blogspot.de/2015/03/boston-key-party-2015-community-college.html>
