@@ -17,4 +17,4 @@ This prints the flag: `OK_Maybe_using_rexpexp_wasnt_a_clever_move`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/BrighamCircle.md>

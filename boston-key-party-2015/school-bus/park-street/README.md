@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/parkstreet.txt>

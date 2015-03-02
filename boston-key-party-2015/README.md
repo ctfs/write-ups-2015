@@ -23,6 +23,7 @@
 * [Broadway](pwning/broadway)
 * [JFK/Umass](pwning/jfk-umass)
 * [Museum Of Fine Arts](school-bus/museum-of-fine-arts)
+* [Park Street](school-bus/park-street)
 
 ## Missing write-ups
 
@@ -36,7 +37,6 @@
 * [Mattapan](pwning/mattapan)
 * [Oak Grove](reversing/oak-grove)
 * [Orient Heights](crypto/orient-heights)
-* [Park Street](school-bus/park-street)
 * [Sullivan Square](reversing/sullivan-square)
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)

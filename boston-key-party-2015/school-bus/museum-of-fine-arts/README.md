@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/MuseumOfFineArts.md>
 * [Japanese](http://kazu1130-h.hatenablog.jp/entry/2015/03/02/034426)

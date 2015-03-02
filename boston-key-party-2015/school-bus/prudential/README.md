@@ -29,4 +29,4 @@ The flag is `I_think_that_I_just_broke_sha1`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/Prudential.md>
