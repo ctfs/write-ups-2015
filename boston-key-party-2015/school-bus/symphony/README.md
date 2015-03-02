@@ -17,4 +17,4 @@ The flag is `B4SE10_IS_F0R_LOSERS`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dook.biz/2015/03/boston-key-party-ctf-symphony-writeup/>
