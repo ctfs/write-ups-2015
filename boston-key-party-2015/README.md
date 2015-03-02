@@ -9,7 +9,9 @@
 
 ## External write-ups only
 
-* none yet
+* crypto/airport
+* pwn/andrew
+* pwn/broadway
 
 ## Missing write-ups
 
