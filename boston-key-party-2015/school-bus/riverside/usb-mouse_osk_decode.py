@@ -22,9 +22,7 @@ char_sets = [
 
 def compliment(h):
     i = int(h, 16)
-    if i >= 0x80:
-    	i -= 0x100
-    return i
+    return i - ((0x80 & i) << 1)
 
 def plot(i, x, y, c="red"):
     plt.plot(x, y, color=c, marker="o")
