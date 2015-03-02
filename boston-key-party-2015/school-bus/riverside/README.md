@@ -155,4 +155,4 @@ And with a quick scotch tape and marker job, you can easily decode it:
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.dragonsector.pl/2015/03/boston-key-party-2014-riverside.html>
