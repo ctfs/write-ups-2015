@@ -31,6 +31,7 @@
 * [Heath Street](school-bus/heath-street)
 * [JFK/Umass](pwning/jfk-umass)
 * [Oak Grove](reversing/oak-grove)
+* [Orient Heights](crypto/orient-heights)
 * [Park Street](school-bus/park-street)
 * [Sullivan Square](reversing/sullivan-square)
 * [Wellington](reversing/wellington)
@@ -40,6 +41,5 @@
 
 * [Braintree](pwning/braintree)
 * [Central Square](pwning/central-square)
-* [Orient Heights](crypto/orient-heights)
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)
