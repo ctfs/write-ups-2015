@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://r3dey3.com/2015-03/bkpctf-wood-island-and-orient-heights/>
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-orient-heights.html)

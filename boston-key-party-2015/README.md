@@ -26,6 +26,7 @@
 * [Alewife](pwning/alewife)
 * [Andrew](pwning/andrew)
 * [Bowdoin](crypto/bowdoin)
+* [Braintree](pwning/braintree)
 * [Broadway](pwning/broadway)
 * [Community College](reversing/community-college)
 * [Heath Street](school-bus/heath-street)
@@ -33,13 +34,12 @@
 * [Oak Grove](reversing/oak-grove)
 * [Orient Heights](crypto/orient-heights)
 * [Park Street](school-bus/park-street)
+* [Quincy Adams](pwning/quincy-adams)
+* [Quincy Center](pwning/quincy-center)
 * [Sullivan Square](reversing/sullivan-square)
 * [Wellington](reversing/wellington)
 * [Wonderland](crypto/wonderland)
 
 ## Missing write-ups
 
-* [Braintree](pwning/braintree)
 * [Central Square](pwning/central-square)
-* [Quincy Adams](pwning/quincy-adams)
-* [Quincy Center](pwning/quincy-center)

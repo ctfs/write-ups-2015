@@ -19,3 +19,4 @@ The flag is `B4SE10_IS_F0R_LOSERS`.
 
 * <http://dook.biz/2015/03/boston-key-party-ctf-symphony-writeup/>
 * <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/Symphony.md>
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-symphony.html)

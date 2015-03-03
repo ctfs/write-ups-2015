@@ -95,3 +95,4 @@ Glad of that - 'cos exploit easier than the mathematics!
 
 * <http://r3dey3.com/2015-03/bkpctf-wood-island-and-orient-heights/>
 * [Japanese](http://math314.hateblo.jp/entry/2015/03/02/025356)
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-wood-island.html)
