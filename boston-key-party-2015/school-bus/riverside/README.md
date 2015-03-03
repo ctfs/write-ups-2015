@@ -156,3 +156,4 @@ And with a quick scotch tape and marker job, you can easily decode it:
 ## Other write-ups and resources
 
 * <http://blog.dragonsector.pl/2015/03/boston-key-party-2014-riverside.html>
+* <https://johnsupercool.github.io/posts/2015/mars/01/boston-key-party-2015-ctf-misc200-riverside/>
