@@ -11,6 +11,7 @@
 * [trivia/trivia150](trivia/trivia150)
 * [trivia/trivia200](trivia/trivia200)
 * [trivia/trivia50](trivia/trivia50)
+* [web/web300](web/web300)
 
 ## External write-ups only
 
@@ -27,4 +28,3 @@
 * [stegano/steg200](stegano/steg200)
 * [stegano/steg300](stegano/steg300)
 * [web/web200](web/web200)
-* [web/web300](web/web300)
