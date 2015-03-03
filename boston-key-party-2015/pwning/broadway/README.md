@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 275
-**Solves** 
+**Solves:** 26
 **Description:**
 
 > lets pretend that first CDN didnt happened! can you get a shell, there is a second flag in the root of the fs! It is up at http://54.88.83.98:8080/ : 275

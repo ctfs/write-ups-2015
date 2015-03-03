@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 250
-**Solves** 
+**Solves:** 57
 **Description:**
 
 > If you had the code, you'd see that the program is calling `decrypt("[QeZag^VQZShWQgeWVQSe]ZW^^Q[`efWSV", X). Unfortunately, you don't have it, HAHAHAHAHAHA. Ho, and by the way, the flag ends with a dot. : 250

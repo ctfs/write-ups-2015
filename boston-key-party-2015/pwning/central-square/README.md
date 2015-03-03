@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 200
-**Solves** 
+**Solves:** 40
 **Description:**
 
 > Check out our new filter! : 200

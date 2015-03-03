@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 511
 **Description:**
 
 > Of course, a timing attack might be the answer, but Im quite sure that you can do better than that. : 25

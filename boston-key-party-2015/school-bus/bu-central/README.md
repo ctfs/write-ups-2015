@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 10
-**Solves** 
+**Solves:** 765
 **Description:**
 
 > the flag is 'party' : 10

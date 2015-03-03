@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 485
 **Description:**
 
 > Sanitization is hard, lets use regexp! : 25

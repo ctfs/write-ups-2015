@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 100
-**Solves** 
+**Solves:** 24
 **Description:**
 
 > The MBTA wrote a cool system. It's pretty bad though, sometimes the commands work, sometimes they don't... Exploit it. (uspace flag) 54.165.91.92 8899 : 100

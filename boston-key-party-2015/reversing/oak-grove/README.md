@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 300
-**Solves** 
+**Solves:** 9
 **Description:**
 
 > This crappy 3ds homebrew is protected by some anti-piracy scheme. Can you crack it? : 300

@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 300
-**Solves** 
+**Solves:** 27
 **Description:**
 
 > I can't follow what's going on here. Can you? : 300

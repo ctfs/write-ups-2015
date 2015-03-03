@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 377
 **Description:**
 
 > Because cryptography is hard, we only implemented a hand-made PRNG. What could possibly go wrong? : 25

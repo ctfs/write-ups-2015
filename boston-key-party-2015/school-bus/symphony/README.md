@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 577
 **Description:**
 
 > A less than four characters number, bigger than 999?Maybe the bug is elsewhere. : 25

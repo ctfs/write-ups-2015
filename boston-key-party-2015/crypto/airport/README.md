@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 500
-**Solves** 
+**Solves:** 33
 **Description:**
 
 > The timing in this challenge is clearly not very realistic---but the methods you'll use here can be extended to real-world implementations of modular exponentiation. Server at 52.1.245.61 bostonkeyparty.net , port 1025. My solution takes a little while. Good luck. : 500

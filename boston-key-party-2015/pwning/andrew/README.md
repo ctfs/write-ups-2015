@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 275
-**Solves** 
+**Solves:** 50
 **Description:**
 
 > we have an EXPERIMENTAL CDN based on nginx. It can optimize html, javascript, leetify text and rehost images. It is up at http://54.88.83.98:8080/ flag is in /flag.txt : 275
