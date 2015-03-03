@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [Writeup by tasteless](http://tasteless.eu/2015/03/boston-key-party-2015-jfkumass/)
+* <https://rzhou.org/~ricky/bkpctf2015/jfk/>
