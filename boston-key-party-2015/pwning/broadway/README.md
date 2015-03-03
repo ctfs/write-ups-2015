@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [H4x0rPsch0rr](http://hxp.io/blog/15/Boston%20Key%20Party%202015%20-%20pwn%20275:%20Broadway/)
+* [Chinese](http://blog.orange.tw/2015/03/boston-key-parcty-ctf-2015-harvard.html)

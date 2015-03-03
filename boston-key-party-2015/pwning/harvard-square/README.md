@@ -97,3 +97,4 @@ t.interact()
 ## Other write-ups and resources
 
 * <http://ddaa.logdown.com/posts/256270-boston-key-party-ctf-2015-275-harvard-square>
+* [Chinese](http://blog.orange.tw/2015/03/boston-key-parcty-ctf-2015-harvard.html)
