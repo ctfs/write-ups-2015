@@ -25,6 +25,7 @@
 * [Airport](crypto/airport)
 * [Alewife](pwning/alewife)
 * [Andrew](pwning/andrew)
+* [Bowdoin](crypto/bowdoin)
 * [Broadway](pwning/broadway)
 * [Community College](reversing/community-college)
 * [Heath Street](school-bus/heath-street)
@@ -37,7 +38,6 @@
 
 ## Missing write-ups
 
-* [Bowdoin](crypto/bowdoin)
 * [Braintree](pwning/braintree)
 * [Central Square](pwning/central-square)
 * [Orient Heights](crypto/orient-heights)
