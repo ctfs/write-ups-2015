@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://rzhou.org/~ricky/bkpctf2015/zenhv/>
+* <https://gist.githubusercontent.com/anonymous/dca12da792dfb7441986/raw/f758bf632de573d0946d54f5831cd847ee5e61f9/exploit_uspace.py>
