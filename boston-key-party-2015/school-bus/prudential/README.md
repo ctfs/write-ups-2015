@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 426
 **Description:**
 
 > I dont think that sha1 is broken. Prove me wrong. : 25

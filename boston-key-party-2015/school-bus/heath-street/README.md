@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 100
-**Solves** 
+**Solves:** 167
 **Description:**
 
 > During my time at KGB I learned how to hide all the stuff from alpha-dog. But damn it, I somehow lost some of the most important files... : 100

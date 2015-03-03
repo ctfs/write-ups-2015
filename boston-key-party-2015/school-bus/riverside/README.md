@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 200
-**Solves** 
+**Solves:** 94
 **Description:**
 
 > omg tha NSA hacked my super secret login, I caught them exfillin this pcap, am I t3h fuxxed? : 200

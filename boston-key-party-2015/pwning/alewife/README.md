@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 400
-**Solves** 
+**Solves:** 38
 **Description:**
 
 > alewife.bostonkey.party 8888 : 400

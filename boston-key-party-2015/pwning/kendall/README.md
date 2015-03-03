@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 300
-**Solves** 
+**Solves:** 31
 **Description:**
 
 > 52.0.164.37:8888 : 300

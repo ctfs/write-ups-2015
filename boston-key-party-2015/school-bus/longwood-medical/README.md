@@ -2,7 +2,7 @@
 
 **Category:** School-Bus
 **Points:** 25
-**Solves** 
+**Solves:** 430
 **Description:**
 
 > Because we dont trust mysqli_real_escape_string, we wrote our own military-grade sanitization method. : 25

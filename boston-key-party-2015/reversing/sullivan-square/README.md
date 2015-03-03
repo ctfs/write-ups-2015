@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 350
-**Solves** 
+**Solves:** 21
 **Description:**
 
 > We discovered this program in my old algorithms homeworks, can you help me remember the key? : 350

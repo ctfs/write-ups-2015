@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 600
-**Solves** 
+**Solves:** 10
 **Description:**
 
 > Server is running at 54.86.168.156, port 40638. Find the flag! (UPDATE---there was a very, very slight change to server.py . Redownload to see it.) : 600
