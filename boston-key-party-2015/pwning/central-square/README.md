@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/SYcrZp7y>
+* <http://pastebin.com/efCH07Ni>
