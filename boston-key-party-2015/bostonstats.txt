@@ -1,0 +1,31 @@
+Braintree|red|6
+Oak Grove|orange|9
+Quincy Adams|red|9
+Wonderland|blue|10
+Harvard Square|red|16
+JFK/UMass|red|17
+Sullivan Square|orange|21
+Quincy Center|red|24
+Broadway|red|26
+Community College|orange|27
+Kendall|red|31
+Airport|blue|33
+Mattapan|red|33
+Bowdoin|blue|34
+Alewife|red|38
+Central Square|red|40
+Orient Heights|blue|47
+Andrew|red|50
+Wellington|orange|57
+Wood Island|blue|90
+Riverside|green|94
+Heath Street|green|167
+Haymarket|orange|216
+Park Street|green|356
+Museum of Fine Arts|green|377
+Prudential|green|426
+Longwood Medical|green|430
+Brigham Circle|green|485
+Northeastern Univ.|green|511
+Symphony|green|577
+BU Central|green|765

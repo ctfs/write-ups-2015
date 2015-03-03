@@ -2,6 +2,7 @@
 
 * <http://bostonkey.party/>
 * [Scoreboard](http://bostonkey.party/scoreboard) or [here](scoreboard.txt)
+* [Number of solves per task](bostonstats.txt)
 
 ## Completed write-ups
 
