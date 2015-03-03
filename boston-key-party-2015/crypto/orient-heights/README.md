@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://r3dey3.com/2015-03/bkpctf-wood-island-and-orient-heights/>
