@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/Pragyan%202015/Weak%20RSA/36/)
