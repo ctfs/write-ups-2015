@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/parkstreet.txt>
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-park-street.html)

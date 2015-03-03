@@ -17,4 +17,4 @@ Consequently, making a request to `index.php?name=0&password=0` printed out the 
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-longwood-medical.html)

@@ -23,4 +23,4 @@ So if we specify the `password` parameter as an array, e.g. `http://52.10.107.64
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-northeastern-univ.html)
