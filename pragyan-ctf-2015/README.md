@@ -28,8 +28,8 @@
 
 ## External write-ups only
 
-* none yet
+* [Weak RSA](crypto/weak_rsa)
 
 ## Missing write-ups
 
-* [Weak RSA](crypto/weak_rsa)
+* none
