@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://gnoobz.com/bkpctf-2015-bowdoin-writeup.html>
