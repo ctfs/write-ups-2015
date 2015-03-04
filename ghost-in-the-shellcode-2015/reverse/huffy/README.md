@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/kitctf/writeups/tree/master/gits2015/huffy>
+* <https://blog.skullsecurity.org/2015/gits-2015-huffy-huffman-encoded-shellcode>
