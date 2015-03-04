@@ -15,4 +15,5 @@
 
 * <https://ctfcrew.org/writeup/97>
 * <http://r3dey3.com/2015-03/bkpctf-kendall/>
+* <https://gist.github.com/ancat/a2649d080dbfcdbe42b8>
 * [How the challenge was designed](http://mweissbacher.com/blog/2015/03/01/boston-key-party-2015-kendall-challenge-superfish/)
