@@ -17,3 +17,4 @@
 * <http://misterch0c.ghost.io/gits-aart/>
 * <http://0x1337seichi.wordpress.com/2015/01/18/ghost-in-the-shellcode-2015-web-200-aart-writeup/>
 * <http://pastebin.com/nXszqW0M>
+* <https://blog.skullsecurity.org/2015/gits-2015-aart-php-race-condition>

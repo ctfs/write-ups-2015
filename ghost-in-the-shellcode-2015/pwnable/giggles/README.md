@@ -16,3 +16,4 @@
 
 * <http://kitctf.de/writeups/gits2015/giggles/>
 * <http://idabook.com/ctf/giggles_writeup.txt>
+* <https://blog.skullsecurity.org/2015/gits-2015-giggles-off-by-one-virtual-machine>

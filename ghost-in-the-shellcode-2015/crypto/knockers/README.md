@@ -262,3 +262,4 @@ Somehow I can connect to several IPv6 destinations, but not the knocker box. Aft
 
 * <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
 * [French](https://t0x0sh.org/ghosts-in-the-shellcodes-2015-knockers-crypto-150.html)
+* <https://blog.skullsecurity.org/2015/gits-2015-knockers-py-hash-extension-vulnerability>
