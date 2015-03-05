@@ -15,3 +15,4 @@
 
 * <https://kitctf.de/writeups/bkp2015/sullivan-square/>
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-sullivan-square.html)
+* [Writeup by Neg9](https://neg9.org/news/2015/3/4/boston-key-party-2015-sullivan-square-reversing-350-writeup)
