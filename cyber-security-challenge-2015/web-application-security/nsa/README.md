@@ -6,11 +6,9 @@
 
 > We heard rumors that the website below is owned by the NSA. There doesn’t seem to be much to it though… Maybe it’s just a placeholder?
 >
-> URL: 37.187.249.84:10005
+> URL: 37.187.249.84:20005
 
 ## Write-up
-
-(TODO)
 
 ```bash
 $ curl 'http://37.187.249.84:20005/robots.txt'
@@ -23,6 +21,8 @@ Disallow: /imgs
 ```
 
 <http://37.187.249.84:20005/css/> uses basic access authentication and prompts for a username and password.
+
+(TODO SQL injection)
 
 ## Other write-ups and resources
 
