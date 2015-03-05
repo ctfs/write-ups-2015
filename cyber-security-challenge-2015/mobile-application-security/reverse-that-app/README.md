@@ -10,8 +10,12 @@
 
 ## Write-up
 
-(TODO)
+After decompiling [`Kbank.apk`](Kbank.apk) you can find the the answer in the following class: ```src\com\fake\site\sms\sms.java```. The following variable contains the solution:
+
+```java
+public static final String NUMBER = "+79163525068";
+``` 
 
 ## Other write-ups and resources
 
-* none yet
+* none
