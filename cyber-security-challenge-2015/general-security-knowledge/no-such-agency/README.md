@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The correct solution is _implant_.
 
 ## Other write-ups and resources
 
