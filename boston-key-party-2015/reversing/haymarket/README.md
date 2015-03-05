@@ -162,5 +162,6 @@ FLAG: ALEXTREBEKISASOCIALENGINEER (found in second to last line of output)
 ## Other write-ups and resources
 
 * <http://hackitguys.com/?p=16>
+* <http://u.osu.edu/romig.1/2015/03/02/boston-key-party-haymarket-write-up/>
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-haymarket.html)
 * [Resulting Cobold Code](ideone_ylIgJz.cbl) - [Source](http://ideone.com/ylIgJz)
