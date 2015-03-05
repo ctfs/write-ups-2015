@@ -16,3 +16,4 @@
 * <https://gist.github.com/g05u/4126f452ee41d4d5328c>
 * <https://rzhou.org/~ricky/bkpctf2015/alewife/>
 * <http://r3dey3.com/2015-03/bkpctf-alewife/>
+* <https://github.com/kitctf/writeups/blob/master/bkp2015/alewife/pwn.py>
