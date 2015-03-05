@@ -8,8 +8,12 @@
 
 ## Write-up
 
-(TODO)
+The solution lies in the ESAPI (The OWASP Enterprise Security API) Java repository: <https://github.com/ESAPI/esapi-java-legacy/blob/95d85be952ddb64e2a8997f6b862d6208d8ea9f2/configuration/esapi/ESAPI.properties>
+
+```properties
+Validator.FileName=^[a-zA-Z0-9!@#$%^&{}\\[\\]()_+\\-=,.~'` ]{1,255}$
+```
 
 ## Other write-ups and resources
 
-* none yet
+* none
