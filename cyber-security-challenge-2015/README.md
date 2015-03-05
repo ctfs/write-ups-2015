@@ -25,7 +25,9 @@
 * [Security Terminology](general-security-knowledge/security-terminology)
 * [Software Vulnerabilities v1](general-security-knowledge/software-vulnerabilities-v1)
 * [Automated Analysis Mistakes](secure-coding/automated-analysis-mistakes)
+* [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
+
 
 ## External write-ups only
 
@@ -42,7 +44,6 @@
 * [SFTP](network-security/sftp)
 * [Crackme](reverse-engineering/crackme)
 * [Reverse That Binary](reverse-engineering/reverse-that-binary)
-* [OWASP](secure-coding/owasp)
 * [0day Hunting](web-application-security/0day-hunting)
 * [NSA](web-application-security/nsa)
 * [NVISO File Host](web-application-security/nviso-file-host)
