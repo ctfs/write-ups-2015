@@ -42,7 +42,6 @@
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [Nviso Vault](mobile-application-security/nviso-vault)
 * [Lottery](network-security/lottery)
-* [SFTP](network-security/sftp)
 * [Crackme](reverse-engineering/crackme)
 * [Reverse That Binary](reverse-engineering/reverse-that-binary)
 * [0day Hunting](web-application-security/0day-hunting)
