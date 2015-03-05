@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The correct solution is implant
 
 ## Other write-ups and resources
 
