@@ -10,6 +10,7 @@
 * [Four Eyes](digital-forensics/four-eyes)
 * [Passwords](digital-forensics/passwords)
 * [Wardriving](digital-forensics/wardriving)
+* [SFTP](network-security/sftp)
 * [Advanced Persistent Threats](general-security-knowledge/advanced-persistent-threats)
 * [Cryptographic Algorithms](general-security-knowledge/cryptographic-algorithms)
 * [Hacker Movies](general-security-knowledge/hacker-movies)
