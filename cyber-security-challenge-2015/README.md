@@ -25,10 +25,10 @@
 * [Security Software](general-security-knowledge/security-software)
 * [Security Terminology](general-security-knowledge/security-terminology)
 * [Software Vulnerabilities v1](general-security-knowledge/software-vulnerabilities-v1)
+* [Crackme](reverse-engineering/crackme)
 * [Automated Analysis Mistakes](secure-coding/automated-analysis-mistakes)
 * [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
-
 
 ## External write-ups only
 
@@ -42,7 +42,6 @@
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [Nviso Vault](mobile-application-security/nviso-vault)
 * [Lottery](network-security/lottery)
-* [Crackme](reverse-engineering/crackme)
 * [Reverse That Binary](reverse-engineering/reverse-that-binary)
 * [0day Hunting](web-application-security/0day-hunting)
 * [NSA](web-application-security/nsa)
