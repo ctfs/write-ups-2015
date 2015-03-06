@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [Crack the Hash](cryptography/crack-the-hash)
+* [One Way](cryptography/one-way)
 * [Guess the Algorithm](cryptography/guess-the-algorithm)
 * [Four Eyes](digital-forensics/four-eyes)
 * [Passwords](digital-forensics/passwords)
@@ -36,7 +37,6 @@
 
 ## Missing write-ups
 
-* [One Way](cryptography/one-way)
 * [Data Extraction](digital-forensics/data-extraction)
 * [Espionage](digital-forensics/espionage)
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
