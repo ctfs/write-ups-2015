@@ -156,6 +156,7 @@ print "Decoded flag: ", decoded_flag
 ```
 
 This code will do 8 iterations, collecting 1 more letter of the flag in every iteration. At the end we print the flag to STDOUT.
+The flag we obtain this way is `saltmine`.
 
 ## Other write-ups and resources
 
