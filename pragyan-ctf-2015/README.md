@@ -25,10 +25,11 @@
 * [The impossible](crypto/the_impossible)
 * [Totally abstruse](misc/totally_abstruse)
 * [What you see is what you get.](stegano/what_you_see_is_what_you_get)
+* [Weak RSA](crypto/weak_rsa)
 
 ## External write-ups only
 
-* [Weak RSA](crypto/weak_rsa)
+* none
 
 ## Missing write-ups
 
