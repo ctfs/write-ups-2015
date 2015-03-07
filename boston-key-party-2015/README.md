@@ -28,6 +28,7 @@
 * [Bowdoin](crypto/bowdoin)
 * [Braintree](pwning/braintree)
 * [Broadway](pwning/broadway)
+* [Central Square](pwning/central-square)
 * [Community College](reversing/community-college)
 * [Heath Street](school-bus/heath-street)
 * [JFK/Umass](pwning/jfk-umass)
@@ -42,4 +43,4 @@
 
 ## Missing write-ups
 
-* [Central Square](pwning/central-square)
+* none
