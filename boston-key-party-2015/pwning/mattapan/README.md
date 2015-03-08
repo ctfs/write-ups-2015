@@ -38,4 +38,4 @@ If you have any questions/concerns please contact me on freenode as dogshep, or 
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/bkp2015/pwn150-mattapan/writeup.md>

@@ -16,3 +16,4 @@
 * [H4x0rPsch0rr](http://hxp.io/blog/11/BkP%20CTF%202015:%20crypto500%20%22Airport%22/)
 * <http://tasteless.eu/2015/03/boston-key-part-2015-airport-crypto-500/>
 * <https://kitctf.de/writeups/bkp2015/airport/>
+* <https://github.com/pwning/public-writeup/blob/master/bkp2015/crypto500-airport/writeup.md>
