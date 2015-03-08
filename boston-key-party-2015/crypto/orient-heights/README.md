@@ -14,4 +14,5 @@
 ## Other write-ups and resources
 
 * <http://r3dey3.com/2015-03/bkpctf-wood-island-and-orient-heights/>
+* <https://github.com/pwning/public-writeup/blob/master/bkp2015/crypto250-orientheights/writeup.md>
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-orient-heights.html)
