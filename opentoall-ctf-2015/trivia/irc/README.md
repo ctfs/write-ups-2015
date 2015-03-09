@@ -10,6 +10,10 @@
 
 ## Write-up
 
+On IRC while connected to Freenode, execute `/ctcp Eriner version`
+> `CTCP query to Eriner: VERSION`
+> `CTCP reply from Eriner: VERSION WeeChat is the best IRC client`
+
 The answer and flag is `weechat`.
 
 ## Other write-ups and resources
