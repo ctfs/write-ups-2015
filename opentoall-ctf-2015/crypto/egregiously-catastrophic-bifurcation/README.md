@@ -1,17 +1,12 @@
-# OpenToAll CTF 2015: egregiously-catastrophic-bifurcation
+# OpenToAll CTF 2015: Egregiously Catastrophic Bifurcation
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Crypto
+**Points:** 250
+**Solves:** TODO
+**Author:** gaffe
 **Description:** 
 
-> Egregiously Catastrophic Bifurcation
-> 250
-> 1 solves
-> 
 > 104.131.107.153:12734
-> 
-> Author: gaffe
 
 ## Write-up
 

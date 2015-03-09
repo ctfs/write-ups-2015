@@ -1,19 +1,14 @@
-# OpenToAll CTF 2015: gone
+# OpenToAll CTF 2015: Gone
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Forensics
+**Points:** 200
+**Solves:** TODO
+**Author:** Eriner
 **Description:** 
 
-> Gone
-> 200
-> 0 solves
-> 
 > It seems that my files are gone!
 > 
-> http://public.givemesecurity.info/gone.img.tar.bz2
-> 
-> Author: Eriner
+> [http://public.givemesecurity.info/gone.img.tar.bz2](gone.img.tar.bz2)
 
 ## Write-up
 

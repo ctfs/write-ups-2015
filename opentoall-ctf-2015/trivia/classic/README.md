@@ -1,14 +1,11 @@
-# OpenToAll CTF 2015: classic
+# OpenToAll CTF 2015: Classic
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Trivia
+**Points:** 10
+**Solves:** TODO
+**Author:** TODO
 **Description:** 
 
-> Classic
-> 10
-> 100 solves
-> 
 > Hack _ planet!
 
 ## Write-up

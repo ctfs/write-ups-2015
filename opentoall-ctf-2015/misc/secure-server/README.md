@@ -1,18 +1,14 @@
-# OpenToAll CTF 2015: secure-server
+# OpenToAll CTF 2015: Secure Server
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Misc
+**Points:** 75
+**Solves:** TODO
+**Author:** kee7a
 **Description:** 
 
-> Secure Server
-> 75
-> 21 solves
-> 
 > this server is hacker proof... i think.
-> 104.131.124.226
 > 
-> Author: kee7a
+> 104.131.124.226
 
 ## Write-up
 
