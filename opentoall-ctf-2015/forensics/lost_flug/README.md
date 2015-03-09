@@ -12,7 +12,7 @@
 
 We are given a pcapNG capture file with a bunch of UDP and TCP traffic.
 
-when searching the file for usual keywords using `strings`, we see something interesting when looking for `password`:
+When searching the file for usual keywords using `strings`, we see something interesting whilst `grep`ing looking for `password`:
 
 ```bash
 $ strings -a cap.pcapng | igrep password
