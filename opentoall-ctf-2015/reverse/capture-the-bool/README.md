@@ -2,7 +2,7 @@
 
 **Category:** Reverse
 **Points:** 50
-**Solves:** TODO
+**Solves:** 112
 **Author:** xenocidewiki
 **Description:** 
 

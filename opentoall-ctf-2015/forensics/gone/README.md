@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 200
-**Solves:** TODO
+**Solves:** 30
 **Author:** Eriner
 **Description:** 
 

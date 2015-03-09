@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 250
-**Solves:** TODO
+**Solves:** 13
 **Author:** Eriner
 **Description:** 
 

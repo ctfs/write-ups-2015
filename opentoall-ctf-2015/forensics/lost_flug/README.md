@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 75
-**Solves:** TODO
+**Solves:** 88
 **Author:** kee7a
 **Description:** 
 

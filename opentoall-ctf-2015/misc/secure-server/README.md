@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 75
-**Solves:** TODO
+**Solves:** 150
 **Author:** kee7a
 **Description:** 
 

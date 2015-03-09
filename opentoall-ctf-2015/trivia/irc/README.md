@@ -2,7 +2,7 @@
 
 **Category:** Trivia
 **Points:** 10
-**Solves:** TODO
+**Solves:** 190
 **Author:** Eriner
 **Description:** 
 
