@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [crypto/bach](crypto/bach)
 * [forensics/doggie](forensics/doggie)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
@@ -17,7 +18,6 @@
 
 ## Missing write-ups
 
-* [crypto/bach](crypto/bach)
 * [crypto/egregiously-catastrophic-bifurcation](crypto/egregiously-catastrophic-bifurcation)
 * [crypto/enigma](crypto/enigma)
 * [forensics/catz](forensics/catz)
