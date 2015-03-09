@@ -3,7 +3,7 @@
 **Category:** Trivia
 **Points:** 10
 **Solves:** 355
-**Author:** TODO
+**Author:** Eriner
 **Description:** 
 
 > Hack _ planet!

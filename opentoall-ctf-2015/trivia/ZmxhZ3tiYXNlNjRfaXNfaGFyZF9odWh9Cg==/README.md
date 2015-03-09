@@ -3,7 +3,7 @@
 **Category:** Trivia
 **Points:** 10
 **Solves:** 396
-**Author:** TODO
+**Author:** Eriner and gaffe
 **Description:** 
 
 > hmm...
