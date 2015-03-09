@@ -7,6 +7,10 @@
 **Description:** 
 
 > Eriner loves playing tf2.
+>
+> You cannot guess the flag You do not need TF2, Steam, or a Steam Account to solve this challenge.
+>
+> Hint: Eriner has a very custom Soldier playstyle.
 
 ## Write-up
 
