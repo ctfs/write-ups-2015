@@ -9,6 +9,10 @@
 > woof!
 > 
 > [b927033257a4604c06e791619a4c0713.tar.bz2](b927033257a4604c06e791619a4c0713.tar.bz2)
+>
+> Hint: Did Eriner really make this challenge?
+>
+> Hint: It's not encoded.
 
 ## Write-up
 

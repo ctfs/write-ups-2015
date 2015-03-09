@@ -9,6 +9,10 @@
 > this server is hacker proof... i think.
 > 
 > 104.131.124.226
+>
+> Hint: You do not need to bruteforce anything
+>
+> Hint: The challenge has been tweaked to be less confusing
 
 ## Write-up
 

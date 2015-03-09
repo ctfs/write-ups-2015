@@ -7,6 +7,8 @@
 **Description:** 
 
 > 104.131.107.153:12734
+>
+> Hint: Added, look in the challenge description.
 
 ## Write-up
 
