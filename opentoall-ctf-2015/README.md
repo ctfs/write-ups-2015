@@ -25,9 +25,10 @@
 ## External write-ups only
 
 * [crypto/egregiously-catastrophic-bifurcation](crypto/egregiously-catastrophic-bifurcation)
+* [crypto/enigma](crypto/enigma)
 * [reverse/advanced-risque-machine](reverse/advanced-risque-machine)
 * [reverse/switchy](reverse/switchy)
 
 ## Missing write-ups
 
-* [crypto/enigma](crypto/enigma)
+* none
