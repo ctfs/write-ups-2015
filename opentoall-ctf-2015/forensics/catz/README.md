@@ -47,4 +47,4 @@ flag{fugly_cats_need_luv_2}
 
 ## Other write-ups and resources
 
-* none yet
+* <http://team-jihfu.github.io/2015/03/09/otactf2-2015-catz-forensics-100/>

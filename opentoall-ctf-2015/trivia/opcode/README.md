@@ -14,4 +14,4 @@ The answer and flag is `E9`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://team-jihfu.github.io/2015/03/09/otactf2-2015-trivia-4x10pts/#opcode-10pts>

@@ -104,4 +104,4 @@ The flag is `flag{pUttHeBintheC}`.
 
 ## Other write-ups and resources
 
-* none yet.
+* <http://team-jihfu.github.io/2015/03/09/otactf2-2015-secure-server-misc-75/>
