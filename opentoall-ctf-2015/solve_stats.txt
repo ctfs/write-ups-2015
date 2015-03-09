@@ -1,19 +1,19 @@
-Enigma|Crypto|13
-Bach|Crypto|46
-Doggie|Forensics|49
-Android, oh no!|Misc|14
-Advanced Risqué Machine|RE|37
-Opcode|Trivia|231
-Classic|Trivia|355
-IRC|Trivia|190
-ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==|Trivia|396
-TF2|Misc|82
-Egregiously Catastrophic Bifurcation|Crypto|15
-Math is Hard|Misc|110
-Switchy|RE|57
-Capture The Bool|RE|112
-catz|Forensics|120
-Gone|Forensics|30
-lost_flug|Forensics|88
-Secure Server|Misc|150
-Static|RE|52
+ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==|Trivia|396   
+Classic|Trivia|355   
+Opcode|Trivia|231   
+IRC|Trivia|190   
+Secure Server|Misc|150  
+catz|Forensics|120   
+Capture The Bool|RE|112 
+Math is Hard|Misc|110 
+lost_flug|Forensics|88   
+TF2|Misc|82   
+Switchy|RE|57   
+Static|RE|52   
+Doggie|Forensics|49   
+Bach|Crypto|46   
+Advanced Risqué Machine|RE|37 
+Gone|Forensics|30   
+Egregiously Catastrophic Bifurcation|Crypto|15 
+Android, oh no!|Misc|14 
+Enigma|Crypto|13   
