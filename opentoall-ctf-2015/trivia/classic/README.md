@@ -10,7 +10,7 @@
 
 ## Write-up
 
-> The answer and flag is `the`.
+The answer and flag is `the`.
 
 ## Other write-ups and resources
 

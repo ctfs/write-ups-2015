@@ -10,7 +10,7 @@
 
 ## Write-up
 
-> The answer and flag is `weechat`.
+The answer and flag is `weechat`.
 
 ## Other write-ups and resources
 
