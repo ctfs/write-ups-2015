@@ -1,0 +1,66 @@
+hello, welcome to my secret server
+I thought somone may try to break into my server so i setup some extra protection
+i dont want to give you a shell, but here is some ascii art for you:
+                   __       __
+                  / <`     '> \
+                 (  / @   @ \  )
+                  \(_ _\_/_ _)/
+                (\ `-/     \-' /)
+                 "===\     /==="
+                  .==')___(`==.    
+                 ' .='     `=.
+hello, welcome to my secret server
+I thought somone may try to break into my server so i setup some extra protection
+i dont want to give you a shell, but here is some ascii art for you:
+#!/bin/bash
+
+echo "hello, welcome to my secret server"
+echo "I thought somone may try to break into my server so i setup some extra protection"
+echo "i dont want to give you a shell, but here is some ascii art for you:"
+shuf -n1 -e * | xargs less -E
+hello, welcome to my secret server
+I thought somone may try to break into my server so i setup some extra protection
+i dont want to give you a shell, but here is some ascii art for you:
+      ,==.              |~~~
+     /  66\             |
+     \c  -_)         |~~~
+      `) (           |
+      /   \       |~~~
+     /   \ \      |
+    ((   /\ \_ |~~~ 
+     \  \ `--`|
+     / / /  |~~~
+___ (_(___)_|
+hello, welcome to my secret server
+I thought somone may try to break into my server so i setup some extra protection
+i dont want to give you a shell, but here is some ascii art for you:
+http://cl.ly/image/2c2a3O1T3q3j
+/\
+||_____-----_____-----_____
+||   O                  O  \
+||    O\\    ___    //O    /
+||       \\ /   \//        \
+||         |_O O_|         /
+||          ^ | ^          \
+||        // UUU \\        /
+||    O//            \\O   \
+||   O                  O  /
+||_____-----_____-----_____\
+||
+||.
+hello, welcome to my secret server
+I thought somone may try to break into my server so i setup some extra protection
+i dont want to give you a shell, but here is some ascii art for you:
+ ._________________.
+ | _______________ |
+ | I             I |
+ | I             I |
+ | I             I |
+ | I             I |
+ | I_____________I |
+ !_________________!
+    ._[_______]_.
+.___|___________|___.
+|::: ____           |
+|    ~~~~ [CD-ROM]  |
+!___________________!
