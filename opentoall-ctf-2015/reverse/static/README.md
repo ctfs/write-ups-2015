@@ -23,7 +23,7 @@ We find that the string is used in sub\_401ECE.
 
 ![function sub\_401ece](ida_sub_401ece.jpg)
 
-At *0x401Ef2* we have the instruction `test eax, eax` which checks if eax is equal
+At *0x401EF2* we have the instruction `test eax, eax` which checks if eax is equal
 to zero.
 If `eax` equals zero the program opens a MessageBox to tell us that the
 password is correct.
