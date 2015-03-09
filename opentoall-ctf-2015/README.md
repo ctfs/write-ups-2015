@@ -13,6 +13,7 @@
 * [forensics/lost_flug](forensics/lost_flug)
 * [misc/android-oh-no](misc/android-oh-no)
 * [misc/math-is-hard](misc/math-is-hard)
+* [misc/tf2](misc/tf2)
 * [reverse/static](reverse/static)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
@@ -29,5 +30,4 @@
 
 * [crypto/enigma](crypto/enigma)
 * [misc/secure-server](misc/secure-server)
-* [misc/tf2](misc/tf2)
 * [reverse/capture-the-bool](reverse/capture-the-bool)
