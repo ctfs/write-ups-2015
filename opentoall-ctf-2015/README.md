@@ -5,7 +5,10 @@
 
 ## Completed write-ups
 
-* none yet
+* [trivia/classic](trivia/classic)
+* [trivia/irc](trivia/irc)
+* [trivia/opcode](trivia/opcode)
+* [trivia/ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==](trivia/ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==)
 
 ## External write-ups only
 
@@ -28,7 +31,3 @@
 * [reverse/capture-the-bool](reverse/capture-the-bool)
 * [reverse/static](reverse/static)
 * [reverse/switchy](reverse/switchy)
-* [trivia/classic](trivia/classic)
-* [trivia/irc](trivia/irc)
-* [trivia/opcode](trivia/opcode)
-* [trivia/ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==](trivia/ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg==)

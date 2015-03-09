@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+> The answer and flag is `weechat`.
 
 ## Other write-ups and resources
 
