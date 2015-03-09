@@ -3,7 +3,7 @@
 **Category:** Trivia
 **Points:** 10
 **Solves:** 231
-**Author:** TODO
+**Author:** gaffe
 **Description:** 
 
 > What is the x86 opcode for a relative jump with a 4-byte offset?
