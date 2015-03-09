@@ -46,7 +46,7 @@ IDA and find that each byte of argv[1] is compared to a 14 chars buffer
 **AfkYa3kApyA34h** xored with 14 bytes :
 `0x71,0x16,0x58,0x37,0x4C,0x47,0x5B,0x1E,0x11,0x15,0x0D,0x6C,0x6B,0x37`.
 
-It it matches, the function return 0.
+It it matches, the function returns 0.
 
 The flag is `0p3n-t0_alL___`
 
