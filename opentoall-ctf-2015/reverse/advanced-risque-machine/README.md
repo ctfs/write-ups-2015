@@ -1,17 +1,12 @@
-# OpenToAll CTF 2015: advanced-risque-machine
+# OpenToAll CTF 2015: Advanced Risqué Machine
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Reverse
+**Points:** 500
+**Solves:** TODO
+**Author:** gaffe
 **Description:** 
 
-> Advanced Risqué Machine
-> 500
-> 4 solves
-> 
-> Author: gaffe
-> 
-> d2a69a2919754e9c9d0f2aa16b2d07d0.tar.bz2
+> [d2a69a2919754e9c9d0f2aa16b2d07d0.tar.bz2](d2a69a2919754e9c9d0f2aa16b2d07d0.tar.bz2)
 
 ## Write-up
 

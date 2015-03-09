@@ -1,17 +1,12 @@
-# OpenToAll CTF 2015: capture-the-bool
+# OpenToAll CTF 2015: Capture The Bool
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Reverse
+**Points:** 50
+**Solves:** TODO
+**Author:** xenocidewiki
 **Description:** 
 
-> Capture The Bool
-> 50
-> 23 solves
-> 
-> Author: xenocidewiki
-> 
-> CaptureTheBool.exe
+> [CaptureTheBool.exe](CaptureTheBool.exe)
 
 ## Write-up
 

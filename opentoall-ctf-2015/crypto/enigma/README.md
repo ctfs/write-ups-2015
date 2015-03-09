@@ -1,19 +1,16 @@
-# OpenToAll CTF 2015: enigma
+# OpenToAll CTF 2015: Enigma
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Crypto
+**Points:** 250
+**Solves:** TODO
+**Author:** Eriner
 **Description:** 
 
-> Enigma
-> 250
-> 0 solves
-> 
 > Alan Turing did it, can you?
 > 
 > TBVF{NPDGWZ_MRK_ASZKIT_ZFPBL_LZEDAJ_SHAX_CDK_BOQOJ_LL_KWINUPOW_X_LYUWFYSS_YGZTBQ_XHKGRAI}
 > 
-> Author: Eriner
+> TODO: New description
 
 ## Write-up
 

@@ -1,19 +1,14 @@
-# OpenToAll CTF 2015: static
+# OpenToAll CTF 2015: Static
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Reverse
+**Points:** 550
+**Solves:** TODO
+**Author:** Togusa
 **Description:** 
 
-> Static
-> 550
-> 2 solves
-> 
-> http://public.givemesecurity.info/static.zip
+> [http://public.givemesecurity.info/static.zip](static.zip)
 > 
 > NOTE: THIS FLAG DOES NOT FOLLOW THE NORMAL FLAG FORMAT ( flag{secret} )
-> 
-> Author: Togusa
 
 ## Write-up
 

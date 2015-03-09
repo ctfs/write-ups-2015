@@ -1,17 +1,12 @@
-# OpenToAll CTF 2015: irc
+# OpenToAll CTF 2015: IRC
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Trivia
+**Points:** 10
+**Solves:** TODO
+**Author:** Eriner
 **Description:** 
 
-> IRC
-> 10
-> 50 solves
-> 
 > What is the best IRC client?
-> 
-> Author: Eriner
 
 ## Write-up
 

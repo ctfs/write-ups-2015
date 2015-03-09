@@ -1,14 +1,11 @@
-# OpenToAll CTF 2015: tf2
+# OpenToAll CTF 2015: TF2
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Misc
+**Points:** 100
+**Solves:** TODO
+**Author:** Eriner
 **Description:** 
 
-> TF2
-> 100
-> 3 solves
-> 
 > Eriner loves playing tf2.
 
 ## Write-up

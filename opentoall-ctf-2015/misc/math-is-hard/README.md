@@ -1,17 +1,12 @@
-# OpenToAll CTF 2015: math-is-hard
+# OpenToAll CTF 2015: Nath Is Hard
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category:** Misc
+**Points:** 200
+**Solves:** TODO
+**Author:** gaffe
 **Description:** 
 
-> Math is Hard
-> 200
-> 12 solves
-> 
 > 104.131.107.153:12121
-> 
-> Author: gaffe
 
 ## Write-up
 
