@@ -1,4 +1,4 @@
-# OpenToAll CTF 2015: Nath Is Hard
+# OpenToAll CTF 2015: Math Is Hard
 
 **Category:** Misc
 **Points:** 200
