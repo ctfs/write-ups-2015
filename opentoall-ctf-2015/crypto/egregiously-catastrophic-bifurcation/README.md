@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Original source and writeup](https://github.com/gaffe23/gaffe-ota2/tree/master/egregiously-catastrophic-bifurcation)
