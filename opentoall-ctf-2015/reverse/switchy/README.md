@@ -1,7 +1,7 @@
 # OpenToAll CTF 2015: Switchy
 
 **Category:** Reverse
-**Points:** 150 ?
+**Points:** 150
 **Solves:** TODO
 **Author:** gaffe
 **Description:** 
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Original source and writeup](https://github.com/gaffe23/gaffe-ota2/tree/master/switchy)
