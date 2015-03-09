@@ -20,7 +20,7 @@ Googling `Bach crypto` leads us to the Wikipedia entry for [Musical Cryptograms]
 
 There, we see that the alphabet is encoded into different notes and their [accidentals](http://en.wikipedia.org/wiki/Accidental_%28music%29) natural (♮), sharp (♯) and flat (♭).
 
-After some fiddlingm, we see that the decryption key is as follows:
+After some fiddling, we see that the decryption key is as follows:
 
 ```
 - A B C D E F G
