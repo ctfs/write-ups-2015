@@ -15,6 +15,7 @@
 * [misc/math-is-hard](misc/math-is-hard)
 * [misc/secure-server](misc/secure-server)
 * [misc/tf2](misc/tf2)
+* [reverse/capture-the-bool](reverse/capture-the-bool)
 * [reverse/static](reverse/static)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
@@ -30,4 +31,3 @@
 ## Missing write-ups
 
 * [crypto/enigma](crypto/enigma)
-* [reverse/capture-the-bool](reverse/capture-the-bool)
