@@ -12,6 +12,7 @@
 * [forensics/gone](forensics/gone)
 * [forensics/lost_flug](forensics/lost_flug)
 * [misc/android-oh-no](misc/android-oh-no)
+* [misc/math-is-hard](misc/math-is-hard)
 * [reverse/static](reverse/static)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
@@ -21,7 +22,6 @@
 ## External write-ups only
 
 * [crypto/egregiously-catastrophic-bifurcation](crypto/egregiously-catastrophic-bifurcation)
-* [misc/math-is-hard](misc/math-is-hard)
 * [reverse/advanced-risque-machine](reverse/advanced-risque-machine)
 * [reverse/switchy](reverse/switchy)
 
