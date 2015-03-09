@@ -14,7 +14,15 @@
 
 ## Write-up
 
-(TODO)
+We search for Eriner and OpenToAll and find [his Steam profile](http://steamcommunity.com/id/eriner) on [a personal website of his](http://givemesecurity.info/about/).
+
+After that, we have a look at [his inventory](http://steamcommunity.com/id/Eriner/inventory/), especially his TF2 inventory, and search for the keyword `flag`.
+
+We see an item listed under a customized name, which is also the flag:
+
+![](screen.png)
+
+The flag is `flag{Black_Box_White_Hat}`.
 
 ## Other write-ups and resources
 
