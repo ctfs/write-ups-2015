@@ -1,7 +1,7 @@
 # OpenToAll CTF write-ups
 
 * <http://ctf2.opentoall.net/>
-* [Scoreboard](http://ctf2.opentoall.net/scoreboard) or [here](solve_stats.txt)
+* [Scoreboard](http://ctf2.opentoall.net/scoreboard) or [here](scoreboard.txt)
 * [Number of solves per task](solve_stats.txt)
 
 ## Completed write-ups
