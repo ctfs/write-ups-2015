@@ -67,7 +67,7 @@ We see a strange author and, after some time, see that these are specific hex po
 Extracting the flag is possible through a quick bash cmd:
 
 ```bash
-$ exiftool a038218191c05846099054a9f21ff22a.png | sed '16q;d' | awk '{print $3}' | sed 's/\.//g' | grep --color=none -o ..... | while read p; do xxd "-s0x$p" -l1 -p a038218191c05846099054a9f21ff22a.png; done | xxd -r -p | xxd
+$ exiftool a038218191c05846099054a9f21ff22a.png | sed '16q;d' | awk '{print $3}' | sed 's/\.//g' | grep --color=none -o "....." | while read p; do xxd "-s0x$p" -l1 -p a038218191c05846099054a9f21ff22a.png; done | xxd -r -p
 flag{fck snow i has hat!}
 ```
 
