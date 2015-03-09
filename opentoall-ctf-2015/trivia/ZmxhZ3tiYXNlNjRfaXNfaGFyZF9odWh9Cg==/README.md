@@ -16,4 +16,4 @@ The flag is `flag{base64_is_hard_huh}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://team-jihfu.github.io/2015/03/09/otactf2-2015-trivia-4x10pts/#zmxhz3tiyxnlnjrfaxnfagfyzf9odwh9cg-10pts>
