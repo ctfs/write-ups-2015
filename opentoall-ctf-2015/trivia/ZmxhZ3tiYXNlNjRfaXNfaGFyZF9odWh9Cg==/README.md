@@ -10,9 +10,9 @@
 
 ## Write-up
 
-> The challenge title is a base64 encoded string, so we just have to decode the string, e.g. using `base64 --decode <<< 'ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg=='`.
+The challenge title is a base64 encoded string, so we just have to decode the string, e.g. using `base64 --decode <<< 'ZmxhZ3tiYXNlNjRfaXNfaGFyZF9odWh9Cg=='`.
 >
-> The flag is `flag{base64_is_hard_huh}`.
+The flag is `flag{base64_is_hard_huh}`.
 
 ## Other write-ups and resources
 

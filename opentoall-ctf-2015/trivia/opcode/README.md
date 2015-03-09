@@ -10,7 +10,7 @@
 
 ## Write-up
 
-> The answer and flag is `E9`.
+The answer and flag is `E9`.
 
 ## Other write-ups and resources
 
