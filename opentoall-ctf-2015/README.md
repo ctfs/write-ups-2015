@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [forensics/doggie](forensics/doggie)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
 * [trivia/opcode](trivia/opcode)
@@ -20,7 +21,6 @@
 * [crypto/egregiously-catastrophic-bifurcation](crypto/egregiously-catastrophic-bifurcation)
 * [crypto/enigma](crypto/enigma)
 * [forensics/catz](forensics/catz)
-* [forensics/doggie](forensics/doggie)
 * [forensics/gone](forensics/gone)
 * [forensics/lost_flug](forensics/lost_flug)
 * [misc/android-oh-no](misc/android-oh-no)
