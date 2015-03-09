@@ -29,7 +29,7 @@ After some fiddlingm, we see that the decryption key is as follows:
 ♭ V W X Y Z
 ```
 
-A similar example is <http://myplace.frontier.com/~evaew/wilkinsworks/NA_example_2.html>.
+A similar example is <http://myplace.frontier.com/~evaew/wilkinsworks/NA_example_2.html>, which is more explained [here](http://myplace.frontier.com/~evaew/wilkinsworks/NoteAlpha.html)
 
 The flag is `flag{erinersmusicalmasterpiece}`.
 
