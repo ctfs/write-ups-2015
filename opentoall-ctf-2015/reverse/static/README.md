@@ -2,7 +2,7 @@
 
 **Category:** Reverse
 **Points:** 550
-**Solves:** TODO
+**Solves:** 52
 **Author:** Togusa
 **Description:** 
 

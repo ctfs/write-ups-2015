@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 150
-**Solves:** TODO
+**Solves:** 14
 **Author:** Eriner
 **Description:** 
 

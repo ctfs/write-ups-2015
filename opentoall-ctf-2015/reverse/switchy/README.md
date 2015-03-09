@@ -2,7 +2,7 @@
 
 **Category:** Reverse
 **Points:** 150
-**Solves:** TODO
+**Solves:** 57
 **Author:** gaffe
 **Description:** 
 
