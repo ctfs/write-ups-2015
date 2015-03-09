@@ -10,6 +10,7 @@
 * [forensics/catz](forensics/catz)
 * [forensics/doggie](forensics/doggie)
 * [forensics/gone](forensics/gone)
+* [forensics/lost_flug](forensics/lost_flug)
 * [misc/android-oh-no](misc/android-oh-no)
 * [reverse/static](reverse/static)
 * [trivia/classic](trivia/classic)
@@ -27,7 +28,6 @@
 ## Missing write-ups
 
 * [crypto/enigma](crypto/enigma)
-* [forensics/lost_flug](forensics/lost_flug)
 * [misc/secure-server](misc/secure-server)
 * [misc/tf2](misc/tf2)
 * [reverse/capture-the-bool](reverse/capture-the-bool)
