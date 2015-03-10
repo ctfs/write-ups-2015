@@ -16,6 +16,7 @@
 * [misc/secure-server](misc/secure-server)
 * [misc/tf2](misc/tf2)
 * [reverse/capture-the-bool](reverse/capture-the-bool)
+* [reverse/switchy](reverse/switchy)
 * [reverse/static](reverse/static)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
@@ -27,7 +28,6 @@
 * [crypto/egregiously-catastrophic-bifurcation](crypto/egregiously-catastrophic-bifurcation)
 * [crypto/enigma](crypto/enigma)
 * [reverse/advanced-risque-machine](reverse/advanced-risque-machine)
-* [reverse/switchy](reverse/switchy)
 
 ## Missing write-ups
 
