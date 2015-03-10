@@ -1,4 +1,4 @@
-# Insomni’hack Teaser CTF 2015: Interview
+# Insomni’hack CTF Teaser 2015: Interview
 
 **Category:** Exploit
 **Points:** 300
