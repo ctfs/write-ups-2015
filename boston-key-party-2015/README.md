@@ -20,6 +20,7 @@
 * [Prudential](school-bus/prudential)
 * [Riverside](school-bus/riverside)
 * [Symphony](school-bus/symphony)
+* [Wellington](reversing/wellington)
 * [Wood Island](crypto/wood-island)
 
 ## External write-ups only
@@ -38,7 +39,6 @@
 * [Quincy Adams](pwning/quincy-adams)
 * [Quincy Center](pwning/quincy-center)
 * [Sullivan Square](reversing/sullivan-square)
-* [Wellington](reversing/wellington)
 * [Wonderland](crypto/wonderland)
 
 ## Missing write-ups
