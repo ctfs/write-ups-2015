@@ -12,7 +12,7 @@
 Using `file`, wee see that we are given an ext4 image:
 
 ```bash
-$ file file secretArchive.6303dd5dbddb15ca9c4307d0291f77f4
+$ file secretArchive.6303dd5dbddb15ca9c4307d0291f77f4
 ecretArchive.6303dd5dbddb15ca9c4307d0291f77f4: Linux rev 1.0 ext4 filesystem data (extents) (huge files) 
 ```
 
