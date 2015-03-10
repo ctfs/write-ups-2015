@@ -9,7 +9,7 @@
 
 ## Write-up
 
-Reading the [official specification](https://www.opennetworking.org/images/stories/downloads/sdn-resources/onf-specifications/openflow/openflow-spec-v1.0.0.pdf) and searching for `modification`, we see in section `4.6 Flow Table Modification Messages` the `OFPFC_ADD` type foradding a New flow.
+Reading the [official specification](https://www.opennetworking.org/images/stories/downloads/sdn-resources/onf-specifications/openflow/openflow-spec-v1.0.0.pdf) and searching for `modification`, we see in section `4.6 Flow Table Modification Messages` the `OFPFC_ADD` type for adding a New flow.
 
 ## Other write-ups and resources
 
