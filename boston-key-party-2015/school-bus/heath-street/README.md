@@ -9,7 +9,7 @@
 
 ## Write-up
 
-Using `file`, wee see that we are given a ext4 image:
+Using `file`, wee see that we are given an ext4 image:
 
 ```bash
 $ file file secretArchive.6303dd5dbddb15ca9c4307d0291f77f4
