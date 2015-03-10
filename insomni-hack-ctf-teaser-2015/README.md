@@ -1,4 +1,4 @@
-# Insomni’hack CTF 2015 write-ups
+# Insomni’hack CTF Teaser 2015 write-ups
 
 * <https://teaser.insomnihack.ch/>
 * [Scoreboard](https://teaser.insomnihack.ch/scoreboard)

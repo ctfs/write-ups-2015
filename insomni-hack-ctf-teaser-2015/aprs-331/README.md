@@ -1,4 +1,4 @@
-# Insomni’hack CTF 2015: APRS/331
+# Insomni’hack CTF Teaser 2015: APRS/331
 
 **Category:** Exploit
 **Points:** 300

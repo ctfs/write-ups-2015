@@ -1,4 +1,4 @@
-# Insomni’hack CTF 2015: Baby Haskell
+# Insomni’hack CTF Teaser 2015: Baby Haskell
 
 **Category:** Reverse
 **Points:** 100
