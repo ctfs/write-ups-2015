@@ -72,7 +72,7 @@ The flag is `flag{Komitet_gosudarstvennoy_bezopasnosti}`.
 Another solution is to `grep` for specific strings:
 
 ```bash
-$ strings -a | grep -i kgb
+$ strings -a secretArchive.6303dd5dbddb15ca9c4307d0291f77f4 | grep -i kgb
 0kgb1
 w<kGba
 kkGbk
