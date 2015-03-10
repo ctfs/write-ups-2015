@@ -1,4 +1,4 @@
-# Insomni’hack CTF 2015: YNOS
+# Insomni’hack CTF Teaser 2015: YNOS
 
 **Category:** Web
 **Points:** 100
