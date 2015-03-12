@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet

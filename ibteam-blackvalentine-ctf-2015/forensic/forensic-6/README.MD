@@ -5,7 +5,7 @@
 **Author:** mirfansulaiman
 **Description:** 
 
-> http://ctf.web-attack.info/misssion/12
+> * [get.pdf](get.pdf)
 
 ## Write-up
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet

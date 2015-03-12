@@ -3,8 +3,10 @@
 **Category:** Misc
 **Points:** 400
 **Author:** abdilahrf
-**Description:** out of the box
+**Description:** 
 
+> out of the box
+>
 > * [gamebotis.zip](gamebotis.zip)
 
 ## Write-up
@@ -13,4 +15,4 @@
 
 ## Other write-ups and resources
 
-(NONE)
+* none yet
