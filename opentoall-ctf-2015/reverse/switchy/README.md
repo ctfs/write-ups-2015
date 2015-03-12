@@ -93,3 +93,4 @@ This way, we get the flag `flag{switch jump pogo pogo bounce}`.
 ## Other write-ups and resources
 
 * [Original source and writeup](https://github.com/gaffe23/gaffe-ota2/tree/master/switchy)
+* <https://0x44696f21.wordpress.com/2015/03/11/switchy-opentoall-ctf-2015/>
