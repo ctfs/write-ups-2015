@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/saelo/9e6934b3c40cf42e3f87>
