@@ -75,7 +75,7 @@ print r.randrange(0, 1000)
 This gives `729`, which is exactly what we were looking for.
 
 Quick little solution:
-```
+```python
 import cPickle as pickle
 from random import WichmannHill
 import base64
