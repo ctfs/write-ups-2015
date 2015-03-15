@@ -12,6 +12,7 @@
 
 * [pwnable/mashed-potato](pwnable/mashed-potato)
 * [trick/guesspw](trick/guesspw)
+* [web/owlur](web/owlur)
 
 ## Missing write-ups
 
@@ -29,4 +30,3 @@
 * [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [web/owltube](web/owltube)
-* [web/owlur](web/owlur)
