@@ -10,7 +10,7 @@
 
 ## External write-ups only
 
-* none yet
+* [trick/guesspw](trick/guesspw)
 
 ## Missing write-ups
 
@@ -28,6 +28,5 @@
 * [reversing/dodocrackme2](reversing/dodocrackme2)
 * [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
-* [trick/guesspw](trick/guesspw)
 * [web/owltube](web/owltube)
 * [web/owlur](web/owlur)
