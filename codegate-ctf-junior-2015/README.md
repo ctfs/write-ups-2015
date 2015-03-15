@@ -15,9 +15,9 @@
 
 * [misc/return](misc/return)
 * [misc/urandom](misc/urandom)
-* [programming/good-crypto](https://github.com/ctfs/write-ups-2015/codegate-ctf-2015/programming/good-crypto)
+* [programming/good-crypto](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/programming/good-crypto)
 * [pwnable/cheip](pwnable/cheip)
 * [pwnable/shellme](pwnable/shellme)
-* [pwnable/systemshock](https://github.com/ctfs/write-ups-2015/codegate-ctf-2015/pwnable/systemshock)
-* [trick/guesspw](https://github.com/ctfs/write-ups-2015/codegate-ctf-2015/trick/guesspw)
-* [web/owlur](https://github.com/ctfs/write-ups-2015/codegate-ctf-2015/web/owlur)
+* [pwnable/systemshock](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/pwnable/systemshock)
+* [trick/guesspw](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/trick/guesspw)
+* [web/owlur](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/web/owlur)
