@@ -1,7 +1,7 @@
 # CodeGate General CTF write-ups
 
 * <http://general.grayhash.com/html/Main.html?lang=eng>
-* [Scoreboard](http://general.grayhash.com/html/Main.html?page=rank) or [here](TODOLOCAL)
+* [Scoreboard](http://general.grayhash.com/html/Main.html?page=rank) or [here](scoreboard.txt)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
