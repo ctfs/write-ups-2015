@@ -1,0 +1,139 @@
+1     ppp(PPP)                                      8390 
+2     Orange(HITCON)                                5430 
+3     gallopsled(Gallopsled)                        5160 
+4     YYY(Yellowstone Yachtsclub of Yawning)        5100 
+5     cykor(CyKor)                                  4780 
+6     0ops(0ops)                                    4740 
+7     blue-lotus(blue-lotus)                        4630 
+8     CLGT(CLGT)                                    4400 
+9     whiteland(SoloPlaying)                        4300 
+10    Dragon Sector(Dragon Sector)                  3810 
+11    alter(Alternatives)                           3700 
+12    tomcr00se(tomcr00se)                          3560 
+13    StratumAuhuur(StratumAuhuur)                  3520 
+14    samurai(samurai)                              3410 
+15    KAIST GoN(KAIST GoN)                          3400 
+16    HackingForSoju(HackingForSoju)                3340 
+17    mongols(mongols)                              3300 
+18    int3pids(int3pids)                            3200 
+19    binja(binja)                                  2900 
+20    tasteless(tasteless)                          2900 
+21    penthackon(penthackon)                        2400 
+22    pollypocket(pollypocket)                      2400 
+23    KITCTF(KITCTF)                                2000 
+24    BambooFox(BambooFox)                          1930 
+25    Shellphish(Shellphish)                        1910 
+26    advictoriam(Ad Victoriam)                     1900 
+27    SpamAndHex(SpamAndHex)                        1800 
+28    0x8F(0x8F)                                    1700 
+29    sigma(sigma)                                  1600 
+30    meumeu(meumeu)                                1500 
+31    Eindbazen(Eindbazen)                          1100 
+32    amn3s1a_team(amn3s1a)                         1000 
+33    hacknamstyle(Hacknamstyle)                    1000 
+34    dcua(dcua)                                    910  
+35    plus(plus)                                    900  
+36    0x0(0x0)                                      900  
+37    0x1337(0x1337)                                900  
+38    rentjong(rentjong)                            900  
+39    mma(MMA)                                      900  
+40    PiggyBird(PiggyBird)                          900  
+41    khack40(khack40)                              900  
+42    Smoke Leet Everyday(Smoke Leet Everyday)      900  
+43    str(Snatch The Root)                          900  
+44    dinggul(내부츠에뱀이들어있다)       800  
+45    datnoobs(DatNoobs)                            800  
+46    zxcv(zxcv)                                    800  
+47    rdot(RDot.Org)                                730  
+48    yesyes(yesyes)                                700  
+49    aegis(aegis)                                  700  
+50    team.leaveret(LeaveRet)                       700  
+51    ZenSecurity(ZenSecurity)                      600  
+52    VXRL(VXRL)                                    600  
+53    guardian(Guardian)                            600  
+54    pwndevils(pwndevils)                          600  
+55    peanuts(peanuts)                              520  
+56    Spiderz(Spiderz)                              500  
+57    Neg9(Neg9)                                    500  
+58    ctscd2015(Capture the Swag)                   500  
+59    cothan(efiens)                                500  
+60    certis(CERT-IS)                               500  
+61    On est pas contents(On est pas contents)      500  
+62    tails(tails)                                  400  
+63    PwnThyBytes(PwnThyBytes)                      400  
+64    BabyPhD(BabyPhD)                              400  
+65    13(13)                                        400  
+66    synack(synack)                                400  
+67    hxc(HxC)                                      400  
+68    HA_team(autoever)                             400  
+69    ORANG(LeaveRet)                               400  
+70    kuics(KUICS)                                  400  
+71    smokeleeteveryday(smoke leet everyday)        400  
+72    0x00(0x00)                                    300  
+73    bongo(BONGo)                                  300  
+74    codegay(코드게이)                         300  
+75    pwn1ad1n(Pwnladin)                            300  
+76    monsterz(M0nst3rZ)                            300  
+77    yjyfrombnu(RoyalPanda)                        300  
+78    hmg0228(HeXA)                                 300  
+79    MIBH(Masters in Bear Hunting)                 300  
+80    ForbiddenBITs(ForboddenBITs)                  300  
+81    TyrannoKing(TyrannoKing)                      300  
+82    johnCool(johnCool)                            300  
+83    shiomoomin(shiomoomin)                        300  
+84    anemptyfridge(an empty fridge)                300  
+85    0daysober(0daysober)                          200  
+86    wuyan(ChangLe)                                200  
+87    ReallyNonamesFor(ReallyNonamesFor)            200  
+88    WWW(WWW)                                      200  
+89    Bono(Bono_iPad)                               200  
+90    H4x0rPsch0rr(H4x0rPsch0rr)                    200  
+91    kroot(Kroot)                                  200  
+92    kknock(kknock)                                200  
+93    hankein(white-shark)                          200  
+94    ttys031(n0tr00t)                              200  
+95    argosargos(argosargos)                        200  
+96    GeeksSpeak(GeeksSpeak)                        200  
+97    lsm(Leaveret)                                 200  
+98    razy(RaZy)                                    200  
+99    Church0x41(Church of 0x41414141)              200  
+100   Sanguine(LeaveRet)                            200  
+101   oneup(oneup)                                  200  
+102   UFOlogists(UFOlogists)                        200  
+103   rhelmot(1064CBread)                           200  
+104   despair(despair)                              200  
+105   epicleet(Epic Leet Team)                      200  
+106   jmpjerry(j_s)                                 200  
+107   n3v(DebugTeam)                                200  
+108   holycat(holycat)                              200  
+109   CS-WAT(CS-WAT)                                200  
+110   unreadable(********)                          200  
+111   unlimit(EmpiRascaLimit)                       200  
+112   Honeypot(Honeypot)                            200  
+113   blah(blah)                                    200  
+114   nerdlesie(CLGT)                               200  
+115   KawaiiMare(Steady as a poi)                   200  
+116   wumaiai(wumai)                                200  
+117   bcs(bcs)                                      200  
+118   qwqw(qwqw)                                    200  
+119   spz(OPT)                                      200  
+120   Hanoiati(Tower of Hanoi)                      200  
+121   phieulang1993(0nePiec3)                       200  
+122   Sinon(Sinon)                                  200  
+123   daumkakao(위아래)                          200  
+124   pr0v3rbs(pr0v3rbs)                            200  
+125   SegFault(SegFault)                            200  
+126   psuje(psuje)                                  200  
+127   67854903(Koibasta)                            200  
+128   bebz(bebz)                                    200  
+129   sysenter(Team31)                              100  
+130   vulnhub-ctf(vulnhub-ctf)                      100  
+131   lino(HeXA)                                    100  
+132   r00tiniers(r00tiniers)                        100  
+133   testteampleaseignore(testteampleaseignore)    100  
+134   monads("monads")                              100  
+135   azeotrope(azeotropic)                         100  
+136   whitehatters(WCSC)                            100  
+137   hongline3(No_Team)                            100  
+138   b0n0world(Fr0zenB33r)                         100  
+139   bsc(BSC)                                      100  
