@@ -44,14 +44,14 @@ Current money: $90
 Oh.. okay then. Bye!
 ```
 The ID is base64 encoded. Decoding it gives the following:
-```
+```python
 >>> from base64 import b64decode
 >>> b64decode("KEkxCihJMTg4MDkKSTg0MDIKSTIwNjUzCnRwMQpOdC4=")
 '(I1\n(I18809\nI8402\nI20653\ntp1\nNt.'
 >>>
 ```
 This looks like python's Pickle format:
-```
+```python
 >>> import pickle
 >>> s = b64decode("KEkxCihJMTg4MDkKSTg0MDIKSTIwNjUzCnRwMQpOdC4=")
 >>> pickle.loads(s)
@@ -59,7 +59,7 @@ This looks like python's Pickle format:
 >>>
 ```
 This gives us the seed for a random number generator. It's not large enough to be used as the seed for the default python random number generator (MersenneTwiter), but it is the correct format for python's previous default random number generator: Wichmann-Hill.
-```
+```python
 from cPickle import *
 from random import WichmannHill
 from base64 import b64decode
