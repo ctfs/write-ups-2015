@@ -1,0 +1,8 @@
+cheip        74
+urandom      42
+return       12
+guesspw      6
+systemshock  4
+owlur        4
+shellme      0
+good-crypto  0

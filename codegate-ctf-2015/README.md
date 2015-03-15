@@ -2,6 +2,7 @@
 
 * <http://general.grayhash.com/html/Main.html?lang=eng>
 * [Scoreboard](http://general.grayhash.com/html/Main.html?page=rank) or [here](TODOLOCAL)
+* [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 

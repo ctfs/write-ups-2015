@@ -1,0 +1,17 @@
+systemshock               92
+owlur                     76
+guesspw                   74
+owltube                   48
+pirate-danbi              24
+bookstore                 22
+mashed-potato             17
+icbm                      17
+good-crypto               15
+beef-steak                8
+rodent                    5
+sokoban                   3
+oemu                      3
+weff                      1
+dodocrackme2              1
+arc4-stranger             1
+olive-and-mushroom-pizza  0
