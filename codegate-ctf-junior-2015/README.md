@@ -1,7 +1,7 @@
 # CodeGate Junior CTF write-ups
 
 * <http://junior.grayhash.com/html/Main.html?page=challenges>
-* [Scoreboard](http://junior.grayhash.com/html/Main.html?page=rank) or [here](TODOLOCAL)
+* [Scoreboard](http://junior.grayhash.com/html/Main.html?page=rank) or [here](scoreboard.txt)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
