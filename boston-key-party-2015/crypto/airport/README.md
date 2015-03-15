@@ -17,3 +17,4 @@
 * <http://tasteless.eu/2015/03/boston-key-part-2015-airport-crypto-500/>
 * <https://kitctf.de/writeups/bkp2015/airport/>
 * <https://github.com/pwning/public-writeup/blob/master/bkp2015/crypto500-airport/writeup.md>
+* <https://neg9.org/news/2015/3/8/boston-key-party-2015-airport-crypto-500-writeup>
