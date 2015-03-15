@@ -5,7 +5,7 @@
 **Author:** abdilahrf
 **Description:**
 
-> Directory Listing `http://ctf.web-attack.info/soalweb/Web1/`
+> Directory Listing http://ctf.web-attack.info/soalweb/Web1/
 
 ## Write-up
 

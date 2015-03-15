@@ -7,7 +7,7 @@
 
 > Clue: Wota , Password: `Nz3#s)2=1@./AS|\sas;192Sljd!*&^`
 >
-> * [Forensic-2.zip](Forensic-2.zip)
+> http://ctf.web-attack.info/misssion/7
 
 ## Write-up
 

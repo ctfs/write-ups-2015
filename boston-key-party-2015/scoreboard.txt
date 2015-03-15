@@ -1,0 +1,828 @@
+1   PPP                                               6445
+2   HITCON                                            6145
+3   samurai                                           5545
+4   Wizards of [N|R]?ops                              5270
+5   Gallopsled                                        4920
+6   BalalaikaCr3w                                     4520
+7   Tracer Tea                                        4445
+8   penthackon                                        4420
+9   Dragon Sector                                     4345
+10  blue-lotus                                        4295
+11  tasteless                                         4245
+12  More Smoked Leet Chicken                          4195
+13  gn00bz                                            4070
+14  0x8F                                              3720
+15  int3pids                                          3645
+16  KAIST GoN                                         3545
+17  0ops                                              3470
+18  dcua                                              3445
+19  RPISEC                                            3370
+20  Neg9                                              3345
+21  Made Infamous By Hacking                          3270
+22  H4x0rPsch0rr                                      3170
+23  SpamAndHex                                        3095
+24  meumeu                                            3070
+25  Marauders                                         3045
+26  binja                                             2995
+27  9447                                              2945
+28  Haxation without Representation                   2920
+29  0x0                                               2870
+30  MMA                                               2745
+31  KITCTF                                            2745
+32  [Redacted]                                        2545
+33  CLGT                                              2445
+34  StratumAuhuur                                     2370
+35  CISSP Groupies                                    2320
+36  cyberkastike                                      2245
+37  &quot;monads&quot;                                2170
+38  SUSlo.PAS                                         2020
+39  SegFault                                          1920
+40  ANIMEDAD                                          1870
+41  [censored]                                        1870
+42  SIGINT                                            1795
+43  negainoido                                        1770
+44  Eindbazen                                         1770
+45  Lab RATs                                          1745
+46  defragmented.brains                               1720
+47  jandy&apos;s tv                                   1670
+48  PartOfShellphish                                  1620
+49  The Expendables                                   1595
+50  Rentjong                                          1520
+51  WCSC                                              1495
+52  Without Proper Instructions                       1470
+53  Amber Chamber                                     1470
+54  backzogtum                                        1370
+55  RainbowMagicPrincessFairies                       1370
+56  1064CBread                                        1320
+57  TRex                                              1295
+58  61r1s10                                           1270
+59  0xbadf00d                                         1270
+60  PwnThyBytes                                       1270
+61  Kernel Space Invaders                             1245
+62  Snatch The Root                                   1220
+63  CSI Oryza                                         1170
+64  UscherbGuild                                      1170
+65  18739-PPP-02                                      1120
+66  BitsForEveryone                                   1120
+67  b3nder                                            1095
+68  l0nely_maur                                       1095
+69  blacksocks                                        1070
+70  We_0wn_Y0u                                        1045
+71  TyrannoKing                                       1020
+72  The Eh Team                                       1020
+73  WeAreScientists                                   1020
+74  cykor                                             970 
+75  AFiniteNumberOfMonkeys                            970 
+76  Ad Victoriam                                      960 
+77  Hexcellents                                       920 
+78  r00tiniers                                        920 
+79  XOROR                                             895 
+80  Bono_iPad                                         895 
+81  Wiremask                                          870 
+82  Bushwhackers                                      870 
+83  b01lers                                           870 
+84  No Internet Access                                870 
+85  STT                                               820 
+86  BigGasWarship                                     820 
+87  g3ntlyHckrs                                       820 
+88  BU                                                820 
+89  SugaryTights                                      820 
+90  LosFuzzys                                         820 
+91  0xbb00000x666666                                  770 
+92  LSE                                               770 
+93  noraneco                                          770 
+94  Singularity                                       770 
+95  Insecurity                                        770 
+96  abctf                                             745 
+97  0daysober                                         745 
+98  fuffateam                                         720 
+99  NYUSEC                                            720 
+100 SSHZ.ORG                                          720 
+101 ascii_goatse                                      720 
+102 SSHZ                                              720 
+103 hipmunk                                           720 
+104 Spiderz                                           720 
+105 DatNoobs                                          710 
+106 BilkentSec                                        670 
+107 Hanoiati                                          670 
+108 Intrusion Injection System                        670 
+109 Honeypot                                          670 
+110 DebugTeam                                         620 
+111 Torch                                             620 
+112 Vegan Zombies                                     620 
+113 YMHC.gz                                           620 
+114 Batman&apos;s Kitchen                             620 
+115 HacknamStyle                                      620 
+116 SUCSS                                             620 
+117 ********                                          620 
+118 rema                                              620 
+119 Hardc0de                                          610 
+120 GeeksSpeak                                        595 
+121 sherl0ck                                          595 
+122 3ll060                                            595 
+123 Peterpen                                          595 
+124 DTUHax                                            570 
+125 Like a heron                                      570 
+126 NoviceNinjas                                      570 
+127 swehack                                           570 
+128 HackITGuys                                        570 
+129 竹田氏                                            570 
+130 aPONYmous_PL                                      570 
+131 cyberbananen                                      570 
+132 RDot.Org                                          570 
+133 G&apos;Eve                                        560 
+134 xff-xe4                                           545 
+135 dodododo                                          545 
+136 0b0000010100111001                                545 
+137 ECX Inc.                                          520 
+138 Flehmen Response                                  520 
+139 18739-PPP-01                                      520 
+140 1338-offbyone                                     520 
+141 jfhs                                              520 
+142 an empty fridge                                   520 
+143 Equation                                          510 
+144 ANeSeC                                            510 
+145 The Pacman&apos;s Army                            510 
+146 whatever you want                                 500 
+147 morganFr33man                                     470 
+148 TheGoonSquad                                      470 
+149 Souhail                                           470 
+150 HackingForSoju                                    460 
+151 $WHO                                              445 
+152 ASIS                                              435 
+153 Church of 0x41414141                              420 
+154 Spartan Security                                  420 
+155 RobotMafia                                        420 
+156 seven                                             420 
+157 khack40                                           420 
+158 SomeRandomName                                    420 
+159 !=Sunny-D                                         420 
+160 0x1337                                            420 
+161 infoobar                                          420 
+162 VendorPool                                        420 
+163 NULL Life                                         420 
+164 sh!om0@m1n                                        420 
+165 testteampleaseignore                              420 
+166 psuje                                             420 
+167 MasalaDDosa                                       420 
+168 Hopjesvla                                         420 
+169 Cheating Owls                                     420 
+170 On est pas contents                               420 
+171 XVHHV                                             420 
+172 olga                                              420 
+173 CTF-infinit                                       420 
+174 captchaflag                                       410 
+175 PTSD                                              410 
+176 The Tunisian Cooks                                410 
+177 sec0d                                             410 
+178 Sloth Krew                                        395 
+179 Quarks and Gluons                                 385 
+180 odg                                               370 
+181 Yamagi.com                                        370 
+182 Crimson Agents                                    370 
+183 RoyalPanda                                        360 
+184 SiBears                                           345 
+185 Spark Gap Counter Point                           320 
+186 ToxicBandits                                      320 
+187 bucsec                                            320 
+188 CS-WAT                                            320 
+189 Alternatives1                                     320 
+190 CDAL                                              320 
+191 omakase                                           320 
+192 UTDCSG                                            320 
+193 n0l3ptr                                           320 
+194 hu3br                                             320 
+195 SwarmBall                                         320 
+196 ForbiddenBITS                                     320 
+197 Epic Leet Team                                    320 
+198 scryptos                                          320 
+199 FluxFingers                                       320 
+200 scan.net                                          320 
+201 lcmafia                                           320 
+202 pdgn                                              320 
+203 1up                                               320 
+204 Delusions of Grandeur                             320 
+205 Peanuts                                           320 
+206 mau5                                              320 
+207 Hexpresso                                         320 
+208 tuat_mcc                                          320 
+209 CAFEBABE                                          320 
+210 nopnopnop                                         320 
+211 RooterX                                           320 
+212 R&amp;D                                           320 
+213 AsssassiNOPs                                      310 
+214 InfinityPwn                                       310 
+215 Catbug                                            310 
+216 Death Dragons 666                                 310 
+217 Owl                                               310 
+218 hduisa                                            310 
+219 VXRL                                              310 
+220 The0x43Team                                       310 
+221 Bottom of the Bottle                              295 
+222 USSL                                              285 
+223 blwgo                                             285 
+224 bl4nk                                             270 
+225 WhiteHat                                          270 
+226 teamNick                                          270 
+227 Lets Chat about these Baggy Pants                 270 
+228 squareroots                                       270 
+229 p0wn_M@ch!n3                                      270 
+230 s3@lUrF8                                          270 
+231 CDM                                               270 
+232 lulz                                              270 
+233 WizardVan                                         270 
+234 gooligans                                         270 
+235 random12345                                       270 
+236 OneManRescue                                      270 
+237 ABC                                               270 
+238 vuls                                              270 
+239 abr1k0s                                           270 
+240 e2.8a.95                                          270 
+241 Sh4rk                                             270 
+242 Hackademics                                       270 
+243 BkitSec                                           270 
+244 sbs                                               270 
+245 rootroot.ru                                       270 
+246 Team Reboot                                       270 
+247 tomcr00se                                         260 
+248 overflowsec                                       260 
+249 hackgyver                                         260 
+250 girav                                             260 
+251 anlolz                                            260 
+252 pizzaman                                          260 
+253 shin.jp                                           260 
+254 PeakChaos                                         245 
+255 hav0k                                             245 
+256 sk                                                245 
+257 alone                                             235 
+258 chinsukou007                                      235 
+259 f4ckY0u                                           235 
+260 P1SC3S                                            220 
+261 Flaming Trolls                                    220 
+262 Centaurs                                          220 
+263 Ping-Mic                                          210 
+264 123qweasd                                         210 
+265 lalala                                            210 
+266 doublegoat                                        210 
+267 ArrBas                                            195 
+268 ClevCode Rising                                   170 
+269 FourFourFourFour                                  170 
+270 JacobJacob                                        170 
+271 kbot                                              170 
+272 Drinkspiration                                    170 
+273 BonziBuddy                                        170 
+274 Input Validation                                  170 
+275 TeamRedAce                                        170 
+276 buzzlightyear                                     170 
+277 YOLO                                              170 
+278 uosec                                             170 
+279 Turbo                                             170 
+280 OPT                                               170 
+281 Nosleep                                           170 
+282 JDI                                               170 
+283 Detox                                             170 
+284 Infosec Katy Perry                                170 
+285 bl4de                                             170 
+286 Charo                                             170 
+287 vulnhub-ctf                                       170 
+288 decrepitgoats                                     170 
+289 philosor0pters                                    170 
+290 PolyHack                                          170 
+291 BranU                                             170 
+292 Charles_Yang                                      170 
+293 Noobs1337                                         170 
+294 Free the Mallocs                                  170 
+295 Never Stop Exploiting                             170 
+296 matsuki_svenson                                   170 
+297 nullify                                           170 
+298 Caspian                                           170 
+299 konoos                                            170 
+300 mofumofu                                          170 
+301 satao_fs                                          170 
+302 eHaCK                                             170 
+303 Dam flud la dusmani                               170 
+304 OptiNergo                                         170 
+305 heks                                              170 
+306 Solo Queue                                        170 
+307 0x1700B NiNJA                                     170 
+308 SDSLabs                                           170 
+309 TwerkingPwnies                                    170 
+310 FAUST                                             160 
+311 Goon Squad                                        160 
+312 Bitnuts                                           160 
+313 abagoforgans                                      160 
+314 B-blue                                            160 
+315 Codefocus                                         160 
+316 area0x41                                          160 
+317 1.26AM                                            160 
+318 DING                                              160 
+319 8ij9hg                                            160 
+320 ISITDTU                                           160 
+321 L1ght4Freedom                                     160 
+322 Jarett                                            160 
+323 Les batards de bordeaux                           160 
+324 birabira                                          160 
+325 BelumAdaNama                                      160 
+326 koibasta                                          160 
+327 fawerfdsfase                                      160 
+328 Three                                             160 
+329 KimchiMan                                         160 
+330 qqq                                               160 
+331 untitled                                          160 
+332 despair                                           160 
+333 test1231                                          160 
+334 justinbi                                          160 
+335 BabyPhD                                           160 
+336 red scorpion                                      160 
+337 lanbing                                           160 
+338 some_usual_team                                   160 
+339 duang                                             160 
+340 UFOlogists                                        160 
+341 devsn.se                                          160 
+342 cy                                                160 
+343 3asba                                             160 
+344 Dozty                                             160 
+345 wasamusume                                        160 
+346 ytraP yeK notsoB                                  160 
+347 LockDown                                          160 
+348 The Darkbit                                       160 
+349 turducken                                         160 
+350 achn30                                            160 
+351 blackflame                                        160 
+352 Cheating Owls #2                                  160 
+353 Coffee with Jason                                 160 
+354 andervish                                         160 
+355 Cheating Owls:1YQkx0:4JZZcHHXOyptFP0ioF9YMlXQBAo  160 
+356 test                                              160 
+357 Los Amigos                                        160 
+358 All Hail Hypno Toad                               160 
+359 TeamUS                                            160 
+360 uhd                                               160 
+361 CureSecure                                        160 
+362 PiggyBird                                         150 
+363 honeydrinkers                                     150 
+364 TeamName11223344556677                            150 
+365 mumumu                                            150 
+366 Steampunkers                                      145 
+367 Duvel                                             145 
+368 Capture the Swag                                  145 
+369 The DHARMA Initiative                             145 
+370 in/s/ane                                          145 
+371 NotNull                                           145 
+372 B3averTh1ef                                       145 
+373 bypass                                            145 
+374 Shadow                                            145 
+375 fuhgeddaboudit                                    145 
+376 Epic Butter Chicken                               145 
+377 bdbd                                              145 
+378 NIS                                               145 
+379 xL3gi0n                                           145 
+380 Jack1337                                          145 
+381 popo                                              145 
+382 nanerpwn                                          145 
+383 zonda                                             145 
+384 sbrk.io                                           145 
+385 McBernick                                         135 
+386 JustTestinTeam                                    135 
+387 Go_Back                                           135 
+388 .hack//spartan                                    135 
+389 newheart                                          135 
+390 pidar                                             135 
+391 u609                                              135 
+392 Gunn HS                                           135 
+393 TheLastTeam                                       135 
+394 WOCAO                                             135 
+395 Wifi                                              135 
+396 flarrow                                           135 
+397 π                                                 135 
+398 FLASHARROW                                        135 
+399 plus                                              135 
+400 haha                                              135 
+401 omnious                                           135 
+402 SomersetChemist                                   135 
+403 _ILIT.Team                                        135 
+404 NewWorldKing                                      135 
+405 RaulHC                                            135 
+406 ojvosj                                            135 
+407 Atlas                                             135 
+408 th3jackers                                        135 
+409 Sn0rl3x                                           135 
+410 CSD                                               135 
+411 Sample Text                                       135 
+412 YOKARO-MON                                        135 
+413 GISA                                              135 
+414 TaekwonDodo                                       135 
+415 put it in a matrix                                135 
+416 d3cr3p1t                                          135 
+417 38special                                         135 
+418 tester2                                           135 
+419 SecPulse.com                                      135 
+420 r3b00+                                            135 
+421 D4rKL1ght                                         135 
+422 Azazael                                           135 
+423 pumptrial                                         125 
+424 BCS                                               125 
+425 ISS                                               120 
+426 Not_A_Number                                      120 
+427 cuti                                              120 
+428 0x09                                              120 
+429 IDK_IDC                                           120 
+430 noname                                            120 
+431 D4rwinb0ts                                        120 
+432 lonelyhacker                                      120 
+433 okudo3                                            120 
+434 NCC1701D                                          120 
+435 wight                                             120 
+436 Guardians of Lizard Squad                         110 
+437 TurkSec                                           110 
+438 blah                                              110 
+439 Kardashians                                       110 
+440 HST                                               110 
+441 PS                                                110 
+442 vito@legitbs.net                                  110 
+443 Register                                          110 
+444 littlebobbytables                                 110 
+445 ddf                                               110 
+446 nukuku                                            110 
+447 ZhaBo                                             110 
+448 hurr                                              110 
+449 Codernate                                         110 
+450 b33p                                              110 
+451 LeafKnien                                         110 
+452 badfood                                           110 
+453 ZJU-CS                                            110 
+454 rmrf                                              110 
+455 s1i                                               110 
+456 TeamImage                                         110 
+457 onetwothree                                       110 
+458 X+1                                               110 
+459 The Reiserfs APpreciation Society                 110 
+460 Gereeter                                          110 
+461 em00                                              110 
+462 FlappyPig                                         110 
+463 chuck14                                           110 
+464 crazedpsyc                                        100 
+465 itlab                                             100 
+466 DiGIMON                                           100 
+467 rabidwh0re                                        100 
+468 przemek_aus                                       100 
+469 Hawks                                             95  
+470 7U53c                                             95  
+471 -.-                                               95  
+472 DayZero South Alabama                             95  
+473 nulltester1                                       95  
+474 ktmtester                                         95  
+475 quantumCode                                       95  
+476 Team Name                                         95  
+477 torikabuto                                        95  
+478 73@M7                                             95  
+479 Packet_Monkeys                                    95  
+480 RandomGuys                                        95  
+481 $7UNF15K                                          95  
+482 d                                                 85  
+483 The Arghitecht                                    85  
+484 nornir                                            85  
+485 pbj                                               85  
+486 serr                                              85  
+487 Kurawa In Disorder                                85  
+488 /&gt;&lt;script&gt;alert(1);&lt;/script&gt;       85  
+489 Caonima                                           85  
+490 ab                                                85  
+491 Grey Flat Caps                                    85  
+492 Invisible Shield                                  85  
+493 TZtest                                            85  
+494 NEThink                                           85  
+495 v3gs                                              85  
+496 Kasa                                              85  
+497 Sturdy Arch Devils                                85  
+498 CH1M@C                                            85  
+499 Linusky                                           85  
+500 calt                                              85  
+501 ZenosDance                                        85  
+502 Some Assembly Required                            85  
+503 bluemeanie                                        85  
+504 Hawk1n5                                           85  
+505 Rick_Lin                                          85  
+506 bean3.14bandits                                   85  
+507 Never Stop Exploting                              75  
+508 honeybadger                                       75  
+509 hojung                                            75  
+510 NeuralCommon                                      70  
+511 Random Hackcess Memory                            70  
+512 Hackamole                                         70  
+513 apsum                                             70  
+514 Game Of Pwns                                      70  
+515 tfwnogf                                           70  
+516 p03p0wn                                           70  
+517 nicotacco                                         70  
+518 trapstuhs                                         70  
+519 Ozi                                               70  
+520 hashtag                                           70  
+521 prosto_13ya                                       70  
+522 The Lemons                                        60  
+523 D4m4g3                                            60  
+524 nsEP                                              60  
+525 logicalway                                        60  
+526 d.d.d                                             60  
+527 Entropy                                           60  
+528 hacklab.kr                                        60  
+529 Very Bad Burrito                                  60  
+530 Dystopian Narwhals                                60  
+531 schweigen                                         60  
+532 llllaaaaa                                         60  
+533 OpenToAll                                         60  
+534 SF_AD                                             60  
+535 scrate                                            60  
+536 swap                                              60  
+537 tea with jason                                    60  
+538 N00Beergy                                         60  
+539 Minium                                            60  
+540 打酱油                                            60  
+541 di                                                60  
+542 sugiken_jp                                        60  
+543 AITD                                              60  
+544 tobyt                                             60  
+545 kevinmel2000                                      60  
+546 How2Play                                          60  
+547 lolnoobs                                          60  
+548 Sec4Fun                                           60  
+549 KernelPanic                                       60  
+550 Cyberkneuzen                                      60  
+551 Xyxzj                                             60  
+552 heiheihei                                         60  
+553 Time-pass                                         60  
+554 wellmaybe                                         50  
+555 7U53c-srg                                         50  
+556 7U53c - BMF                                       50  
+557 7U53c-hh                                          50  
+558 zzxxccvv                                          50  
+559 Brannew                                           50  
+560 sonickun                                          50  
+561 spacebanana                                       50  
+562 TBS                                               50  
+563 dsa1002                                           50  
+564 cdr-fix                                           50  
+565 EskaTeam                                          50  
+566 SSG                                               50  
+567 PoopLosers                                        45  
+568 whatamidoing.jpg                                  45  
+569 Layer8                                            45  
+570 AfkeSix                                           45  
+571 Shadow Cats                                       45  
+572 dook                                              45  
+573 imdmr                                             45  
+574 Logickeau                                         45  
+575 QQQQQQ                                            45  
+576 wilnat                                            45  
+577 YorkshireAirlines                                 45  
+578 Transformers                                      45  
+579 mytim                                             35  
+580 SEXKING                                           35  
+581 GraySkull                                         35  
+582 MONOBENO                                          35  
+583 Y3Rp                                              35  
+584 Cl0ud Sh3llz                                      35  
+585 someThink                                         35  
+586 yHack                                             35  
+587 Zetta                                             35  
+588 emanresu                                          35  
+589 Null{}Byte                                        35  
+590 FITS Minions                                      35  
+591 rgr555hy                                          35  
+592 Petty                                             35  
+593 pidoras                                           35  
+594 mmmoatmeal                                        35  
+595 maybe                                             35  
+596 Doctor Who                                        35  
+597 PHS MickeyMouse                                   35  
+598 L                                                 35  
+599 f1nyn4u                                           35  
+600 12358                                             35  
+601 0x00000023                                        35  
+602 Stacksonstacksonstacks                            35  
+603 Szwx                                              35  
+604 sauces                                            35  
+605 caps2                                             35  
+606 toyesu                                            35  
+607 Blackshark                                        35  
+608 l@kshy@                                           35  
+609 joaocfgodinho                                     35  
+610 TheGoonies                                        35  
+611 armageddon                                        35  
+612 PeriwinkleHats                                    35  
+613 Initial_C                                         35  
+614 Syntactics                                        35  
+615 Chromosome                                        35  
+616 antonl                                            35  
+617 MHSEC                                             35  
+618 SB                                                35  
+619 Luckers                                           35  
+620 khongphaidangvuadau                               35  
+621 uniquename3                                       35  
+622 lyminghao                                         35  
+623 virusdefender                                     35  
+624 h4xor                                             35  
+625 MacBernick                                        35  
+626 installman                                        35  
+627 HelpDeskMan                                       35  
+628 BlastX                                            25  
+629 Rs4                                               25  
+630 w3rhu1                                            25  
+631 jito                                              25  
+632 homebox25                                         25  
+633 notnerb                                           25  
+634 ysyy                                              25  
+635 lisa                                              25  
+636 Codeerror                                         25  
+637 IhavnoTeam                                        25  
+638 ArchStacker                                       25  
+639 banbi                                             25  
+640 o0zzlh0o                                          25  
+641 silvara                                           25  
+642 reTEK                                             25  
+643 G00DJ0B                                           25  
+644 digiguru                                          25  
+645 joyteam                                           25  
+646 AMP                                               25  
+647 UWI                                               25  
+648 RegisHMO8                                         25  
+649 Penguin                                           25  
+650 help wanted                                       25  
+651 justforfun                                        25  
+652 Hotab                                             25  
+653 SingleBear                                        25  
+654 Pwnium                                            25  
+655 dreamlansec                                       20  
+656 thekilligntime                                    20  
+657 Team Sack                                         20  
+658 bond                                              20  
+659 microwavesam                                      20  
+660 the keymakers                                     20  
+661 qaz                                               20  
+662 Electrik                                          20  
+663 Idratherbedoingthis                               20  
+664 CLASSIFIED                                        20  
+665 mozzev                                            20  
+666 JusticeEX                                         20  
+667 mibh                                              10  
+668 Afvoerputje                                       10  
+669 BigBang                                           10  
+670 asdf                                              10  
+671 TheJiSk                                           10  
+672 tamanegikenshi                                    10  
+673 twerkingpwnies                                    10  
+674 EricSoc                                           10  
+675 HouseHarkonnen                                    10  
+676 soma                                              10  
+677 baghali2                                          10  
+678 tomcat                                            10  
+679 glaros                                            10  
+680 FrostByte                                         10  
+681 lpl                                               10  
+682 Team Smudy                                        10  
+683 Will Not Go To Space Today                        10  
+684 PHS Absol                                         10  
+685 0x383d3d44                                        10  
+686 heXrsh                                            10  
+687 Robot Mafia                                       10  
+688 WePush                                            10  
+689 ph0T0n                                            10  
+690 Brute Force and Ignorance                         10  
+691 abacaba                                           10  
+692 kn_ctf                                            10  
+693 0xcoffee                                          10  
+694 B.T.C                                             10  
+695 mr4k                                              10  
+696 varc00sTeam                                       10  
+697 5tyl3MOV                                          10  
+698 oneoktest                                         10  
+699 The Brightest                                     10  
+700 sholabex                                          10  
+701 The Bagels                                        10  
+702 kerker                                            10  
+703 DerpDerp                                          10  
+704 takawo                                            10  
+705 seb                                               10  
+706 EddardFlanders                                    10  
+707 KinkyWizards                                      10  
+708 SatoRei                                           10  
+709 theessenceofclassandfanciness                     10  
+710 DestinyIsWhere                                    10  
+711 bilibili                                          10  
+712 Sinistar                                          10  
+713 CHT                                               10  
+714 hoge                                              10  
+715 youfu                                             10  
+716 UIT@CS2k14                                        10  
+717 JMU Cyber Defense                                 10  
+718 test1l1l1l1                                       10  
+719 seanoseanohay                                     10  
+720 b1n4ry4rms                                        10  
+721 CCSF_HACKERS                                      10  
+722 .helix                                            10  
+723 ABCJYUOIKXGMQN                                    10  
+724 [data expunged]                                   10  
+725 Orangutan                                         10  
+726 KimTruth                                          10  
+727 cvbnrty                                           10  
+728 0Day Finder                                       10  
+729 4go                                               10  
+730 Custos                                            10  
+731 0x90.avi                                          10  
+732 Add                                               10  
+733 KelvinTheFrog                                     10  
+734 burlybovines                                      10  
+735 jpaglier                                          10  
+736 Peaceful Robot                                    10  
+737 APT Won&apos;t Let Me Be                          10  
+738 chikuwa                                           10  
+739 Yip                                               10  
+740 Gragal                                            10  
+741 Capture The Swag                                  10  
+742 themetric                                         10  
+743 mbailey                                           10  
+744 foo                                               10  
+745 Assert(True)                                      10  
+746 s111                                              10  
+747 AlFatih                                           10  
+748 Al-Fatih                                          10  
+749 SoySauseParty                                     10  
+750 jjjj                                              10  
+751 ...                                               10  
+752 lpswj                                             10  
+753 0xc                                               10  
+754 LameTeam                                          10  
+755 Team Tr0n                                         10  
+756 kanken3                                           10  
+757 r00ts3c                                           10  
+758 NB                                                10  
+759 P.S.                                              10  
+760 NeOLux-C1Ph3r                                     10  
+761 caxuyc                                            10  
+762 1NTH3H4YS74CK                                     10  
+763 HJHSH                                             10  
+764 571fl3r_m0m                                       10  
+765 WithoutConcept                                    10  
+766 localhost                                         10  
+767 D3v1L                                             10  
+768 0-team                                            10  
+769 Zeus                                              10  
+770 FTW                                               10  
+771 l3@rnh@ck                                         10  
+772 F4nt45i4                                          10  
+773 xx                                                10  
+774 grayraven                                         10  
+775 Mikudayo                                          10  
+776 Basher                                            10  
+777 gohomejo                                          10  
+778 dot                                               10  
+779 AlphaBro                                          10  
+780 wCfC                                              10  
+781 MaybeLater                                        10  
+782 Its_me                                            10  
+783 Code_Punters                                      10  
+784 lolapa                                            10  
+785 pooplosers                                        10  
+786 TheHitchhiker                                     10  
+787 leap                                              10  
+788 komekomekome                                      10  
+789 BaseZero                                          10  
+790 c0mrad3                                           10  
+791 Crypt0boys                                        10  
+792 brickSquad                                        10  
+793 kernal23                                          10  
+794 M                                                 10  
+795 ( ﾉ ﾟｰﾟ)ﾉmicroraptor band meme theoryヽ(ﾟｰﾟヽ).   10  
+796 PHS Iliad                                         10  
+797 b0l0                                              10  
+798 TeamBalmerPeak                                    10  
+799 djciihfi                                          10  
+800 whyamihere                                        10  
+801 Electronic Hangmen                                10  
+802 Recursion                                         10  
+803 YaTaTeam                                          10  
+804 cattle-linux                                      10  
+805 pe0v3rbs                                          10  
+806 delta                                             10  
+807 black rabbits                                     10  
+808 marlins                                           10  
+809 ShieldsUp                                         10  
+810 !0                                                10  
+811 PF                                                10  
+812 himanokay                                         10  
+813 Team_No_Dap_                                      10  
+814 qazwsxedc                                         10  
+815 c0ffee                                            10  
+816 SweCopyFloppy                                     10  
+817 mrnoob                                            10  
+818 Alone                                             10  
+819 Jan                                               10  
+820 Jani Tech                                         10  
+821 FinHackers                                        10  
+822 Bird                                              10  
+823 v191                                              10  
+824 spoon                                             10  
+825 abrateam                                          10  
+826 WildWolf                                          10  
+827 invader                                           10  
+828 Fm0x03                                            10  

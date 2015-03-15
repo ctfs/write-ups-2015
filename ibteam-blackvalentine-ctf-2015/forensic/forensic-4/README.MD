@@ -7,7 +7,7 @@
 
 > basisSixtyFour , Password: `*7sdj@L[a/xc<Xms02-z=203dl;`
 >
-> * [Forensic-4.zip](Forensic-4.zip)
+> http://ctf.web-attack.info/misssion/9
 
 ## Write-up
 

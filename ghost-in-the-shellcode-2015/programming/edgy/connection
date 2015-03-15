@@ -1,0 +1,16 @@
+Password
+Welcome to Edgy, please solve the following puzzle with the WASD keys
+The pattern provided will be repeated until the edge of the map is reached
+ Example: If WDD is sent then it will repeat WDDWDDWDD... until an edge is reached
+
+---------
+|xxxx x |
+|x  x x |
+| x     |
+| x @ xx|
+|       |
+|  xx   |
+|x x x  |
+---------
+You have a maximum of 3 moves
+You hit a mine at X/Y 5/1

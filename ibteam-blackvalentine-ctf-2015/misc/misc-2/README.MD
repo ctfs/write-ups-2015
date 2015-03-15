@@ -3,7 +3,7 @@
 **Category:** Misc
 **Points:** 400
 **Author:** abdilahrf
-**Description:** 
+**Description:**
 
 > out of the box
 >

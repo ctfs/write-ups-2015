@@ -1,0 +1,33 @@
+<html>
+<head>
+	<title>level6</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+<body>
+
+<?php
+require 'flag.php';
+
+if (isset ($_GET['password'])) {
+	if (ereg ("^[a-zA-Z0-9]+$", $_GET['password']) === FALSE)
+		echo '<p class="alert">You password must be alphanumeric</p>';
+	else if (strpos ($_GET['password'], '--') !== FALSE)
+		die('Flag: ' . $flag);
+	else
+		echo '<p class="alert">Invalid password</p>';
+}
+?>
+
+<section class="login">
+        <div class="title">
+                <a href="./index.txt">Level 6</a>
+        </div>
+
+        <form method="get">
+                <input type="text" required name="password" placeholder="Password" /><br/>
+                <input type="submit"/>
+        </form>
+</section>
+</body>
+</html>
+

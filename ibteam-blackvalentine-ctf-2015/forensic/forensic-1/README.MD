@@ -3,11 +3,11 @@
 **Category:** Forensic
 **Points:** 100
 **Author:** mirfansulaiman
-**Description:** 
+**Description:**
 
-> Hash, Password: `B4JAkL4uT1bUk0t4J4kaRT4`
+> hash , Password: B4JAkL4uT1bUk0t4J4kaRT4
 >
-> * [Forensic-1.zip](Forensic-1.zip)
+> http://ctf.web-attack.info/misssion/6
 
 ## Write-up
 
