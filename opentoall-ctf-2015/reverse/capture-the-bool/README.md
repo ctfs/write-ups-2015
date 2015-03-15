@@ -20,4 +20,4 @@ The flag is `flag{J4V4_1S_S3XY_<3}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.xenocidewiki.net/blog/ota-ctf-2-2015-capture-the-bool-writeup>
