@@ -1,0 +1,16 @@
+Welcome to stage 2 :)
+
+We lost the launch codes! There's still one test server hooked up that has
+them (you are connected to it). We have a debug version of the binary (which
+has test versions of the key) and the test blob that the server uses.
+
+Can you recover the launch codes?
+
+nc localhost 9990
+
+--
+
+You'll want to grab a copy of the files in stage2/:
+neutered_icbm_server     - Binary (with fake keys)
+icbm_test_blob       - Blob used by the real server
+password_to_this_account - Who knows (but ssh is enabled)
