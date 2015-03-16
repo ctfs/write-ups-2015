@@ -33,6 +33,7 @@
 * [Automated Analysis Mistakes](secure-coding/automated-analysis-mistakes)
 * [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
+* [NSA](web-application-security/nsa)
 
 ## External write-ups only
 
@@ -44,5 +45,4 @@
 * [Espionage](digital-forensics/espionage)
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [0day Hunting](web-application-security/0day-hunting)
-* [NSA](web-application-security/nsa)
 * [NVISO File Host](web-application-security/nviso-file-host)
