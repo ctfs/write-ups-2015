@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rzhou.org/~ricky/codegate2015_quals/weff/>
