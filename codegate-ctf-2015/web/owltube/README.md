@@ -17,5 +17,4 @@
 (TODO)
 
 ## Other write-ups and resources
-
-* none yet
+https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-quals-owltube-writeup-web-400/
