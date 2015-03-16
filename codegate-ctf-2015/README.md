@@ -15,6 +15,7 @@
 * [pwnable/rodent](pwnable/rodent)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
+* [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
 * [web/owlur](web/owlur)
 * [web/owltube](web/owltube)
@@ -29,4 +30,3 @@
 * [reversing/arc4-stranger](reversing/arc4-stranger)
 * [reversing/dodocrackme2](reversing/dodocrackme2)
 * [reversing/oemu](reversing/oemu)
-* [reversing/pirate-danbi](reversing/pirate-danbi)
