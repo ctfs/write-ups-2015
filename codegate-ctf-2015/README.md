@@ -11,7 +11,9 @@
 ## External write-ups only
 
 * [crypto/icbm](crypto/icbm)
+* [programming/good-crypto](programming/good-crypto)
 * [pwnable/beef-steak](pwnable/beef-steak)
+* [pwnable/bookstore](pwnable/bookstore)
 * [pwnable/mashed-potato](pwnable/mashed-potato)
 * [pwnable/rodent](pwnable/rodent)
 * [pwnable/systemshock](pwnable/systemshock)
@@ -23,8 +25,6 @@
 
 ## Missing write-ups
 
-* [programming/good-crypto](programming/good-crypto)
-* [pwnable/bookstore](pwnable/bookstore)
 * [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
 * [pwnable/sokoban](pwnable/sokoban)
 * [reversing/arc4-stranger](reversing/arc4-stranger)

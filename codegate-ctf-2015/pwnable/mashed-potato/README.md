@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/saelo/9e6934b3c40cf42e3f87>
+* <http://lokalhost.pl/ctf/codegate2015/mash.py>
