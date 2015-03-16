@@ -94,4 +94,4 @@ flag : flag{ext_sooper_blocks_are_c00l}
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.com.au/2015/03/opentoall-ctf2015-gone-forensics.html>
