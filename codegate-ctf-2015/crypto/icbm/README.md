@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* <https://rzhou.org/~ricky/codegate2015_quals/icbm/>
+* <https://rzhou.org/~ricky/codegate2015_quals/icbm>
+* <http://lokalhost.pl/ctf/codegate2015/sample.py>

@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lokalhost.pl/ctf/codegate2015/book.py>
