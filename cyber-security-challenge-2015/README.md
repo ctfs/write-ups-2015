@@ -20,6 +20,7 @@
 * [Malware Categories](general-security-knowledge/malware-categories)
 * [No Such Agency](general-security-knowledge/no-such-agency)
 * [Reverse That App](mobile-application-security/reverse-that-app)
+* [Nviso Vault](mobile-application-security/nviso-vault)
 * [Security Conferences](general-security-knowledge/security-conferences)
 * [Security History v2](general-security-knowledge/security-history-v2)
 * [Security History](general-security-knowledge/security-history)
@@ -32,6 +33,7 @@
 * [Automated Analysis Mistakes](secure-coding/automated-analysis-mistakes)
 * [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
+* [NSA](web-application-security/nsa)
 
 ## External write-ups only
 
@@ -42,7 +44,5 @@
 * [Data Extraction](digital-forensics/data-extraction)
 * [Espionage](digital-forensics/espionage)
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
-* [Nviso Vault](mobile-application-security/nviso-vault)
 * [0day Hunting](web-application-security/0day-hunting)
-* [NSA](web-application-security/nsa)
 * [NVISO File Host](web-application-security/nviso-file-host)
