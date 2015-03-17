@@ -34,6 +34,8 @@
 * [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
 * [NSA](web-application-security/nsa)
+* [Security Terminology v2](general-security-knowledge/security-terminology-v2)
+* [Espionage](digital-forensics/espionage)
 
 ## External write-ups only
 
@@ -42,7 +44,5 @@
 ## Missing write-ups
 
 * [Data Extraction](digital-forensics/data-extraction)
-* [Espionage](digital-forensics/espionage)
-* [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [0day Hunting](web-application-security/0day-hunting)
 * [NVISO File Host](web-application-security/nviso-file-host)
