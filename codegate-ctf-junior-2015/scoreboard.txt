@@ -1,0 +1,77 @@
+1     cd80(김성우)                               710  
+2     nezorg2(John Grosen)                          690  
+3     hiromu(Hiromu Yakura)                         690  
+4     hugeh0ge(Yuki Koike)                          550  
+5     _abcdef(Jin-oh Kang)                          450  
+6     sdamashek(Samuel Damashek)                    410  
+7     mango(김준기)                              410  
+8     nerdlesie(Thanh Do)                           400  
+9     err0rless(young hoo)                          390  
+10    ubuntor(Samuel Kim)                           380  
+11    alokpathy(Alok Tripathy)                      360  
+12    push0ebp(이시훈)                           350  
+13    ksg97031(kimsunggi)                           350  
+14    CH1M4C(변준우)                             350  
+15    kenzierocks(Kenzie Togami)                    350  
+16    tae(Hyo Won)                                  350  
+17    takemefly(takemefly)                          230  
+18    mathboy7(김낙현)                           220  
+19    nero(김도현)                               200  
+20    xeros(김제곤)                              200  
+21    kimtruth(김영호)                           200  
+22    tonix(심기용)                              200  
+23    velcoz(윤성권)                             200  
+24    wlsgud1915(임재혁)                         200  
+25    helloxen(손진혁)                           200  
+26    1tchy(박선주)                              200  
+27    windowhan(한호정)                          200  
+28    codpot(서승완)                             200  
+29    KH2RS(김승현)                              200  
+30    unknown84(unknown84)                          200  
+31    aksu0609(우용선)                           200  
+32    junoim(임준오)                             200  
+33    joks430(조용현)                            200  
+34    he4dquarter(한종훈)                        200  
+35    boomer(최덕림)                             200  
+36    eatf822(박서빈)                            200  
+37    2ngyoe(왕승현)                             200  
+38    who1sth1s(권세중)                          200  
+39    r3tina(탁지원)                             200  
+40    Roxer(진정민)                              200  
+41    NinjAuPhish(Jack Mckenna)                     200  
+42    cookthebook(Aaron Cook)                       200  
+43    tjbecker(Tim Becker)                          120  
+44    jen6(손건)                                  100  
+45    nanuyokakinu(4then4)                          100  
+46    hikikomori(Lee BaHyun)                        100  
+47    mangssiee(맹민주)                          100  
+48    teamline(최종혁)                           100  
+49    r00p3r(r00p3r)                                100  
+50    marcia06(Pan seung hyun)                      100  
+51    skyclad1975(전상현)                        100  
+52    nexon(Bernard Yohann)                         100  
+53    kwondong123(권동현)                        100  
+54    hepstar(조현준)                            100  
+55    y0u_bat(이해찬)                            100  
+56    KimchiWarrior(손민철)                      100  
+57    caioluders(Caio Luders de Araújo)            100  
+58    default_(디폴트)                           100  
+59    rls1004(김민정)                            100  
+60    buttholemuncher667(Paige Palestini)           100  
+61    codeghost(Lee GeonHwi)                        100  
+62    beetle990211(김윤찬)                       100  
+63    Holyshatots(Mitch McAffee)                    100  
+64    nnkow(조철진)                              100  
+65    Crinex(박준영)                             100  
+66    OJiMang(강민석)                            100  
+67    x2uchi(x2uchi)                                100  
+68    whdrjsco(채종건)                           100  
+69    st98(st98)                                    100  
+70    jtjsoft(장태진)                            100  
+71    ssj9809(symphony)                             100  
+72    serpong(김태엽)                            100  
+73    sup3rh3r0(ir0nm4n)                            100  
+74    RevDev(Hyeon-Ho Seo)                          100  
+75    Echo_Spartan(Holden Oullette)                 100  
+76    nazywam(Michał)                              100  
+77    crytek0326(Crytek_KR)                         100  
