@@ -18,6 +18,7 @@
 * [pwnable/rodent](pwnable/rodent)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
+* [reversing/dodocrackme2](reversing/dodocrackme2)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
 * [web/owlur](web/owlur)
@@ -28,5 +29,4 @@
 * [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
 * [pwnable/sokoban](pwnable/sokoban)
 * [reversing/arc4-stranger](reversing/arc4-stranger)
-* [reversing/dodocrackme2](reversing/dodocrackme2)
 * [reversing/oemu](reversing/oemu)

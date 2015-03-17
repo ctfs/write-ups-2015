@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.0ops.net/blog/2015/03/17/codegate-2015-dodocrackme2/>
