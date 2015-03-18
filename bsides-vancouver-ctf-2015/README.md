@@ -16,6 +16,7 @@
 * [ownable/sushi](ownable/sushi)
 * [ownable/wind-blue-yonder](ownable/wind-blue-yonder)
 * [ownable/www](ownable/www)
+* [sandbox/big-prison-fence](sandbox/big-prison-fence)
 
 ## Missing write-ups
 
@@ -24,4 +25,3 @@
 * [misc/10-ctf-commandments](misc/10-ctf-commandments)
 * [re/detent](re/detent)
 * [sandbox/baby-playpen-fence](sandbox/baby-playpen-fence)
-* [sandbox/big-prison-fence](sandbox/big-prison-fence)
