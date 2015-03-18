@@ -2,7 +2,7 @@
 
 **Category:** Ownable
 **Points:** 100
-**Solves:** TODO
+**Solves:** 101
 **Description:** 
 
 > sushi.termsec.net 4000

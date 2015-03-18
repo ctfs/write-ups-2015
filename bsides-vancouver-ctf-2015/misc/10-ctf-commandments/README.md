@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 10
-**Solves:** TODO
+**Solves:** 411
 **Description:** 
 
 > Submit me: flag{never_hack_where_u_rest_at}

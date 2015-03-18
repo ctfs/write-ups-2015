@@ -2,7 +2,7 @@
 
 **Category:** Ownable
 **Points:** 350
-**Solves:** TODO
+**Solves:** 23
 **Description:** 
 
 > gloriousmodern.termsec.net 7000

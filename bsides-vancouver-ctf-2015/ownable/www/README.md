@@ -2,7 +2,7 @@
 
 **Category:** Ownable
 **Points:** 200
-**Solves:** TODO
+**Solves:** 51
 **Description:** 
 
 > www.termsec.net 17284

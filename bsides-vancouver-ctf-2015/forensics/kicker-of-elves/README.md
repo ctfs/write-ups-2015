@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 200
-**Solves:** TODO
+**Solves:** 34
 **Description:** 
 
 > I stole this file, but it doesn't work. Halp plz.

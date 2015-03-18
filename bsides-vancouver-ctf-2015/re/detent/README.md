@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 250
-**Solves:** TODO
+**Solves:** 23
 **Description:** 
 
 > Very much not the same thing as a détente.
