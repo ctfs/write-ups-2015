@@ -2,6 +2,7 @@
 
 * <https://yvrctf.ctfd.io/>
 * [Writeups, Results and Statistics by the Organisers](https://github.com/yvrctf/2015)
+* [Number of solves per task](https://github.com/yvrctf/2015#full-breakdown) or [local alternative](solves.txt)
 * [Scoreboard](https://yvrctf.ctfd.io/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
