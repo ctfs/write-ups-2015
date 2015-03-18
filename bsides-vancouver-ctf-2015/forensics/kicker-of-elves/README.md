@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)

@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.sinfocol.org/2015/03/b-sides-vancouver-ctf-2015-garbage-file/>
