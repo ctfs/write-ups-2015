@@ -71,4 +71,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/yvrctf/2015/tree/master/ts-sci-nz>

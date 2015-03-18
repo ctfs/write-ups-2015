@@ -28,4 +28,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/yvrctf/2015/tree/master/matasano>
+* <http://captf.com/2015/bsides-vancouver/crypto/matasano/psifertex-solve.txt>

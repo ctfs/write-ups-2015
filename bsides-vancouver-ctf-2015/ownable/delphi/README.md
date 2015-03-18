@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/yvrctf/2015/tree/master/delphi>
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
+* <http://captf.com/2015/bsides-vancouver/ownable/delphi-psifertex-solve.txt>
