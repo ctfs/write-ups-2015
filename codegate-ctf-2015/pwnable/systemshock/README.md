@@ -16,3 +16,4 @@
 
 * <http://capturetheswag.blogspot.com.au/2015/03/codegate-2015-system-shock-pwnable.html>
 * <https://rzhou.org/~ricky/codegate2015_quals/systemshock/sol.txt>
+* [Korean](http://cd80.tistory.com/64)

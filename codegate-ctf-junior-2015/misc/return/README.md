@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * [Korean](err0rless313.tistory.com/entry/CODEGATE-2015-JUNIOR-예선-WRITE-UP)
+* [Korean](http://cd80.tistory.com/64)

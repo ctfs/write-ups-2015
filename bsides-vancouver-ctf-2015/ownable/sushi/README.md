@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
+* [Korean](http://s0ngsari.tistory.com/entry/yvrctfPwnable-100)
