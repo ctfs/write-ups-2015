@@ -2,7 +2,7 @@
 
 **Category:** Ownable
 **Points:** 400
-**Solves:** TODO
+**Solves:** 31
 **Description:** 
 
 > wildblue.termsec.net 2323

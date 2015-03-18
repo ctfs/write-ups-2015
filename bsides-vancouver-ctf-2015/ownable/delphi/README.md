@@ -2,7 +2,7 @@
 
 **Category:** Ownable
 **Points:** 200
-**Solves:** TODO
+**Solves:** 26
 **Description:** 
 
 > delphi.termsec.net 5000

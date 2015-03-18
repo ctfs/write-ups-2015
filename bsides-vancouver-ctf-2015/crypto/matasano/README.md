@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 50
-**Solves:** TODO
+**Solves:** 17
 **Description:** 
 
 > Keys open doors.

@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 200
-**Solves:** TODO
+**Solves:** 4
 **Description:** 
 
 > TOP SECRET MUST NOT BE SHARED OUTSIDE NZHQ

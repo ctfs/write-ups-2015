@@ -2,7 +2,7 @@
 
 **Category:** Sandbox
 **Points:** 100
-**Solves:** TODO
+**Solves:** 2
 **Description:** 
 
 > You're in a little baby sandbox. Escape and read the flag.
