@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/yvrctf/2015/tree/master/garbagefile>
 * <http://www.sinfocol.org/2015/03/b-sides-vancouver-ctf-2015-garbage-file/>
