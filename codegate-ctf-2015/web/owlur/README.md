@@ -18,3 +18,4 @@
 
 * <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-quals-owlur-writeup-web-200/>
 * <http://chichou.0ginr.com/blog/1081>
+* <http://dakutenpura.hatenablog.com/entry/2015/03/16/223424>
