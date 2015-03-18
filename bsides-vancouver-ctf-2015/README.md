@@ -1,7 +1,7 @@
 # Vancouver BSides CTF write-ups
 
 * <https://yvrctf.ctfd.io/>
-* [Scoreboard](https://yvrctf.ctfd.io/scoreboard) or [here](TODOLOCAL)
+* [Scoreboard](https://yvrctf.ctfd.io/scoreboard) or [here](scoreboard.txt)
 
 ## Completed write-ups
 
