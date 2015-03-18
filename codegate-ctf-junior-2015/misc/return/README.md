@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Korean](err0rless313.tistory.com/entry/CODEGATE-2015-JUNIOR-예선-WRITE-UP)
