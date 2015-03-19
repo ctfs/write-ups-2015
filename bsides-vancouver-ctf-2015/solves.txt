@@ -1,6 +1,6 @@
 Challenge Name       Category   Value   Times Solved
 10 CTF Commandments  misc       10pts   411
-Sushi                owable     100pts  101
+Sushi                ownable    100pts  101
 www                  ownable    200pts  51
 Kicker of Elves      forensics  200pts  34
 Wild Blue Yonder     ownable    400pts  31
