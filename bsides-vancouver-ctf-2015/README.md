@@ -7,14 +7,13 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/ts-sci-nz](crypto/ts-sci-nz)
+* [misc/10-ctf-commandments](misc/10-ctf-commandments)
 
 ## External write-ups only
 
-* [crypto/ts-sci-nz](crypto/ts-sci-nz)
 * [forensics/garbage-file](forensics/garbage-file)
 * [forensics/kicker-of-elves](forensics/kicker-of-elves)
-* [misc/10-ctf-commandments](misc/10-ctf-commandments)
 * [ownable/delphi](ownable/delphi)
 * [ownable/glorious-modem](ownable/glorious-modem)
 * [ownable/sushi](ownable/sushi)

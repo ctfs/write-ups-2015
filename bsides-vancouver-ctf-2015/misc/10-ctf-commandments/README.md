@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `flag{never_hack_where_u_rest_at}`.
 
 ## Other write-ups and resources
 
