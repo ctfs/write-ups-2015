@@ -18,5 +18,6 @@ Therefore, by deleting the session cookie and sending the request `http://52.10.
 ## Other write-ups and resources
 
 * <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/MuseumOfFineArts.md>
+* <https://ctf-team.vulnhub.com/boston-key-party-2015-museum/>
 * [Japanese](http://kazu1130-h.hatenablog.jp/entry/2015/03/02/034426)
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-museum-of-fine.html)
