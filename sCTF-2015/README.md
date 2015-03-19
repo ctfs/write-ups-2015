@@ -27,26 +27,26 @@
 ## Incomplete write-ups
 
 
-* [Simple Guessing Game]
-* [Not-So-Simple-Guessing Game]
-* [Busy Beaver Problem]
-* [The Turing Machine WWII]
-* [180 Degrees]
-* [No Yen To Use]
-* [Big Real Estate]
-* [1.21 Warp]
-* [<h1></h1>]
-* [Overflow]
-* [Cookies]
-* [SQL]
-* [196-Algorithm World]
-* [Overflow 2]
-* [Degrees Kelvin]
-* [Obfuscated Python]
-* [Acoustician]
-* [Bob's Private Server]
-* [Large Numbers]
-* [The Numberic Approach]
+* [Simple Guessing Game]()
+* [Not-So-Simple-Guessing Game]()
+* [Busy Beaver Problem]()
+* [The Turing Machine WWII]()
+* [180 Degrees]()
+* [No Yen To Use]()
+* [Big Real Estate]()
+* [1.21 Warp]()
+* [```<h1></h1>```]()
+* [Overflow]()
+* [Cookies]()
+* [SQL]()
+* [196-Algorithm World]()
+* [Overflow 2]()
+* [Degrees Kelvin]()
+* [Obfuscated Python]()
+* [Acoustician]()
+* [Bob's Private Server]()
+* [Large Numbers]()
+* [The Numberic Approach]()
 
 
 ##Competitors
