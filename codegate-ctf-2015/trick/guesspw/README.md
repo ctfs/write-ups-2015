@@ -20,4 +20,5 @@
 ## Other write-ups and resources
 
 * <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-guesspw-writeup-trick-100/>
+* <https://ctf-team.vulnhub.com/codegate-2015-guesspw/>
 * [Korean](http://cd80.tistory.com/64)
