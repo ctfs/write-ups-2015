@@ -18,5 +18,9 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
+* none yet
+=======
 * <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-quals-owltube-writeup-web-400/>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/blob/master/2015/CODEGATE/web/owltube/README.md>
+>>>>>>> upstream/master

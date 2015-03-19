@@ -10,6 +10,16 @@
 
 ## External write-ups only
 
+<<<<<<< HEAD
+* none yet
+
+## Missing write-ups
+
+* [misc/return](misc/return)
+* [misc/urandom](misc/urandom)
+* [programming/good-crypto](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/programming/good-crypto)
+* [pwnable/cheip](pwnable/cheip)
+=======
 * [misc/return](misc/return)
 * [misc/urandom](misc/urandom)
 * [pwnable/cheip](pwnable/cheip)
@@ -17,6 +27,7 @@
 ## Missing write-ups
 
 * [programming/good-crypto](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/programming/good-crypto)
+>>>>>>> upstream/master
 * [pwnable/shellme](pwnable/shellme)
 * [pwnable/systemshock](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/pwnable/systemshock)
 * [trick/guesspw](https://github.com/ctfs/write-ups-2015/tree/master/codegate-ctf-2015/trick/guesspw)

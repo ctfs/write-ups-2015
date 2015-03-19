@@ -22,6 +22,9 @@ Disallow: /imgs
 
 <http://37.187.249.84:20005/css/> uses basic access authentication and prompts for a username and password.
 
+<<<<<<< HEAD
+(TODO SQL injection)
+=======
 Although basic access is usually implemented by a .htaccess file, it can just as easily be implemented in PHP by using the correct headers. This basic access is vulnerable to a SQL injection attack. When submitting `"'` as the value for the login and password, the server returns the following response:
 ```
 HTTP/1.1 401 Unauthorized
@@ -45,6 +48,7 @@ This works because the equals sign (=) is removed after the input filter checks 
 
 The webserver returns `Congratulations! The flag is basic_auth_is_sooo_last_century`
 
+>>>>>>> upstream/master
 
 ## Other write-ups and resources
 

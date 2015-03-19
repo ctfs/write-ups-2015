@@ -19,5 +19,9 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
+* <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-guesspw-writeup-trick-100/>
+=======
 * <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-guesspw-writeup-trick-100/>
 * [Korean](http://cd80.tistory.com/64)
+>>>>>>> upstream/master

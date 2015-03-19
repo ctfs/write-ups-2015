@@ -10,10 +10,14 @@
 
 ## Write-up
 
+<<<<<<< HEAD
+(TODO)
+=======
 This wireshark capture contained an e-mail with a wav file attached.
 When inserting the wav file in a spectrum analyzer, you could see a picture of batman.
 
 So the flag is _batman_
+>>>>>>> upstream/master
 
 ## Other write-ups and resources
 

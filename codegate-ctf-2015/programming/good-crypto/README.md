@@ -16,4 +16,8 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
+* none yet
+=======
 * <http://vnsecurity.net/ctf%20-%20clgt%20crew/2015/03/16/codegate-good-crypto.html>
+>>>>>>> upstream/master

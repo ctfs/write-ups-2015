@@ -10,6 +10,9 @@
 
 ## Write-up
 
+<<<<<<< HEAD
+(TODO)
+=======
 First, create an emulator (like Google's AVD or Genymotion) and install the application.
 ```
 ComputerJ:NvisoVault jbeckers$ adb install -r NvisoVault.apk 
@@ -39,6 +42,7 @@ access("Decoding data with password ?\200\230I_love_panda_bears?\200\231", F_OK)
 ...
 ```
 Which is the flag: `I_love_panda_bears`
+>>>>>>> upstream/master
 
 ## Other write-ups and resources
 

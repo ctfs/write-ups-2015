@@ -20,7 +20,10 @@
 * [Malware Categories](general-security-knowledge/malware-categories)
 * [No Such Agency](general-security-knowledge/no-such-agency)
 * [Reverse That App](mobile-application-security/reverse-that-app)
+<<<<<<< HEAD
+=======
 * [Nviso Vault](mobile-application-security/nviso-vault)
+>>>>>>> upstream/master
 * [Security Conferences](general-security-knowledge/security-conferences)
 * [Security History v2](general-security-knowledge/security-history-v2)
 * [Security History](general-security-knowledge/security-history)
@@ -33,9 +36,12 @@
 * [Automated Analysis Mistakes](secure-coding/automated-analysis-mistakes)
 * [OWASP](secure-coding/owasp)
 * [Static Analysis](secure-coding/static-analysis)
+<<<<<<< HEAD
+=======
 * [NSA](web-application-security/nsa)
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [Espionage](digital-forensics/espionage)
+>>>>>>> upstream/master
 
 ## External write-ups only
 
@@ -44,5 +50,13 @@
 ## Missing write-ups
 
 * [Data Extraction](digital-forensics/data-extraction)
+<<<<<<< HEAD
+* [Espionage](digital-forensics/espionage)
+* [Security Terminology v2](general-security-knowledge/security-terminology-v2)
+* [Nviso Vault](mobile-application-security/nviso-vault)
 * [0day Hunting](web-application-security/0day-hunting)
+* [NSA](web-application-security/nsa)
+=======
+* [0day Hunting](web-application-security/0day-hunting)
+>>>>>>> upstream/master
 * [NVISO File Host](web-application-security/nviso-file-host)

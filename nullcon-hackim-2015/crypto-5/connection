@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 HTTP/1.1 400 Bad Request
 Content-Type: text/plain
 Connection: close
 Server: thin 1.6.1 codename Death Proof
 
+=======
+HTTP/1.1 400 Bad Request
+Content-Type: text/plain
+Connection: close
+Server: thin 1.6.1 codename Death Proof
+
+>>>>>>> upstream/master
 Bad Request

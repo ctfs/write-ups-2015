@@ -17,6 +17,10 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
+* <https://gist.github.com/saelo/9e6934b3c40cf42e3f87>
+=======
 * <https://kitctf.de/writeups/codegate2015/potato/>
 * <http://lokalhost.pl/ctf/codegate2015/mash.py>
 * <http://l4w.io/files/CTFs/codegate2015/mashed.py>
+>>>>>>> upstream/master
