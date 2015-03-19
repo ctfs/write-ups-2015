@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title>level3</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+<body>
+
+<?php
+require 'flag.php';
+
+if (isset($_GET['password'])) {
+    if (strcmp($_GET['password'], $flag) == 0)
+		die('Flag: '.$flag);
+    else
+		print '<p class="alert">Invalid password.</p>';
+}
+?>
+
+<section class="login">
+        <div class="title">
+                <a href="./index.txt">Level 3</a>
+        </div>
+
+        <form method="get">
+                <input type="text" required name="password" placeholder="Password" /><br/>
+                <input type="submit"/>
+        </form>
+</section>
+</body>
+</html>
+

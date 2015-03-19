@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # CodeGate General CTF 2015: beef-steak
 
 **Category:** beef_steak
+=======
+# CodeGate General CTF 2015: beef_steak
+
+**Category:** Pwnable
+>>>>>>> upstream/master
 **Points:** 400
 **Solves:** TODO
 **Description:** 
@@ -17,4 +23,8 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
 * none yet
+=======
+* <http://pastebin.com/raw.php?i=6DybHQT8>
+>>>>>>> upstream/master

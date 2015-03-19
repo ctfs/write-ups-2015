@@ -17,4 +17,8 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
 * none yet
+=======
+* <https://rzhou.org/~ricky/codegate2015_quals/weff/>
+>>>>>>> upstream/master

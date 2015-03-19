@@ -10,6 +10,7 @@
 
 ## External write-ups only
 
+<<<<<<< HEAD
 * [pwnable/mashed-potato](pwnable/mashed-potato)
 * [trick/guesspw](trick/guesspw)
 * [web/owlur](web/owlur)
@@ -30,3 +31,25 @@
 * [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [web/owltube](web/owltube)
+=======
+* [crypto/icbm](crypto/icbm)
+* [programming/good-crypto](programming/good-crypto)
+* [pwnable/beef-steak](pwnable/beef-steak)
+* [pwnable/bookstore](pwnable/bookstore)
+* [pwnable/mashed-potato](pwnable/mashed-potato)
+* [pwnable/rodent](pwnable/rodent)
+* [pwnable/systemshock](pwnable/systemshock)
+* [pwnable/weff](pwnable/weff)
+* [reversing/dodocrackme2](reversing/dodocrackme2)
+* [reversing/pirate-danbi](reversing/pirate-danbi)
+* [trick/guesspw](trick/guesspw)
+* [web/owlur](web/owlur)
+* [web/owltube](web/owltube)
+
+## Missing write-ups
+
+* [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
+* [pwnable/sokoban](pwnable/sokoban)
+* [reversing/arc4-stranger](reversing/arc4-stranger)
+* [reversing/oemu](reversing/oemu)
+>>>>>>> upstream/master

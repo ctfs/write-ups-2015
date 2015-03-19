@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>level4</title>
+    <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+<body>
+
+<?php
+session_start(); 
+
+require 'flag.php';
+
+if (isset ($_GET['password'])) {
+    if ($_GET['password'] == $_SESSION['password'])
+        die ('Flag: '.$flag);
+    else
+        print '<p class="alert">Wrong guess.</p>';
+}
+
+// Unpredictable seed
+mt_srand((microtime() ^ rand(1, 10000)) % rand(1, 10000) + rand(1, 10000));
+?>
+
+<section class="login">
+        <div class="title">
+                <a href="./index.txt">Level 4</a>
+        </div>
+
+		<ul class="list">
+		<?php
+		for ($i=0; $i<3; $i++)
+			print '<li>' . mt_rand (0, 0xffffff) . '</li>';
+		$_SESSION['password'] = mt_rand (0, 0xffffff);
+		?>
+		</ul>
+
+        <form method="get">
+                <input type="text" required name="password" placeholder="Next number" /><br/>
+                <input type="submit"/>
+        </form>
+</section>
+</body>
+</html>
+

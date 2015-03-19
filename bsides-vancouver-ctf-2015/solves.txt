@@ -1,0 +1,14 @@
+Challenge Name       Category   Value   Times Solved
+10 CTF Commandments  misc       10pts   411
+Sushi                ownable    100pts  101
+www                  ownable    200pts  51
+Kicker of Elves      forensics  200pts  34
+Wild Blue Yonder     ownable    400pts  31
+Delphi               ownable    200pts  26
+Glorious Modem       ownable    350pts  23
+Detent               RE         250pts  23
+Matasano             crypto     50pts   17
+Big Prison Fence     sandbox    400pts  13
+ts/sci/nz            crypto     200pts  4
+Garbage File         forensics  100pts  3
+Baby Playpen Fence   sandbox    340pts  2

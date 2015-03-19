@@ -1,0 +1,11 @@
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-03-06 14:12 CET
+Warning: 104.131.124.226 giving up on port because retransmission cap hit (2).
+Strange error from connect (49):Can't assign requested address
+Nmap scan report for 104.131.124.226
+Host is up (0.10s latency).
+Not shown: 64610 closed ports, 924 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+8080/tcp open  http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 271.32 seconds

@@ -1,0 +1,7 @@
+Name: Automated Crypter
+Description:
+	Decrypt this:
+	019t-0-080-3-1b-19t-25z-080-03f-8j-1b-12n-12n
+	Using this program.
+	(Note: the - is just a separator)
+Hint: Not all letters chars are crypted

@@ -14,4 +14,9 @@
 
 ## Other write-ups and resources
 
+<<<<<<< HEAD
 * none yet
+=======
+* <http://blog.0ops.net/blog/2015/03/17/codegate-2015-dodocrackme2/>
+* <http://loccs.sjtu.edu.cn/~evermars/blog/2015/03/17/dodocrackme2_writeup/>
+>>>>>>> upstream/master
