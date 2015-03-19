@@ -26,8 +26,4 @@
 * [web-1](website/web-1)
 * [web-2](website/web-2)
 * [web-3](website/web-3)
-<<<<<<< HEAD
 * [web-4](website/web-4)
-=======
-* [web-4](website/web-4)
->>>>>>> upstream/master
