@@ -30,4 +30,5 @@ The flag is `I_think_that_I_just_broke_sha1`.
 ## Other write-ups and resources
 
 * <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/Prudential.md>
+* <https://ctf-team.vulnhub.com/boston-key-party-2015-prudential/>
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-prudential.html)
