@@ -23,3 +23,4 @@
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
 * [Korean](http://s0ngsari.tistory.com/entry/yvrctfPwnable-100)
 * <http://captf.com/2015/bsides-vancouver/ownable/sushi-psifertex-solve.py>
+* <https://gist.github.com/emyei/248ccf0aa4b773aa17a7>
