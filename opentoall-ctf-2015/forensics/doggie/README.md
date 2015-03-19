@@ -73,4 +73,4 @@ flag{fck snow i has hat!}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://securimag.org/wp/challenges/opentoall-ctf-2015-forensics-write-up/>

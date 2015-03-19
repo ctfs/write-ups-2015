@@ -49,4 +49,4 @@ The flag is `flag{Us3EsS31}`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://securimag.org/wp/challenges/opentoall-ctf-2015-forensics-write-up/>
