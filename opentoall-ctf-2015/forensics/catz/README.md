@@ -49,3 +49,4 @@ flag{fugly_cats_need_luv_2}
 
 * <http://team-jihfu.github.io/2015/03/09/otactf2-2015-catz-forensics-100/>
 * <http://www.xenocidewiki.net/blog/ota-ctf-2-2015-catz-writeup>
+* <https://securimag.org/wp/challenges/opentoall-ctf-2015-forensics-write-up/>

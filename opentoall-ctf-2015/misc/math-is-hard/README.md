@@ -97,3 +97,4 @@ And the flag:
 ## Other write-ups and resources
 
 * [Original source and writeup](https://github.com/gaffe23/gaffe-ota2/tree/master/math-is-hard)
+* [French](https://securimag.org/wp/challenges/opentoall-ctf-math-is-hard/)

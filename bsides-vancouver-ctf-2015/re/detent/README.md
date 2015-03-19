@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/yvrctf/2015/tree/master/detent>
+* [French](https://securimag.org/wp/challenges/vancouver-bsides-ctf-detent/)
