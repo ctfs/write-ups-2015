@@ -42,7 +42,7 @@ We see a `robots.txt` file that gives us another directory to search for any hid
 Inside `http://104.131.124.226:8080/secret`, we find a [secret.zip](./104.131.124.226\:8080/secret/secret.zip) file that we download and extract:
 
 ```bash
-$ unzip secret.zip \&\& tree -a
+$ unzip secret.zip && tree -a
 ├── __MACOSX
 │   ├── ._secret
 │   └── secret
