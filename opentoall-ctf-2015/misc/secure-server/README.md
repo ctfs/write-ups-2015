@@ -22,7 +22,7 @@ When running `nmap -p0-65535 -T5 104.131.124.226`, wee see that there are two pu
 $ nmap -p0-65535 -T5 104.131.124.226
 Starting Nmap 6.47 ( http://nmap.org ) at 2015-03-06 14:12 CET
 Warning: 104.131.124.226 giving up on port because retransmission cap hit (2).
-Strange error from connect (49):Can't assign requested address
+Strange error from connect (49):Can\'t assign requested address
 Nmap scan report for 104.131.124.226
 Host is up (0.10s latency).
 Not shown: 64610 closed ports, 924 filtered ports
@@ -42,7 +42,7 @@ We see a `robots.txt` file that gives us another directory to search for any hid
 Inside `http://104.131.124.226:8080/secret`, we find a [secret.zip](./104.131.124.226\:8080/secret/secret.zip) file that we download and extract:
 
 ```bash
-$ unzip secret.zip && tree -a
+$ unzip secret.zip \&\& tree -a
 ├── __MACOSX
 │   ├── ._secret
 │   └── secret
