@@ -6,7 +6,8 @@
 
 ## Completed write-ups
 
-* none yet
+* [web/owlur](web/owlur)
+* [web/owltube](web/owltube)
 
 ## External write-ups only
 
