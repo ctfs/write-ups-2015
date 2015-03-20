@@ -36,7 +36,7 @@ arB=NICK logman1337
 ardC)oR1:logman1337!~logman@162.245.177.238 JOIN #XPvCxHRTCFKBBzyb
 :rajaniemi.freenode.net 353 logman1337 @ #XPvCxHRTCFKBBzyb :logman1337 @kee7a
 :rajaniemi.freenode.net 366 logman1337 #XPvCxHRTCFKBBzyb :End of /NAMES list.
-)oS":rajaniemi.freenode.net 352 logman1337 #XPvCxHRTCFKBBzyb ~logman 162.245.177.238 rajaniemi.freenode.net logman1337 H :0 logman
+)oS\":rajaniemi.freenode.net 352 logman1337 #XPvCxHRTCFKBBzyb ~logman 162.245.177.238 rajaniemi.freenode.net logman1337 H :0 logman
 :rajaniemi.freenode.net 352 logman1337 #XPvCxHRTCFKBBzyb ~kee7a unaffiliated/kee7a kornbluth.freenode.net kee7a H@ :0 kee7a
 :rajaniemi.freenode.net 315 logman1337 #XPvCxHRTCFKBBzyb :End of /WHO list.
 ```
