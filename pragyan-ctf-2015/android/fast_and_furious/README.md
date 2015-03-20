@@ -24,4 +24,4 @@ The flag is `y0u_4r3_5up3r_f457`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/pragyan-ctf-2015-android/>
