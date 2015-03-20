@@ -61,4 +61,4 @@ deltaforceatnit
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/pragyan-ctf-2015-crypto-roman/>
