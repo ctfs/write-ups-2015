@@ -72,7 +72,9 @@ out: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segme
 
 So, let's open the image up: `xdg-open out.raw`
 
-When you looks closely (this depends on monitor and color configuration), you can see the text 'KermitLovesBacon' in the top right corner. This is the flag.
+When you looks closely (this depends on monitor and color configuration), you can see the text 'KermitLovesBacon' in the top right corner. This is the flag:
+
+![](out.jpg)
 
 ## Other write-ups and resources
 
