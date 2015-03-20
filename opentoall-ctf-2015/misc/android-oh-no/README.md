@@ -30,10 +30,10 @@ encrypted.nothingtoseehere.apk: data
 <br>
 It showing 'data' likely means that it is encrypted, as no known headers or magic numbers were found. Doing some searches, you may have found this:
 http://nelenkov.blogspot.com/2012/07/using-app-encryption-in-jelly-bean.html
-There is also a book on the topic, but I cannot find it at the time of creating this writeup.
+There are a few books that on the topic on Android JB app encryption (i.e. "Android Security Internals") worth checking out.
 
 <br>
-There are also a few books that cover Android JB app encryption. The most important piece of information to glean from this page is:
+The most important piece of information to glean from this page is:
 <br>
 
 > The --algo, --key and --iv parameters obviously have to do with encrypted apps, so before going into details lets first try to install an encrypted APK. Encrypting a file is quite easy to do using the enc OpenSSL commands, usually already installed on most Linux systems. We'll use AES in CBC mode with a 128 bit key (a not very secure one, as you can see below), and specify an initialization vector (IV) which is the same as the key to make things simpler:
@@ -55,7 +55,15 @@ Basically, this particular APK has been encrypted _manually_ and doesn't follow 
 > 0000020
 > ```
 
-As it says, the original android app encryption/decryption process uses twofish, but there is more than one way to encrypt and install apps on android. The keyfile mentioned above is also the keyfile needed to solve this challenge. Using that file as a key, you are able to decrypt the encrypted apk with openssl and grep/install to get the flag.
+As it says, the original android app encryption/decryption process uses twofish, but there is more than one way to encrypt and install apps on android. In this challenge, the encryption is done manually using openssl.
+
+Using the keyfile mentioned above (without spaces), decrypt the `encrypted.nothingtoseehere.apk`:
+
+> ```
+> shell@android: openssl aes-128-cbc -d -K aa7db8864627354c7a4b0fbd81f2f399 -iv 000102030405060708090A0B0C0D0E0F -in encrypted.nothingtoseehere.apk -out decrypted.nothingtoseehere.apk
+> ```
+
+From here, grep/install to get the flag.
 <br>
 ## Notes from the author:
 <br>
