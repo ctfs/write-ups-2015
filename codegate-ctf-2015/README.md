@@ -22,8 +22,6 @@
 * [reversing/dodocrackme2](reversing/dodocrackme2)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
-* [web/owlur](web/owlur)
-* [web/owltube](web/owltube)
 
 ## Missing write-ups
 
