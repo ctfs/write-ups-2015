@@ -139,7 +139,9 @@ Given a string of even length, we can split the string into number-letter pairs:
 4B3B5C5C6C => 4B 3B 5C 5C 6C
 ```
 
-The number of each pair is the key for the substitution, the letter is the position of the value (`A=0, B=1, C=2, D=0, E=1, F=2`:
+The number of each pair is the key for the substitution, the letter is the position of the value
+
+(`A=0, B=1, C=2, D=0, E=1, F=2`):
 
 ```
 4B:
