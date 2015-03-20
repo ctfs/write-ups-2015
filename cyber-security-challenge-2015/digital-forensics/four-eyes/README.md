@@ -12,7 +12,7 @@
 
 Let’s open up [`password.pcap`](password.pcap) in Wireshark, and look for `www.2dehands.be` traffic by entering the filter `http.host eq www.2dehands.be`. This reveals a few HTTP requests including a single POST request containing the login credentials:
 
-[](wireshark.png)
+![](wireshark.png)
 
 The password is `safefromNSA`.
 
