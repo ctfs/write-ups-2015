@@ -25,4 +25,4 @@ NOTE: `904d553eae0a2a5b82d82fd4f0c7ae6f5fe955f5` is the hashsum of `39giraffes`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/pragyan-ctf-2015-web-1/>
