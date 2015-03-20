@@ -17,4 +17,5 @@ So the flag is _batman_
 
 ## Other write-ups and resources
 
-* none yet
+* [`Cyber Security Challenge 2015: Espionage by Glenn Vandamme`](http://glennvandam.me/2015/03/cyber-security-challenge-2015-espionage/)
+
