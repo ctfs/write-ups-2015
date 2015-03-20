@@ -36,6 +36,7 @@
 * [NSA](web-application-security/nsa)
 * [Security Terminology v2](general-security-knowledge/security-terminology-v2)
 * [Espionage](digital-forensics/espionage)
+* [Data Extraction](digital-forensics/data-extraction)
 
 ## External write-ups only
 
@@ -43,6 +44,5 @@
 
 ## Missing write-ups
 
-* [Data Extraction](digital-forensics/data-extraction)
 * [0day Hunting](web-application-security/0day-hunting)
 * [NVISO File Host](web-application-security/nviso-file-host)
