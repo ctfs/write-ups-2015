@@ -176,4 +176,5 @@ The flag is `THEPACKAGESAREATPERTHNORTH`.
 
 ## Other write-ups and resources
 
+* <http://colin.keigher.ca/2015/03/an-australian-specific-cipher.html>
 * <https://github.com/yvrctf/2015/tree/master/ts-sci-nz>
