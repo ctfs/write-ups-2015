@@ -24,13 +24,13 @@ In the user storage directory, `mnt/android-4.4-r2/data/media/0` the file
  
 <br>
 ```
-m/a/d/m/0 ❯❯❯ file encrypted.nothingtoseehere.apk
+shell@android ~/mnt/android-4.4-r2/data/media/0 # file encrypted.nothingtoseehere.apk
 encrypted.nothingtoseehere.apk: data
 ```
 <br>
 It showing 'data' likely means that it is encrypted, as no known headers or magic numbers were found. Doing some searches, you may have found this:
 http://nelenkov.blogspot.com/2012/07/using-app-encryption-in-jelly-bean.html
-There are a few books that on the topic on Android JB app encryption (i.e. "Android Security Internals") worth checking out.
+There are a few books about Android JB app encryption (i.e. "Android Security Internals") worth checking out.
 
 <br>
 The most important piece of information to glean from this page is:
@@ -60,7 +60,7 @@ As it says, the original android app encryption/decryption process uses twofish,
 Using the keyfile mentioned above (without spaces), decrypt the `encrypted.nothingtoseehere.apk`:
 
 > ```
-> shell@android: openssl aes-128-cbc -d -K aa7db8864627354c7a4b0fbd81f2f399 -iv 000102030405060708090A0B0C0D0E0F -in encrypted.nothingtoseehere.apk -out decrypted.nothingtoseehere.apk
+> shell@android # openssl aes-128-cbc -d -K aa7db8864627354c7a4b0fbd81f2f399 -iv 000102030405060708090A0B0C0D0E0F -in encrypted.nothingtoseehere.apk -out decrypted.nothingtoseehere.apk
 > ```
 
 From here, grep/install to get the flag.
