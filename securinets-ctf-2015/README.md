@@ -1,7 +1,7 @@
 # Securinets Quals CTF write-ups
 
 * <http://www.ctfsecurinets.com/>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://41.231.22.132/app.php/login) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
