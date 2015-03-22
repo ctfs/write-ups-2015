@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [web/cookies](web/cookies)
 
 ## External write-ups only
 
@@ -30,5 +30,4 @@
 * [stegano/broken](stegano/broken)
 * [stegano/google](stegano/google)
 * [web/admin-banned](web/admin-banned)
-* [web/cookies](web/cookies)
 * [web/lock](web/lock)
