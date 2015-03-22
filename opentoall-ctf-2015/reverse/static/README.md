@@ -23,12 +23,12 @@ We find that the string is used in sub\_401ECE.
 
 ![function sub\_401ece](ida_sub_401ece.jpg)
 
-At *0x401EF2* we have the instruction `test eax, eax` which checks if eax is equal
-to zero.
-If `eax` equals zero the program opens a MessageBox to tell us that the
-password is correct.
+At *0x401EF2* we have the instruction `test eax, eax` which checks if eax is greater or less than, or equal to 0.
 
-How to make `eax` equals to zero ?
+If `eax` equals zero the program opens a MessageBox to tell us that the
+password is correct. If not, then the program makes a simple jump to address `loc_401F07` and exits.
+
+So, our goal is clear: how to make `eax` equals to zero?
 `eax` contains the return value of the function called two instructions before.
 
 `0x401EEF: call eax`
@@ -48,7 +48,7 @@ IDA and find that each byte of argv[1] is compared to a 14 chars buffer
 
 It it matches, the function returns 0.
 
-The flag is `0p3n-t0_alL___`
+The flag is `flag{0p3n-t0_alL___}`
 
 ## Other write-ups and resources
 
