@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="template/style.css" />
+<title>Cookies</title>
+<script type="text/javascript" src="jsencryption.js"></script>
+<script>
+function scookie(name,value,days)
+{
+                var expire=new Date();
+                expire.setDate(expire.getDate()+days);
+                document.cookie=name+'='+escape(value)+';expires='+expire.toGMTString();
+                return true;
+}
+function gcookie(name)
+{
+                if(document.cookie.length>0)
+                {
+                    start=document.cookie.indexOf(name+"=");
+                    pos = start+name.length+1;
+                    if(start!=0)
+                    {
+                        start=document.cookie.indexOf("; "+name+"=");
+                        pos = start+name.length+3;
+                    }
+                    if(start!=-1)
+                    { 
+                        start=pos;
+                        end=document.cookie.indexOf(";",start);
+                        if(end==-1)
+                        {
+                            end=document.cookie.length;
+                        }
+                        return unescape(document.cookie.substring(start,end));
+                    } 
+                }
+                return '';
+}
+function encryptFormText(key,texte) {
+  if (key.length == 0) {
+    alert("Please specify a key with which to encrypt the message.");
+    return;
+  }
+  if(texte.length == 0) {
+    alert("No plain text to encrypt!  Please enter or paste plain text in the field above.");
+    return;
+  }
+  encoded = GibberishAES.enc(texte, key);
+
+  encoded = encoded.replace(/\n/g, '');
+  return encoded;
+};
+function decryptFormText(key,texte) {
+  if (key == 0) {
+    alert("Please specify a key with which to decrypt the message.");
+    return;
+  }
+
+  if(texte.length == 0) {
+    alert("No cipher text to decrypt!  Please enter or paste cipher text in the field above.");
+    return;
+  }
+  
+  try {
+    var dec = GibberishAES.dec(texte, key);
+    texte = dec;
+    alert(texte);
+  } catch (err) {
+    alert("Invalid key");
+  }
+};
+key="salt";
+for(var i=0;i<100;i++){scookie("cookie"+i,encryptFormText(key,gcookie("cookie"+i)),31536000);}
+</script>
+</head>
+
+<body>
+  <div id="page">
+    <div id="header">
+      <img  src="template/logo.png" style=" margin-left:35%; margin-right:35%; ">
+    </div>
+    <div id="bar">
+      <h2>Cookies</h2>
+    </div>
+    <div class="contentTitle"></div>
+    <div class="contentText">
+    <!-- DEBUT DE L'EPREUVE -->
+Bienvenue ,bonne chance Muhahahahaha. Je ne suis pas assez méchant: flag=... 3:)
+    <!-- FIN DE L'EPREUVE -->
+    </div>
+  </div>
+  <div id="footer">www.securinets.com</div>
+</body>
+</html>
