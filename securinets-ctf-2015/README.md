@@ -1,0 +1,34 @@
+# Securinets Quals CTF write-ups
+
+* <http://www.ctfsecurinets.com/>
+* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+
+## Completed write-ups
+
+* none yet
+
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
+
+* [crack/crack1](crack/crack1)
+* [crack/reverse](crack/reverse)
+* [crypto/card-games](crypto/card-games)
+* [crypto/decrypt-me](crypto/decrypt-me)
+* [crypto/matrix-everywhere](crypto/matrix-everywhere)
+* [forensics/document](forensics/document)
+* [forensics/forensics2](forensics/forensics2)
+* [hidden/hidden1](hidden/hidden1)
+* [logic/logic1](logic/logic1)
+* [programming/be-genious](programming/be-genious)
+* [programming/dos-attack](programming/dos-attack)
+* [recon/recon1](recon/recon1)
+* [reseau/account-disabled](reseau/account-disabled)
+* [stegano/basics](stegano/basics)
+* [stegano/broken](stegano/broken)
+* [stegano/google](stegano/google)
+* [web/admin-banned](web/admin-banned)
+* [web/cookies](web/cookies)
+* [web/lock](web/lock)
