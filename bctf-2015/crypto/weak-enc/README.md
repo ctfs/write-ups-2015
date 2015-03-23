@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://capturetheswag.blogspot.com.au/2015/03/bctf-2015-weakenc-crypto-challenge.html>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/BCTF/crypto/weak_enc>
