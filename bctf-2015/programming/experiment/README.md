@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://xrekkusu.hatenablog.jp/entry/2015/03/23/144118)
