@@ -17,6 +17,7 @@
 * [pwnable/bookstore](pwnable/bookstore)
 * [pwnable/mashed-potato](pwnable/mashed-potato)
 * [pwnable/rodent](pwnable/rodent)
+* [pwnable/sokoban](pwnable/sokoban)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
 * [reversing/dodocrackme2](reversing/dodocrackme2)
@@ -26,6 +27,5 @@
 ## Missing write-ups
 
 * [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
-* [pwnable/sokoban](pwnable/sokoban)
 * [reversing/arc4-stranger](reversing/arc4-stranger)
 * [reversing/oemu](reversing/oemu)
