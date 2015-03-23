@@ -19,6 +19,7 @@
 * [exploit/qoobee](exploit/qoobee)
 * [exploit/zhongguancun](exploit/zhongguancun)
 * [programming/experiment](programming/experiment)
+* [reverse/camlmaze](reverse/camlmaze)
 * [trivial/checkin](trivial/checkin)
 * [web/sqli-engine](web/sqli-engine)
 * [web/torrent-lover](web/torrent-lover)
@@ -27,7 +28,6 @@
 ## Missing write-ups
 
 * [misc/broken-oj](misc/broken-oj)
-* [reverse/camlmaze](reverse/camlmaze)
 * [reverse/crappy_oj](reverse/crappy_oj)
 * [reverse/freak](reverse/freak)
 * [reverse/securecom](reverse/securecom)
