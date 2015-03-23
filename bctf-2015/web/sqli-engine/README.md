@@ -34,4 +34,5 @@
 
 ## Other write-ups and resources
 
+* <http://linux.im/2015/03/23/BCTF-WEB-Writeup.html#sqlienginescore-200>
 * <https://rzhou.org/~ricky/bctf2015/sqli_engine/>
