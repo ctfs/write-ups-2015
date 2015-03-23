@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
+* [Applicable PoC](https://github.com/MaskRay/BCTF2015-CamlMaze/blob/master/poc.rb)
 * [Chinese analysis](http://maskray.me/blog/2015-03-23-bctf-2015-camlmaze)
