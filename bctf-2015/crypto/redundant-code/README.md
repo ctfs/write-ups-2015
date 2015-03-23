@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+[https://gist.github.com/aluex/7811a2bc37443fc0bf45](https://gist.github.com/aluex/7811a2bc37443fc0bf45)
