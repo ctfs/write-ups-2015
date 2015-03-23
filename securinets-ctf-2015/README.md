@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [stegano/google](stegano/google)
 
 ## Missing write-ups
 
@@ -28,6 +28,5 @@
 * [reseau/account-disabled](reseau/account-disabled)
 * [stegano/basics](stegano/basics)
 * [stegano/broken](stegano/broken)
-* [stegano/google](stegano/google)
 * [web/admin-banned](web/admin-banned)
 * [web/lock](web/lock)
