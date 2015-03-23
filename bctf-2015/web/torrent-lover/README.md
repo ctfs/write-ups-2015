@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://linux.im/2015/03/23/BCTF-WEB-Writeup.html#torrentloverscore-233>

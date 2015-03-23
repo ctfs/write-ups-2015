@@ -15,6 +15,7 @@
 * [exploit/qoobee](exploit/qoobee)
 * [exploit/zhongguancun](exploit/zhongguancun)
 * [web/sqli-engine](web/sqli-engine)
+* [web/torrent-lover](web/torrent-lover)
 * [web/webchat](web/webchat)
 
 ## Missing write-ups
@@ -29,4 +30,3 @@
 * [reverse/freak](reverse/freak)
 * [reverse/securecom](reverse/securecom)
 * [trivial/checkin](trivial/checkin)
-* [web/torrent-lover](web/torrent-lover)
