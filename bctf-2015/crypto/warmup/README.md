@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://shiho-elliptic.tumblr.com/post/114389818504/bctf-2015-writeup)
