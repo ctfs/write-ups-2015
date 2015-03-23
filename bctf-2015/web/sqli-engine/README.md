@@ -1,0 +1,37 @@
+# BCTF CTF 2015: sqli_engine
+
+**Category:** Web
+**Points:** 200
+**Solves:** 123
+**Description:** 
+
+> http://104.197.7.111:8080/
+> 
+> geohot told me he has a lot of sql injection tricks. So I wrote a sql injection detection engine in defense.
+> 
+> Now you have a simple website protected by my engine, try to steal the admin’s password(not hash).
+> 
+> form = web.input()
+> 
+> username = form.get('username')
+> password = form.get('password')
+> 
+> if sqliengine.is_sqli(username):
+>     raise web.BadRequest(u'username contains SQL injection, IP recorded.')
+> 
+> if sqliengine.is_sqli(password):
+>     raise web.BadRequest(u'password contains SQL injection, IP recorded')
+> 
+> if sqliengine.is_sqli(username + password):
+>     raise web.BadRequest(u'username + password contains SQL injection, IP recorded')
+> 
+> \# continue normal db operation
+> There are only two pages: login and register, please do not use web scanner to brute force, just do the sqli part.
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

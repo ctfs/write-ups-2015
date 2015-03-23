@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+        <title>WebChat Platform</title>
+    </head>
+    <body>
+        <h1>Welcome to WebChat System</h1>
+        <div id="status" class="text-danger">Disconnected</div>
+        <div id="sendstatus" class="text-primary"></div>
+        <div class="alert alert-danger">
+            Notice: All messages will be logged, and <strong>Big Boss</strong> will review your messages for anti-terrorism.
+        </div>
+        <form onsubmit="return false;">
+            <div class="form-group">
+                <label>Your Nickname</label>
+                <input type="text" name="nick" id="i_nick" value="" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label>Your Message</label>
+                <input type="text" name="msg" id="i_msg" value="" class="form-control"/>
+            </div>
+            <button id="submit_btn" class="btn btn-primary"/>Send Message</button>
+            <button id="clr_btn" class="btn btn-default"/>Clear Message</button>
+        </form>
+        <br/>
+        Chat Messages: 
+        <div id="msg">
+        </div>
+<script>
+    $(document).ready(
+    function() {
+        function connect() {
+            $("#status").text("Connecting");
+            $("#status").attr("class", "text-primary");
+            var ws = new window.WebSocket('ws://' + location.host + '/ws');
+            ws.onopen = function() { $("#status").attr('class', 'text-success').text('Connected'); 
+                $("#submit_btn").attr('disabled', false).click(function() {
+                    $("#sendstatus").attr('class', 'text-primary').text('Sending...');
+                    ws.send($("#i_nick").val() + ": " + $("#i_msg").val());
+                });
+            }
+            ws.onclose = function() { $("#status").attr('class', 'text-danger').text('Disconnected'); setTimeout(connect, 5000);}
+            ws.onerror = function() { $("#status").attr('class', 'text-danger').text('Failed to connect.'); }
+            ws.onmessage = function(datad) {
+                var data = datad.data;
+                if (data[0] == 'm') $("#msg").html(data.substr(1) + "<br/>" +  $("#msg").html());
+                if (data[0] == 's') { $("#i_msg").val(''); $("#sendstatus").attr('class', 'text-success').text('Message Sent');}
+                if (data[0] == 'e') { $("#i_msg").val(''); $("#sendstatus").attr('class', 'text-danger').text('Message Rejected');}
+            }
+        }
+        connect();
+    });
+</script>
+    </body>
+</html>
