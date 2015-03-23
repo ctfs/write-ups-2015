@@ -1,584 +1,584 @@
 Rank  Team                           Location   Score Solved Finished Time       
-1     217                            Taiwan     5027  17  2015-03-23 02:38:31 
-2     PPP                            United States 4394  16  2015-03-23 02:52:50 
-3     tomcr00se                      United States 4144  16  2015-03-23 02:46:59 
-4     Gallopsled                     Denmark    4083  16  2015-03-23 02:41:01 
-5     0x0                            Japan      2838  12  2015-03-23 02:56:07 
-6     0ops                           China      2733  11  2015-03-23 02:55:00 
-7     CLGT                           Vietnam    2318  10  2015-03-23 01:32:57 
-8     Dragon Sector                  Poland     2218  10  2015-03-23 02:59:48 
-9     Dawn                           China      2178  10  2015-03-23 02:48:02 
-10    Ad Victoriam                   United States 2084  11  2015-03-23 02:58:20 
-11    DatNoobs                       Slovakia   2057  11  2015-03-23 02:48:01 
-12    the mongols                    Mongolia   1888  9   2015-03-22 23:33:46 
-13    BambooFox                      Taiwan     1879  10  2015-03-23 02:40:19 
-14    Sigma                          China      1878  10  2015-03-23 02:42:28 
-15    wallcenter                     Korea, South 1473  7   2015-03-22 09:23:49 
-16    tasteless                      European Union 1468  7   2015-03-22 12:26:00 
-17    FlappyPig                      China      1428  9   2015-03-23 02:51:13 
-18    dcua                           Ukraine    1371  8   2015-03-22 19:45:43 
-19    dodododo                       Japan      1328  8   2015-03-23 02:48:48 
-20    rentjong                       Indonesia  1328  8   2015-03-23 02:45:22 
-21    ROIS                           China      1320  8   2015-03-23 02:41:31 
-22    0xFA                           China      1318  7   2015-03-22 18:21:33 
-23    Snatch The Root                Poland     1268  7   2015-03-22 17:21:47 
-24    Syclover                       China      1268  6   2015-03-23 00:49:16 
-25    Alternatives                   Korea, South 1218  5   2015-03-22 07:26:15 
-26    negainoido                     Japan      1160  6   2015-03-22 14:32:27 
-27    L                              China      1128  8   2015-03-23 02:52:01 
-28    π                             China      1128  8   2015-03-23 02:44:09 
-29    天枢                         China      1128  8   2015-03-23 02:40:30 
-30    #                              China      1118  7   2015-03-22 15:34:59 
-31    BabyPhD                        Vietnam    1093  7   2015-03-22 18:07:40 
-32    DuRaRaRa!!                     China      1053  6   2015-03-23 02:44:46 
-33    万达集团                   China      1036  7   2015-03-23 02:52:13 
-34    Eindbazen                      Netherlands 1018  6   2015-03-22 13:01:31 
-35    Freed0m                        China      1018  6   2015-03-22 14:14:09 
-36    khack40                        France     1018  6   2015-03-22 19:09:59 
-37    PiggyBird                      Vietnam    1018  6   2015-03-22 22:27:26 
-38    int3pids                       Spain      1018  6   2015-03-23 01:16:47 
-39    SUS                            China      1018  6   2015-03-22 07:49:14 
-40    SpamAndHex                     Hungary    1018  6   2015-03-21 22:00:19 
-41    RooterX                        Russia     1018  6   2015-03-22 11:52:42 
-42    西天取经                   China      970   5   2015-03-23 02:54:12 
-43    Q.E.D.                         China      970   6   2015-03-23 02:53:25 
-44    Church of 0x41414141           Poland     968   5   2015-03-22 22:55:29 
-45    拌面团                      China      968   5   2015-03-22 02:05:42 
-46    snake                          China      920   6   2015-03-23 02:54:41 
-47    Singularity                    Russia     918   6   2015-03-22 20:37:34 
-48    WildWolf                       China      896   7   2015-03-23 02:46:02 
-49    Pax.Mac Team&双螺旋实验室 China      878   6   2015-03-23 02:41:26 
-50    0xCB3                          United States 870   5   2015-03-23 02:56:55 
-51    TokyoWesterns                  Japan      863   5   2015-03-22 16:30:37 
-52    ******                         China      820   5   2015-03-23 02:42:57 
-53    BU                             United Kingdom 818   5   2015-03-22 19:42:35 
-54    n0tr00t                        China      818   5   2015-03-21 15:59:34 
-55    EFIENS                         Afghanistan 810   5   2015-03-22 20:46:07 
-56    213                            China      781   5   2015-03-23 02:54:56 
-57    InkSec                         China      778   5   2015-03-23 02:52:02 
-58    L1ght                          China      778   5   2015-03-23 02:49:36 
-59    RDot.Org                       Russia     768   4   2015-03-21 18:43:13 
-60    Hanoiati                       Italy      768   4   2015-03-21 23:47:01 
-61    B1ackTrac3                     China      768   4   2015-03-22 04:44:22 
-62    [censored]                     Russia     760   5   2015-03-22 17:11:17 
-63    De_Lille_D                     Belgium    745   5   2015-03-23 02:39:41 
-64    rekcah                         Korea, South 743   4   2015-03-22 16:26:22 
-65    HDUISA                         China      743   5   2015-03-22 21:55:35 
-66    loco                           Netherlands 700   3   2015-03-22 14:47:33 
-67    AAA                            China      643   4   2015-03-22 20:56:45 
-68    Sh4rk                          China      585   4   2015-03-22 17:54:26 
-69    0xAEAE                         Russia     563   4   2015-03-22 10:39:38 
-70    BalalaikaCr3w                  Romania    560   5   2015-03-22 19:28:39 
-71    稳如poi                      China      553   4   2015-03-23 02:42:38 
-72    StratumAuhuur                  Germany    535   3   2015-03-22 00:15:23 
-73    NYUSEC                         United States 535   3   2015-03-22 03:07:14 
-74    lucaroot                       China      535   3   2015-03-22 16:26:22 
-75    暖小猫马戏团             China      520   4   2015-03-23 02:46:58 
-76    F4nt45i4                       China      503   5   2015-03-23 02:51:22 
-77    FAUST                          Germany    493   4   2015-03-22 12:32:36 
-78    JayXon                         United States 493   4   2015-03-21 23:45:45 
-79    XYZt34m                        China      493   4   2015-03-22 11:40:55 
-80    仙人球s                     China      460   4   2015-03-22 11:04:15 
-81    d4rwinb0ts                     United States 443   3   2015-03-22 07:09:08 
-82    despair                        Russia     433   2   2015-03-22 21:30:04 
-83    Hrmes                          China      420   3   2015-03-23 02:53:48 
-84    lo0ser                         China      420   4   2015-03-23 02:56:25 
-85    CS-WAT                         Poland     420   4   2015-03-23 02:51:03 
-86    G505                           China      410   3   2015-03-22 07:22:56 
-87    solo player                    Korea, South 403   1   2015-03-21 22:17:15 
-88    NULL Life                      Tanzania   395   4   2015-03-23 02:39:28 
-89    CSI Oryza                      Indonesia  385   3   2015-03-23 00:50:59 
-90    SUSlo.PAS                      Russia     385   3   2015-03-21 14:59:31 
-91    BadSector                      India      385   3   2015-03-22 20:24:30 
-92    sharknado                      European Union 375   2   2015-03-21 12:16:47 
-93    g5oiwj9                        Czech Republic 361   4   2015-03-23 02:02:10 
-94    ezio3593                       Russia     350   3   2015-03-22 13:08:12 
-95    Peterpen                       Russia     345   3   2015-03-23 02:52:44 
-96    av—小王子                 China      335   2   2015-03-22 14:20:15 
-97    周姑娘                      China      335   2   2015-03-22 14:26:23 
-98    0xFA-xxx                       China      335   2   2015-03-22 16:46:19 
-99    mage                           Japan      335   2   2015-03-21 09:49:17 
-100   Bottom of the Bottle           Canada     320   3   2015-03-23 02:39:07 
-101   ucq                            Japan      300   2   2015-03-22 15:44:06 
-102   saraitalleyrKY                 Christmas Island 293   3   2015-03-22 16:12:14 
-103   scryptos                       Japan      293   3   2015-03-22 03:53:07 
-104   girav                          Russia     260   3   2015-03-21 21:05:23 
-105   w0pr                           Spain      260   3   2015-03-21 22:36:43 
-106   ISITDTU                        Vietnam    260   3   2015-03-22 01:38:13 
-107   vuls                           Japan      260   3   2015-03-22 05:35:57 
-108   Spirit                         China      260   3   2015-03-22 07:07:47 
-109   Paruru                         Vietnam    260   3   2015-03-22 12:12:08 
-110   rm -rf [enter]                 Vietnam    260   3   2015-03-22 14:03:11 
-111   Capture the Swag               Australia  260   3   2015-03-22 15:03:47 
-112   foo！bar                      China      260   3   2015-03-22 16:29:53 
-113   sexypasta                      France     260   3   2015-03-22 20:00:47 
-114   1338-offbyone                  Germany    260   3   2015-03-21 17:54:24 
-115   Bono_iPad                      Japan      260   3   2015-03-21 17:34:06 
-116   Without Proper Instructions    United States 260   3   2015-03-22 23:45:53 
-117   vulnhub-ctf                    European Union 243   2   2015-03-22 20:15:24 
-118   2345                           Akrotiri   234   1   2015-03-21 11:32:57 
-119   YololoT                        China      233   1   2015-03-22 16:42:07 
-120   RPISEC                         United States 220   3   2015-03-23 02:42:27 
-121   KerKerYuan                     Taiwan     220   3   2015-03-23 02:44:54 
-122   f1ght4zh@zha@                  China      220   3   2015-03-23 02:46:31 
-123   BlackVelt                      Korea, South 220   3   2015-03-23 02:48:51 
-124   FLASHARROW                     China      220   3   2015-03-23 02:53:30 
-125   小红帽                      China      220   3   2015-03-23 02:56:43 
-126   GWHT                           China      210   2   2015-03-21 15:01:39 
-127   72agency                       China      210   2   2015-03-21 16:49:15 
-128   PKAV                           China      210   2   2015-03-21 17:10:49 
-129   NoName                         China      210   2   2015-03-21 18:11:50 
-130   OurDream                       China      210   2   2015-03-21 19:27:20 
-131   PR09R@MM3R5                    China      210   2   2015-03-21 19:29:20 
-132   VXRL                           Hong Kong  210   2   2015-03-21 20:27:39 
-133   teamseven                      Croatia    210   2   2015-03-21 20:44:00 
-134   少林十八罗汉             China      210   2   2015-03-21 22:44:36 
-135   CSG                            United States 210   2   2015-03-21 23:27:31 
-136   nullify                        United States 210   2   2015-03-22 02:03:15 
-137   無敵の存在                China      210   2   2015-03-22 05:29:39 
-138   footeam                        Spain      210   2   2015-03-22 05:32:31 
-139   Blue-Whale                     China      210   2   2015-03-22 05:33:34 
-140   4c00l                          China      210   2   2015-03-22 06:47:25 
-141   Spartan Security               United States 210   2   2015-03-22 07:46:57 
-142   >sc@u_s3c/<                    China      210   2   2015-03-22 09:26:24 
-143   ReiReiRei                      China      210   2   2015-03-22 10:19:46 
-144   noraneco                       Japan      210   2   2015-03-22 11:52:32 
-145   GeeksSpeak                     Iran       210   2   2015-03-22 14:28:23 
-146   NGNT                           China      210   2   2015-03-22 14:36:03 
-147   testteampleaseignore           Australia  210   2   2015-03-22 14:54:30 
-148   0xhhhhhh                       China      210   2   2015-03-22 14:58:49 
-149   灰豆腐                      China      210   2   2015-03-21 13:00:26 
-150   Aster                          Iceland    210   2   2015-03-22 15:06:56 
-151   Smoke Leet Everyday            Netherlands 210   2   2015-03-22 15:19:56 
-152   K4men_Rid3r                    Korea, South 210   2   2015-03-22 16:23:19 
-153   bluedream                      United States 210   2   2015-03-22 17:59:55 
-154   happy                          China      210   2   2015-03-22 18:25:35 
-155   OPT                            China      210   2   2015-03-22 18:31:31 
-156   an empty fridge                Poland     210   2   2015-03-22 19:21:43 
-157   R&D                            United Kingdom 210   2   2015-03-22 19:52:34 
-158   anemptyfridge                  Poland     210   2   2015-03-22 20:45:26 
-159   underscore                     Germany    210   2   2015-03-22 21:50:17 
-160   Neg9                           United States 210   2   2015-03-22 23:16:02 
-161   Beagle Harrier                 China      210   2   2015-03-22 15:02:07 
-162   mayun                          China      200   1   2015-03-21 15:47:06 
-163   SAFEYE                         China      200   1   2015-03-21 20:25:08 
-164   jsjcw                          China      200   1   2015-03-22 02:04:38 
-165   testfun                        Algeria    200   1   2015-03-22 06:11:54 
-166   qweasdzxc                      China      200   1   2015-03-22 08:35:50 
-167   SiBears                        Russia     200   1   2015-03-22 10:47:39 
-168   LeftTeam                       Russia     200   1   2015-03-21 20:12:20 
-169   江老师的爱徒们          China      110   2   2015-03-22 19:00:50 
-170   Wiremask                       France     110   2   2015-03-22 15:21:15 
-171   HailStorm                      Morocco    110   2   2015-03-22 23:41:06 
+1     217                            Taiwan            5027  17  2015-03-23 02:38:31 
+2     PPP                            United States     4394  16  2015-03-23 02:52:50 
+3     tomcr00se                      United States     4144  16  2015-03-23 02:46:59 
+4     Gallopsled                     Denmark           4083  16  2015-03-23 02:41:01 
+5     0x0                            Japan             2838  12  2015-03-23 02:56:07 
+6     0ops                           China             2733  11  2015-03-23 02:55:00 
+7     CLGT                           Vietnam           2318  10  2015-03-23 01:32:57 
+8     Dragon Sector                  Poland            2218  10  2015-03-23 02:59:48 
+9     Dawn                           China             2178  10  2015-03-23 02:48:02 
+10    Ad Victoriam                   United States     2084  11  2015-03-23 02:58:20 
+11    DatNoobs                       Slovakia          2057  11  2015-03-23 02:48:01 
+12    the mongols                    Mongolia          1888  9   2015-03-22 23:33:46 
+13    BambooFox                      Taiwan            1879  10  2015-03-23 02:40:19 
+14    Sigma                          China             1878  10  2015-03-23 02:42:28 
+15    wallcenter                     Korea, South      1473  7   2015-03-22 09:23:49 
+16    tasteless                      European Union    1468  7   2015-03-22 12:26:00 
+17    FlappyPig                      China             1428  9   2015-03-23 02:51:13 
+18    dcua                           Ukraine           1371  8   2015-03-22 19:45:43 
+19    dodododo                       Japan             1328  8   2015-03-23 02:48:48 
+20    rentjong                       Indonesia         1328  8   2015-03-23 02:45:22 
+21    ROIS                           China             1320  8   2015-03-23 02:41:31 
+22    0xFA                           China             1318  7   2015-03-22 18:21:33 
+23    Snatch The Root                Poland            1268  7   2015-03-22 17:21:47 
+24    Syclover                       China             1268  6   2015-03-23 00:49:16 
+25    Alternatives                   Korea, South      1218  5   2015-03-22 07:26:15 
+26    negainoido                     Japan             1160  6   2015-03-22 14:32:27 
+27    L                              China             1128  8   2015-03-23 02:52:01 
+28    π                              China             1128  8   2015-03-23 02:44:09 
+29    天枢                           China             1128  8   2015-03-23 02:40:30 
+30    #                              China             1118  7   2015-03-22 15:34:59 
+31    BabyPhD                        Vietnam           1093  7   2015-03-22 18:07:40 
+32    DuRaRaRa!!                     China             1053  6   2015-03-23 02:44:46 
+33    万达集团                       China             1036  7   2015-03-23 02:52:13 
+34    Eindbazen                      Netherlands       1018  6   2015-03-22 13:01:31 
+35    Freed0m                        China             1018  6   2015-03-22 14:14:09 
+36    khack40                        France            1018  6   2015-03-22 19:09:59 
+37    PiggyBird                      Vietnam           1018  6   2015-03-22 22:27:26 
+38    int3pids                       Spain             1018  6   2015-03-23 01:16:47 
+39    SUS                            China             1018  6   2015-03-22 07:49:14 
+40    SpamAndHex                     Hungary           1018  6   2015-03-21 22:00:19 
+41    RooterX                        Russia            1018  6   2015-03-22 11:52:42 
+42    西天取经                       China             970   5   2015-03-23 02:54:12 
+43    Q.E.D.                         China             970   6   2015-03-23 02:53:25 
+44    Church of 0x41414141           Poland            968   5   2015-03-22 22:55:29 
+45    拌面团                         China             968   5   2015-03-22 02:05:42 
+46    snake                          China             920   6   2015-03-23 02:54:41 
+47    Singularity                    Russia            918   6   2015-03-22 20:37:34 
+48    WildWolf                       China             896   7   2015-03-23 02:46:02 
+49    Pax.Mac Team&双螺旋实验室      China             878   6   2015-03-23 02:41:26 
+50    0xCB3                          United States     870   5   2015-03-23 02:56:55 
+51    TokyoWesterns                  Japan             863   5   2015-03-22 16:30:37 
+52    ******                         China             820   5   2015-03-23 02:42:57 
+53    BU                             United Kingdom    818   5   2015-03-22 19:42:35 
+54    n0tr00t                        China             818   5   2015-03-21 15:59:34 
+55    EFIENS                         Afghanistan       810   5   2015-03-22 20:46:07 
+56    213                            China             781   5   2015-03-23 02:54:56 
+57    InkSec                         China             778   5   2015-03-23 02:52:02 
+58    L1ght                          China             778   5   2015-03-23 02:49:36 
+59    RDot.Org                       Russia            768   4   2015-03-21 18:43:13 
+60    Hanoiati                       Italy             768   4   2015-03-21 23:47:01 
+61    B1ackTrac3                     China             768   4   2015-03-22 04:44:22 
+62    [censored]                     Russia            760   5   2015-03-22 17:11:17 
+63    De_Lille_D                     Belgium           745   5   2015-03-23 02:39:41 
+64    rekcah                         Korea, South      743   4   2015-03-22 16:26:22 
+65    HDUISA                         China             743   5   2015-03-22 21:55:35 
+66    loco                           Netherlands       700   3   2015-03-22 14:47:33 
+67    AAA                            China             643   4   2015-03-22 20:56:45 
+68    Sh4rk                          China             585   4   2015-03-22 17:54:26 
+69    0xAEAE                         Russia            563   4   2015-03-22 10:39:38 
+70    BalalaikaCr3w                  Romania           560   5   2015-03-22 19:28:39 
+71    稳如poi                        China             553   4   2015-03-23 02:42:38 
+72    StratumAuhuur                  Germany           535   3   2015-03-22 00:15:23 
+73    NYUSEC                         United States     535   3   2015-03-22 03:07:14 
+74    lucaroot                       China             535   3   2015-03-22 16:26:22 
+75    暖小猫马戏团                   China             520   4   2015-03-23 02:46:58 
+76    F4nt45i4                       China             503   5   2015-03-23 02:51:22 
+77    FAUST                          Germany           493   4   2015-03-22 12:32:36 
+78    JayXon                         United States     493   4   2015-03-21 23:45:45 
+79    XYZt34m                        China             493   4   2015-03-22 11:40:55 
+80    仙人球s                        China             460   4   2015-03-22 11:04:15 
+81    d4rwinb0ts                     United States     443   3   2015-03-22 07:09:08 
+82    despair                        Russia            433   2   2015-03-22 21:30:04 
+83    Hrmes                          China             420   3   2015-03-23 02:53:48 
+84    lo0ser                         China             420   4   2015-03-23 02:56:25 
+85    CS-WAT                         Poland            420   4   2015-03-23 02:51:03 
+86    G505                           China             410   3   2015-03-22 07:22:56 
+87    solo player                    Korea, South      403   1   2015-03-21 22:17:15 
+88    NULL Life                      Tanzania          395   4   2015-03-23 02:39:28 
+89    CSI Oryza                      Indonesia         385   3   2015-03-23 00:50:59 
+90    SUSlo.PAS                      Russia            385   3   2015-03-21 14:59:31 
+91    BadSector                      India             385   3   2015-03-22 20:24:30 
+92    sharknado                      European Union    375   2   2015-03-21 12:16:47 
+93    g5oiwj9                        Czech Republic    361   4   2015-03-23 02:02:10 
+94    ezio3593                       Russia            350   3   2015-03-22 13:08:12 
+95    Peterpen                       Russia            345   3   2015-03-23 02:52:44 
+96    av—小王子                      China             335   2   2015-03-22 14:20:15 
+97    周姑娘                         China             335   2   2015-03-22 14:26:23 
+98    0xFA-xxx                       China             335   2   2015-03-22 16:46:19 
+99    mage                           Japan             335   2   2015-03-21 09:49:17 
+100   Bottom of the Bottle           Canada            320   3   2015-03-23 02:39:07 
+101   ucq                            Japan             300   2   2015-03-22 15:44:06 
+102   saraitalleyrKY                 Christmas Island  293   3   2015-03-22 16:12:14 
+103   scryptos                       Japan             293   3   2015-03-22 03:53:07 
+104   girav                          Russia            260   3   2015-03-21 21:05:23 
+105   w0pr                           Spain             260   3   2015-03-21 22:36:43 
+106   ISITDTU                        Vietnam           260   3   2015-03-22 01:38:13 
+107   vuls                           Japan             260   3   2015-03-22 05:35:57 
+108   Spirit                         China             260   3   2015-03-22 07:07:47 
+109   Paruru                         Vietnam           260   3   2015-03-22 12:12:08 
+110   rm -rf [enter]                 Vietnam           260   3   2015-03-22 14:03:11 
+111   Capture the Swag               Australia         260   3   2015-03-22 15:03:47 
+112   foo！bar                       China             260   3   2015-03-22 16:29:53 
+113   sexypasta                      France            260   3   2015-03-22 20:00:47 
+114   1338-offbyone                  Germany           260   3   2015-03-21 17:54:24 
+115   Bono_iPad                      Japan             260   3   2015-03-21 17:34:06 
+116   Without Proper Instructions    United States     260   3   2015-03-22 23:45:53 
+117   vulnhub-ctf                    European Union    243   2   2015-03-22 20:15:24 
+118   2345                           Akrotiri          234   1   2015-03-21 11:32:57 
+119   YololoT                        China             233   1   2015-03-22 16:42:07 
+120   RPISEC                         United States     220   3   2015-03-23 02:42:27 
+121   KerKerYuan                     Taiwan            220   3   2015-03-23 02:44:54 
+122   f1ght4zh@zha@                  China             220   3   2015-03-23 02:46:31 
+123   BlackVelt                      Korea, South      220   3   2015-03-23 02:48:51 
+124   FLASHARROW                     China             220   3   2015-03-23 02:53:30 
+125   小红帽                         China             220   3   2015-03-23 02:56:43 
+126   GWHT                           China             210   2   2015-03-21 15:01:39 
+127   72agency                       China             210   2   2015-03-21 16:49:15 
+128   PKAV                           China             210   2   2015-03-21 17:10:49 
+129   NoName                         China             210   2   2015-03-21 18:11:50 
+130   OurDream                       China             210   2   2015-03-21 19:27:20 
+131   PR09R@MM3R5                    China             210   2   2015-03-21 19:29:20 
+132   VXRL                           Hong Kong         210   2   2015-03-21 20:27:39 
+133   teamseven                      Croatia           210   2   2015-03-21 20:44:00 
+134   少林十八罗汉                   China             210   2   2015-03-21 22:44:36 
+135   CSG                            United States     210   2   2015-03-21 23:27:31 
+136   nullify                        United States     210   2   2015-03-22 02:03:15 
+137   無敵の存在                     China             210   2   2015-03-22 05:29:39 
+138   footeam                        Spain             210   2   2015-03-22 05:32:31 
+139   Blue-Whale                     China             210   2   2015-03-22 05:33:34 
+140   4c00l                          China             210   2   2015-03-22 06:47:25 
+141   Spartan Security               United States     210   2   2015-03-22 07:46:57 
+142   >sc@u_s3c/<                    China             210   2   2015-03-22 09:26:24 
+143   ReiReiRei                      China             210   2   2015-03-22 10:19:46 
+144   noraneco                       Japan             210   2   2015-03-22 11:52:32 
+145   GeeksSpeak                     Iran              210   2   2015-03-22 14:28:23 
+146   NGNT                           China             210   2   2015-03-22 14:36:03 
+147   testteampleaseignore           Australia         210   2   2015-03-22 14:54:30 
+148   0xhhhhhh                       China             210   2   2015-03-22 14:58:49 
+149   灰豆腐                         China             210   2   2015-03-21 13:00:26 
+150   Aster                          Iceland           210   2   2015-03-22 15:06:56 
+151   Smoke Leet Everyday            Netherlands       210   2   2015-03-22 15:19:56 
+152   K4men_Rid3r                    Korea, South      210   2   2015-03-22 16:23:19 
+153   bluedream                      United States     210   2   2015-03-22 17:59:55 
+154   happy                          China             210   2   2015-03-22 18:25:35 
+155   OPT                            China             210   2   2015-03-22 18:31:31 
+156   an empty fridge                Poland            210   2   2015-03-22 19:21:43 
+157   R&D                            United Kingdom    210   2   2015-03-22 19:52:34 
+158   anemptyfridge                  Poland            210   2   2015-03-22 20:45:26 
+159   underscore                     Germany           210   2   2015-03-22 21:50:17 
+160   Neg9                           United States     210   2   2015-03-22 23:16:02 
+161   Beagle Harrier                 China             210   2   2015-03-22 15:02:07 
+162   mayun                          China             200   1   2015-03-21 15:47:06 
+163   SAFEYE                         China             200   1   2015-03-21 20:25:08 
+164   jsjcw                          China             200   1   2015-03-22 02:04:38 
+165   testfun                        Algeria           200   1   2015-03-22 06:11:54 
+166   qweasdzxc                      China             200   1   2015-03-22 08:35:50 
+167   SiBears                        Russia            200   1   2015-03-22 10:47:39 
+168   LeftTeam                       Russia            200   1   2015-03-21 20:12:20 
+169   江老师的爱徒们                 China             110   2   2015-03-22 19:00:50 
+170   Wiremask                       France            110   2   2015-03-22 15:21:15 
+171   HailStorm                      Morocco           110   2   2015-03-22 23:41:06 
 172   n0n4m3h3r3                     Saint Helena, Ascension, and Tristan da Cunha 100   1   2015-03-22 18:47:40 
-173   SegFault                       India      70    3   2015-03-23 02:40:32 
-174   4then4                         Japan      63    2   2015-03-21 03:34:33 
-175   cctt                           Japan      60    2   2015-03-21 17:28:40 
-176   Lost_In_Security               France     60    2   2015-03-21 18:13:06 
-177   LSE                            France     60    2   2015-03-21 20:00:03 
-178   ASIS                           Iran       60    2   2015-03-22 09:20:57 
-179   kkkcuba                        Cuba       60    2   2015-03-22 09:48:09 
-180   NeSE                           Egypt      60    2   2015-03-22 11:52:28 
-181   xGeek                          Tunisia    60    2   2015-03-22 13:46:31 
-182   Samurai                        United States 60    2   2015-03-21 17:15:24 
-183   1up                            Mongolia   20    2   2015-03-23 02:40:44 
-184   Poopxt                         United States 20    2   2015-03-23 02:39:00 
-185   Dreamyou                       China      20    2   2015-03-23 02:46:07 
-186   SDSLabs                        India      20    2   2015-03-23 02:47:09 
-187   小坦克                      China      20    2   2015-03-23 02:48:29 
-188   AuPhishYellow                  United States 20    2   2015-03-23 02:49:11 
-189   ALLXss                         China      20    2   2015-03-23 02:41:17 
-190   watch0ut                       China      20    2   2015-03-23 02:54:18 
-191   Swagger                        China      20    2   2015-03-23 02:54:47 
-192   听说队名要长长长长长长长长长长长长长长长长长长长长长长长~ China      20    2   2015-03-23 02:54:52 
-193   摇一摇队                   China      20    2   2015-03-23 02:55:24 
-194   AutoBits                       United States 20    2   2015-03-23 02:59:03 
-195   神坑敢死队                China      20    2   2015-03-23 02:52:02 
-196   WeAreBuyingCatsInBags          United States 10    1   2015-03-21 03:05:56 
-197   Hexpresso                      France     10    1   2015-03-21 03:06:22 
-198   Codernate                      Indonesia  10    1   2015-03-21 03:06:32 
-199   det0x                          United States 10    1   2015-03-21 03:07:12 
-200   水平不济整日被虐这看不懂那学不会 China      10    1   2015-03-21 03:08:12 
-201   morganFr33man                  United States 10    1   2015-03-21 03:08:59 
-202   blah                           France     10    1   2015-03-21 03:09:56 
-203   bucsec                         United States 10    1   2015-03-21 03:09:58 
-204   neuqSec                        China      10    1   2015-03-21 03:11:21 
-205   mau5                           Mongolia   10    1   2015-03-21 03:12:01 
-206   varc00s-team                   Romania    10    1   2015-03-21 03:12:46 
-207   blooping                       Chile      10    1   2015-03-21 03:15:01 
-208   LittleBobbyTables              United States 10    1   2015-03-21 03:15:50 
-209   Eggs                           China      10    1   2015-03-21 03:16:50 
-210   酱油c                        China      10    1   2015-03-21 03:17:42 
-211   B..B..B..Beginners             China      10    1   2015-03-21 03:18:11 
-212   Charles_Yang                   Taiwan     10    1   2015-03-21 03:18:11 
-213   retest                         China      10    1   2015-03-21 03:19:30 
-214   NIS                            Japan      10    1   2015-03-21 03:20:06 
-215   System Shock                   India      10    1   2015-03-21 03:20:23 
-216   HaHaHa123                      China      10    1   2015-03-21 03:20:24 
-217   empty                          China      10    1   2015-03-21 03:20:50 
-218   dook                           Australia  10    1   2015-03-21 03:21:43 
-219   ChiaoTungFatty                 Taiwan     10    1   2015-03-21 03:22:25 
-220   justfly                        China      10    1   2015-03-21 03:22:29 
-221   一个人的战斗             China      10    1   2015-03-21 03:22:34 
-222   SingChan                       Singapore  10    1   2015-03-21 03:22:35 
-223   IDK_IDC                        United States 10    1   2015-03-21 03:22:36 
-224   404                            China      10    1   2015-03-21 03:22:41 
-225   Shield                         China      10    1   2015-03-21 03:22:47 
-226   dacaibi                        China      10    1   2015-03-21 03:22:50 
-227   nwpusec                        China      10    1   2015-03-21 03:22:51 
-228   想个有节操的队名容易么 China      10    1   2015-03-21 03:22:51 
-229   explorer                       China      10    1   2015-03-21 03:22:53 
-230   Delta                          India      10    1   2015-03-21 03:22:55 
-231   zby                            China      10    1   2015-03-21 03:22:57 
-232   TheSS                          China      10    1   2015-03-21 03:23:12 
-233   hst.tw                         Taiwan     10    1   2015-03-21 03:23:24 
-234   Insanity                       Spain      10    1   2015-03-21 03:23:32 
-235   h3lit                          China      10    1   2015-03-21 03:23:33 
-236   PPPPPSUC                       China      10    1   2015-03-21 03:24:14 
-237   Memory                         China      10    1   2015-03-21 03:24:21 
-238   .hack//spartan                 United States 10    1   2015-03-21 03:24:24 
-239   O(∩_∩)O                    China      10    1   2015-03-21 03:24:33 
-240   Sy4                            China      10    1   2015-03-21 03:24:41 
-241   KilledByWeb                    China      10    1   2015-03-21 03:24:41 
-242   X1cT34m                        China      10    1   2015-03-21 03:25:06 
-243   Vic                            China      10    1   2015-03-21 03:25:10 
-244   以上排名作废             China      10    1   2015-03-21 03:25:49 
-245   &nbsp;                         China      10    1   2015-03-21 03:25:53 
-246   WZCracker                      China      10    1   2015-03-21 03:25:56 
-247   [DATA EXPUNGED]                Taiwan     10    1   2015-03-21 03:25:58 
-248   wlwaq                          China      10    1   2015-03-21 03:25:58 
-249   非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常长的队伍名  China      10    1   2015-03-21 03:25:58 
-250   s0me123                        China      10    1   2015-03-21 03:26:18 
-251   Sattva                         India      10    1   2015-03-21 03:26:19 
-252   KP                             United States 10    1   2015-03-21 03:26:20 
-253   zx1340                         Vietnam    10    1   2015-03-21 03:26:31 
-254   喵～                         China      10    1   2015-03-21 03:26:39 
-255   XVHHV                          Mongolia   10    1   2015-03-21 03:26:42 
-256   L1af                           China      10    1   2015-03-21 03:26:44 
-257   1oveloli                       China      10    1   2015-03-21 03:26:55 
-258   红细胞-RBC                  China      10    1   2015-03-21 03:27:09 
-259   WCSC                           United States 10    1   2015-03-21 03:27:11 
-260   Noobs1337                      Indonesia  10    1   2015-03-21 03:27:19 
-261   JJ                             China      10    1   2015-03-21 03:27:24 
-262   Charo                          Japan      10    1   2015-03-21 03:27:26 
-263   Tr1ck0rTr34t                   China      10    1   2015-03-21 03:27:32 
-264   BASH                           China      10    1   2015-03-21 03:27:39 
-265   websec                         China      10    1   2015-03-21 03:27:40 
-266   F4d3                           China      10    1   2015-03-21 03:28:02 
-267   Blake                          China      10    1   2015-03-21 03:28:06 
-268   penthackon                     European Union 10    1   2015-03-21 03:28:25 
-269   GSB                            China      10    1   2015-03-21 03:29:00 
-270   rty                            China      10    1   2015-03-21 03:29:08 
-271   stalker                        China      10    1   2015-03-21 03:29:30 
-272   BCTF_Bombs                     China      10    1   2015-03-21 03:29:58 
-273   好难决定                   China      10    1   2015-03-21 03:30:11 
-274   zonda                          Taiwan     10    1   2015-03-21 03:30:34 
-275   我是来围观的             China      10    1   2015-03-21 03:31:50 
-276   SigFPE                         China      10    1   2015-03-21 03:31:51 
-277   代码不会写                China      10    1   2015-03-21 03:31:56 
-278   testteam                       China      10    1   2015-03-21 03:32:33 
-279   Rice                           China      10    1   2015-03-21 03:34:15 
-280   sherl0ck5566                   Taiwan     10    1   2015-03-21 03:34:49 
-281   滑板鞋不是我买的       China      10    1   2015-03-21 03:36:53 
-282   takawo                         Japan      10    1   2015-03-21 03:37:01 
-283   FBI                            China      10    1   2015-03-21 03:37:17 
-284   许局带我飞                China      10    1   2015-03-21 03:37:44 
-285   No_flower                      China      10    1   2015-03-21 03:39:16 
-286   Bris                           China      10    1   2015-03-21 03:39:23 
-287   B1g Br0th3r                    China      10    1   2015-03-21 03:40:24 
-288   xsc                            China      10    1   2015-03-21 03:43:25 
-289   Gray_Team                      Taiwan     10    1   2015-03-21 03:43:42 
-290   你猜猜什么是50678        China      10    1   2015-03-21 03:44:06 
-291   Nday.                          Iraq       10    1   2015-03-21 03:45:34 
-292   DarkKnights                    United States 10    1   2015-03-23 01:58:59 
-293   L_C                            China      10    1   2015-03-21 03:47:23 
-294   CTF酱油队                   China      10    1   2015-03-21 03:48:38 
-295   勉强！                      China      10    1   2015-03-21 03:48:46 
-296   Franky                         United States 10    1   2015-03-21 03:50:44 
-297   32#酱油团                   China      10    1   2015-03-21 03:50:56 
-298   合天网安实验室          China      10    1   2015-03-21 03:51:51 
-299   ArrBas                         United States 10    1   2015-03-21 03:52:11 
-300   Cl0udShe1l                     China      10    1   2015-03-21 03:53:52 
-301   fen                            China      10    1   2015-03-21 03:53:54 
-302   Apple                          China      10    1   2015-03-21 03:54:06 
-303   Baiker Union of China          China      10    1   2015-03-21 03:54:33 
-304   beihai                         China      10    1   2015-03-21 03:54:35 
-305   SSE_stranger                   China      10    1   2015-03-21 03:54:36 
-306   ZhEna NdaoJ iUsHi PEiGN        China      10    1   2015-03-21 03:54:47 
-307   hub00                          China      10    1   2015-03-21 03:55:00 
-308   HackCat                        Korea, South 10    1   2015-03-21 03:55:02 
-309   专注酱油20年              China      10    1   2015-03-21 03:55:06 
-310   神马                         China      10    1   2015-03-21 03:55:26 
-311   fl                             China      10    1   2015-03-21 03:55:26 
-312   www                            China      10    1   2015-03-21 03:56:36 
-313   mQENBFRYtx4BCAC839REIZPy2YRCXt/pAeOJQHUpZsFZKLUYE0 China      10    1   2015-03-21 03:56:50 
-314   ANT                            China      10    1   2015-03-21 03:57:55 
-315   萤火之处                   China      10    1   2015-03-21 03:58:13 
-316   w5nd                           China      10    1   2015-03-21 03:58:14 
-317   OHno                           China      10    1   2015-03-21 03:58:55 
-318   test1                          Albania    10    1   2015-03-21 04:00:31 
-319   adminroot                      China      10    1   2015-03-21 04:05:17 
-320   北影保安俱乐部          China      10    1   2015-03-21 04:05:30 
-321   serpong                        Korea, South 10    1   2015-03-21 04:05:33 
-322   wolf                           China      10    1   2015-03-21 04:09:19 
-323   maimaimai                      China      10    1   2015-03-21 04:13:13 
-324   这次我们不打酱油没错不打酱油 China      10    1   2015-03-21 04:13:46 
-325   ARTHUR                         China      10    1   2015-03-21 04:14:20 
-326   Epic Leet Team                 Brazil     10    1   2015-03-21 04:17:00 
-327   asterlol                       Australia  10    1   2015-03-21 04:17:20 
-328   S.A                            Mongolia   10    1   2015-03-21 04:21:26 
-329   [C.L.G]                        China      10    1   2015-03-21 04:21:50 
-330   Batman's Kitchen               United States 10    1   2015-03-21 04:27:44 
-331   shiomoomin                     Japan      10    1   2015-03-21 04:27:45 
-332   大神们上，我来殿后    China      10    1   2015-03-21 04:29:32 
-333   wizardvan                      China      10    1   2015-03-21 04:29:42 
-334   BelumAdaNama                   Indonesia  10    1   2015-03-21 04:35:30 
-335   XOROR                          Russia     10    1   2015-03-21 04:36:01 
-336   (╯‵□′)╯︵┻━┻  China      10    1   2015-03-21 04:36:49 
-337   xx_x                           China      10    1   2015-03-21 04:37:04 
-338   crackatoa                      Indonesia  10    1   2015-03-21 04:39:17 
-339   duang                          China      10    1   2015-03-21 04:40:09 
-340   ********                       Japan      10    1   2015-03-21 04:41:34 
-341   BilkentSec                     Turkey     10    1   2015-03-21 04:43:46 
-342   nwpu                           China      10    1   2015-03-21 04:45:53 
-343   viper                          China      10    1   2015-03-21 04:47:01 
-344   libre315                       China      10    1   2015-03-21 04:51:28 
-345   C2C                            China      10    1   2015-03-21 04:53:09 
-346   r3b00+                         India      10    1   2015-03-21 04:55:51 
-347   Nulllllllll                    China      10    1   2015-03-21 04:56:30 
-348   matzka                         China      10    1   2015-03-21 05:05:42 
-349   QooooooooooBee                 China      10    1   2015-03-21 05:06:12 
-350   XATUSEC                        China      10    1   2015-03-21 05:08:55 
-351   lonewolf                       Indonesia  10    1   2015-03-21 05:16:14 
-352   j_s                            United States 10    1   2015-03-21 05:16:25 
-353   Matrix                         China      10    1   2015-03-21 05:17:05 
-354   EzequielTBH                    Argentina  10    1   2015-03-21 05:17:10 
-355   zjicmISA                       China      10    1   2015-03-21 05:17:12 
-356   天天向上                   China      10    1   2015-03-21 05:18:08 
-357   s3@lUrF8                       United States 10    1   2015-03-21 05:18:34 
-358   quiet                          China      10    1   2015-03-21 05:22:29 
-359   aegis                          Korea, South 10    1   2015-03-21 05:23:49 
-360   feedme                         Afghanistan 10    1   2015-03-21 05:29:54 
-361   duangduangduang                China      10    1   2015-03-21 05:29:57 
-362   mrspecial                      Vietnam    10    1   2015-03-21 05:36:06 
-363   Mario                          China      10    1   2015-03-21 05:48:46 
-364   xL3gi0n                        Vietnam    10    1   2015-03-21 05:49:03 
-365   三傻大闹CTF                China      10    1   2015-03-21 05:50:47 
-366   CTF-infinit                    Japan      10    1   2015-03-21 05:51:35 
-367   矩阵                         China      10    1   2015-03-21 06:00:32 
-368   CyberTeam6                     United States 10    1   2015-03-21 06:07:57 
-369   overflowsec                    Cote d'Ivoire 10    1   2015-03-21 06:08:46 
-370   Zewton                         Japan      10    1   2015-03-21 06:13:34 
-371   E=MC2                          China      10    1   2015-03-21 06:13:58 
-372   hack_break                     Korea, South 10    1   2015-03-21 06:20:31 
-373   <caiB />                       China      10    1   2015-03-21 06:21:46 
+173   SegFault                       India             70    3   2015-03-23 02:40:32 
+174   4then4                         Japan             63    2   2015-03-21 03:34:33 
+175   cctt                           Japan             60    2   2015-03-21 17:28:40 
+176   Lost_In_Security               France            60    2   2015-03-21 18:13:06 
+177   LSE                            France            60    2   2015-03-21 20:00:03 
+178   ASIS                           Iran              60    2   2015-03-22 09:20:57 
+179   kkkcuba                        Cuba              60    2   2015-03-22 09:48:09 
+180   NeSE                           Egypt             60    2   2015-03-22 11:52:28 
+181   xGeek                          Tunisia           60    2   2015-03-22 13:46:31 
+182   Samurai                        United States     60    2   2015-03-21 17:15:24 
+183   1up                            Mongolia          20    2   2015-03-23 02:40:44 
+184   Poopxt                         United States     20    2   2015-03-23 02:39:00 
+185   Dreamyou                       China             20    2   2015-03-23 02:46:07 
+186   SDSLabs                        India             20    2   2015-03-23 02:47:09 
+187   小坦克                         China             20    2   2015-03-23 02:48:29 
+188   AuPhishYellow                  United States     20    2   2015-03-23 02:49:11 
+189   ALLXss                         China             20    2   2015-03-23 02:41:17 
+190   watch0ut                       China             20    2   2015-03-23 02:54:18 
+191   Swagger                        China             20    2   2015-03-23 02:54:47 
+192   听说队名要长长长长长长长长长长长长长长长长长长长长长长长~ China             20    2   2015-03-23 02:54:52 
+193   摇一摇队                       China             20    2   2015-03-23 02:55:24 
+194   AutoBits                       United States     20    2   2015-03-23 02:59:03 
+195   神坑敢死队                     China             20    2   2015-03-23 02:52:02 
+196   WeAreBuyingCatsInBags          United States     10    1   2015-03-21 03:05:56 
+197   Hexpresso                      France            10    1   2015-03-21 03:06:22 
+198   Codernate                      Indonesia         10    1   2015-03-21 03:06:32 
+199   det0x                          United States     10    1   2015-03-21 03:07:12 
+200   水平不济整日被虐这看不懂那学不会 China             10    1   2015-03-21 03:08:12 
+201   morganFr33man                  United States     10    1   2015-03-21 03:08:59 
+202   blah                           France            10    1   2015-03-21 03:09:56 
+203   bucsec                         United States     10    1   2015-03-21 03:09:58 
+204   neuqSec                        China             10    1   2015-03-21 03:11:21 
+205   mau5                           Mongolia          10    1   2015-03-21 03:12:01 
+206   varc00s-team                   Romania           10    1   2015-03-21 03:12:46 
+207   blooping                       Chile             10    1   2015-03-21 03:15:01 
+208   LittleBobbyTables              United States     10    1   2015-03-21 03:15:50 
+209   Eggs                           China             10    1   2015-03-21 03:16:50 
+210   酱油c                          China             10    1   2015-03-21 03:17:42 
+211   B..B..B..Beginners             China             10    1   2015-03-21 03:18:11 
+212   Charles_Yang                   Taiwan            10    1   2015-03-21 03:18:11 
+213   retest                         China             10    1   2015-03-21 03:19:30 
+214   NIS                            Japan             10    1   2015-03-21 03:20:06 
+215   System Shock                   India             10    1   2015-03-21 03:20:23 
+216   HaHaHa123                      China             10    1   2015-03-21 03:20:24 
+217   empty                          China             10    1   2015-03-21 03:20:50 
+218   dook                           Australia         10    1   2015-03-21 03:21:43 
+219   ChiaoTungFatty                 Taiwan            10    1   2015-03-21 03:22:25 
+220   justfly                        China             10    1   2015-03-21 03:22:29 
+221   一个人的战斗                   China             10    1   2015-03-21 03:22:34 
+222   SingChan                       Singapore         10    1   2015-03-21 03:22:35 
+223   IDK_IDC                        United States     10    1   2015-03-21 03:22:36 
+224   404                            China             10    1   2015-03-21 03:22:41 
+225   Shield                         China             10    1   2015-03-21 03:22:47 
+226   dacaibi                        China             10    1   2015-03-21 03:22:50 
+227   nwpusec                        China             10    1   2015-03-21 03:22:51 
+228   想个有节操的队名容易么         China             10    1   2015-03-21 03:22:51 
+229   explorer                       China             10    1   2015-03-21 03:22:53 
+230   Delta                          India             10    1   2015-03-21 03:22:55 
+231   zby                            China             10    1   2015-03-21 03:22:57 
+232   TheSS                          China             10    1   2015-03-21 03:23:12 
+233   hst.tw                         Taiwan            10    1   2015-03-21 03:23:24 
+234   Insanity                       Spain             10    1   2015-03-21 03:23:32 
+235   h3lit                          China             10    1   2015-03-21 03:23:33 
+236   PPPPPSUC                       China             10    1   2015-03-21 03:24:14 
+237   Memory                         China             10    1   2015-03-21 03:24:21 
+238   .hack//spartan                 United States     10    1   2015-03-21 03:24:24 
+239   O(∩_∩)O                        China             10    1   2015-03-21 03:24:33 
+240   Sy4                            China             10    1   2015-03-21 03:24:41 
+241   KilledByWeb                    China             10    1   2015-03-21 03:24:41 
+242   X1cT34m                        China             10    1   2015-03-21 03:25:06 
+243   Vic                            China             10    1   2015-03-21 03:25:10 
+244   以上排名作废                   China             10    1   2015-03-21 03:25:49 
+245   &nbsp;                         China             10    1   2015-03-21 03:25:53 
+246   WZCracker                      China             10    1   2015-03-21 03:25:56 
+247   [DATA EXPUNGED]                Taiwan            10    1   2015-03-21 03:25:58 
+248   wlwaq                          China             10    1   2015-03-21 03:25:58 
+249   非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常非常长的队伍名  China             10    1   2015-03-21 03:25:58 
+250   s0me123                        China             10    1   2015-03-21 03:26:18 
+251   Sattva                         India             10    1   2015-03-21 03:26:19 
+252   KP                             United States     10    1   2015-03-21 03:26:20 
+253   zx1340                         Vietnam           10    1   2015-03-21 03:26:31 
+254   喵～                           China             10    1   2015-03-21 03:26:39 
+255   XVHHV                          Mongolia          10    1   2015-03-21 03:26:42 
+256   L1af                           China             10    1   2015-03-21 03:26:44 
+257   1oveloli                       China             10    1   2015-03-21 03:26:55 
+258   红细胞-RBC                     China             10    1   2015-03-21 03:27:09 
+259   WCSC                           United States     10    1   2015-03-21 03:27:11 
+260   Noobs1337                      Indonesia         10    1   2015-03-21 03:27:19 
+261   JJ                             China             10    1   2015-03-21 03:27:24 
+262   Charo                          Japan             10    1   2015-03-21 03:27:26 
+263   Tr1ck0rTr34t                   China             10    1   2015-03-21 03:27:32 
+264   BASH                           China             10    1   2015-03-21 03:27:39 
+265   websec                         China             10    1   2015-03-21 03:27:40 
+266   F4d3                           China             10    1   2015-03-21 03:28:02 
+267   Blake                          China             10    1   2015-03-21 03:28:06 
+268   penthackon                     European Union    10    1   2015-03-21 03:28:25 
+269   GSB                            China             10    1   2015-03-21 03:29:00 
+270   rty                            China             10    1   2015-03-21 03:29:08 
+271   stalker                        China             10    1   2015-03-21 03:29:30 
+272   BCTF_Bombs                     China             10    1   2015-03-21 03:29:58 
+273   好难决定                       China             10    1   2015-03-21 03:30:11 
+274   zonda                          Taiwan            10    1   2015-03-21 03:30:34 
+275   我是来围观的                   China             10    1   2015-03-21 03:31:50 
+276   SigFPE                         China             10    1   2015-03-21 03:31:51 
+277   代码不会写                     China             10    1   2015-03-21 03:31:56 
+278   testteam                       China             10    1   2015-03-21 03:32:33 
+279   Rice                           China             10    1   2015-03-21 03:34:15 
+280   sherl0ck5566                   Taiwan            10    1   2015-03-21 03:34:49 
+281   滑板鞋不是我买的               China             10    1   2015-03-21 03:36:53 
+282   takawo                         Japan             10    1   2015-03-21 03:37:01 
+283   FBI                            China             10    1   2015-03-21 03:37:17 
+284   许局带我飞                     China             10    1   2015-03-21 03:37:44 
+285   No_flower                      China             10    1   2015-03-21 03:39:16 
+286   Bris                           China             10    1   2015-03-21 03:39:23 
+287   B1g Br0th3r                    China             10    1   2015-03-21 03:40:24 
+288   xsc                            China             10    1   2015-03-21 03:43:25 
+289   Gray_Team                      Taiwan            10    1   2015-03-21 03:43:42 
+290   你猜猜什么是50678              China             10    1   2015-03-21 03:44:06 
+291   Nday.                          Iraq              10    1   2015-03-21 03:45:34 
+292   DarkKnights                    United States     10    1   2015-03-23 01:58:59 
+293   L_C                            China             10    1   2015-03-21 03:47:23 
+294   CTF酱油队                      China             10    1   2015-03-21 03:48:38 
+295   勉强！                         China             10    1   2015-03-21 03:48:46 
+296   Franky                         United States     10    1   2015-03-21 03:50:44 
+297   32#酱油团                      China             10    1   2015-03-21 03:50:56 
+298   合天网安实验室                 China             10    1   2015-03-21 03:51:51 
+299   ArrBas                         United States     10    1   2015-03-21 03:52:11 
+300   Cl0udShe1l                     China             10    1   2015-03-21 03:53:52 
+301   fen                            China             10    1   2015-03-21 03:53:54 
+302   Apple                          China             10    1   2015-03-21 03:54:06 
+303   Baiker Union of China          China             10    1   2015-03-21 03:54:33 
+304   beihai                         China             10    1   2015-03-21 03:54:35 
+305   SSE_stranger                   China             10    1   2015-03-21 03:54:36 
+306   ZhEna NdaoJ iUsHi PEiGN        China             10    1   2015-03-21 03:54:47 
+307   hub00                          China             10    1   2015-03-21 03:55:00 
+308   HackCat                        Korea, South      10    1   2015-03-21 03:55:02 
+309   专注酱油20年                   China             10    1   2015-03-21 03:55:06 
+310   神马                           China             10    1   2015-03-21 03:55:26 
+311   fl                             China             10    1   2015-03-21 03:55:26 
+312   www                            China             10    1   2015-03-21 03:56:36 
+313   mQENBFRYtx4BCAC839REIZPy2YRCXt/pAeOJQHUpZsFZKLUYE0 China             10    1   2015-03-21 03:56:50 
+314   ANT                            China             10    1   2015-03-21 03:57:55 
+315   萤火之处                       China             10    1   2015-03-21 03:58:13 
+316   w5nd                           China             10    1   2015-03-21 03:58:14 
+317   OHno                           China             10    1   2015-03-21 03:58:55 
+318   test1                          Albania           10    1   2015-03-21 04:00:31 
+319   adminroot                      China             10    1   2015-03-21 04:05:17 
+320   北影保安俱乐部                 China             10    1   2015-03-21 04:05:30 
+321   serpong                        Korea, South      10    1   2015-03-21 04:05:33 
+322   wolf                           China             10    1   2015-03-21 04:09:19 
+323   maimaimai                      China             10    1   2015-03-21 04:13:13 
+324   这次我们不打酱油没错不打酱油   China             10    1   2015-03-21 04:13:46 
+325   ARTHUR                         China             10    1   2015-03-21 04:14:20 
+326   Epic Leet Team                 Brazil            10    1   2015-03-21 04:17:00 
+327   asterlol                       Australia         10    1   2015-03-21 04:17:20 
+328   S.A                            Mongolia          10    1   2015-03-21 04:21:26 
+329   [C.L.G]                        China             10    1   2015-03-21 04:21:50 
+330   Batman's Kitchen               United States     10    1   2015-03-21 04:27:44 
+331   shiomoomin                     Japan             10    1   2015-03-21 04:27:45 
+332   大神们上，我来殿后             China             10    1   2015-03-21 04:29:32 
+333   wizardvan                      China             10    1   2015-03-21 04:29:42 
+334   BelumAdaNama                   Indonesia         10    1   2015-03-21 04:35:30 
+335   XOROR                          Russia            10    1   2015-03-21 04:36:01 
+336   (╯‵□′)╯︵┻━┻                   China             10    1   2015-03-21 04:36:49 
+337   xx_x                           China             10    1   2015-03-21 04:37:04 
+338   crackatoa                      Indonesia         10    1   2015-03-21 04:39:17 
+339   duang                          China             10    1   2015-03-21 04:40:09 
+340   ********                       Japan             10    1   2015-03-21 04:41:34 
+341   BilkentSec                     Turkey            10    1   2015-03-21 04:43:46 
+342   nwpu                           China             10    1   2015-03-21 04:45:53 
+343   viper                          China             10    1   2015-03-21 04:47:01 
+344   libre315                       China             10    1   2015-03-21 04:51:28 
+345   C2C                            China             10    1   2015-03-21 04:53:09 
+346   r3b00+                         India             10    1   2015-03-21 04:55:51 
+347   Nulllllllll                    China             10    1   2015-03-21 04:56:30 
+348   matzka                         China             10    1   2015-03-21 05:05:42 
+349   QooooooooooBee                 China             10    1   2015-03-21 05:06:12 
+350   XATUSEC                        China             10    1   2015-03-21 05:08:55 
+351   lonewolf                       Indonesia         10    1   2015-03-21 05:16:14 
+352   j_s                            United States     10    1   2015-03-21 05:16:25 
+353   Matrix                         China             10    1   2015-03-21 05:17:05 
+354   EzequielTBH                    Argentina         10    1   2015-03-21 05:17:10 
+355   zjicmISA                       China             10    1   2015-03-21 05:17:12 
+356   天天向上                       China             10    1   2015-03-21 05:18:08 
+357   s3@lUrF8                       United States     10    1   2015-03-21 05:18:34 
+358   quiet                          China             10    1   2015-03-21 05:22:29 
+359   aegis                          Korea, South      10    1   2015-03-21 05:23:49 
+360   feedme                         Afghanistan       10    1   2015-03-21 05:29:54 
+361   duangduangduang                China             10    1   2015-03-21 05:29:57 
+362   mrspecial                      Vietnam           10    1   2015-03-21 05:36:06 
+363   Mario                          China             10    1   2015-03-21 05:48:46 
+364   xL3gi0n                        Vietnam           10    1   2015-03-21 05:49:03 
+365   三傻大闹CTF                    China             10    1   2015-03-21 05:50:47 
+366   CTF-infinit                    Japan             10    1   2015-03-21 05:51:35 
+367   矩阵                           China             10    1   2015-03-21 06:00:32 
+368   CyberTeam6                     United States     10    1   2015-03-21 06:07:57 
+369   overflowsec                    Cote d'Ivoire     10    1   2015-03-21 06:08:46 
+370   Zewton                         Japan             10    1   2015-03-21 06:13:34 
+371   E=MC2                          China             10    1   2015-03-21 06:13:58 
+372   hack_break                     Korea, South      10    1   2015-03-21 06:20:31 
+373   <caiB />                       China             10    1   2015-03-21 06:21:46 
 374   CC                             Cocos (Keeling) Islands 10    1   2015-03-21 06:22:57 
-375   喵喵哒                      China      10    1   2015-03-21 06:24:19 
-376   halohalo                       China      10    1   2015-03-21 06:29:59 
-377   inkakaka                       Albania    10    1   2015-03-21 06:31:12 
-378   X Hunt3r                       Vietnam    10    1   2015-03-21 06:34:12 
-379   德玛西亚                   China      10    1   2015-03-21 06:40:11 
-380   osct                           Indonesia  10    1   2015-03-21 06:40:49 
-381   竹蜻蜓                      China      10    1   2015-03-21 06:43:16 
-382   private class water{};         China      10    1   2015-03-21 06:46:16 
-383   solocat                        Korea, South 10    1   2015-03-21 06:46:26 
-384   TMD                            China      10    1   2015-03-21 06:46:44 
-385   HearthStone                    China      10    1   2015-03-21 06:52:03 
-386   phieulang                      Vietnam    10    1   2015-03-21 06:52:16 
-387   abagoforgans                   China      10    1   2015-03-21 06:54:17 
-388   竹田氏                      Japan      10    1   2015-03-21 06:55:10 
-389   xnosuchteam                    Indonesia  10    1   2015-03-21 06:56:27 
-390   MMMmmm                         China      10    1   2015-03-21 06:57:34 
-391   是谁                         China      10    1   2015-03-21 06:58:36 
-392   lab315                         China      10    1   2015-03-21 06:59:48 
-393   酱油gogogo                   China      10    1   2015-03-21 07:01:36 
-394   teaj4de                        Hong Kong  10    1   2015-03-21 07:04:26 
-395   闷声发大财                China      10    1   2015-03-21 07:05:15 
-396   Scanner                        China      10    1   2015-03-21 07:11:08 
-397   baymax                         China      10    1   2015-03-21 07:13:57 
-398   To be number 0                 China      10    1   2015-03-21 07:24:24 
-399   line                           China      10    1   2015-03-21 07:36:04 
-400   蒙娜丽莎                   China      10    1   2015-03-21 07:37:08 
-401   fun                            China      10    1   2015-03-21 07:39:15 
-402   swu_wifi                       China      10    1   2015-03-21 07:42:02 
-403   ohai                           United States 10    1   2015-03-21 07:47:00 
-404   satao_fs                       Japan      10    1   2015-03-21 07:48:39 
-405   exp3r1ence                     China      10    1   2015-03-21 07:55:33 
-406   vawait                         China      10    1   2015-03-21 07:57:44 
-407   mode                           China      10    1   2015-03-21 08:00:10 
-408   NoKidding                      China      10    1   2015-03-21 08:01:18 
-409   justforfun                     China      10    1   2015-03-21 08:01:42 
-410   UIT_MARS                       Vietnam    10    1   2015-03-21 08:02:28 
-411   Steampunkers                   Poland     10    1   2015-03-21 08:02:48 
-412   酱油种子                   China      10    1   2015-03-21 08:02:54 
-413   Paprika                        Japan      10    1   2015-03-21 08:04:52 
-414   Neptune                        China      10    1   2015-03-21 08:11:40 
-415   BBM                            China      10    1   2015-03-21 08:12:06 
-416   527                            China      10    1   2015-03-21 08:13:24 
-417   grow                           China      10    1   2015-03-21 08:13:28 
-418   JLU.Mac                        China      10    1   2015-03-21 08:13:57 
-419   QYST                           China      10    1   2015-03-21 08:15:54 
-420   jjsn                           China      10    1   2015-03-21 08:16:39 
-421   小学生战队                China      10    1   2015-03-21 08:16:51 
-422   gdgdgd                         China      10    1   2015-03-21 08:18:55 
-423   ujj                            China      10    1   2015-03-21 08:32:29 
-424   KH2RS                          Korea, South 10    1   2015-03-21 08:36:06 
-425   IMONMYOWN                      Taiwan     10    1   2015-03-21 08:37:30 
-426   暗影                         China      10    1   2015-03-21 08:44:07 
-427   Dystopian Narwhals             Singapore  10    1   2015-03-21 08:48:23 
-428   1N7H3H4Y574CK                  Fiji       10    1   2015-03-21 08:49:38 
-429   NENU_SEC                       China      10    1   2015-03-21 08:50:32 
-430   hye微火                      China      10    1   2015-03-21 08:54:40 
-431   psuje                          Poland     10    1   2015-03-21 08:55:55 
-432   rangers                        Indonesia  10    1   2015-03-21 09:02:51 
-433   sauces                         Poland     10    1   2015-03-21 09:07:54 
-434   D0r43m0n                       Vietnam    10    1   2015-03-21 09:08:33 
-435   Safe-Ahead-Edu                 China      10    1   2015-03-21 09:14:44 
-436   Kernel Space Invaders          Germany    10    1   2015-03-21 09:22:20 
-437   宁波少帅远征队          China      10    1   2015-03-21 09:23:11 
-438   wwwwodddd                      China      10    1   2015-03-21 09:28:34 
-439   GINA                           Japan      10    1   2015-03-21 09:32:57 
-440   Cult of Indomie                Indonesia  10    1   2015-03-21 09:36:04 
-441   th3_d4rk_s1d3                  India      10    1   2015-03-21 09:51:24 
-442   BOF                            Japan      10    1   2015-03-21 09:52:18 
-443   qweqweqwe                      China      10    1   2015-03-21 10:00:34 
-444   Ireo                           European Union 10    1   2015-03-21 10:05:21 
-445   l0stb1t                        Vietnam    10    1   2015-03-21 10:12:11 
-446   infoobar                       Germany    10    1   2015-03-21 10:22:02 
-447   Relentless Penguin Uprising    Canada     10    1   2015-03-21 10:32:34 
-448   omw2syg                        Ukraine    10    1   2015-03-21 10:36:57 
-449   peanuts                        France     10    1   2015-03-21 10:39:51 
-450   Hawks                          Poland     10    1   2015-03-21 10:50:49 
-451   -。-                          China      10    1   2015-03-21 10:52:57 
-452   12358                          China      10    1   2015-03-21 10:58:28 
-453   KQCQ                           Vietnam    10    1   2015-03-21 11:06:22 
-454   000xxx000                      China      10    1   2015-03-21 11:09:53 
-455   zaiivhfeii                     China      10    1   2015-03-21 11:11:51 
-456   The DHARMA Initiative          Spain      10    1   2015-03-21 11:24:28 
-457   PTB                            European Union 10    1   2015-03-21 11:35:53 
-458   马甲2号                     China      10    1   2015-03-21 11:38:45 
-459   hhh                            China      10    1   2015-03-21 11:40:51 
-460   Go_Back                        Algeria    10    1   2015-03-21 11:56:20 
-461   FuckBitchingBctf               Afghanistan 10    1   2015-03-21 12:00:18 
-462   SevenClub                      China      10    1   2015-03-21 12:27:13 
-463   Hackosis                       Sweden     10    1   2015-03-21 12:35:11 
-464   ZenosDance                     United States 10    1   2015-03-21 12:38:11 
-465   Evilcode                       China      10    1   2015-03-21 12:45:58 
-466   NCC1701D                       Germany    10    1   2015-03-21 12:48:14 
-467   gooligans                      Canada     10    1   2015-03-21 12:49:52 
-468   xxxxxxx                        China      10    1   2015-03-21 12:53:33 
-469   Yamagi.com                     Japan      10    1   2015-03-21 12:55:49 
-470   jikimi                         Korea, South 10    1   2015-03-21 13:01:10 
-471   xiaoxiaoniao                   China      10    1   2015-03-21 13:04:37 
-472   KernelPanic                    Russia     10    1   2015-03-21 13:09:13 
-473   13610n                         Iceland    10    1   2015-03-21 13:10:40 
-474   CyberWars                      India      10    1   2015-03-21 13:13:29 
-475   okudo3                         Japan      10    1   2015-03-21 13:13:33 
-476   0-O                            China      10    1   2015-03-21 13:24:43 
-477   bjFinder                       China      10    1   2015-03-21 13:26:11 
-478   On est pas contents            Switzerland 10    1   2015-03-21 13:27:04 
-479   xenocidewiki                   Norway     10    1   2015-03-21 13:28:20 
-480   红绯鱼                      China      10    1   2015-03-21 13:30:59 
-481   Sec0d                          France     10    1   2015-03-21 13:38:55 
-482   hAIXer                         Germany    10    1   2015-03-21 13:45:28 
-483   Failers                        Russia     10    1   2015-03-21 13:46:56 
-484   fire                           China      10    1   2015-03-21 13:51:51 
-485   一败涂地                   China      10    1   2015-03-21 13:51:57 
-486   Repair Computer Only           China      10    1   2015-03-21 14:10:02 
-487   SUCSS                          United Kingdom 10    1   2015-03-21 14:29:16 
-488   WindSpeaker                    China      10    1   2015-03-21 14:30:14 
-489   mddd                           Canada     10    1   2015-03-21 14:39:15 
-490   火爆鸡筋                   China      10    1   2015-03-21 14:52:10 
-491   perhaps                        China      10    1   2015-03-21 14:52:38 
-492   WooYun                         China      10    1   2015-03-21 14:57:45 
-493   Tr3jer                         China      10    1   2015-03-21 15:09:23 
-494   R4iz3l                         Argentina  10    1   2015-03-21 15:16:06 
-495   bucen                          Finland    10    1   2015-03-21 15:28:33 
-496   pcsec                          Japan      10    1   2015-03-21 15:34:58 
-497   caicai                         China      10    1   2015-03-21 16:00:52 
-498   小菜鸟                      Angola     10    1   2015-03-21 16:12:43 
-499   MojoMaster                     France     10    1   2015-03-21 16:14:49 
-500   thequeen14                     Russia     10    1   2015-03-21 16:28:29 
-501   eleanor                        China      10    1   2015-03-21 16:29:36 
-502   wander the world               China      10    1   2015-03-21 16:31:50 
-503   LoneW00f                       Sweden     10    1   2015-03-21 16:40:09 
-504   mephisto                       Germany    10    1   2015-03-21 16:43:19 
-505   Base69                         Greece     10    1   2015-03-21 16:44:29 
-506   skyxiao                        China      10    1   2015-03-21 16:48:04 
-507   ADG                            China      10    1   2015-03-21 16:54:30 
-508   菜b打酱油                  China      10    1   2015-03-21 16:55:53 
-509   ZHA&&ZHA                       China      10    1   2015-03-21 17:00:22 
-510   red9941                        China      10    1   2015-03-21 17:04:02 
-511   th3jackers                     Algeria    10    1   2015-03-21 17:10:50 
-512   LiveOverflow                   Germany    10    1   2015-03-21 17:13:10 
-513   WSL                            China      10    1   2015-03-21 17:21:12 
-514   EricSoc                        Ireland    10    1   2015-03-21 17:22:25 
-515   !0                             China      10    1   2015-03-21 17:23:56 
-516   一人打酱油                China      10    1   2015-03-21 17:42:55 
-517   AntiHeXA                       Korea, South 10    1   2015-03-21 18:01:10 
-518   R.T                            Korea, South 10    1   2015-03-21 18:05:42 
-519   AATeam                         France     10    1   2015-03-21 18:18:42 
-520   htaccess                       India      10    1   2015-03-21 18:25:39 
-521   EvilsWorld                     Russia     10    1   2015-03-21 18:29:20 
-522   segfault.io                    United States 10    1   2015-03-21 18:33:59 
-523   Team Action Kaktus             Germany    10    1   2015-03-21 18:50:35 
-524   小葱                         Armenia    10    1   2015-03-21 18:52:20 
-525   ToxicBandits                   France     10    1   2015-03-21 19:14:06 
-526   CDM                            Turkey     10    1   2015-03-21 19:24:54 
-527   himan                          Korea, South 10    1   2015-03-21 19:43:07 
-528   ascii_overflow                 United States 10    1   2015-03-21 19:49:01 
-529   7U53c                          United States 10    1   2015-03-21 19:59:50 
-530   eHaCK                          Netherlands 10    1   2015-03-21 20:58:18 
-531   Knightsec​                   United States 10    1   2015-03-21 23:13:06 
-532   [Redacted]                     United States 10    1   2015-03-21 23:29:57 
-533   NeOLux-C1Ph3r                  France     10    1   2015-03-21 23:38:32 
-534   Certified Edible Dinosaurs     Netherlands 10    1   2015-03-21 23:59:27 
-535   SpySheriff                     United States 10    1   2015-03-22 00:09:25 
-536   Owlz                           Akrotiri   10    1   2015-03-22 00:28:05 
-537   DATA-TECH                      Tunisia    10    1   2015-03-22 00:34:44 
-538   昆承湖菜鸟小分队       China      10    1   2015-03-22 01:13:57 
-539   AHS Players                    United States 10    1   2015-03-22 02:32:31 
-540   YOKARO-MON                     Japan      10    1   2015-03-22 02:51:38 
-541   I'M A HACKER,BITCH             China      10    1   2015-03-22 03:24:00 
-542   LCABP                          Canada     10    1   2015-03-22 04:34:46 
-543   zaibuo                         China      10    1   2015-03-22 04:52:16 
-544   InTeam                         Indonesia  10    1   2015-03-22 05:11:06 
-545   HJHSH                          Korea, South 10    1   2015-03-22 06:03:41 
-546   PolyHack                       Canada     10    1   2015-03-22 06:04:22 
-547   C0dex0                         China      10    1   2015-03-22 06:08:08 
-548   h4x0r                          India      10    1   2015-03-22 06:11:26 
-549   bosanbung                      Indonesia  10    1   2015-03-22 06:43:44 
-550   Tokyo-CTF-Beginners            Japan      10    1   2015-03-22 07:26:28 
-551   The Terminal                   Canada     10    1   2015-03-22 07:38:51 
-552   WALTZ                          Japan      10    1   2015-03-22 08:19:14 
-553   中南大学                   China      10    1   2015-03-22 08:47:46 
-554   axit                           Venezuela  10    1   2015-03-22 09:05:16 
-555   忘了爱                      China      10    1   2015-03-22 09:25:48 
-556   ICE                            Fiji       10    1   2015-03-22 09:58:29 
-557   xu酱油                       China      10    1   2015-03-22 10:33:41 
-558   BYTE                           Vietnam    10    1   2015-03-22 11:03:22 
-559   NOSkill                        China      10    1   2015-03-22 11:57:06 
-560   23333                          China      10    1   2015-03-22 12:56:47 
-561   Kurawa In Disorder             Indonesia  10    1   2015-03-22 13:09:30 
-562   frag                           Afghanistan 10    1   2015-03-22 13:34:23 
-563   ww                             China      10    1   2015-03-22 14:02:58 
-564   磐石安全                   China      10    1   2015-03-22 14:17:46 
-565   test01                         Japan      10    1   2015-03-22 15:39:21 
-566   Takemymoney                    Korea, South 10    1   2015-03-22 15:58:18 
-567   Entr0pia                       Russia     10    1   2015-03-22 15:59:49 
-568   curryboys                      United States 10    1   2015-03-22 17:26:05 
-569   远古甲壳虫                China      10    1   2015-03-22 17:29:04 
-570   amn3s1a                        Peru       10    1   2015-03-22 17:55:05 
-571   israelites                     Israel     10    1   2015-03-22 18:56:48 
-572   SetecAstronomy                 United States 10    1   2015-03-22 19:02:13 
-573   EMUsec                         United States 10    1   2015-03-22 19:23:03 
-574   Hopjesvla                      Netherlands 10    1   2015-03-22 19:55:47 
-575   porpeeranut                    Thailand   10    1   2015-03-22 20:19:24 
-576   Crypt0boys                     United States 10    1   2015-03-22 20:45:32 
-577   many                           Malaysia   10    1   2015-03-22 22:08:25 
-578   lcmafia                        United States 10    1   2015-03-22 22:13:27 
-579   Minium                         Netherlands 10    1   2015-03-22 22:18:09 
-580   glaros                         Greece     10    1   2015-03-23 00:12:46 
-581   C'cript                        China      10    1   2015-03-23 00:56:10 
-582   PherricOxide                   United States 10    1   2015-03-23 01:22:48 
-583   卧槽没注册                China      10    1   2015-03-21 03:46:27 
+375   喵喵哒                         China             10    1   2015-03-21 06:24:19 
+376   halohalo                       China             10    1   2015-03-21 06:29:59 
+377   inkakaka                       Albania           10    1   2015-03-21 06:31:12 
+378   X Hunt3r                       Vietnam           10    1   2015-03-21 06:34:12 
+379   德玛西亚                       China             10    1   2015-03-21 06:40:11 
+380   osct                           Indonesia         10    1   2015-03-21 06:40:49 
+381   竹蜻蜓                         China             10    1   2015-03-21 06:43:16 
+382   private class water{};         China             10    1   2015-03-21 06:46:16 
+383   solocat                        Korea, South      10    1   2015-03-21 06:46:26 
+384   TMD                            China             10    1   2015-03-21 06:46:44 
+385   HearthStone                    China             10    1   2015-03-21 06:52:03 
+386   phieulang                      Vietnam           10    1   2015-03-21 06:52:16 
+387   abagoforgans                   China             10    1   2015-03-21 06:54:17 
+388   竹田氏                         Japan             10    1   2015-03-21 06:55:10 
+389   xnosuchteam                    Indonesia         10    1   2015-03-21 06:56:27 
+390   MMMmmm                         China             10    1   2015-03-21 06:57:34 
+391   是谁                           China             10    1   2015-03-21 06:58:36 
+392   lab315                         China             10    1   2015-03-21 06:59:48 
+393   酱油gogogo                     China             10    1   2015-03-21 07:01:36 
+394   teaj4de                        Hong Kong         10    1   2015-03-21 07:04:26 
+395   闷声发大财                     China             10    1   2015-03-21 07:05:15 
+396   Scanner                        China             10    1   2015-03-21 07:11:08 
+397   baymax                         China             10    1   2015-03-21 07:13:57 
+398   To be number 0                 China             10    1   2015-03-21 07:24:24 
+399   line                           China             10    1   2015-03-21 07:36:04 
+400   蒙娜丽莎                       China             10    1   2015-03-21 07:37:08 
+401   fun                            China             10    1   2015-03-21 07:39:15 
+402   swu_wifi                       China             10    1   2015-03-21 07:42:02 
+403   ohai                           United States     10    1   2015-03-21 07:47:00 
+404   satao_fs                       Japan             10    1   2015-03-21 07:48:39 
+405   exp3r1ence                     China             10    1   2015-03-21 07:55:33 
+406   vawait                         China             10    1   2015-03-21 07:57:44 
+407   mode                           China             10    1   2015-03-21 08:00:10 
+408   NoKidding                      China             10    1   2015-03-21 08:01:18 
+409   justforfun                     China             10    1   2015-03-21 08:01:42 
+410   UIT_MARS                       Vietnam           10    1   2015-03-21 08:02:28 
+411   Steampunkers                   Poland            10    1   2015-03-21 08:02:48 
+412   酱油种子                       China             10    1   2015-03-21 08:02:54 
+413   Paprika                        Japan             10    1   2015-03-21 08:04:52 
+414   Neptune                        China             10    1   2015-03-21 08:11:40 
+415   BBM                            China             10    1   2015-03-21 08:12:06 
+416   527                            China             10    1   2015-03-21 08:13:24 
+417   grow                           China             10    1   2015-03-21 08:13:28 
+418   JLU.Mac                        China             10    1   2015-03-21 08:13:57 
+419   QYST                           China             10    1   2015-03-21 08:15:54 
+420   jjsn                           China             10    1   2015-03-21 08:16:39 
+421   小学生战队                     China             10    1   2015-03-21 08:16:51 
+422   gdgdgd                         China             10    1   2015-03-21 08:18:55 
+423   ujj                            China             10    1   2015-03-21 08:32:29 
+424   KH2RS                          Korea, South      10    1   2015-03-21 08:36:06 
+425   IMONMYOWN                      Taiwan            10    1   2015-03-21 08:37:30 
+426   暗影                           China             10    1   2015-03-21 08:44:07 
+427   Dystopian Narwhals             Singapore         10    1   2015-03-21 08:48:23 
+428   1N7H3H4Y574CK                  Fiji              10    1   2015-03-21 08:49:38 
+429   NENU_SEC                       China             10    1   2015-03-21 08:50:32 
+430   hye微火                        China             10    1   2015-03-21 08:54:40 
+431   psuje                          Poland            10    1   2015-03-21 08:55:55 
+432   rangers                        Indonesia         10    1   2015-03-21 09:02:51 
+433   sauces                         Poland            10    1   2015-03-21 09:07:54 
+434   D0r43m0n                       Vietnam           10    1   2015-03-21 09:08:33 
+435   Safe-Ahead-Edu                 China             10    1   2015-03-21 09:14:44 
+436   Kernel Space Invaders          Germany           10    1   2015-03-21 09:22:20 
+437   宁波少帅远征队                 China             10    1   2015-03-21 09:23:11 
+438   wwwwodddd                      China             10    1   2015-03-21 09:28:34 
+439   GINA                           Japan             10    1   2015-03-21 09:32:57 
+440   Cult of Indomie                Indonesia         10    1   2015-03-21 09:36:04 
+441   th3_d4rk_s1d3                  India             10    1   2015-03-21 09:51:24 
+442   BOF                            Japan             10    1   2015-03-21 09:52:18 
+443   qweqweqwe                      China             10    1   2015-03-21 10:00:34 
+444   Ireo                           European Union    10    1   2015-03-21 10:05:21 
+445   l0stb1t                        Vietnam           10    1   2015-03-21 10:12:11 
+446   infoobar                       Germany           10    1   2015-03-21 10:22:02 
+447   Relentless Penguin Uprising    Canada            10    1   2015-03-21 10:32:34 
+448   omw2syg                        Ukraine           10    1   2015-03-21 10:36:57 
+449   peanuts                        France            10    1   2015-03-21 10:39:51 
+450   Hawks                          Poland            10    1   2015-03-21 10:50:49 
+451   -。-                           China             10    1   2015-03-21 10:52:57 
+452   12358                          China             10    1   2015-03-21 10:58:28 
+453   KQCQ                           Vietnam           10    1   2015-03-21 11:06:22 
+454   000xxx000                      China             10    1   2015-03-21 11:09:53 
+455   zaiivhfeii                     China             10    1   2015-03-21 11:11:51 
+456   The DHARMA Initiative          Spain             10    1   2015-03-21 11:24:28 
+457   PTB                            European Union    10    1   2015-03-21 11:35:53 
+458   马甲2号                        China             10    1   2015-03-21 11:38:45 
+459   hhh                            China             10    1   2015-03-21 11:40:51 
+460   Go_Back                        Algeria           10    1   2015-03-21 11:56:20 
+461   FuckBitchingBctf               Afghanistan       10    1   2015-03-21 12:00:18 
+462   SevenClub                      China             10    1   2015-03-21 12:27:13 
+463   Hackosis                       Sweden            10    1   2015-03-21 12:35:11 
+464   ZenosDance                     United States     10    1   2015-03-21 12:38:11 
+465   Evilcode                       China             10    1   2015-03-21 12:45:58 
+466   NCC1701D                       Germany           10    1   2015-03-21 12:48:14 
+467   gooligans                      Canada            10    1   2015-03-21 12:49:52 
+468   xxxxxxx                        China             10    1   2015-03-21 12:53:33 
+469   Yamagi.com                     Japan             10    1   2015-03-21 12:55:49 
+470   jikimi                         Korea, South      10    1   2015-03-21 13:01:10 
+471   xiaoxiaoniao                   China             10    1   2015-03-21 13:04:37 
+472   KernelPanic                    Russia            10    1   2015-03-21 13:09:13 
+473   13610n                         Iceland           10    1   2015-03-21 13:10:40 
+474   CyberWars                      India             10    1   2015-03-21 13:13:29 
+475   okudo3                         Japan             10    1   2015-03-21 13:13:33 
+476   0-O                            China             10    1   2015-03-21 13:24:43 
+477   bjFinder                       China             10    1   2015-03-21 13:26:11 
+478   On est pas contents            Switzerland       10    1   2015-03-21 13:27:04 
+479   xenocidewiki                   Norway            10    1   2015-03-21 13:28:20 
+480   红绯鱼                         China             10    1   2015-03-21 13:30:59 
+481   Sec0d                          France            10    1   2015-03-21 13:38:55 
+482   hAIXer                         Germany           10    1   2015-03-21 13:45:28 
+483   Failers                        Russia            10    1   2015-03-21 13:46:56 
+484   fire                           China             10    1   2015-03-21 13:51:51 
+485   一败涂地                       China             10    1   2015-03-21 13:51:57 
+486   Repair Computer Only           China             10    1   2015-03-21 14:10:02 
+487   SUCSS                          United Kingdom    10    1   2015-03-21 14:29:16 
+488   WindSpeaker                    China             10    1   2015-03-21 14:30:14 
+489   mddd                           Canada            10    1   2015-03-21 14:39:15 
+490   火爆鸡筋                       China             10    1   2015-03-21 14:52:10 
+491   perhaps                        China             10    1   2015-03-21 14:52:38 
+492   WooYun                         China             10    1   2015-03-21 14:57:45 
+493   Tr3jer                         China             10    1   2015-03-21 15:09:23 
+494   R4iz3l                         Argentina         10    1   2015-03-21 15:16:06 
+495   bucen                          Finland           10    1   2015-03-21 15:28:33 
+496   pcsec                          Japan             10    1   2015-03-21 15:34:58 
+497   caicai                         China             10    1   2015-03-21 16:00:52 
+498   小菜鸟                         Angola            10    1   2015-03-21 16:12:43 
+499   MojoMaster                     France            10    1   2015-03-21 16:14:49 
+500   thequeen14                     Russia            10    1   2015-03-21 16:28:29 
+501   eleanor                        China             10    1   2015-03-21 16:29:36 
+502   wander the world               China             10    1   2015-03-21 16:31:50 
+503   LoneW00f                       Sweden            10    1   2015-03-21 16:40:09 
+504   mephisto                       Germany           10    1   2015-03-21 16:43:19 
+505   Base69                         Greece            10    1   2015-03-21 16:44:29 
+506   skyxiao                        China             10    1   2015-03-21 16:48:04 
+507   ADG                            China             10    1   2015-03-21 16:54:30 
+508   菜b打酱油                      China             10    1   2015-03-21 16:55:53 
+509   ZHA&&ZHA                       China             10    1   2015-03-21 17:00:22 
+510   red9941                        China             10    1   2015-03-21 17:04:02 
+511   th3jackers                     Algeria           10    1   2015-03-21 17:10:50 
+512   LiveOverflow                   Germany           10    1   2015-03-21 17:13:10 
+513   WSL                            China             10    1   2015-03-21 17:21:12 
+514   EricSoc                        Ireland           10    1   2015-03-21 17:22:25 
+515   !0                             China             10    1   2015-03-21 17:23:56 
+516   一人打酱油                     China             10    1   2015-03-21 17:42:55 
+517   AntiHeXA                       Korea, South      10    1   2015-03-21 18:01:10 
+518   R.T                            Korea, South      10    1   2015-03-21 18:05:42 
+519   AATeam                         France            10    1   2015-03-21 18:18:42 
+520   htaccess                       India             10    1   2015-03-21 18:25:39 
+521   EvilsWorld                     Russia            10    1   2015-03-21 18:29:20 
+522   segfault.io                    United States     10    1   2015-03-21 18:33:59 
+523   Team Action Kaktus             Germany           10    1   2015-03-21 18:50:35 
+524   小葱                           Armenia           10    1   2015-03-21 18:52:20 
+525   ToxicBandits                   France            10    1   2015-03-21 19:14:06 
+526   CDM                            Turkey            10    1   2015-03-21 19:24:54 
+527   himan                          Korea, South      10    1   2015-03-21 19:43:07 
+528   ascii_overflow                 United States     10    1   2015-03-21 19:49:01 
+529   7U53c                          United States     10    1   2015-03-21 19:59:50 
+530   eHaCK                          Netherlands       10    1   2015-03-21 20:58:18 
+531   Knightsec​                United States     10    1   2015-03-21 23:13:06 
+532   [Redacted]                     United States     10    1   2015-03-21 23:29:57 
+533   NeOLux-C1Ph3r                  France            10    1   2015-03-21 23:38:32 
+534   Certified Edible Dinosaurs     Netherlands       10    1   2015-03-21 23:59:27 
+535   SpySheriff                     United States     10    1   2015-03-22 00:09:25 
+536   Owlz                           Akrotiri          10    1   2015-03-22 00:28:05 
+537   DATA-TECH                      Tunisia           10    1   2015-03-22 00:34:44 
+538   昆承湖菜鸟小分队               China             10    1   2015-03-22 01:13:57 
+539   AHS Players                    United States     10    1   2015-03-22 02:32:31 
+540   YOKARO-MON                     Japan             10    1   2015-03-22 02:51:38 
+541   I'M A HACKER,BITCH             China             10    1   2015-03-22 03:24:00 
+542   LCABP                          Canada            10    1   2015-03-22 04:34:46 
+543   zaibuo                         China             10    1   2015-03-22 04:52:16 
+544   InTeam                         Indonesia         10    1   2015-03-22 05:11:06 
+545   HJHSH                          Korea, South      10    1   2015-03-22 06:03:41 
+546   PolyHack                       Canada            10    1   2015-03-22 06:04:22 
+547   C0dex0                         China             10    1   2015-03-22 06:08:08 
+548   h4x0r                          India             10    1   2015-03-22 06:11:26 
+549   bosanbung                      Indonesia         10    1   2015-03-22 06:43:44 
+550   Tokyo-CTF-Beginners            Japan             10    1   2015-03-22 07:26:28 
+551   The Terminal                   Canada            10    1   2015-03-22 07:38:51 
+552   WALTZ                          Japan             10    1   2015-03-22 08:19:14 
+553   中南大学                       China             10    1   2015-03-22 08:47:46 
+554   axit                           Venezuela         10    1   2015-03-22 09:05:16 
+555   忘了爱                         China             10    1   2015-03-22 09:25:48 
+556   ICE                            Fiji              10    1   2015-03-22 09:58:29 
+557   xu酱油                         China             10    1   2015-03-22 10:33:41 
+558   BYTE                           Vietnam           10    1   2015-03-22 11:03:22 
+559   NOSkill                        China             10    1   2015-03-22 11:57:06 
+560   23333                          China             10    1   2015-03-22 12:56:47 
+561   Kurawa In Disorder             Indonesia         10    1   2015-03-22 13:09:30 
+562   frag                           Afghanistan       10    1   2015-03-22 13:34:23 
+563   ww                             China             10    1   2015-03-22 14:02:58 
+564   磐石安全                       China             10    1   2015-03-22 14:17:46 
+565   test01                         Japan             10    1   2015-03-22 15:39:21 
+566   Takemymoney                    Korea, South      10    1   2015-03-22 15:58:18 
+567   Entr0pia                       Russia            10    1   2015-03-22 15:59:49 
+568   curryboys                      United States     10    1   2015-03-22 17:26:05 
+569   远古甲壳虫                     China             10    1   2015-03-22 17:29:04 
+570   amn3s1a                        Peru              10    1   2015-03-22 17:55:05 
+571   israelites                     Israel            10    1   2015-03-22 18:56:48 
+572   SetecAstronomy                 United States     10    1   2015-03-22 19:02:13 
+573   EMUsec                         United States     10    1   2015-03-22 19:23:03 
+574   Hopjesvla                      Netherlands       10    1   2015-03-22 19:55:47 
+575   porpeeranut                    Thailand          10    1   2015-03-22 20:19:24 
+576   Crypt0boys                     United States     10    1   2015-03-22 20:45:32 
+577   many                           Malaysia          10    1   2015-03-22 22:08:25 
+578   lcmafia                        United States     10    1   2015-03-22 22:13:27 
+579   Minium                         Netherlands       10    1   2015-03-22 22:18:09 
+580   glaros                         Greece            10    1   2015-03-23 00:12:46 
+581   C'cript                        China             10    1   2015-03-23 00:56:10 
+582   PherricOxide                   United States     10    1   2015-03-23 01:22:48 
+583   卧槽没注册                     China             10    1   2015-03-21 03:46:27 
