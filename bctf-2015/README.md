@@ -11,6 +11,7 @@
 
 * [crypto/backdoor](crypto/backdoor)
 * [crypto/warmup](crypto/warmup)
+* [crypto/weak-enc](crypto/weak-enc)
 * [exploit/drunk](exploit/drunk)
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)
@@ -24,7 +25,6 @@
 ## Missing write-ups
 
 * [crypto/redundant-code](crypto/redundant-code)
-* [crypto/weak-enc](crypto/weak-enc)
 * [misc/broken-oj](misc/broken-oj)
 * [reverse/camlmaze](reverse/camlmaze)
 * [reverse/crappy_oj](reverse/crappy_oj)
