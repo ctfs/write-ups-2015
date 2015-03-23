@@ -1,7 +1,7 @@
 # BCTF CTF write-ups
 
 * <http://bctf.cn/>
-* [Scoreboard](http://bctf.cn/#/rank) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://bctf.cn/#/rank) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
