@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.com.au/2015/03/bctf-2015-weakenc-crypto-challenge.html>
