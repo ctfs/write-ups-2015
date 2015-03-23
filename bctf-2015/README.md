@@ -15,6 +15,7 @@
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)
 * [exploit/zhongguancun](exploit/zhongguancun)
+* [trivial/checkin](trivial/checkin)
 * [web/sqli-engine](web/sqli-engine)
 * [web/torrent-lover](web/torrent-lover)
 * [web/webchat](web/webchat)
@@ -29,4 +30,3 @@
 * [reverse/crappy_oj](reverse/crappy_oj)
 * [reverse/freak](reverse/freak)
 * [reverse/securecom](reverse/securecom)
-* [trivial/checkin](trivial/checkin)
