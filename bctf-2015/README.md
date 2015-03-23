@@ -2,6 +2,7 @@
 
 * <http://bctf.cn/>
 * [Scoreboard](http://bctf.cn/#/rank) or [local alternative](scoreboard.txt)
+* [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 
