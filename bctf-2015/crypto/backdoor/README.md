@@ -29,4 +29,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/zTrix/tsh/blob/bctf/solve.py>
