@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese analysis](http://maskray.me/blog/2015-03-23-bctf-2015-camlmaze)
