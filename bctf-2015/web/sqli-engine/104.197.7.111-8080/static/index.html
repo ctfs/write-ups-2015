@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Register</title>
+
+    <meta name="viewport" content="width=1000, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Loading Bootstrap -->
+    <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Loading Flat UI -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+    <!-- <link href="docs/assets/css/demo.css" rel="stylesheet">-->
+    <style type="text/css">
+.container {
+  width: 970px !important;
+  }
+.demo-headline {
+  padding: 80px 0 60px;
+  text-align: center;
+}
+form input {
+    width: 600px;
+    margin: 20px 0;
+}
+    </style>
+
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="static/js/vendor/html5shiv.js"></script>
+      <script src="static/js/vendor/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="demo-headline">
+        <h1>
+          <div style=""></div>
+          New Social Network 
+          <br />
+          <small style="color: #000;">(website still under construction...)</small>
+          <br />
+          <img style="width: 200px;height: 200px; margin-top: 30px;" src="img/bm.png" alt="" />
+          <small style="font-size: 28px; color: #aaa;"></small>
+        </h1>
+      </div> <!-- /demo-headline -->
+
+      <form id="submit-form" class="form-group" action="/register" method="POST">
+        <input type="text" placeholder="username" class="form-control" name="username"/>
+        <input type="password" placeholder="password" class="form-control" name="password"/>
+        <span class="input-icon fui-check-inverted"></span>
+        <br />
+        <div class="row">
+          <div class="col-xs-3"> <button type="submit" class="btn btn-block btn-lg btn-primary">Register</button> </div>
+          Already registered?<a href="/static/login.html">Click Here to Login</a>
+        </div>
+        <br />
+      </form>
+
+    </div> <!-- /container -->
+
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/flat-ui.min.js"></script>
+
+  </body>
+</html>
