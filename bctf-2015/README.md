@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [crypto/backdoor](crypto/backdoor)
+* [crypto/warmup](crypto/warmup)
 * [exploit/drunk](exploit/drunk)
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)
@@ -21,7 +22,6 @@
 ## Missing write-ups
 
 * [crypto/redundant-code](crypto/redundant-code)
-* [crypto/warmup](crypto/warmup)
 * [crypto/weak-enc](crypto/weak-enc)
 * [misc/broken-oj](misc/broken-oj)
 * [programming/experiment](programming/experiment)
