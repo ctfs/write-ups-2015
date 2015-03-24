@@ -1,0 +1,57 @@
+Rank  Team                           Score 
+1     Dragon Sector                  6035  
+2     StratumAuhuur                  5725  
+3     int3pids                       4800  
+4     KITCTF                         4135  
+5     0x8F                           4105  
+6     dcua                           3255  
+7     penthackon                     3135  
+8     mushdoom                       2660  
+9     BullShitsecurity               2350  
+10    RGB                            2070  
+11    13NRV                          2060  
+12    Porc Scanner                   2020  
+13    sec-cured                      1780  
+14    OWE                            1645  
+15    FIXME                          1590  
+16    N05L33P                        1515  
+17    pycured                        1470  
+18    HacKazaar                      1265  
+19    UndefinedBehavior              1265  
+20    Samurai                        1265  
+21    SeBC                           1235  
+22    Old legends                    1230  
+23    pinkBull                       1230  
+24    waspo                          1205  
+25    Barbah4ck3R2D2                 1165  
+26    H314                           1105  
+27    /dev/null                      1055  
+28    pilons-de-poulet               1030  
+29    cr4zyg04t0verfl0w              920   
+30    pic0wn                         870   
+31    NoPwnNoCookie                  860   
+32    […]                            845   
+33    /null/uppercase                810   
+34    EpsiH4ck                       790   
+35    Soft qui peut                  785   
+36    /null/lowercase                635   
+37    hard                           615   
+38    C8H10N4O2                      480   
+39    sh0tnb33r                      470   
+40    BlackFox                       430   
+41    KAOS                           430   
+42    unlockedwheel                  365   
+43    vuk                            365   
+44    Epic Hack Battelle             350   
+45    whoaim                         350   
+46    0x90                           310   
+47    /dev/lowercase                 190   
+48    V3sth4cks153                   190   
+49    eint0                          175   
+50    morb{H}ack                     175   
+51    The_iNeXplication              175   
+52    theciso                        55    
+53    test                           55    
+54    seultout                       55    
+55    SnakeFeet                      55    
+56    <h1>si                         55    

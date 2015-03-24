@@ -1,0 +1,43 @@
+Exploit:
+mastermind                   9
+smtpwn                       5
+Sql inject flow              2
+The Firm(ware)               0
+Jurassic Sparc               0
+SH1TTY                       0
+
+Forensic:
+ZoomIn                       43
+Lost In Memories             26
+Elysium ropchain analysis    1
+
+Hardware:
+1-2-3-4                      3
+
+Mobile:
+iBadMovie Season 1           40
+iBadMovie Season 2           20
+InsomniDroid Phase 1         0
+InsomniDroid Phase 2         0
+
+Network:
+TimeToLeak                   10
+Hollywood network            0
+
+Reversing:
+Swordfish                    43
+Swordfish_passwd             12
+
+Shellcoding:
+blue pill                    8
+tldr                         6
+
+Web:
+n00bs gonna win!             56
+Smell of the lamp            32
+Hacker News                  30
+Serial Hackers               19
+Smelly lamp got makeup       4
+Hacker Idol                  2
+Jack the clicker             1
+Hack like it’s 1999!         0
