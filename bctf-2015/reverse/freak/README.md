@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cregnec.github.io/blog/2015/03/23/bctf-freak-writeup.html>

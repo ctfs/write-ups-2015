@@ -20,6 +20,7 @@
 * [exploit/zhongguancun](exploit/zhongguancun)
 * [programming/experiment](programming/experiment)
 * [reverse/camlmaze](reverse/camlmaze)
+* [reverse/freak](reverse/freak)
 * [reverse/securecom](reverse/securecom)
 * [trivial/checkin](trivial/checkin)
 * [web/sqli-engine](web/sqli-engine)
@@ -30,4 +31,3 @@
 
 * [misc/broken-oj](misc/broken-oj)
 * [reverse/crappy_oj](reverse/crappy_oj)
-* [reverse/freak](reverse/freak)
