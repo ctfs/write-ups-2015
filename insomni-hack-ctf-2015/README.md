@@ -10,7 +10,7 @@
 * mobile - insomnidroid part 2
 * network - hollywood network
 * reversing - swordfish part 2
-* shellcode - tldr
+* shellcode - blue pill
 * web - smell of the lamp
 * web - serial hackers
 * web - smelly lamp got makeup
