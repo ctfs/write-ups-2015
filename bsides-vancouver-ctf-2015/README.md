@@ -12,6 +12,7 @@
 
 ## External write-ups only
 
+* [crypto/matasano](crypto/matasano)
 * [forensics/garbage-file](forensics/garbage-file)
 * [forensics/kicker-of-elves](forensics/kicker-of-elves)
 * [ownable/delphi](ownable/delphi)
@@ -25,4 +26,4 @@
 
 ## Missing write-ups
 
-* [crypto/matasano](crypto/matasano)
+* none
