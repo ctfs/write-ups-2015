@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://wiremask.eu/bctf-2015-securecom/>
