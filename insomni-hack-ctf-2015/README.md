@@ -20,27 +20,27 @@
 
 ## Completed write-ups
 
-* forensic - lost-in-memories
-* mobile - iBadMovie par1
-* mobile - iBadMovie par2
-* network - timetoleak
-* web - win
+* [forensic/lost-in-memories](forensic/lost-in-memories)
+* [mobile/iBadMovie-part1](mobile/iBadMovie-part1)
+* [mobile/iBadMovie-part2](mobile/iBadMovie-part2)
+* [network/timetoleak](network/timetoleak)
+* [web/n00bs-gonna-win](web/win)
 
 ## External write-ups only
 
-* exploit - jurassic sparc
-* exploit - sh1tty
-* exploit - smtpwn
-* network - hollywood network
-* reversing - swordfish
-* web - hacker news
+* [exploit/jurassic-sparc](exploit/jurassic-sparc)
+* [exploit/sh1tty](exploit/sh1tty)
+* [exploit/smtpwn](exploit/smtpwn)
+* [network/hollywood-network](network/hollywood-network)
+* [reversing/swordfish](reversing/swordfish)
+* [web/hacker-news](web/hacker-news)
 
 ## Missing write-ups
 
-* exploit - mastermind
-* exploit - sql inject flow
-* forensic - elysium ropchain
-* forensic - zoom in
-* hardware - 1-2-3-4
-* mobile - insomnidroid part 1
-* shellcode - tldr
+* [exploit/mastermind](exploit/mastermind)
+* [exploit/sql-inject-flow](exploit/sql-inject-flow)
+* [forensic/elysium-ropchain](forensic/elysium-ropchain)
+* [forensic/zoom-in](forensic/zoom-in)
+* [hardware/1-2-3-4](hardware)
+* [mobile/insomnidroid-part1](mobile/insomnidroid-part1)
+* [shellcode/tldr](shellcode/tldr)
