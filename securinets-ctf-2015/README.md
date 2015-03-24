@@ -9,12 +9,12 @@
 
 ## External write-ups only
 
+* [crack/crack1](crack/crack1)
 * [programming/be-genious](programming/be-genious)
 * [stegano/google](stegano/google)
 
 ## Missing write-ups
 
-* [crack/crack1](crack/crack1)
 * [crack/reverse](crack/reverse)
 * [crypto/card-games](crypto/card-games)
 * [crypto/decrypt-me](crypto/decrypt-me)
