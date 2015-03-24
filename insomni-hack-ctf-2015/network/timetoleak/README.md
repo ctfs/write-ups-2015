@@ -22,5 +22,5 @@ must be guessed. The host does not reply to the echo request when using
 a wrong character. Therefore, for each guess, the sequence must be sent
 again from the beginning. The resulting flag is:
 
-```INS{time_to_leak_is_trendy_this_year}```
+    INS{time_to_leak_is_trendy_this_year}
 
