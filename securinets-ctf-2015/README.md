@@ -9,6 +9,7 @@
 
 ## External write-ups only
 
+* [programming/be-genious](programming/be-genious)
 * [stegano/google](stegano/google)
 
 ## Missing write-ups
@@ -22,7 +23,6 @@
 * [forensics/forensics2](forensics/forensics2)
 * [hidden/hidden1](hidden/hidden1)
 * [logic/logic1](logic/logic1)
-* [programming/be-genious](programming/be-genious)
 * [programming/dos-attack](programming/dos-attack)
 * [recon/recon1](recon/recon1)
 * [reseau/account-disabled](reseau/account-disabled)

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rezk2ll.wordpress.com/2015/03/24/securinets-quals-ctf-2015-be-genious-write-up/>
