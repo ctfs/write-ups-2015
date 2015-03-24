@@ -12,6 +12,7 @@ Author : Britney - Difficulty : easy
 We don't much more except there's something else to find. So, this time we have a look at the iOS application. The .ipa format is a Zip file, that we unzip. 
 In the application, we notice a file 'Blackhat.mp4'. That startles me, especially because the file does not appear to be a valid video:
 
+
    $ hexdump -C Blackhat.mp4 | head
    00000000  42 6c 61 7f 0d 1c 18 04  2f 1c 55 51 6b 68 61 75  |Bla...../.UQkhau|
    00000010  2f 1c 55 52 06 18 55 46  2b 1f 0e 0e 6b 69 55 87  |/.UR..UF+...kiU.|
@@ -26,15 +27,16 @@ Obviously, the file Blackhat.mp4 is loaded.
 
 We also notice a list of interesting functions: showVideo, playVideo and ... decryptVideoWithXOR. So, we guess that the video Blackhat.mp4 is encrypted by XOR. There are no obvious password in the executable apart from Blackhat. We write a quick Python script to do the XOR, load the encrypted Blackhat.mp4 and decrypt.
 
-   from itertools import izip, cycle
-   import string
+   
+      from itertools import izip, cycle
+      import string
 
-   def xor(message, key):
-       return ''.join(chr(ord(x) ^ ord(y)) for (x,y) in izip(message, cycle(key)))
+      def xor(message, key):
+      	  return ''.join(chr(ord(x) ^ ord(y)) for (x,y) in izip(message, cycle(key)))
 
-   mp4buffer = open('Blackhat.mp4','rb').read()
-   dec = xor(mp4buffer,'Blackhat')
-   open('dec.mp4','wb').write(dec)
+      mp4buffer = open('Blackhat.mp4','rb').read()
+      dec = xor(mp4buffer,'Blackhat')
+      open('dec.mp4','wb').write(dec)
 
 
 And we're lucky! This is indeed turns the file into a valid MP4 video that we view... at the end lies the flag.
