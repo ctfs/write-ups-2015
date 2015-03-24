@@ -8,6 +8,7 @@
 
 * [web/owlur](web/owlur)
 * [web/owltube](web/owltube)
+* [pwnable/sokoban](pwnable/sokoban)
 
 ## External write-ups only
 
@@ -17,7 +18,6 @@
 * [pwnable/bookstore](pwnable/bookstore)
 * [pwnable/mashed-potato](pwnable/mashed-potato)
 * [pwnable/rodent](pwnable/rodent)
-* [pwnable/sokoban](pwnable/sokoban)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
 * [reversing/dodocrackme2](reversing/dodocrackme2)
