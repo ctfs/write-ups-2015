@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://pastebin.com/CZR6H3VY>
+* <http://winesap.logdown.com/posts/257682-codegate-ctf-preliminary-2015> (chinese)
