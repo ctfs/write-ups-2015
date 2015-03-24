@@ -28,4 +28,4 @@ The flag is `NaiMuS_2OI5`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rezk2ll.wordpress.com/2015/03/24/securinets-quals-ctf-2015-cookies-write-up/>
