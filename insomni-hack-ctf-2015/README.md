@@ -1,7 +1,7 @@
 # Insomni'hack CTF 2015
-March 20, 2015 - <http://insomnihack.ch>
-
-## Missing scoreboard
+* March 20, 2015 - <http://insomnihack.ch>
+* [Scoreboard](http://blog.scrt.ch/2015/03/24/insomnihack-finals-ctf-results/) or [here](scoreboard.txt)
+* [Number of solves per task](solves.txt)
 
 ## Missing challenges
 
