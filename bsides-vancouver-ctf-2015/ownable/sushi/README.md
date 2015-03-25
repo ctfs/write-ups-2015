@@ -23,6 +23,7 @@
 * <https://rotlogix.com/2015/03/18/vancouver-bsides-ctf-sushi/>
 * <http://capturetheswag.blogspot.com.au/2015/03/vancouver-bsides-2015-sushi-pwnable.html>
 * <https://ctf-team.vulnhub.com/bsides-vancouver-2015-sushi/>
+* <http://barrebas.github.io/blog/2015/03/18/bsides-vancouver-ctf-sushi/>
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
 * [Japanese 2](http://charo-it.hatenablog.jp/entry/2015/03/18/234404)
 * [Korean](http://s0ngsari.tistory.com/entry/yvrctfPwnable-100)
