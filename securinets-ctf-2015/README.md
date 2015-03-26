@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [web/cookies](web/cookies)
+* [forensics/document](forensics/document)
 
 ## External write-ups only
 
