@@ -23,7 +23,6 @@
 * [crypto/card-games](crypto/card-games)
 * [crypto/decrypt-me](crypto/decrypt-me)
 * [crypto/matrix-everywhere](crypto/matrix-everywhere)
-* [forensics/document](forensics/document)
 * [hidden/hidden1](hidden/hidden1)
 * [programming/dos-attack](programming/dos-attack)
 * [recon/recon1](recon/recon1)
