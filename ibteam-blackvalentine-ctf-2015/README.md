@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [crypto-4](crypto/crypto-4)
+* [forensic-1](forensic/forensic-1)
 * [forensic-2](forensic/forensic-2)
 
 ## Incomplete write-ups
@@ -13,7 +14,6 @@
 * [crypto-1](crypto/crypto-1)
 * [crypto-2](crypto/crypto-2)
 * [crypto-3](crypto/crypto-3)
-* [forensic-1](forensic/forensic-1)
 * [forensic-3](forensic/forensic-3)
 * [forensic-4](forensic/forensic-4)
 * [forensic-5](forensic/forensic-5)
