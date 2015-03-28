@@ -34,6 +34,7 @@
 * [network/hollywood-network](network/hollywood-network)
 * [reversing/swordfish](reversing/swordfish)
 * [web/hacker-news](web/hacker-news)
+* [hardware/1-2-3-4](hardware)
 
 ## Missing write-ups
 
@@ -41,6 +42,5 @@
 * [exploit/sql-inject-flow](exploit/sql-inject-flow)
 * [forensic/elysium-ropchain](forensic/elysium-ropchain)
 * [forensic/zoom-in](forensic/zoom-in)
-* [hardware/1-2-3-4](hardware)
 * [mobile/insomnidroid-part1](mobile/insomnidroid-part1)
 * [shellcode/tldr](shellcode/tldr)
