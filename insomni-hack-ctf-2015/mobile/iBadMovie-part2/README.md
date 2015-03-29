@@ -1,13 +1,17 @@
-# Insomni'hack CTF 2015 - Mobile - iBadMovie Part 2
+# Insomni'hack CTF 2015: iBadMovie Season 2
 
-Hi HackLady,
+**Category:** Mobile
+**Solves:** 20
+**Description:** 
 
-Thank you for the password. Apparently, the app is decrypting something, maybe a secret. Unfortunately, I just broke my iDevice and I don't have enough money to buy a new one (also because I keep my money to buy a new gold iWatch. Oh my gosh, they are so nice!). Can you help me, please!
+> Hi HackLady,
+> 
+> Thank you for the password. Apparently, the app is decrypting something, maybe a secret. Unfortunately, I just broke my iDevice and I don't have enough money to buy a new one (also because I keep my money to buy a new gold iWatch. Oh my gosh, they are so nice!). Can you help me, please!
+> 
+> IMPORTANT: You can solve this challenge with an Android device or emulator but also WITHOUT.
+> Author : Britney - Difficulty : easy
 
-IMPORTANT: You can solve this challenge with an Android device or emulator but also WITHOUT.
-Author : Britney - Difficulty : easy
-
-## Write-Up
+## Write-up
 
 We don't much more except there's something else to find. So, this time we have a look at the iOS application. The .ipa format is a Zip file, that we unzip. 
 In the application, we notice a file 'Blackhat.mp4'. That startles me, especially because the file does not appear to be a valid video:
@@ -43,6 +47,6 @@ And we're lucky! This is indeed turns the file into a valid MP4 video that we vi
 
 So, those challenges were pretty easy, and indeed, did not require an iPhone at all to solve them. Nice.
 
+## Other write-ups and resources
 
-
-
+[French](http://snipefoo.blogspot.fr/2015/03/insomnihack-2015.html?m=1)
