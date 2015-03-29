@@ -1,11 +1,18 @@
-# Insomni'hack CTF 2015 - Shellcode - tldr
+# Insomni'hack CTF 2015: tldr
 
-Service running at tldr.insomni.hack:1234
+**Category:** Shellcode
+**Solves:** 6
+**Description:** 
 
-tldr-fee9e4a3e7bb0e8094abc141de206684.tar.bz2
-Author : awe - Difficulty : medium
+> Service running at tldr.insomni.hack:1234
+> 
+> tldr-fee9e4a3e7bb0e8094abc141de206684.tar.bz2
+> Author : awe - Difficulty : medium
 
-# Files
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
 
 * tldr-fee9e4a3e7bb0e8094abc141de206684.tar.bz2
-
