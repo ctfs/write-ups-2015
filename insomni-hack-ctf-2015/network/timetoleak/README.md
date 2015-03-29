@@ -1,15 +1,18 @@
-# Insomni'hack CTF 2015 - Network - Time to leak
+# Insomni'hack CTF 2015: Time to leak
 
-I have his IP address so I can locate the suspect in a 10cm area... But I'm
-sure there's a way of remotely extracting the flag from his computer. Maybe
-reverse scripting the packets with the custom Trojan can do the trick. But
-he has a 7th generation firewall so I may fail... If only as was half as
-31337 as the guy who did this.... Maybe I should try to reproduce it.
-Author : SaD - Difficulty : easy
+**Category:** Network
+**Solves:** 10
+**Description:** 
 
-# Files
+> I have his IP address so I can locate the suspect in a 10cm area... But I'm
+> sure there's a way of remotely extracting the flag from his computer. Maybe
+> reverse scripting the packets with the custom Trojan can do the trick. But
+> he has a 7th generation firewall so I may fail... If only as was half as
+> 31337 as the guy who did this.... Maybe I should try to reproduce it.
+> 
+> Author : SaD - Difficulty : easy
 
-* timetoleak_6b4a37c1ec58d7d49e5d636b063ad3b6.pcapng
+## Write-up
 
 The pcap file contains 22 packets of IP/ICMP traffic in which host
 10.13.37.206 is ping'ed. The host selectively replies to echo requests.
@@ -24,3 +27,6 @@ again from the beginning. The resulting flag is:
 
     INS{time_to_leak_is_trendy_this_year}
 
+## Other write-ups and resources
+
+* timetoleak_6b4a37c1ec58d7d49e5d636b063ad3b6.pcapng

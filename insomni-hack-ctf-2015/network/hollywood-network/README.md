@@ -1,5 +1,15 @@
-# Insomni'hack CTF 2015 - Network - Hollywood network
+# Insomni'hack CTF 2015: Hollywood network
 
-## External links to other write ups
+**Category:** Network
+**Solves:** 0
+**Description:** 
 
-* <http://blog.scrt.ch/2015/03/24/insomnihack-finals-hollywood-network-writeup/>
+(TODO)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+[http://blog.scrt.ch/2015/03/24/insomnihack-finals-hollywood-network-writeup/](http://blog.scrt.ch/2015/03/24/insomnihack-finals-hollywood-network-writeup/)
