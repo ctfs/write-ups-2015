@@ -7,7 +7,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [misc/flag-sample](misc/flag-sample)
 
 ## External write-ups only
 
@@ -30,7 +30,6 @@
 * [exploit/login](exploit/login)
 * [exploit/vbs](exploit/vbs)
 * [misc/babypolyquine](misc/babypolyquine)
-* [misc/flag-sample](misc/flag-sample)
 * [misc/geo-newbie](misc/geo-newbie)
 * [misc/peers](misc/peers)
 * [misc/polyquine](misc/polyquine)

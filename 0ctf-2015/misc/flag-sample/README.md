@@ -9,7 +9,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `0ctf{enjoyyourgame}`.
 
 ## Other write-ups and resources
 
