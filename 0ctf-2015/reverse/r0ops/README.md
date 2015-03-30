@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/kubov/ctf/blob/master/0-ctf/r0ops/writeup.md>
