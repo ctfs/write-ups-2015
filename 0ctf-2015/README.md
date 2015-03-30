@@ -18,6 +18,7 @@
 * [web/golden-mac-1](web/golden-mac-1)
 * [web/golden-mac-2](web/golden-mac-2)
 * [web/lily](web/lily)
+* [reverse/r0ops](reverse/r0ops)
 
 ## Missing write-ups
 
@@ -40,6 +41,5 @@
 * [reverse/combaby](reverse/combaby)
 * [reverse/compiler](reverse/compiler)
 * [reverse/pipe-worker](reverse/pipe-worker)
-* [reverse/r0ops](reverse/r0ops)
 * [reverse/slimming](reverse/slimming)
 * [web/mislead](web/mislead)
