@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flag Manager</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/font-awesome.css" rel="stylesheet" />
+
+  <style>
+
+    body {
+      padding-top: 20px;
+      font-size: 16px;
+      font-family: "Open Sans",serif;
+      background: transparent;
+    }
+
+    h1 {
+      font-family: "Abel", Arial, sans-serif;
+      font-weight: 400;
+      font-size: 40px;
+    }
+
+    .panel {
+      background-color: rgba(255, 255, 255, 0.9);
+    }
+
+    .margin-base-vertical {
+      margin: 40px 0;
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 panel panel-default">
+
+        <h1 class="margin-base-vertical">Have you ever seen my flag?</h1>
+
+        <p>
+          Welcome to my secret flag manager :)
+        </p>
+        <p>
+          I use this website to manage my <del>webshell</del> <b>flag</b>.
+        </p>
+        <p>
+          I want to know, have you ever seen my flag?
+        </p>
+
+        <form class="margin-base-vertical" method="POST" action="admin.php">
+          <p class="input-group">
+            <span class="input-group-addon"><span class="icon-envelope"></span></span>
+            <input type="password" class="form-control input-lg" name="key" placeholder="KEY" value="NOKEY"/>
+          </p>
+          <p class="help-block text-center"><small>We won't send you spam. Unsubscribe at any time.</small></p>
+          <p class="text-center">
+            <button type="submit" class="btn btn-success btn-lg">Login</button>
+            <a href="admin.php?view-source" class="btn btn-primary btn-lg">FLAG</a>
+          </p>
+          </span>
+        </form>
+
+
+      </div><!-- //main content -->
+    </div><!-- //row -->
+  </div> <!-- //container -->
+
+</body>
+</html>
