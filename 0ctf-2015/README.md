@@ -12,6 +12,10 @@
 ## External write-ups only
 
 * [crypto/rsa-quine](crypto/rsa-quine)
+* [exploit/0ops-app](exploit/0ops-app)
+* [exploit/freenote](exploit/freenote)
+* [exploit/flaggenerator](exploit/flaggenerator)
+* [exploit/login](exploit/login)
 * [misc/treasure](misc/treasure)
 * [misc/x-y-z](misc/x-y-z)
 * [web/forward](web/forward)
@@ -24,10 +28,6 @@
 * [crypto/grebeginner](crypto/grebeginner)
 * [crypto/oldcrypto](crypto/oldcrypto)
 * [crypto/satbeginner](crypto/satbeginner)
-* [exploit/0ops-app](exploit/0ops-app)
-* [exploit/flaggenerator](exploit/flaggenerator)
-* [exploit/freenote](exploit/freenote)
-* [exploit/login](exploit/login)
 * [exploit/vbs](exploit/vbs)
 * [misc/babypolyquine](misc/babypolyquine)
 * [misc/geo-newbie](misc/geo-newbie)
