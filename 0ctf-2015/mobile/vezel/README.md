@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.com.au/2015/03/0ops-ctf-qualifiers-2015-vezel-mobile.html>

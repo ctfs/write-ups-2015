@@ -19,3 +19,4 @@
 
 * <https://hexpresso.wordpress.com/2015/03/30/0ctf-2015-forward-250-writeup/>
 * <http://www.pwntester.com/blog/2015/03/30/0ctf-short-write-ups/>
+* <http://blog.squareroots.de/en/2015/03/0ctf-2015-quals-forward-web250/>
