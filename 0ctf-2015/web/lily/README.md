@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2015/03/30/lily-web-200>
+* <http://privatepaste.com/a659e78811>

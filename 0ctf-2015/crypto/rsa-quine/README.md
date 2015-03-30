@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2015/03/0ctf-2015-rsaquine/>
+* <https://gist.github.com/mheistermann/0dee124d7eed2ec26fcd>

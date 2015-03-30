@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/5lipper/d6363e436f08f12f0bbb>
