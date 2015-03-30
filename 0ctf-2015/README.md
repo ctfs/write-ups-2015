@@ -8,6 +8,7 @@
 ## Completed write-ups
 
 * [misc/flag-sample](misc/flag-sample)
+* [misc/geo-newbie](misc/geo-newbie)
 
 ## External write-ups only
 
@@ -32,7 +33,6 @@
 * [crypto/oldcrypto](crypto/oldcrypto)
 * [crypto/satbeginner](crypto/satbeginner)
 * [misc/babypolyquine](misc/babypolyquine)
-* [misc/geo-newbie](misc/geo-newbie)
 * [misc/peers](misc/peers)
 * [misc/polyquine](misc/polyquine)
 * [mobile/dadroid](mobile/dadroid)
