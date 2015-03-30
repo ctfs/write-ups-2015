@@ -11,13 +11,13 @@
 
 ## Write-up
 
-Connecting to the service, we see that we have to determine [Alpha-2 Codes](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) of given Countries in the first level `Level 0` as seen in the [connection log](connection)
+Connecting to the service, we see that we have to determine [Alpha-2 Codes](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) of given Countries in the first level `Level 0` as seen in the [connection log](connection).
 
 Doing that 20 times, we get to level `Level 1`, in which we have to determine Alpha-2 Codes of different cities, tourist attractions and companies.
 
 After doing that 50 times, we get to level `Level 2`. Here, we have to determine Alpha-2 Codes of all countries, in which certain rivers and mountains are.
 
-I wrote a [script](solve.py) that fetches Alpha-2 Codes for certain countries from a html extract of the [Alpha-2 Codes Wikipage](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), as well as get the country for a specific city or tourist attraction.
+I wrote a [script](solve.py) that fetches Alpha-2 Codes for certain countries from a html extract of the [Alpha-2 Codes Wikipage](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), as well as get the country for a specific city or tourist attraction using [geonames](http://www.geonames.org/) .
 
 In hindsight, I could have just parsed the wikipedia page for each city and tourist attraction, since the author used the English wikipedia entries, e.g. for [Cape Town](http://en.wikipedia.org/wiki/Cape_Town), in which the corresponding country or Alpha-2 Code is listed.
 
