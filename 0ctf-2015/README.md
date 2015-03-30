@@ -11,13 +11,18 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/rsa-quine](crypto/rsa-quine)
+* [misc/treasure](misc/treasure)
+* [misc/x-y-z](misc/x-y-z)
+* [web/forward](web/forward)
+* [web/golden-mac-1](web/golden-mac-1)
+* [web/golden-mac-2](web/golden-mac-2)
+* [web/lily](web/lily)
 
 ## Missing write-ups
 
 * [crypto/grebeginner](crypto/grebeginner)
 * [crypto/oldcrypto](crypto/oldcrypto)
-* [crypto/rsa-quine](crypto/rsa-quine)
 * [crypto/satbeginner](crypto/satbeginner)
 * [exploit/0ops-app](exploit/0ops-app)
 * [exploit/flaggenerator](exploit/flaggenerator)
@@ -29,7 +34,6 @@
 * [misc/geo-newbie](misc/geo-newbie)
 * [misc/peers](misc/peers)
 * [misc/polyquine](misc/polyquine)
-* [misc/x-y-z](misc/x-y-z)
 * [mobile/dadroid](mobile/dadroid)
 * [mobile/dataraider](mobile/dataraider)
 * [mobile/simpleapk](mobile/simpleapk)
@@ -39,7 +43,4 @@
 * [reverse/pipe-worker](reverse/pipe-worker)
 * [reverse/r0ops](reverse/r0ops)
 * [reverse/slimming](reverse/slimming)
-* [web/golden-mac-1](web/golden-mac-1)
-* [web/golden-mac-2](web/golden-mac-2)
-* [web/lily](web/lily)
 * [web/mislead](web/mislead)

@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://whit3hat.com/Golden-Mac-2-writeup.pdf>
+* <http://www.pwntester.com/blog/2015/03/30/0ctf-2015-golden-mac-2-web-300/>

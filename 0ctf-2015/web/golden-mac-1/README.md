@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.pwntester.com/blog/2015/03/30/0ctf-2015-golden-mac-1-web-300/>

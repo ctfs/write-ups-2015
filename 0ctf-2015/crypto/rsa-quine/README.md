@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2015/03/0ctf-2015-rsaquine/>

@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.pwntester.com/blog/2015/03/30/lily-web-200>

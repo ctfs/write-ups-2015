@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hexpresso.wordpress.com/2015/03/30/0ctf-2015-treasure-50-writeup/>
