@@ -22,11 +22,12 @@
 * [misc/treasure](misc/treasure)
 * [misc/x-y-z](misc/x-y-z)
 * [mobile/vezel](mobile/vezel)
+* [reverse/r0ops](reverse/r0ops)
 * [web/forward](web/forward)
 * [web/golden-mac-1](web/golden-mac-1)
 * [web/golden-mac-2](web/golden-mac-2)
 * [web/lily](web/lily)
-* [reverse/r0ops](reverse/r0ops)
+* [web/mislead](web/mislead)
 
 ## Missing write-ups
 
@@ -42,4 +43,3 @@
 * [reverse/compiler](reverse/compiler)
 * [reverse/pipe-worker](reverse/pipe-worker)
 * [reverse/slimming](reverse/slimming)
-* [web/mislead](web/mislead)
