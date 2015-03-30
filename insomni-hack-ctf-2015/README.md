@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [forensic/elysium-ropchain](forensic/elysium-ropchain)
 * [forensic/lost-in-memories](forensic/lost-in-memories)
 * [mobile/iBadMovie-part1](mobile/iBadMovie-part1)
 * [mobile/iBadMovie-part2](mobile/iBadMovie-part2)
@@ -29,7 +30,6 @@
 * [exploit/mastermind](exploit/mastermind)
 * [exploit/sql-inject-flow](exploit/sql-inject-flow)
 * [exploit/the-firmware](exploit/the-firmware)
-* [forensic/elysium-ropchain](forensic/elysium-ropchain)
 * [forensic/zoom-in](forensic/zoom-in)
 * [mobile/insomnidroid-part2](mobile/insomnidroid-part2)
 * [shellcode/tldr](shellcode/tldr)
