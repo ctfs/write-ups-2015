@@ -41,4 +41,4 @@ The flag is `0CTF{eNj0y_geography_l0v3_7hE_w0lRd}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://nullify-ctf.blogspot.com/2015/03/0ctf-2015-quals-misc-geo-newbie.html>

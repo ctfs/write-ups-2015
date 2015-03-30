@@ -19,6 +19,8 @@
 * [exploit/flaggenerator](exploit/flaggenerator)
 * [exploit/login](exploit/login)
 * [exploit/vbs](exploit/vbs)
+* [misc/babypolyquine](misc/babypolyquine)
+* [misc/polyquine](misc/polyquine)
 * [misc/treasure](misc/treasure)
 * [misc/x-y-z](misc/x-y-z)
 * [mobile/vezel](mobile/vezel)
@@ -33,9 +35,7 @@
 
 * [crypto/oldcrypto](crypto/oldcrypto)
 * [crypto/satbeginner](crypto/satbeginner)
-* [misc/babypolyquine](misc/babypolyquine)
 * [misc/peers](misc/peers)
-* [misc/polyquine](misc/polyquine)
 * [mobile/dadroid](mobile/dadroid)
 * [mobile/dataraider](mobile/dataraider)
 * [mobile/simpleapk](mobile/simpleapk)

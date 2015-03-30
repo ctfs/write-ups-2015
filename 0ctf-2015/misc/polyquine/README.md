@@ -41,4 +41,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/x64x6a/ctf/tree/master/0CTF%202015%20Quals/PolyQuine>
