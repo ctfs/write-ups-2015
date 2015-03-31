@@ -14,6 +14,7 @@
 
 * [crypto/grebeginner](crypto/grebeginner)
 * [crypto/rsa-quine](crypto/rsa-quine)
+* [crypto/satbeginner](crypto/satbeginner)
 * [exploit/0ops-app](exploit/0ops-app)
 * [exploit/freenote](exploit/freenote)
 * [exploit/flaggenerator](exploit/flaggenerator)
@@ -36,7 +37,6 @@
 ## Missing write-ups
 
 * [crypto/oldcrypto](crypto/oldcrypto)
-* [crypto/satbeginner](crypto/satbeginner)
 * [mobile/dadroid](mobile/dadroid)
 * [mobile/dataraider](mobile/dataraider)
 * [reverse/combaby](reverse/combaby)

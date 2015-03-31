@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dakutenpura.hatenablog.com/entry/2015/03/31/231219>
