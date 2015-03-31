@@ -42,3 +42,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/x64x6a/ctf/tree/master/0CTF%202015%20Quals/PolyQuine>
+* <http://dakutenpura.hatenablog.com/entry/2015/03/31/233058>
