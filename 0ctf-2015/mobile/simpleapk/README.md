@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+http://www.purpleroc.com/MD/0ctf_WriteUp_Simpleapk.html
