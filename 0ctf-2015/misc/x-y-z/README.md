@@ -14,3 +14,5 @@
 ## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2015/03/30/0ctf-2015-x-y-z/>
+* <https://ctf-team.vulnhub.com/0ctf-2015-quals-x-y-z/>
+* <http://www.hexpedition.com/?p=7>

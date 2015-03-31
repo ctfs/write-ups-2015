@@ -20,6 +20,7 @@
 * [exploit/login](exploit/login)
 * [exploit/vbs](exploit/vbs)
 * [misc/babypolyquine](misc/babypolyquine)
+* [misc/peers](misc/peers)
 * [misc/polyquine](misc/polyquine)
 * [misc/treasure](misc/treasure)
 * [misc/x-y-z](misc/x-y-z)
@@ -35,7 +36,6 @@
 
 * [crypto/oldcrypto](crypto/oldcrypto)
 * [crypto/satbeginner](crypto/satbeginner)
-* [misc/peers](misc/peers)
 * [mobile/dadroid](mobile/dadroid)
 * [mobile/dataraider](mobile/dataraider)
 * [mobile/simpleapk](mobile/simpleapk)

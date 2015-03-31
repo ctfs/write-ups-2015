@@ -41,4 +41,5 @@
 
 ## Other write-ups and resources
 
+* <https://ctf-team.vulnhub.com/0ctf-2015-quals-babypolyquine/>
 * <https://github.com/x64x6a/ctf/tree/master/0CTF%202015%20Quals/BabyPolyQuine>

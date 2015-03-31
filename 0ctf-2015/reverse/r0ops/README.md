@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/kubov/ctf/blob/master/0-ctf/r0ops/writeup.md>
+* <https://ctf-team.vulnhub.com/0ctf-2015-quals-r0ops/>
