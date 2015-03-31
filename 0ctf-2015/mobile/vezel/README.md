@@ -15,3 +15,4 @@
 
 * <http://capturetheswag.blogspot.com.au/2015/03/0ops-ctf-qualifiers-2015-vezel-mobile.html>
 * <http://dakutenpura.hatenablog.com/entry/2015/03/31/002551>
+* <http://www.purpleroc.com/MD/0ctf_WriteUp_vezel.html>
