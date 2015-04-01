@@ -5,13 +5,13 @@
 
 ## Completed write-ups
 
+* [crack/reverse](crack/reverse)
 * [web/cookies](web/cookies)
 * [forensics/document](forensics/document)
 
 ## External write-ups only
 
 * [crack/crack1](crack/crack1)
-* [crack/reverse](crack/reverse)
 * [forensics/forensics2](forensics/forensics2)
 * [logic/logic1](logic/logic1)
 * [programming/be-genious](programming/be-genious)
