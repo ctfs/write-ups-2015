@@ -1,4 +1,4 @@
-# backdoor CTF 2015: TEAM
+# backdoor CTF 2015: [TEAM](https://backdoor.sdslabs.co/challenges/TEAM)
 
 **Category:** Binary
 **Points:** 600
@@ -6,6 +6,8 @@
 **Difficulty:** Hard
 **Solves:** 91
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/TEAM>
 
 > There is a wierd kind of authentication service running: `nc hack.bckdr.in 8004`. The binary can be found [here](http://hack.bckdr.in/TEAM/team). The vampire says that there is no need for bruteforce.
 

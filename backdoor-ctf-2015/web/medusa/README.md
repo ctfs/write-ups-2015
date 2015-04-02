@@ -1,4 +1,4 @@
-# backdoor CTF 2015: MEDUSA
+# backdoor CTF 2015: [MEDUSA](https://backdoor.sdslabs.co/challenges/MEDUSA)
 
 **Category:** Web
 **Points:** 100
@@ -6,6 +6,8 @@
 **Difficulty:** TODO
 **Solves:** 11
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/MEDUSA>
 
 > The html page you create will be visited by the backdoor admin with the flag.
 > 

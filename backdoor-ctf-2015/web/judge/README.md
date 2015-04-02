@@ -1,4 +1,4 @@
-# backdoor CTF 2015: JUDGE
+# backdoor CTF 2015: [JUDGE](https://backdoor.sdslabs.co/challenges/JUDGE)
 
 **Category:** Web
 **Points:** 150
@@ -6,6 +6,8 @@
 **Difficulty:** TODO
 **Solves:** 28
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/JUDGE>
 
 > Get the flag from [JUDGE](https://hack.bckdr.in/JUDGE). Submit sha-256 of the flag obtained.
 

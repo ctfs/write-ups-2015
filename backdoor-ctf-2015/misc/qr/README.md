@@ -1,4 +1,4 @@
-# backdoor CTF 2015: QR
+# backdoor CTF 2015: [QR](https://backdoor.sdslabs.co/challenges/QR)
 
 **Category:** Misc
 **Points:** 70
@@ -6,6 +6,8 @@
 **Difficulty:** Easy
 **Solves:** 84
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/QR>
 
 > Decode some QR codes at `nc hack.bckdr.in 8010`
 

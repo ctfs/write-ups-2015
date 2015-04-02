@@ -1,4 +1,4 @@
-# backdoor CTF 2015: LHC
+# backdoor CTF 2015: [LHC](https://backdoor.sdslabs.co/challenges/LHC)
 
 **Category:** Misc
 **Points:** 100
@@ -6,6 +6,8 @@
 **Difficulty:** Medium
 **Solves:** 81
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/LHC>
 
 > The flag is in the middle of [this dataset](https://lhc-cdn.herokuapp.com/data.txt) kindly provided to us by the Large Hadron Collider.
 

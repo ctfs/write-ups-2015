@@ -1,4 +1,4 @@
-# backdoor CTF 2015: JSHUNT
+# backdoor CTF 2015: [JSHUNT](https://backdoor.sdslabs.co/challenges/JSHUNT)
 
 **Category:** Web
 **Points:** 300
@@ -6,6 +6,8 @@
 **Difficulty:** TODO
 **Solves:**  5
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/JSHUNT>
 
 > The html page you create will be visited by the backdoor admin with the flag.
 > 

@@ -1,4 +1,4 @@
-# backdoor CTF 2015: RAPIDFIRE
+# backdoor CTF 2015: [RAPIDFIRE](https://backdoor.sdslabs.co/challenges/RAPIDFIRE)
 
 **Category:** Misc
 **Points:** 500
@@ -6,6 +6,8 @@
 **Difficulty:** TODO
 **Solves:** 0
 **Description:** 
+
+* <https://backdoor.sdslabs.co/challenges/RAPIDFIRE>
 
 > I am enjoying it really. Are you? `nc hack.bckdr.in 8007`. Submit the SHA-256 hash of the flag obtained.
 
