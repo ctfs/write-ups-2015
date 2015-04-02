@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://web2.mrexcessive.net/index.php/2015/04/bbad-crypto-challenge-backdoor-ctf-2015>
