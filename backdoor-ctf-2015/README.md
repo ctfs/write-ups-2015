@@ -24,7 +24,7 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## Completed write-ups
 
-* none yet
+* [misc/lhc](misc/lhc)
 
 ## External write-ups only
 
@@ -43,7 +43,6 @@ The contest problems will remain online forever on backdoor. You can chat with p
 * [exploit/forgot](exploit/forgot)
 * [exploit/noname](exploit/noname)
 * [forensics/tim](forensics/tim)
-* [misc/lhc](misc/lhc)
 * [misc/qr](misc/qr)
 * [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
