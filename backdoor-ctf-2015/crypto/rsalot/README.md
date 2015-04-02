@@ -19,18 +19,18 @@ After understanding what RSA does, e.g. with [this nice quick overview](http://d
 
 We need to understand following:
 
-	* A public key is composed of the pair `(n,e)` - the modulus `n` and the public exponent `e`
-	* A private key is composed of the pair `(n,d)` -  the modulus `n` and the private exponent `d`
-	* Decrypting a ciphertext is taking the integer value of a ciphertext to the private exponent and applying modulo `n` to it - `c^d mod n = m`
-	* Encrypting a message is taking the integer value of a message to the public exponent and applying modulo `n` to it - `m^e mod n = c`
-	* A modulus `n` is composed of a multiplication of two (large) prime numbers `p` and `q`
-	* This multiplication is a trapdoor - easy in one way (multiplication), difficult in the other (factoring)
-	* The totien `phi(n)` can be calculated as follows: `phi(n) = phi(p*q) = (p-1)*(q-1)`
-	* The public exponent `e` is chosen in the range `[3,phi(n)[`, often `65537` as it is in this case
-	* The private exponent `d` is calculated using the `phi(n)` modular multiplicative inverse of `e` so that `e*d = 1 mod phi(n)`
-	* Private components are therefore `p`, `q`, `d` and `phi(n)`
-	* Public components are therefore `e` and `n`
-	* [OAEP](http://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding) Padding is used to avoid several attacks against RSA
+* A public key is composed of the pair `(n,e)` - the modulus `n` and the public exponent `e`
+* A private key is composed of the pair `(n,d)` -  the modulus `n` and the private exponent `d`
+* Decrypting a ciphertext is taking the integer value of a ciphertext to the private exponent and applying modulo `n` to it - `c^d mod n = m`
+* Encrypting a message is taking the integer value of a message to the public exponent and applying modulo `n` to it - `m^e mod n = c`
+* A modulus `n` is composed of a multiplication of two (large) prime numbers `p` and `q`
+* This multiplication is a trapdoor - easy in one way (multiplication), difficult in the other (factoring)
+* The totien `phi(n)` can be calculated as follows: `phi(n) = phi(p*q) = (p-1)*(q-1)`
+* The public exponent `e` is chosen in the range `[3,phi(n)[`, often `65537` as it is in this case
+* The private exponent `d` is calculated using the `phi(n)` modular multiplicative inverse of `e` so that `e*d = 1 mod phi(n)`
+* Private components are therefore `p`, `q`, `d` and `phi(n)`
+* Public components are therefore `e` and `n`
+* [OAEP](http://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding) Padding is used to avoid several attacks against RSA
 
 Using `openssl rsa -pubin -inform PEM -noout -text -modulus < x.pem` for each public key, we see that the same public exponent `e=65537` has been used and different moduli have been created.
 
