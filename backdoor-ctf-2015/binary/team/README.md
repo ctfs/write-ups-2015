@@ -1,11 +1,18 @@
----
-tags:
-    - hard
-    - backdoorctf15
-    - binary
-creator: vampire
-score: 600
-title: TEAM
-port: 8004
----
-There is a wierd kind of authentication service running: `nc hack.bckdr.in 8004`. The binary can be found [here](http://hack.bckdr.in/TEAM/team). The vampire says that there is no need for bruteforce.
+# backdoor CTF 2015: TEAM
+
+**Category:** Binary
+**Points:** 600
+**Author:** [Dhaval Kapil](https://backdoor.sdslabs.co/users/vampire)
+**Difficulty:** Hard
+**Solves:** 91
+**Description:** 
+
+> There is a wierd kind of authentication service running: `nc hack.bckdr.in 8004`. The binary can be found [here](http://hack.bckdr.in/TEAM/team). The vampire says that there is no need for bruteforce.
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
