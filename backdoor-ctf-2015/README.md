@@ -24,6 +24,7 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## Completed write-ups
 
+* [crypto/rsalot](crypto/rsalot)
 * [exploit/noname](exploit/noname)
 * [forensics/tim](forensics/tim)
 * [misc/lhc](misc/lhc)
@@ -38,7 +39,6 @@ The contest problems will remain online forever on backdoor. You can chat with p
 * [binary/team](binary/team)
 * [crypto/bbad](crypto/bbad)
 * [crypto/rand](crypto/rand)
-* [crypto/rsalot](crypto/rsalot)
 * [crypto/rsanne](crypto/rsanne)
 * [exploit/closed](exploit/closed)
 * [exploit/concealed](exploit/concealed)
