@@ -32,4 +32,21 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## Missing write-ups
 
-* none yet
+* [binary/echo](binary/echo)
+* [binary/team](binary/team)
+* [crypto/bbad](crypto/bbad)
+* [crypto/rand](crypto/rand)
+* [crypto/rsalot](crypto/rsalot)
+* [crypto/rsanne](crypto/rsanne)
+* [exploit/closed](exploit/closed)
+* [exploit/concealed](exploit/concealed)
+* [exploit/forgot](exploit/forgot)
+* [exploit/noname](exploit/noname)
+* [forensics/tim](forensics/tim)
+* [misc/lhc](misc/lhc)
+* [misc/qr](misc/qr)
+* [misc/rapidfire](misc/rapidfire)
+* [web/follow](web/follow)
+* [web/jshunt](web/jshunt)
+* [web/judge](web/judge)
+* [web/medusa](web/medusa)
