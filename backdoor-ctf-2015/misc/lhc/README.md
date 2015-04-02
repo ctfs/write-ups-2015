@@ -21,7 +21,7 @@ To get the correct `Content-Range` and `Content-Length` tags, we download the la
 curl -I https://lhc-cdn.herokuapp.com/data.txt -r -1 > headers.html
 ```
 
-![](headers.html)
+[headers.html](headers.html)
 
 We see some weird tags that make us suggest that we have to begin at the index `2200000000000/2-32 = 1099999999968` and end at index `1099999999968 + len(sha256flag) = 1099999999968 + 64 = 1100000000032`
 
