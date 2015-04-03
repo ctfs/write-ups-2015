@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://kbhat95.github.io/backdoor-ctf/](http://kbhat95.github.io/backdoor-ctf/)
