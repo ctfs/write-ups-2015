@@ -36,6 +36,7 @@ The contest problems will remain online forever on backdoor. You can chat with p
 * [binary/team](binary/team)
 * [exploit/concealed](exploit/concealed)
 * [exploit/forgot](exploit/forgot)
+* [web/medusa](web/medusa)
 
 ## Missing write-ups
 
@@ -47,4 +48,4 @@ The contest problems will remain online forever on backdoor. You can chat with p
 * [web/follow](web/follow)
 * [web/jshunt](web/jshunt)
 * [web/judge](web/judge)
-* [web/medusa](web/medusa)
+
