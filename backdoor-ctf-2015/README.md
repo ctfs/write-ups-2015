@@ -30,7 +30,7 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## External write-ups only
 
-* none yet
+* [misc/qr](misc/qr)
 
 ## Missing write-ups
 
@@ -43,7 +43,6 @@ The contest problems will remain online forever on backdoor. You can chat with p
 * [exploit/closed](exploit/closed)
 * [exploit/concealed](exploit/concealed)
 * [exploit/forgot](exploit/forgot)
-* [misc/qr](misc/qr)
 * [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
 * [web/jshunt](web/jshunt)
