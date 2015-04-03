@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/MarvelousBreadchris/903ab79dbe94249e7322>
