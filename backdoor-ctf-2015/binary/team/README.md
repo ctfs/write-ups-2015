@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/MarvelousBreadchris/903ab79dbe94249e7322>
+* [Indonesian](https://docs.google.com/document/d/1427fpB7LJLpzS1-QDAmTRMP-VvSmHASPDmUmvndYlmU/edit)
