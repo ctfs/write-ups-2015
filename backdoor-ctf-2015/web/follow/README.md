@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](https://docs.google.com/document/d/1iRrG5nO5_xTTB3Aq1BMfeyTVQ2j6iKWW3sZEsGRENqk/edit)

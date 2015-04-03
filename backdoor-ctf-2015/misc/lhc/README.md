@@ -45,4 +45,4 @@ The flag won't be printed here, since this CTF is a long lived one.
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](https://docs.google.com/document/d/1zzxRVmmF7rbZp6pWSljbmA6d2yCwIkxkUJFKHSUJiHQ/edit?usp=drive_web)
