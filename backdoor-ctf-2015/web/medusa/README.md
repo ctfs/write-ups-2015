@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://geeksspeak.github.io/blog/2015/04/03/backdoor-ctf-2015-medusa-writeup/>

@@ -18,4 +18,5 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/MarvelousBreadchris/903ab79dbe94249e7322>
+* <http://geeksspeak.github.io/blog/2015/04/03/backdoor-ctf-2015-team-writeup/>
 * [Indonesian](https://docs.google.com/document/d/1427fpB7LJLpzS1-QDAmTRMP-VvSmHASPDmUmvndYlmU/edit)

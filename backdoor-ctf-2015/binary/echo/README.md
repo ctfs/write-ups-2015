@@ -18,4 +18,5 @@
 ## Other write-ups and resources
 
 * <https://shankaraman.wordpress.com/2015/04/02/backdoor-ctf-2015-echo-writeup/>
+* <http://geeksspeak.github.io/blog/2015/04/03/backdoor-ctf-2015-echo-writeup/>
 * [Indonesian](https://docs.google.com/document/d/1kaoFGEtSO2X7SJYs7JRsHJXVXyuJ1SheRl-qcPCmo3s/edit)
