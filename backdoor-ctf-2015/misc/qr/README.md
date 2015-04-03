@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* [http://kbhat95.github.io/backdoor-ctf/](http://kbhat95.github.io/backdoor-ctf/)
+* <http://kbhat95.github.io/backdoor-ctf/>
+* [Indonesian](https://docs.google.com/document/d/12EM1YFzBoGp5jIDtryIof4Jv_p1S1Fvw-6rP8hm9ZlM/edit)

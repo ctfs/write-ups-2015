@@ -51,4 +51,4 @@ The flag is not printed here, since this is a long lived CTF.
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](https://docs.google.com/document/d/1aAllg6gpMRFi0SMJv18rXbJLSI-yzro3UGABim1eNo4/edit)
