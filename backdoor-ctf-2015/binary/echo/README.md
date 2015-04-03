@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://shankaraman.wordpress.com/2015/04/02/backdoor-ctf-2015-echo-writeup/
