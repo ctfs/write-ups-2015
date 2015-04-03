@@ -16,5 +16,4 @@
 (TODO)
 
 ## Other write-ups and resources
-
-* none yet
+* <https://github.com/TUCTF/write-ups-2015/blob/master/Backdoorctf15/echo%20(100pts)/echo.py>
