@@ -45,4 +45,5 @@ The flag won't be printed here, since this CTF is a long lived one.
 
 ## Other write-ups and resources
 
+* <https://ctf-team.vulnhub.com/backdoor-ctf-2015-lhc/>
 * [Indonesian](https://docs.google.com/document/d/1zzxRVmmF7rbZp6pWSljbmA6d2yCwIkxkUJFKHSUJiHQ/edit?usp=drive_web)
