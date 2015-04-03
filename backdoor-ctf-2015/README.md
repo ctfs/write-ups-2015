@@ -24,6 +24,7 @@
 * [exploit/forgot](exploit/forgot)
 * [web/follow](web/follow)
 * [web/medusa](web/medusa)
+* [web/judge](web/judge)
 
 ## Missing write-ups
 
@@ -31,4 +32,3 @@
 * [crypto/rsanne](crypto/rsanne)
 * [misc/rapidfire](misc/rapidfire)
 * [web/jshunt](web/jshunt)
-* [web/judge](web/judge)
