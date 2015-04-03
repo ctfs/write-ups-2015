@@ -32,17 +32,16 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## External write-ups only
 
-* none yet
+* [binary/echo](binary/echo)
+* [binary/team](binary/team)
+* [exploit/concealed](exploit/concealed)
+* [exploit/forgot](exploit/forgot)
 
 ## Missing write-ups
 
-* [binary/echo](binary/echo)
-* [binary/team](binary/team)
 * [crypto/rand](crypto/rand)
 * [crypto/rsanne](crypto/rsanne)
 * [exploit/closed](exploit/closed)
-* [exploit/concealed](exploit/concealed)
-* [exploit/forgot](exploit/forgot)
 * [misc/qr](misc/qr)
 * [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
