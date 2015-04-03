@@ -32,7 +32,7 @@ The contest problems will remain online forever on backdoor. You can chat with p
 
 ## External write-ups only
 
-* none yet
+* [binary/echo](https://shankaraman.wordpress.com/2015/04/02/backdoor-ctf-2015-echo-writeup/)
 
 ## Missing write-ups
 
