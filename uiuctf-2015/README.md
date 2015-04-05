@@ -10,7 +10,7 @@
 
 ## External write-ups only
 
-* none yet
+* [web/hype](web/hype)
 
 ## Missing write-ups
 
@@ -31,6 +31,5 @@
 * [trivia/mung](trivia/mung)
 * [trivia/type1](trivia/type1)
 * [trivia/type2](trivia/type2)
-* [web/hype](web/hype)
 * [web/secpaste](web/secpaste)
 * [web/toosecure](web/toosecure)
