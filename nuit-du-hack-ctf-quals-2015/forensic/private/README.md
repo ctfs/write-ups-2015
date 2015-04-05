@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://geeksspeak.github.io/blog/2015/04/05/ndh-ctf-2015-private-writeup/>
+* <https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-private-100-writeup/>

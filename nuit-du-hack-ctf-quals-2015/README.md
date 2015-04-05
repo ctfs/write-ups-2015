@@ -12,23 +12,24 @@
 
 * [crypto/game-of-life](crypto/game-of-life)
 * [exploit/updator](exploit/updator)
+* [forensic/pdfception](forensic/pdfception)
 * [forensic/private](forensic/private)
+* [misc/raptor](misc/raptor)
 * [reverse/clark-kent](reverse/clark-kent)
+* [reverse/superman](reverse/superman)
+* [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/crackme-prime](reverse/crackme-prime)
+* [web/facesec](web/facesec)
 
 ## Missing write-ups
 
 * [crypto/weshgrow](crypto/weshgrow)
 * [exploit/secureauth](exploit/secureauth)
 * [forensic/bpythonastic](forensic/bpythonastic)
-* [forensic/pdfception](forensic/pdfception)
 * [misc/bleep](misc/bleep)
 * [misc/followtherabbit](misc/followtherabbit)
 * [misc/macbeth](misc/macbeth)
-* [misc/raptor](misc/raptor)
-* [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/superman](reverse/superman)
 * [stegano/cooper](stegano/cooper)
 * [web/facebox](web/facebox)
-* [web/facesec](web/facesec)
 * [web/mickey](web/mickey)

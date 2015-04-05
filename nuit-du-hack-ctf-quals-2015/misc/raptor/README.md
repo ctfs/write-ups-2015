@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hexpresso.wordpress.com/2015/04/05/ndh2k15_quals-raptor-misc400-writeup/>
