@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://geeksspeak.github.io/blog/2015/04/05/ndh-ctf-2015-private-writeup/>
