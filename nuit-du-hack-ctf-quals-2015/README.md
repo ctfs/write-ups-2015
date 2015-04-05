@@ -11,6 +11,7 @@
 ## External write-ups only
 
 * [crypto/game-of-life](crypto/game-of-life)
+* [crypto/weshgrow](crypto/weshgrow)
 * [exploit/updator](exploit/updator)
 * [forensic/pdfception](forensic/pdfception)
 * [forensic/private](forensic/private)
@@ -23,7 +24,6 @@
 
 ## Missing write-ups
 
-* [crypto/weshgrow](crypto/weshgrow)
 * [exploit/secureauth](exploit/secureauth)
 * [forensic/bpythonastic](forensic/bpythonastic)
 * [misc/bleep](misc/bleep)
