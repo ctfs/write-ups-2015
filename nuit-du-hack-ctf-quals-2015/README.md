@@ -6,7 +6,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [web/facebox](web/facebox)
 
 ## External write-ups only
 
@@ -31,5 +31,4 @@
 * [misc/macbeth](misc/macbeth)
 * [reverse/superman](reverse/superman)
 * [stegano/cooper](stegano/cooper)
-* [web/facebox](web/facebox)
 * [web/mickey](web/mickey)
