@@ -2,6 +2,7 @@
 
 * <http://quals.nuitduhack.com/>
 * [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](TODOLOCAL)
+* [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 
