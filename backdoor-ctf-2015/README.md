@@ -18,11 +18,12 @@
 
 ## External write-ups only
 
-* [misc/qr](misc/qr)
-* [misc/rapidfire](misc/rapidfire)
 * [binary/echo](binary/echo)
 * [binary/team](binary/team)
+* [crypto/rsanne](crypto/rsanne)
 * [exploit/forgot](exploit/forgot)
+* [misc/qr](misc/qr)
+* [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
 * [web/medusa](web/medusa)
 * [web/judge](web/judge)
@@ -30,5 +31,4 @@
 ## Missing write-ups
 
 * [crypto/rand](crypto/rand)
-* [crypto/rsanne](crypto/rsanne)
 * [web/jshunt](web/jshunt)

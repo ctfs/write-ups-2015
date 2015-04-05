@@ -61,4 +61,4 @@ the_flag_is_b7[...]
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/BACKDOORCTF/crypto/rsalot>

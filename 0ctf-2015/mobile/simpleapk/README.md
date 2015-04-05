@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://www.purpleroc.com/MD/0ctf_WriteUp_Simpleapk.html>
+* <http://ipushino.blogspot.de/2015/04/0ops-ctf-qualifiers-2015-simpleapk.html>
