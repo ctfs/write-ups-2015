@@ -27,8 +27,8 @@
 * [web/follow](web/follow)
 * [web/medusa](web/medusa)
 * [web/judge](web/judge)
+* [web/jshunt](web/jshunt)
 
 ## Missing write-ups
 
 * [crypto/rand](crypto/rand)
-* [web/jshunt](web/jshunt)
