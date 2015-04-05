@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/NUITDUHACK/crypto/gameoflife>
+* <https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-game-of-life-crypto-150-writeup/>
