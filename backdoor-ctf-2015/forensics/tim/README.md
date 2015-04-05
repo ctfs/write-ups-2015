@@ -52,4 +52,5 @@ The flag is not printed here, since this is a long lived CTF.
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/backdoor-ctf-2015-tim/>
+* <http://linux.im/2015/04/03/backdoor-ctf-2015-writeup.html#tim--forensics100>
 * [Indonesian](https://docs.google.com/document/d/1aAllg6gpMRFi0SMJv18rXbJLSI-yzro3UGABim1eNo4/edit)

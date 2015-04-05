@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/backdoor-ctf-2015-judge/>
+* <http://linux.im/2015/04/03/backdoor-ctf-2015-writeup.html#judge--web150>
