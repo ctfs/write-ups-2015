@@ -181,4 +181,4 @@ The key is : BZ9dmq4c8g9G7bAY
 
 ## Other write-ups and resources
 
-* none yet
+* <http://maroueneboubakri.ctf.tn/securinets-ctf-2015-quals-re250-task-writeup/>
