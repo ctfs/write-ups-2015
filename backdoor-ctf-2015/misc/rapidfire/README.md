@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://babyphd.net/2015/04/backdoorctf-writeup/>
