@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>faceBox - Login</title>
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/static/css/faceBox.css" rel="stylesheet">
+</head>
+<body class="full">
+<div class="container">
+    
+        
+    
+    
+
+    
+
+    
+
+    
+
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="thumbnail" id="login">
+                <form class="form login-form" method="POST" action="/login">
+                    <legend>Login</legend>
+
+                    <div class="body">
+                        <input type="text" class="form-control" placeholder="Username" name="username" required autofocus><br/>
+                        <input type="password" class="form-control" placeholder="Password" name="password" required autofocus><br/>
+                        <input name=_csrf_token type=hidden value="d0900365f8b807955e28dd1e50edd65df99d9962"><br/>
+
+                    </div>
+
+                    <div class="footer pager">
+                        <button class="btn btn-primary" type="submit">Login</button>
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+        <div class="col-md-6">
+            <div class="thumbnail"  id="register">
+                <form class="form login-form"  method="POST" action="/register">
+                    <legend>Register</legend>
+
+                    <div class="body">
+                        <input type="text" class="form-control" placeholder="Username" name="username" required autofocus><br/>
+                        <input type="text" class="form-control" placeholder="Email" name="email" required autofocus><br/>
+                        <input type="password" class="form-control" placeholder="Password" name="password" required autofocus><br/>
+                        <input type="password" class="form-control" placeholder="Password confirmation" name="password_c" required><br/>
+                        <input name=_csrf_token type=hidden value="d0900365f8b807955e28dd1e50edd65df99d9962"><br/>
+
+                    </div>
+
+                    <div class="footer pager">
+                        <button class="btn btn-primary" type="submit">Register</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="/static/js/jquery-1.11.2.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/static/js/bootstrap.min.js"></script>
+
+
+
+
+
+</body>
+</html>
