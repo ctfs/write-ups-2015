@@ -21,4 +21,5 @@
 * <https://ctf-team.vulnhub.com/backdoor-ctf-2015-qr/>
 * <https://babyphd.net/2015/04/backdoorctf-writeup/>
 * <http://capturetheswag.blogspot.com.au/2015/04/backdoor-ctf-2015-qr-challenge-response.html>
+* <https://gist.github.com/Bono-iPad/e908ddc67b3994069950>
 * [Indonesian](https://docs.google.com/document/d/12EM1YFzBoGp5jIDtryIof4Jv_p1S1Fvw-6rP8hm9ZlM/edit)

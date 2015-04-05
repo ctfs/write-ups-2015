@@ -22,4 +22,5 @@
 * <https://ctf-team.vulnhub.com/backdoor-ctf-2015-echo/>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/BACKDOORCTF/pwnable/echo>
 * <https://shankaraman.wordpress.com/2015/04/02/backdoor-ctf-2015-echo-writeup/>
+* <https://gist.github.com/Bono-iPad/e908ddc67b3994069950>
 * [Indonesian](https://docs.google.com/document/d/1kaoFGEtSO2X7SJYs7JRsHJXVXyuJ1SheRl-qcPCmo3s/edit)

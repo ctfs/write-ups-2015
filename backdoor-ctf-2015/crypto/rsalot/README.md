@@ -62,3 +62,4 @@ the_flag_is_b7[...]
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/BACKDOORCTF/crypto/rsalot>
+* <https://gist.github.com/Bono-iPad/e908ddc67b3994069950>

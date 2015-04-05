@@ -18,4 +18,5 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/backdoor-ctf-2015-follow/>
+* <https://gist.github.com/Bono-iPad/e908ddc67b3994069950>
 * [Indonesian](https://docs.google.com/document/d/1iRrG5nO5_xTTB3Aq1BMfeyTVQ2j6iKWW3sZEsGRENqk/edit)

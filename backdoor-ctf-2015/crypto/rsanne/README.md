@@ -18,3 +18,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/BACKDOORCTF/crypto/rsanne>
+* <https://gist.github.com/Bono-iPad/e908ddc67b3994069950>
+* <http://www.sinfocol.org/2015/04/backdoor-ctf-2015-rsanne/>
