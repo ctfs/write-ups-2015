@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* http://tasteless.eu/2015/04/ndh-2015-quals-weshgrow/
+* <http://tasteless.eu/2015/04/ndh-2015-quals-weshgrow/>
