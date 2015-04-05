@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-pdception-misc-500-writeup/>

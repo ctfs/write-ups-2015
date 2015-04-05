@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hexpresso.wordpress.com/2015/04/05/ndh-2015-superman-500-writeup/>
