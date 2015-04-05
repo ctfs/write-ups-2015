@@ -8,7 +8,6 @@
 
 ## Completed write-ups
 
-* [crypto/bbad](crypto/bbad)
 * [crypto/rsalot](crypto/rsalot)
 * [exploit/concealed](exploit/concealed)
 * [exploit/closed](exploit/closed)
@@ -20,6 +19,7 @@
 
 * [binary/echo](binary/echo)
 * [binary/team](binary/team)
+* [crypto/bbad](crypto/bbad)
 * [crypto/rsanne](crypto/rsanne)
 * [exploit/forgot](exploit/forgot)
 * [misc/qr](misc/qr)
