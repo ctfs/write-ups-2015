@@ -7,3 +7,4 @@ https://ctf.mc-crew.or.id
 Provided by Malang Cyber Crew
 
 #**Completed write-ups**
++[Begin](https://github.com/MrDoel/write-ups-2015/tree/master/ctf-javahackfest-2015/begin)
