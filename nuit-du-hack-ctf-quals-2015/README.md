@@ -13,6 +13,7 @@
 * [crypto/game-of-life](crypto/game-of-life)
 * [crypto/weshgrow](crypto/weshgrow)
 * [exploit/updator](exploit/updator)
+* [exploit/secureauth](exploit/secureauth)
 * [forensic/pdfception](forensic/pdfception)
 * [forensic/private](forensic/private)
 * [misc/raptor](misc/raptor)
@@ -24,7 +25,6 @@
 
 ## Missing write-ups
 
-* [exploit/secureauth](exploit/secureauth)
 * [forensic/bpythonastic](forensic/bpythonastic)
 * [misc/bleep](misc/bleep)
 * [misc/followtherabbit](misc/followtherabbit)
