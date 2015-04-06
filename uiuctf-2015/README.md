@@ -6,7 +6,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [network/sniffthis](network/sniffthis)
 
 ## External write-ups only
 
@@ -16,7 +16,6 @@
 
 * [forensics/the-gibson](forensics/the-gibson)
 * [network/ovaltine](network/ovaltine)
-* [network/sniffthis](network/sniffthis)
 * [pwn/okami](pwn/okami)
 * [pwn/unoriginal](pwn/unoriginal)
 * [recon/incertia](recon/incertia)
