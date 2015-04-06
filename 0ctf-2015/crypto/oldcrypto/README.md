@@ -3,10 +3,10 @@
 **Category:** Crypto
 **Points:** 200
 **Solves:** 58
-**Description:** 
+**Description:**
 
 > [Old crypto](oldcrypto.zip) is not old enough to be broken.
-> 
+>
 > Notice: all in lowercase
 
 ## Write-up
@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* * [b01lers](https://b01lers.net/challenges/0ctf/Old%20cryptography/39/)
