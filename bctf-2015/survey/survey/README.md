@@ -15,4 +15,4 @@ The flag is BCTF{thank_you_for_participating_in_BCTF}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/misc.md>

@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://wiremask.eu/bctf-2015-securecom/>
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/rev100-securecom/writeup.md>
