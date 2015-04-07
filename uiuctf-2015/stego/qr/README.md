@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* [b01lers](https://b01lers.net/challenges/0ctf/Old%20cryptography/39/)
+* [b01lers](https://b01lers.net/challenges/UIUCTF/QR/42/)
