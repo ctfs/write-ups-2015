@@ -29,6 +29,7 @@
 * [mobile/simpleapk](mobile/simpleapk)
 * [mobile/vezel](mobile/vezel)
 * [reverse/r0ops](reverse/r0ops)
+* [reverse/slimming](reverse/slimming)
 * [web/forward](web/forward)
 * [web/golden-mac-1](web/golden-mac-1)
 * [web/golden-mac-2](web/golden-mac-2)
@@ -42,4 +43,3 @@
 * [reverse/combaby](reverse/combaby)
 * [reverse/compiler](reverse/compiler)
 * [reverse/pipe-worker](reverse/pipe-worker)
-* [reverse/slimming](reverse/slimming)
