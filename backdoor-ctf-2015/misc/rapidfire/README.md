@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://babyphd.net/2015/04/backdoorctf-writeup/>
+* <https://github.com/TUCTF/write-ups-2015/tree/master/Backdoorctf15/rapidFire_500>
