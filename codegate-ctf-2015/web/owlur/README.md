@@ -43,3 +43,4 @@ FLAG->PHP fILTerZ aR3 c00l buT i pr3f3r f1lt3r 0xc0ffee
 * <http://chichou.0ginr.com/blog/1081>
 * <http://dakutenpura.hatenablog.com/entry/2015/03/16/223424>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CODEGATE/web/owlur>
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/web200-owlur/writeup.md>

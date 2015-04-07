@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn800-rodent/writeup.md>
 * <https://rzhou.org/~ricky/codegate2015_quals/rodent/>

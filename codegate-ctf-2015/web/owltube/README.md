@@ -54,3 +54,4 @@ Based on the things we kept in our mind, we just need to make the auth cookie to
 
 * <https://0x1337seichi.wordpress.com/2015/03/15/codgate-2015-ctf-quals-owltube-writeup-web-400/>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/blob/master/2015/CODEGATE/web/owltube/README.md>
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/web400-owltube/writeup.md>

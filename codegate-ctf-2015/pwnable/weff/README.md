@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn1000-weff/writeup.md>
 * <https://rzhou.org/~ricky/codegate2015_quals/weff/>

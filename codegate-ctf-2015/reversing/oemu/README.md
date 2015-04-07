@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn1000-oemu/writeup.md>
