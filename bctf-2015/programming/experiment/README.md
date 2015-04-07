@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/prog300-experiment/writeup.md>
 * [Japanese](http://xrekkusu.hatenablog.jp/entry/2015/03/23/144118)

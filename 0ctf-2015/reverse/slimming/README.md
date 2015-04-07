@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://blog.there4ndhere.tk/2015/03/31/0ctf2015-slimming/)

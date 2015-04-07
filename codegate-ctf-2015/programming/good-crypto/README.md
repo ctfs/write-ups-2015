@@ -18,4 +18,5 @@
 
 * <http://vnsecurity.net/ctf%20-%20clgt%20crew/2015/03/16/codegate-good-crypto.html>
 * <http://www.mathyvanhoef.com/2015/03/codegate-2015-goodcrypto-advanced-wep.html>
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/prog500-goodcrypto/writeup.md>
 * <http://pastebin.com/nGgKQExa>

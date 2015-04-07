@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/crypto50-warmup/writeup.md>
 * [Japanese](http://shiho-elliptic.tumblr.com/post/114389818504/bctf-2015-writeup)

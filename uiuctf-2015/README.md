@@ -12,6 +12,7 @@
 ## External write-ups only
 
 * [web/hype](web/hype)
+* [stego/qr](stego/qr)
 
 ## Missing write-ups
 
@@ -24,7 +25,6 @@
 * [reverse/rise](reverse/rise)
 * [reverse/the-one-that-solves-itself](reverse/the-one-that-solves-itself)
 * [reverse/uiucd](reverse/uiucd)
-* [stego/qr](stego/qr)
 * [trivia/bobby](trivia/bobby)
 * [trivia/eff](trivia/eff)
 * [trivia/mung](trivia/mung)

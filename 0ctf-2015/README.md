@@ -13,6 +13,7 @@
 ## External write-ups only
 
 * [crypto/grebeginner](crypto/grebeginner)
+* [crypto/oldcrypto](crypto/oldcrypto)
 * [crypto/rsa-quine](crypto/rsa-quine)
 * [crypto/satbeginner](crypto/satbeginner)
 * [exploit/0ops-app](exploit/0ops-app)
@@ -28,6 +29,7 @@
 * [mobile/simpleapk](mobile/simpleapk)
 * [mobile/vezel](mobile/vezel)
 * [reverse/r0ops](reverse/r0ops)
+* [reverse/slimming](reverse/slimming)
 * [web/forward](web/forward)
 * [web/golden-mac-1](web/golden-mac-1)
 * [web/golden-mac-2](web/golden-mac-2)
@@ -36,10 +38,8 @@
 
 ## Missing write-ups
 
-* [crypto/oldcrypto](crypto/oldcrypto)
 * [mobile/dadroid](mobile/dadroid)
 * [mobile/dataraider](mobile/dataraider)
 * [reverse/combaby](reverse/combaby)
 * [reverse/compiler](reverse/compiler)
 * [reverse/pipe-worker](reverse/pipe-worker)
-* [reverse/slimming](reverse/slimming)

@@ -24,4 +24,5 @@
 ## Other write-ups and resources
 
 * <http://vnsecurity.net/ctf%20-%20clgt%20crew/2015/03/17/codegate-2015-RE1000-pirate-danbi.html>
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/rev1000-pirate_danbi/writeup.md>
 * <http://pastebin.com/TZiXaZmL>

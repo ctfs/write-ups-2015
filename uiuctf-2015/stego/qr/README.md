@@ -3,7 +3,7 @@
 **Category:** Stegano
 **Points:** 200
 **Solves:** 20
-**Description:** 
+**Description:**
 
 > STEGO: This [QR code](qr.tar.gz) might not be as quick a response as usual!
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/UIUCTF/QR/42/)

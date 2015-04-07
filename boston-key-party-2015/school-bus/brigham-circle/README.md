@@ -19,4 +19,5 @@ This prints the flag: `OK_Maybe_using_rexpexp_wasnt_a_clever_move`.
 
 * <https://github.com/bl4de/ctf/blob/master/BostonKeyPartyCTF_2015/BrighamCircle.md>
 * <https://ctf-team.vulnhub.com/boston-key-party-2015-bringham-circle/>
+* <https://b01lers.net/challenges/Boston%20Key%20Party%202015/Brigham%20Circle/38/>
 * [Indonesian](http://blog.rentjong.net/2015/03/boston-key-party-2015-brigham-circle.html)
