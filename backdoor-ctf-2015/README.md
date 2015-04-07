@@ -9,6 +9,7 @@
 ## Completed write-ups
 
 * [crypto/rsalot](crypto/rsalot)
+* [crypto/rand](crypto/rand)
 * [exploit/concealed](exploit/concealed)
 * [exploit/closed](exploit/closed)
 * [exploit/noname](exploit/noname)
@@ -28,7 +29,3 @@
 * [web/medusa](web/medusa)
 * [web/judge](web/judge)
 * [web/jshunt](web/jshunt)
-
-## Missing write-ups
-
-* [crypto/rand](crypto/rand)
