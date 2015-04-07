@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://cregnec.github.io/blog/2015/03/23/bctf-freak-writeup.html>
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/rev250-freak/writeup.md>

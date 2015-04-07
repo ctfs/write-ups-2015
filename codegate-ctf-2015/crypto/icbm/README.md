@@ -22,6 +22,7 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn1000-icbm/writeup.md>
 * <https://rzhou.org/~ricky/codegate2015_quals/icbm>
 * <http://lokalhost.pl/ctf/codegate2015/sample.py>
 * <http://l4w.io/files/CTFs/codegate2015/icbm-stage1.py> and <http://l4w.io/files/CTFs/codegate2015/icbm-stage2.py>

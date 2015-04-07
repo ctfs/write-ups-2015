@@ -20,12 +20,12 @@
 * [pwnable/rodent](pwnable/rodent)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
+* [reversing/arc4-stranger](reversing/arc4-stranger)
 * [reversing/dodocrackme2](reversing/dodocrackme2)
+* [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
 
 ## Missing write-ups
 
 * [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
-* [reversing/arc4-stranger](reversing/arc4-stranger)
-* [reversing/oemu](reversing/oemu)

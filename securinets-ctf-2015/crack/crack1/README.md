@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://rezk2ll.wordpress.com/2015/03/24/securinets-quals-ctf-2015-crack1-write-up/>
+* <http://capturetheswag.blogspot.com.au/2015/03/securinets-ctf-quals-2015-aucunchoix.html>

@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://dakutenpura.hatenablog.com/entry/2015/03/31/231219>
+* <http://www.hexpedition.com/?p=57>

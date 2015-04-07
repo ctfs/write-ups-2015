@@ -18,5 +18,6 @@
 ## Other write-ups and resources
 
 * <https://kitctf.de/writeups/codegate2015/potato/>
+* <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn600-mashed_potato/writeup.md>
 * <http://lokalhost.pl/ctf/codegate2015/mash.py>
 * <http://l4w.io/files/CTFs/codegate2015/mashed.py>

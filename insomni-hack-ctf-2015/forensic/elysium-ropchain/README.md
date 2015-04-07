@@ -1,4 +1,4 @@
-# Insomni'hack CTF 2015: Elypsium Ropchain
+# Insomni'hack CTF 2015: Elysium Ropchain
 
 **Category:** Forensic
 **Solves:** 1
@@ -17,7 +17,7 @@ This task has also been proposed in Sthack CTF 2015.
 
 ## Write-up
 
-We're given an TAR.GZ archive containing the following files:
+We’re given a `TAR.GZ` archive containing the following files:
 
 ```
 $ tar tvfz elysium_ropchain_analysis.tar.gz 

@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>SecurePaste</title>
+</head>
+<body>
+<b>Secure paste</b><br />
+Your paste is stored in an encrypted format and requires a correct password and viewkey to be unlocked.
+
+<form action="submit.php" method="POST" id="paste" target="_blank" enctype="application/x-www-form-urlencoded">
+<input type="text" placeholder="title" name="title">
+<input type="password" placeholder="password" name="pass"><br />
+<textarea name="text" rows=20 cols=50 placeholder="paste"></textarea><br />
+<input type="Submit" name="submit" value="Paste!"><br />
+</form>
+
+<b>Secure lookup</b>
+
+<form action="view.php" method="POST" id="view" target="_blank" enctype="application/x-www-form-urlencoded">
+<input type="text" placeholder="viewkey" name="viewkey"><br />
+<input type="password" placeholder="password" name="pass"><br />
+<input type="Submit" name="submit" value="Lookup!"><br />
+</form>
+</body>
+</html>

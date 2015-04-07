@@ -1,0 +1,35 @@
+ 1672  touch   output.txt
+ 1673  echo '\n' > output.txt
+ 1674  php Crypto2.php '1' 1
+ 1675  cat output.txt
+ 1676  php Crypto2.php '1' 1 >> output.txt
+ 1677  php Crypto2.php 'VKMAP VAcD4'   5 >> output.txt
+ 1678  php Crypto2.php '0' 1 >> output.txt
+ 1679  php Crypto2.php '3' 1 >> output.txt
+ 1680  php Crypto2.php '2' 1 >> output.txt
+ 1681  php Crypto2.php 'q' 1 >> output.txt
+ 1682  php Crypto2.php '9' 1 >> output.txt
+ 1683  php Crypto2.php 'abcd' 13 >> output.txt
+ 1684  php Crypto2.php 'e' 1 >> output.txt
+ 1685  php Crypto2.php 'W' 1 >> output.txt
+ 1686  php Crypto2.php 'VAcD4' 22 >> output.txt
+ 1687  php Crypto2.php 'Q' 1 >> output.txt
+ 1688  php Crypto2.php 'HJ' 13 >> output.txt
+ 1689  php Crypto2.php 'w' 1 >> output.txt
+ 1690  php Crypto2.php 'r' 1 >> output.txt
+ 1691  php Crypto2.php 'n' 1 >> output.txt
+ 1692  php Crypto2.php 'V' 1 >> output.txt
+ 1693  php Crypto2.php 'M' 1 >> output.txt
+ 1694  php Crypto2.php 'm' 1 >> output.txt
+ 1695  php Crypto2.php 'V' 45 >> output.txt
+ 1696  php Crypto2.php 'V' 5 >> output.txt
+ 1697  php Crypto2.php 'abcd' 1 >> output.txt
+ 1698  php Crypto2.php 'N' 1 >> output.txt
+ 1699  php Crypto2.php 'abcd' 1 >> output.txt
+ 1700  php Crypto2.php 'V' 13 >> output.txt
+ 1701  php Crypto2.php 'R' 1 >> output.txt
+ 1702  php Crypto2.php 'E' 1 >> output.txt
+ 1703  cat output.txt
+ 1704  x
+ 1705  history
+ 1706  history | tail -n '30'

@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/crypto400-redundant_code/writeup.md>
 [https://gist.github.com/aluex/7811a2bc37443fc0bf45](https://gist.github.com/aluex/7811a2bc37443fc0bf45)

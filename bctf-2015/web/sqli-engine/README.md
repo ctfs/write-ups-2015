@@ -36,4 +36,5 @@
 
 * <http://linux.im/2015/03/23/BCTF-WEB-Writeup.html#sqlienginescore-200>
 * <https://rzhou.org/~ricky/bctf2015/sqli_engine/>
+* <https://github.com/pwning/public-writeup/blob/master/bctf2015/web200-sqli_engine/test.py>
 * <http://pastebin.com/5exPuAFR>

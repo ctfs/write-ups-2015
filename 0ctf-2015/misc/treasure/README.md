@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://hexpresso.wordpress.com/2015/03/30/0ctf-2015-treasure-50-writeup/>
+* <https://b01lers.net/challenges/0ctf/Treasure/40/>
