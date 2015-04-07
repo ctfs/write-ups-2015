@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.fortinet.com/post/insomnidroid-part-2-write-up>
