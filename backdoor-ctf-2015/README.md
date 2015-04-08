@@ -13,6 +13,7 @@
 * [exploit/concealed](exploit/concealed)
 * [exploit/closed](exploit/closed)
 * [exploit/noname](exploit/noname)
+* [misc/qr](misc/qr)
 * [forensics/tim](forensics/tim)
 * [misc/lhc](misc/lhc)
 
@@ -23,7 +24,6 @@
 * [crypto/bbad](crypto/bbad)
 * [crypto/rsanne](crypto/rsanne)
 * [exploit/forgot](exploit/forgot)
-* [misc/qr](misc/qr)
 * [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
 * [web/medusa](web/medusa)
