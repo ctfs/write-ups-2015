@@ -21,6 +21,7 @@
 * [reverse/superman](reverse/superman)
 * [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/crackme-prime](reverse/crackme-prime)
+* [stegano/cooper](stegano/cooper)
 * [web/facesec](web/facesec)
 
 ## Missing write-ups
@@ -30,5 +31,4 @@
 * [misc/followtherabbit](misc/followtherabbit)
 * [misc/macbeth](misc/macbeth)
 * [reverse/superman](reverse/superman)
-* [stegano/cooper](stegano/cooper)
 * [web/mickey](web/mickey)
