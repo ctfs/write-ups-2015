@@ -14,4 +14,4 @@
 ## Other write-ups and resources
 
 * <http://capturetheswag.blogspot.com.au/2015/04/uiuctf-2015-hype-web-challenge.html>
-* [b01lers](https://b01lers.net/UIUCTF/hype/41/)
+* [b01lers](https://b01lers.net/challenges/UIUCTF/hype/41/)
