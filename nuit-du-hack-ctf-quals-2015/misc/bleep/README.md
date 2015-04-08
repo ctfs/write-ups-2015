@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://wiki.yobi.be/wiki/NDH_Writeups#Bleep>
