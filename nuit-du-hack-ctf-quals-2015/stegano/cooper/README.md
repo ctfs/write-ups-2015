@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://geeksspeak.github.io/blog/2015/04/06/ndh-ctf-2015-cooper-writeup/>
