@@ -22,5 +22,5 @@
 ## Other write-ups and resources
 
 * <https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-facesec-web-100-writeup/>
-* <http://wiki.zenk-security.com/doku.php?id=ndhquals2015:facesec/> (Fench)
 * <http://www.matthieukeller.com/2015/04/ctf-ndh-qualifications.html#facesec/> (English)
+* <http://wiki.zenk-security.com/doku.php?id=ndhquals2015:facesec/> (Fench)
