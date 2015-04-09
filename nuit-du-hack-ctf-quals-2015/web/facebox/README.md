@@ -29,3 +29,5 @@ Using this value, all we had to do is compute the "random" filename of the priva
 ## Other write-ups and resources
 
 * <https://hexpresso.wordpress.com/2015/04/06/quals_ndh-2k15-facebox-web-100-writeup/>
+* <http://wiki.zenk-security.com/doku.php?id=ndhquals2015:facebox/> (Fench)
+* <http://www.matthieukeller.com/2015/04/ctf-ndh-qualifications.html#facebox/> (English)
