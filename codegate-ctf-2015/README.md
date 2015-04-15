@@ -17,6 +17,7 @@
 * [pwnable/beef-steak](pwnable/beef-steak)
 * [pwnable/bookstore](pwnable/bookstore)
 * [pwnable/mashed-potato](pwnable/mashed-potato)
+* [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
 * [pwnable/rodent](pwnable/rodent)
 * [pwnable/systemshock](pwnable/systemshock)
 * [pwnable/weff](pwnable/weff)
@@ -28,4 +29,4 @@
 
 ## Missing write-ups
 
-* [pwnable/olive-and-mushroom-pizza](pwnable/olive-and-mushroom-pizza)
+* none yet
