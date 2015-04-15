@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://filedu.mp/2bb128905bd56d8c/exploit.c
