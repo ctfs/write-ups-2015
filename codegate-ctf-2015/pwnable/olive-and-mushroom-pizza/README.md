@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
+* <http://filedu.mp/2bb128905bd56d8c/write-up.txt>
 * <http://filedu.mp/2bb128905bd56d8c/exploit.c> and <http://filedu.mp/2bb128905bd56d8c/win.txt>

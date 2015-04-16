@@ -26,7 +26,3 @@
 * [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
-
-## Missing write-ups
-
-* none yet
