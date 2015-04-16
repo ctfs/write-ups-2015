@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lab.0xff.cc/ctf-insomnihack-2015-bluepill/>

@@ -23,6 +23,7 @@
 * [network/hollywood-network](network/hollywood-network)
 * [reversing/swordfish](reversing/swordfish)
 * [reversing/swordfish-passwd](reversing/swordfish-passwd)
+* [shellcode/blue-pill](shellcode/blue-pill)
 * [web/hacker-news](web/hacker-news)
 * [web/hack-like-its-1999](web/hack-like-its-1999)
 
@@ -33,7 +34,6 @@
 * [exploit/the-firmware](exploit/the-firmware)
 * [forensic/zoom-in](forensic/zoom-in)
 * [shellcode/tldr](shellcode/tldr)
-* [shellcode/blue-pill](shellcode/blue-pill)
 * [web/smell-of-the-lamp](web/smell-of-the-lamp)
 * [web/serial-hackers](web/serial-hackers)
 * [web/smelly-lamp-got-makeup](web/smelly-lamp-got-makeup)
