@@ -12,4 +12,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+Link to my solution :
+http://lab.0xff.cc/ctf-insomnihack-2015-bluepill/
