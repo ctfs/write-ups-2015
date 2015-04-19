@@ -6,12 +6,12 @@
 **Description:**
 
 > What kind of mysterious message is this?!?
-> 
+>
 > ddddddwwwwwwaaaaaasssssssssssssseddddddddddddddddddewwawwawwawwawwawwawwaedddssssssddddssssssssewwdwwdwwdwwdwwddssdssdssdssdsswwdwwdwwdwwdwwdwwdwwdassassassassassassassedddddddddddddddewwwwwwwwwwwwwwdssdssdssdssdssdssdsswwwwwwwwwwwwwwssssssssssssssedddddddddddewwwwwwwwwwwwweddddddddddessssssssssssssedddddddewwwwwwwwwwwwwweaaaaaaaedssdssdssdssdssdssdssewdwdwdddwddwdwwddwddwddwddewawwawawaaasasassasssasssdsssdsddsddddwdwwdwwwaaaessdddsddsddddsddddewdwdwdwdwdwdwdwawawawawawawaedddddddddddddddeddddddddaaaaaaaasssssssssssssswwwwwwwwdddddeddddddddeddddddwwwwwwaaaaaassssssssssssssedddddddddddddwwesdsddsdddwddwdwwwawwawawaawaawawwdwwdwdddsddsdsedddwwwdddesssssssssesssssess
-> 
+>
 > Note: This flag does not have flag{}.
-> 
-> 
+>
+>
 > Team	Points	Submission
 > LC BC	20	a day ago
 > HackingForSoju	20	a day ago
@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/Sawed/44/)

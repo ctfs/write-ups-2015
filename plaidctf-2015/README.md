@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [misc/sawed](misc/sawed)
 
 ## Missing write-ups
 
@@ -23,7 +23,6 @@
 * [misc/ironic](misc/ironic)
 * [misc/kolmogorov](misc/kolmogorov)
 * [misc/sanity-check](misc/sanity-check)
-* [misc/sawed](misc/sawed)
 * [pwnable/ebp](pwnable/ebp)
 * [pwnable/plaiddb](pwnable/plaiddb)
 * [pwnable/prodmanager](pwnable/prodmanager)
