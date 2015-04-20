@@ -10,6 +10,7 @@
 
 ## External write-ups only
 
+* [misc/sawed](misc/sawed)
 * [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
 
@@ -23,7 +24,6 @@
 * [misc/ironic](misc/ironic)
 * [misc/kolmogorov](misc/kolmogorov)
 * [misc/sanity-check](misc/sanity-check)
-* [misc/sawed](misc/sawed)
 * [pwnable/plaiddb](pwnable/plaiddb)
 * [pwnable/prodmanager](pwnable/prodmanager)
 * [pwnable/qttpd](pwnable/qttpd)
