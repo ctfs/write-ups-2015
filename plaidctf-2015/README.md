@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/strength](crypto/strength)
 
 ## External write-ups only
 
