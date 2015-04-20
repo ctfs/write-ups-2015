@@ -14,6 +14,7 @@
 * [crypto/strength](crypto/strength)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [misc/sawed](misc/sawed)
+* [pwnable/qttpd](pwnable/qttpd)
 
 ## Missing write-ups
 
@@ -26,7 +27,6 @@
 * [misc/sanity-check](misc/sanity-check)
 * [pwnable/plaiddb](pwnable/plaiddb)
 * [pwnable/prodmanager](pwnable/prodmanager)
-* [pwnable/qttpd](pwnable/qttpd)
 * [pwnable/ram](pwnable/ram)
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)
