@@ -6,11 +6,11 @@
 **Description:**
 
 > The curious case of the random e.
-> 
+>
 > We've [captured](http://play.plaidctf.com/files/captured_a4ff19205b4a6b0a221111296439b9c7) the flag encrypted several times... do you think you can recover it?
-> 
-> 
-> 
+>
+>
+>
 > Team	Points	Submission
 > 0ops	72	16 hours ago
 > mrx	71	16 hours ago
@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/curious/46/)
