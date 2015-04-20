@@ -16,3 +16,5 @@
 Completed
 
 ## Other write-ups and resources
+
+[https://ctf-team.vulnhub.com/plaidctf-2015-ebp/](https://ctf-team.vulnhub.com/plaidctf-2015-ebp/)
