@@ -10,12 +10,9 @@
 > Download: [%p%o%o%p]().
 > 
 > 
-> No solvers yet. 
 
 ## Write-up
 
-(TODO)
+Completed
 
 ## Other write-ups and resources
-
-* none yet
