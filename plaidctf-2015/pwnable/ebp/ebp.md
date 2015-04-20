@@ -24,7 +24,7 @@ Checksec:
 
 A 32 binary and it seems like the NX flag is disabled which means we can execute shellcode
 
-Analyzing the assembly the vulnerability lies within the code for *make_response*:
+Analyzing the assembly, the vulnerability lies within the code for *make_response*:
 >```assembly
 >gdb-peda$ disas make_response
 >Dump of assembler code for function make_response:
