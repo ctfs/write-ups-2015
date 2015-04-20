@@ -31,4 +31,5 @@
 
 ## Other write-ups and resources
 
+* [whitehatters](https://www.whitehatters.academy/plaid-ctf-qttpd-part1/)
 * <http://filedu.mp/29828b3c14629f02/exploit-part1a.sh>
