@@ -10,11 +10,11 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/curious](crypto/curious)
+* [crypto/strength](crypto/strength)
 
 ## Missing write-ups
 
-* [crypto/curious](crypto/curious)
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)

@@ -6,11 +6,11 @@
 **Description:**
 
 > Strength in Difference
-> 
+>
 > We've [captured](http://play.plaidctf.com/files/captured_827a1815859149337d928a8a2c88f89f) the flag encrypted several times... do you think you can recover it?
-> 
-> 
-> 
+>
+>
+>
 > Team	Points	Submission
 > gn00bz	114	a day ago
 > DatNoobs	112	a day ago
@@ -25,19 +25,19 @@ The general idea behind recovering the plaintext is the following:
 	plaintext^exponent = c1 (mod N)
 	plaintext^(exponent+1) = c2 (mod N)
 	(c1^-1 * c2) = plaintext (mod N)
-	
+
 With this in mind we have to find `c1` and `c2` value for which the exponent has a difference of exactly one. There is no value provided that directly gives us this value. However it's possible to generate one using the value provided. The following principle is needed:
 
 	plaintext^e = c1 (mod N)
 	plaintext^(e*v) = c1^v (mod N)
-	
+
 So we essentially need to find a pair of `a*e1` and `b*e2` for which the difference is exactly one. It's impossible to find such pair if `gcd(e1, e2)` is not one. There's only 2 values in the ones given that match this criteria `71^5` and `29^7`. To find the value of `a` and `b`, we can use this:
 
 	a*e1 + 1 = 0 (mod e2)
 	-a * e1 = 1  (mod e2)
 	a = (-e1)^-1 (mod e2)
 	b = (a*e1 + 1) / e2
-	
+
 After this we just have to use the first formula and get back the original plaintext.
 
 ### Code
@@ -76,11 +76,11 @@ After this we just have to use the first formula and get back the original plain
 
 	print(r)
 	print(hex(r)[2:-1].decode("hex"))
-	
+
 ### Flag
 
 `flag_Strength_Lies_In_Differences`
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/strength/45/)
