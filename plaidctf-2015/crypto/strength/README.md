@@ -6,11 +6,11 @@
 **Description:**
 
 > Strength in Difference
-> 
+>
 > We've [captured](http://play.plaidctf.com/files/captured_827a1815859149337d928a8a2c88f89f) the flag encrypted several times... do you think you can recover it?
-> 
-> 
-> 
+>
+>
+>
 > Team	Points	Submission
 > gn00bz	114	a day ago
 > DatNoobs	112	a day ago
@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/strength/45/)
