@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/strength](crypto/strength)
 
 ## External write-ups only
 
@@ -16,7 +16,6 @@
 * [crypto/curious](crypto/curious)
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
-* [crypto/strength](crypto/strength)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [forensics/unknown](forensics/unknown)
 * [misc/eces-revenge2](misc/eces-revenge2)
