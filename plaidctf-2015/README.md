@@ -10,12 +10,9 @@
 
 ## External write-ups only
 
-<<<<<<< HEAD
 * [misc/sawed](misc/sawed)
-=======
 * [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
->>>>>>> ec23feb137beb50ae54737029802b8c5f52b62d8
 
 ## Missing write-ups
 
@@ -27,11 +24,6 @@
 * [misc/ironic](misc/ironic)
 * [misc/kolmogorov](misc/kolmogorov)
 * [misc/sanity-check](misc/sanity-check)
-<<<<<<< HEAD
-* [pwnable/ebp](pwnable/ebp)
-=======
-* [misc/sawed](misc/sawed)
->>>>>>> ec23feb137beb50ae54737029802b8c5f52b62d8
 * [pwnable/plaiddb](pwnable/plaiddb)
 * [pwnable/prodmanager](pwnable/prodmanager)
 * [pwnable/qttpd](pwnable/qttpd)
