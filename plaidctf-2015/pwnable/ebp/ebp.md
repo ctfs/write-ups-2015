@@ -62,7 +62,7 @@ To be safe we assume there is aslr enabled on the server. We also need to utiliz
   
 #####2. Control flow
   Since a format string vulnerbility also gives us the ability to write to the stack with the *%n* format we can utilize this to write to an address on the stack. If the buffers where our input was stored on the stack we can simply wrap around the stack into our buffers and use our input as addresses, however since our buffers are global buffers they are instead stored on the bss segment of the program.
-  To remedy this we first use part 1 and leak out a stack address, then we use a saved frame pointer (ebp) to write to somewhere lower on the stack. What we want on the stack is something that we actually want to write to, the *return address* location.
+  To remedy this we first use part 1 and leak out a stack address, then we use a saved frame pointer (ebp) to write to somewhere lower on the stack. What we want on the stack is something that we actually want to write to, the *return address* location. We use the %hn to write the size of a short to the stack which maintains the integrity of the 4 most significant, this works because we know the return address is also on the stack with the ebp.
 >```python
 >r.send('%4$p\n') 
 >
@@ -72,7 +72,8 @@ To be safe we assume there is aslr enabled on the server. We also need to utiliz
 >
 >r.send('%.{0!s}u%4$hn\n'.format(addr)) ##write those bytes
 >```
-So now we have a pointer to the location of the return address, so we simply need to wrap around to that pointer and write to it. 
+So now we have a pointer to the location of the return address, so we simply need to wrap around to that pointer and write to it. So we wrap around to our written address and change the return address, and have it point to our buffer in the bss.
+Also we know that on our text segment and bss segment starts with 0x0804 which is why we can have it pivot to the buffer by writing only the size of a *short*.
 >>>```python
 >lower = bufaddr&0xffff
 >r.send(shellcode+'%.'+str(lower-len(shellcode))+'u%12$hn\n')
@@ -80,6 +81,7 @@ So now we have a pointer to the location of the return address, so we simply nee
 
 Putting it together:
 
+__Note:__ I used pwntools for this exploit but should be simple enough to convert to a regular python exploit
 ```python
 from pwn import *
 
