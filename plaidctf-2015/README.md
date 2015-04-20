@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [crypto/strength](crypto/strength)
+* [pwnable/ebp](pwnable/ebp)
 
 ## External write-ups only
 
@@ -23,7 +24,6 @@
 * [misc/kolmogorov](misc/kolmogorov)
 * [misc/sanity-check](misc/sanity-check)
 * [misc/sawed](misc/sawed)
-* [pwnable/ebp](pwnable/ebp)
 * [pwnable/plaiddb](pwnable/plaiddb)
 * [pwnable/prodmanager](pwnable/prodmanager)
 * [pwnable/qttpd](pwnable/qttpd)
