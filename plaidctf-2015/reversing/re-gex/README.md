@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-https://gist.github.com/frenchie16/7db29643943ebcf185bb
+* <https://gist.github.com/frenchie16/7db29643943ebcf185bb>

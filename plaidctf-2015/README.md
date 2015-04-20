@@ -14,6 +14,7 @@
 * [crypto/strength](crypto/strength)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [misc/sawed](misc/sawed)
+* [reversing/re-gex](reversing/re-gex)
 
 ## Missing write-ups
 
@@ -34,5 +35,4 @@
 * [reversing/clifford](reversing/clifford)
 * [reversing/cryptoserv](reversing/cryptoserv)
 * [reversing/jumble-mumble](reversing/jumble-mumble)
-* [reversing/re-gex](reversing/re-gex)
 * [web/radhos](web/radhos)
