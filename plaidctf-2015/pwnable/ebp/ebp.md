@@ -24,7 +24,7 @@ Checksec:
 
 A 32 binary and it seems like the NX flag is disabled which means we can execute shellcode
 
-Analyzing the assembly the vulnerbility lies within the code for *make_response*:
+Analyzing the assembly the vulnerability lies within the code for *make_response*:
 >```assembly
 >gdb-peda$ disas make_response
 >Dump of assembler code for function make_response:
@@ -51,18 +51,18 @@ The C code for that looks something like this:
 
 where input and output are global variables
 
-So it seems that this is a case of a format string vulnerbility. 
+So it seems that this is a case of a format string vulnerability. 
 
 Which makes sense since the description hints at %p %o %o %p
 
 To be safe we assume there is aslr enabled on the server. We also need to utilize the format string to gain an arbitrary write and gain control flow of the program.
 
 #####1. ASLR
-  A way to defeat aslr is to use the format string vulnerbility to leak an address of the stack out to us.
+  A way to defeat aslr is to use the format string vulnerability to leak an address of the stack out to us.
   We can do so by using the *%p* format 
   
 #####2. Control flow
-  Since a format string vulnerbility also gives us the ability to write to the stack with the *%n* format we can utilize this to write to an address on the stack. If the buffers where our input was stored on the stack we can simply wrap around the stack into our buffers and use our input as addresses, however since our buffers are global buffers they are instead stored in the bss segment of the program.
+  Since a format string vulnerability also gives us the ability to write to the stack with the *%n* format we can utilize this to write to an address on the stack. If the buffers where our input was stored on the stack we can simply wrap around the stack into our buffers and use our input as addresses, however since our buffers are global buffers they are instead stored in the bss segment of the program.
   
   To remedy this we first use part 1 and leak out a stack address, then we use a saved frame pointer (ebp) to write to somewhere lower on the stack. What we want on the stack is something that we actually want to write to, the *return address* location. We use the %hn to write the size of a short to the stack which maintains the integrity of the 4 most significant bytes, this works because we know the return address is also on the stack with the ebp. Doing so we create a pointer to the return address.
 >```python
