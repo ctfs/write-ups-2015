@@ -31,4 +31,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://filedu.mp/29828b3c14629f02/exploit-part1a.sh>
