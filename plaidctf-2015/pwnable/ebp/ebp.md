@@ -21,6 +21,7 @@ Checksec:
 >PIE       : disabled
 >RELRO     : Partial
 >```
+
 A 32 binary and it seems like the NX flag is disabled which means we can execute shellcode
 
 Analyzing the assembly the vulnerbility lies within the code for *make_response*:
