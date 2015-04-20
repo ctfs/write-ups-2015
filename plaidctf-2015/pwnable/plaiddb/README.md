@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+[PlaidDB - pwn 550](http://blog.frizn.fr/pctf-2015/pwn-550-plaiddb)
