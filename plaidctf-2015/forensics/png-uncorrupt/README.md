@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://z1h4wk.tumblr.com/post/116828562808/ctf-plaidctf2015-forensic150>

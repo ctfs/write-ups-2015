@@ -10,15 +10,15 @@
 
 ## External write-ups only
 
-* [misc/sawed](misc/sawed)
 * [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
+* [forensics/png-uncorrupt](forensics/png-uncorrupt)
+* [misc/sawed](misc/sawed)
 
 ## Missing write-ups
 
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
-* [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [forensics/unknown](forensics/unknown)
 * [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
