@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/curious/46/)
+* <https://gist.github.com/anthonyclays/c530372fc5f15b05b843>
