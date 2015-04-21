@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Plaid CTF 2015: radhos](http://vnsecurity.net/ctf%20-%20clgt%20crew/2015/04/20/ppp-radhos.html)
