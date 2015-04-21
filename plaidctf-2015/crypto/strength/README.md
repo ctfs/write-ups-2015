@@ -83,4 +83,5 @@ After this we just have to use the first formula and get back the original plain
 
 ## Other write-ups and resources
 
+* [sophia.re](https://www.sophia.re/plaid2015_strength_writeup.html)
 * [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/strength/45/)
