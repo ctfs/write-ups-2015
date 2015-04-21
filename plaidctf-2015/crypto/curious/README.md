@@ -23,4 +23,5 @@
 ## Other write-ups and resources
 
 * [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/curious/46/)
+* [Lense](https://gist.github.com/Lense/8a84b2e6d140176bfad9)
 * <https://gist.github.com/anthonyclays/c530372fc5f15b05b843>
