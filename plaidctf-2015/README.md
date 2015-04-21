@@ -8,6 +8,7 @@
 * [crypto/strength](crypto/strength)
 * [pwnable/ebp](pwnable/ebp)
 * [pwnable/ram](pwnable/ram)
+* [misc/sanity-check](misc/sanity-check)
 
 ## External write-ups only
 
@@ -31,7 +32,6 @@
 * [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
 * [misc/kolmogorov](misc/kolmogorov)
-* [misc/sanity-check](misc/sanity-check)
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)
 * [reversing/angela-merkel](reversing/angela-merkel)
