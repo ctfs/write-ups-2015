@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://z1h4wk.tumblr.com/post/116828562808/ctf-plaidctf2015-forensic150>
+* <https://nebelwelt.net/blog/plaid-pnguncorrupt.html>
