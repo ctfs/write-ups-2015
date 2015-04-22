@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
 * [pwnable/ebp](pwnable/ebp)
 * [pwnable/ram](pwnable/ram)
@@ -12,8 +13,6 @@
 
 ## External write-ups only
 
-* [crypto/curious](crypto/curious)
-* [crypto/strength](crypto/strength)
 * [crypto/parlor2](crypto/parlor2)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [misc/sawed](misc/sawed)
