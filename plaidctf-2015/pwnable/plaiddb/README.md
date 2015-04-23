@@ -17,4 +17,6 @@
 
 ## Other write-ups and resources
 
-[PlaidDB - pwn 550](http://blog.frizn.fr/pctf-2015/pwn-550-plaiddb)
+[FrizN - PlaidDB - pwn 550](http://blog.frizn.fr/pctf-2015/pwn-550-plaiddb)
+
+[wapiflapi - Single null-byte heap overflow](http://wapiflapi.github.io/2015/04/22/single-null-byte-heap-overflow/)
