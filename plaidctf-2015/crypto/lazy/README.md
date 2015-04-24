@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+<http://gnoobz.com/plaid-ctf-2015-lazy-writeup.html>

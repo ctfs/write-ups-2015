@@ -13,6 +13,7 @@
 
 ## External write-ups only
 
+* [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [misc/sawed](misc/sawed)
@@ -27,7 +28,6 @@
 
 ## Missing write-ups
 
-* [crypto/lazy](crypto/lazy)
 * [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
 * [misc/kolmogorov](misc/kolmogorov)
