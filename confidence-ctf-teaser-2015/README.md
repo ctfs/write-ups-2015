@@ -1,7 +1,7 @@
 # CONFidence CTF Teaser
 
 * <https://ctf.dragonsector.pl/?challenges>
-* [Scoreboard](https://ctf.dragonsector.pl/?scoreboard) or [local alternative](score.html)
+* [Scoreboard](https://ctf.dragonsector.pl/?scoreboard) or [local alternative](score.txt)
 
 ## Completed write-ups
 
