@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* (NONE)
+* [pwning/quine-400](pwning/quine-400)
 
 
 ## External write-ups only
@@ -20,7 +20,6 @@
 * [network/apache-underwear-400](network/apache-underwear-400)
 * [programming/here-be-dragons-300](programming/here-be-dragons-300)
 * [pwning/quarantine-500](pwning/quarantine-500)
-* [pwning/quine-400](pwning/quine-400)
 * [reverse/so-easy-100](reverse/so-easy-100)
 * [stegano/a-png-tale-200](steagno/a-png-tale-200)
 * [web/practical-numerology-300](web/practical-numerology-300)
