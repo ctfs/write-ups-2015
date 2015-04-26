@@ -6,16 +6,14 @@
 ## Completed write-ups
 
 * [pwning/quine-400](pwning/quine-400)
-
+* [crypto/mac-hacking-150](crypto/mac-hacking-150)
 
 ## External write-ups only
 
-* (NONE)
+* [crypto/power-level-50](crypto/power-level-50)
 
 ## Missing write-ups
 
-* [crypto/mac-hacking-150](crypto/mac-hacking-150)
-* [crypto/power-level-50](crypto/power-level-50)
 * [crypto/the-real-mac-hacking-400](crypto/the-real-mac-hacking-400)
 * [network/apache-underwear-400](network/apache-underwear-400)
 * [programming/here-be-dragons-300](programming/here-be-dragons-300)
