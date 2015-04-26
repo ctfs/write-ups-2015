@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Quarantine
 
-**Category:** Pwning 
-**Points:** 500 
-**Solves:** 5 
-**Description:** 
+**Category:** Pwning
+**Points:** 500
+**Solves:** 5
+**Description:**
 
 
 > The developers of this service think they have found a way to automatically thwart all memory corruption attacks. Can you prove them wrong?

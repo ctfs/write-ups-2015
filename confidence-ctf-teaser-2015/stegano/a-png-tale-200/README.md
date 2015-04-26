@@ -1,11 +1,11 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser A PNG Tale
 
-**Category:** Steganography 
-**Points:** 200 
-**Solves:** 43 
-**Description:** 
+**Category:** Steganography
+**Points:** 200
+**Solves:** 43
+**Description:**
 
-> Find the flag hidden in this [PNG file](hidden.png). 
+> Find the flag hidden in this [PNG file](hidden.png).
 
 ## Write-up
 

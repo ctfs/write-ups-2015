@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Mac Hacking 
 
-**Category:** Crypto 
-**Points:** 150 
-**Solves:** 47 
-**Description:** 
+**Category:** Crypto
+**Points:** 150
+**Solves:** 47
+**Description:**
 
 > They laughed at my XOR encryption. Then, they mocked me for using MD5. Hah! What do they even know. I bet they don't even code in PHP.
 >

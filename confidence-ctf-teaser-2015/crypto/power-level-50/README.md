@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Power Level 
 
 **Category:** Crypto  
-**Points:** 50 
-**Solves:** 97 
-**Description:** 
+**Points:** 50
+**Solves:** 97
+**Description:**
 
 > Here's a [C file](crypto50.c). Decode this:
 

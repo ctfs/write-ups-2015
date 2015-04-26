@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Here Be Dragons
 
-**Category:** Programming 
-**Points:** 300 
-**Solves:** 14 
-**Description:** 
+**Category:** Programming
+**Points:** 300
+**Solves:** 14
+**Description:**
 
 > As kids, we all dreamt of collecting eggs in the most optimal ways. We know you did too! Now, we're giving you a chance to have your dreams come true - just connect to 134.213.29.59:7001 and join the fun!
 

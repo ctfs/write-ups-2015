@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Practical Numerology
 
-**Category:** Web 
-**Points:** 300 
-**Solves:** 56 
-**Description:** 
+**Category:** Web
+**Points:** 300
+**Solves:** 56
+**Description:**
 
 > Here's a [lotto script](index.php), running on my [old and slow computer](134.213.136.172). Can you pwn it?  
 

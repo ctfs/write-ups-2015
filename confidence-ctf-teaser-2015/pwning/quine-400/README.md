@@ -1,9 +1,9 @@
-# CONFidence CTF Teaser 
+# CONFidence CTF Teaser Quine
 
-**Category:** Pwning 
-**Points:** 400 
-**Solves:** 19 
-**Description:** 
+**Category:** Pwning
+**Points:** 400
+**Solves:** 19
+**Description:**
 
 > Yo Dawg! I herd you like compression!
 >
