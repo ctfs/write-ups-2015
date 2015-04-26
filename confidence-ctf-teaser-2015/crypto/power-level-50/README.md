@@ -1,6 +1,6 @@
-# CONFidence CTF Teaser Power Level 
+# CONFidence CTF Teaser Power Level
 
-**Category:** Crypto  
+**Category:** Crypto
 **Points:** 50
 **Solves:** 97
 **Description:**
@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x1337seichi.wordpress.com/2015/04/26/confidance-2015-ctf-teaser-power-level-writeup-crypto-50/>
