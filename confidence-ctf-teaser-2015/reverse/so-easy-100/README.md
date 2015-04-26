@@ -34,4 +34,4 @@ When digging a bit further, we can see that printf is hooked and it actually exe
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.com.au/2015/04/confidence-ctf-2015-so-easy-reversing.html>
