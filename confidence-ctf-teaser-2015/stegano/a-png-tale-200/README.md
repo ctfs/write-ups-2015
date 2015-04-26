@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mail.pri-vate.net/tmp/writeup-CONFidence_DS_CTF_2015-200stegano-A_PNG_Tale.txt>

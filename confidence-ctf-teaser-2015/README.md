@@ -13,11 +13,11 @@
 ## External write-ups only
 
 * [crypto/power-level-50](crypto/power-level-50)
+* [stegano/a-png-tale-200](stegano/a-png-tale-200)
+* [network/apache-underwear-400](network/apache-underwear-400)
 
 ## Missing write-ups
 
 * [crypto/the-real-mac-hacking-400](crypto/the-real-mac-hacking-400)
-* [network/apache-underwear-400](network/apache-underwear-400)
 * [programming/here-be-dragons-300](programming/here-be-dragons-300)
 * [pwning/quarantine-500](pwning/quarantine-500)
-* [stegano/a-png-tale-200](steagno/a-png-tale-200)
