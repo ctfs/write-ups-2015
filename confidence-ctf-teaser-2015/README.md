@@ -7,6 +7,7 @@
 
 * [pwning/quine-400](pwning/quine-400)
 * [crypto/mac-hacking-150](crypto/mac-hacking-150)
+* [web/practical-numerology-300](web/practical-numerology-300)
 
 ## External write-ups only
 
@@ -20,4 +21,3 @@
 * [pwning/quarantine-500](pwning/quarantine-500)
 * [reverse/so-easy-100](reverse/so-easy-100)
 * [stegano/a-png-tale-200](steagno/a-png-tale-200)
-* [web/practical-numerology-300](web/practical-numerology-300)
