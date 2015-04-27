@@ -7,6 +7,7 @@
 
 * [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
+* [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [pwnable/ebp](pwnable/ebp)
 * [pwnable/ram](pwnable/ram)
 * [misc/sanity-check](misc/sanity-check)
@@ -15,7 +16,6 @@
 
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
-* [forensics/png-uncorrupt](forensics/png-uncorrupt)
 * [misc/sawed](misc/sawed)
 * [pwnable/prodmanager](pwnable/prodmanager)
 * [pwnable/qttpd](pwnable/qttpd)
