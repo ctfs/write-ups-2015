@@ -11,6 +11,7 @@
 * [pwnable/ebp](pwnable/ebp)
 * [pwnable/ram](pwnable/ram)
 * [misc/sanity-check](misc/sanity-check)
+* [misc/kolmogorov](misc/kolmogorov)
 
 ## External write-ups only
 
@@ -30,7 +31,6 @@
 
 * [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
-* [misc/kolmogorov](misc/kolmogorov)
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)
 * [reversing/angela-merkel](reversing/angela-merkel)
