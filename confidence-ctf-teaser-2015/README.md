@@ -5,15 +5,15 @@
 
 ## Completed write-ups
 
-* [pwning/quine-400](pwning/quine-400)
 * [crypto/mac-hacking-150](crypto/mac-hacking-150)
-* [web/practical-numerology-300](web/practical-numerology-300)
+* [pwning/quine-400](pwning/quine-400)
 * [reverse/so-easy-100](reverse/so-easy-100)
+* [stegano/a-png-tale-200](stegano/a-png-tale-200)
+* [web/practical-numerology-300](web/practical-numerology-300)
 
 ## External write-ups only
 
 * [crypto/power-level-50](crypto/power-level-50)
-* [stegano/a-png-tale-200](stegano/a-png-tale-200)
 * [network/apache-underwear-400](network/apache-underwear-400)
 
 ## Missing write-ups
