@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en>
