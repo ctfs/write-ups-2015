@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+		<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="author" content="Konstantce" >
+    	<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+    	<title>Challenge</title>
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    	<style>
+      	body {padding-top: 50px; padding-bottom: 20px; background: url(/theme.jpg); background-size: cover; color: white;}
+    	</style>
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    	<script src="/clock.js"></script>
+    	<link rel="stylesheet" href="/clock.css">  
+   </head>
+   
+   <body>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+   		<form class="navbar-form navbar-center">
+      		<p class="navbar-brand message">Complete the challenge in 15 seconds!</p>
+      	</form>
+      	<form class="navbar-form navbar-right">
+        		<a class="btn btn-primary btn-lg" href="/challenge" role="button" id="again">Start another challenge &raquo;</a>
+        		<a class="btn btn-primary btn-lg" href="/" role="button">Return on the main page &raquo;</a>
+      	</form>
+   	</nav>
+    	<hr>
+
+    	<div class="container">
+      	<div class="row">
+        	<div class="col-md-3">
+          	<p class="clock"></p>
+        	</div>
+        	<div class="col-md-9">
+          	<div class="form-group">
+            	<div><big><strong>Your challenge is: </strong><div id="challenge"></div></big>
+           	</div>
+        	</div>
+          	<form class="form-group" method="post" onsubmit="event.preventDefault(); postquery();" >
+            	<input type="text"  placeholder="response" class="form-control" maxlength="80" required  id="target">
+            	<br>
+            	<input type="submit" class="btn btn-success" id = "check-button" value="check">
+            	<input type="reset" class="btn btn-primary" value="reset">
+          	</form>
+        	</div>
+      	</div>
+    	</div>
+    	
+    	<script type="text/javascript" async>
+    		var clock; 		
+      	$(document).ready(function()
+      	{
+        		clock = new FlipClock($('.clock'), 15, 
+        			{clockFace: 'Counter',autoStart: true, countdown: true,
+          		callbacks: {stop: function() {$('.message').html("The time is over"); document.getElementById("check-button").disabled = true;}}	
+          	})
+         });
+    	</script>
+    	
+		<script type="text/javascript" async>	   			
+    		req = new XMLHttpRequest();
+      	req.open('GET', "/ajax_param", true);
+      	req.onreadystatechange = function()
+      	{
+        		if (req.readyState == 4)
+          		document.getElementById("challenge").innerHTML = req.responseText;        				
+      	}
+      	req.send();
+    	</script>
+    	 
+		<script type="text/javascript">
+      	function postquery()
+      	{
+         	document.getElementById("check-button").disabled = true;
+         	clock.stop();
+         	var req = new XMLHttpRequest();
+         	var params = "response=" + encodeURIComponent(document.getElementById("target").value);
+         	req.open('POST', "/challenge", true);
+         	req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+         	req.onreadystatechange = function()
+        		{
+          		if (req.readyState == 4)
+          		{
+            		var result = req.getResponseHeader("ajax-parameter");
+            		if (result == "TRUE")
+            		{
+              			$('.message').html("You did it! Now you have access to our secrets.");
+              			var d = document.getElementById("again");
+              			d.className+=" disabled";	
+            		}
+            		else       
+              			$('.message').html("The answer is incorrect. Try again!");
+          		}
+      		}
+      		req.send(params);  
+      	}
+    	</script> 
+    	
+    	<hr>
+    	<footer>
+      	<p>&copy;made by Chip in 2015</p>
+    	</footer>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>   	
+  	</body>
+</html>
+
+
+      

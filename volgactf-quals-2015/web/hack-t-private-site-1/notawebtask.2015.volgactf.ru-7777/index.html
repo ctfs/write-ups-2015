@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+   	<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="author" content="Konstantce" >
+    	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+    	<title>HACK-T</title>
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    	<style>
+      	body {padding-top: 50px; padding-bottom: 20px; background: url(/theme.jpg); background-size: cover; color: white;}
+    	</style>
+  	</head>
+  	
+  	<body>
+  		<nav class="navbar navbar-inverse navbar-fixed-top">
+    		<form class="navbar-form navbar-center">
+         	<p class="navbar-brand">HACK-T TEAM</p>
+      	</form>
+      	<form class="navbar-form navbar-right">
+        		<a class="btn btn-primary btn-lg" href="/challenge" role="button">Pass the challenge &raquo</a>
+        		<a class="btn btn-primary btn-lg" href="/protected/tiny_secret" role="button">HACK-T private page <i>(password)</i> &raquo</a>
+        		<a role="button" button class="btn btn-primary btn-lg" id="chall" href="/protected/secret">HACK-T top-secret private page <i>(password and challenge)</i> &raquo</a>
+     		</form>
+   	</nav>
+		<hr>
+		<center>
+			<h2>HACK-T TEAM: group of Australian hackers</h2>
+    		<b><p>This is a page that we constantly update daily. It provides you will vital information that is going on in our hackers community.</p> 
+    		<p>The release of new programs, viruses,  and zero days will be in detail here. You should be in the habit of visiting this page a few times a week to keep up with what is happening.</p> 
+    		<p>On the other hand, we do not have the habit of providing sensitive information to anyone.</p>
+    		<p>In order to access important information you should prove that you are one of us and have the key, which all members of HACK-T TEAM share. This key will help you to authentificate on the server.</p>
+			<p>We are paranoid: If you wish to access top-secret data you should pass challenge in addition to obtaining the password.</p>
+			<p>It will be easy for you if you practise the methods of HACK-T TEAM:)</p>
+    		<p>Good luck and happy hacking!</p></b>
+   	</center>
+		<hr>
+		<footer>
+   		<p>&copy; made by Chip in 2015</p>
+   	</footer>
+   
+   	<script type="text/javascript" async>
+      	var req = new XMLHttpRequest();
+      	req.open('GET', "/ajax_param", true);
+      	req.onreadystatechange = function()
+      	{
+        		if ((req.readyState == 4) && (req.responseText== 'FALSE'))
+        		{
+					var d = document.getElementById("chall");
+					d.className+=" disabled";			
+        		}
+      	}
+      	req.send(null);
+   	</script>   
+    
+   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+   	<!-- Pahom was here! 777 and green elephant forever!-->
+ 	</body>
+</html>

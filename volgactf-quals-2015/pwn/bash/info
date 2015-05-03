@@ -1,0 +1,9 @@
+bash
+
+just another super-puper secure shell
+
+nc bash.2015.volgactf.ru 7777
+[tiny_bash](http://files.2015.volgactf.ru/bash/tiny_bash)
+
+Answer 
+This task has been solved by 80 teams.
