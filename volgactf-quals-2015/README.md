@@ -1,7 +1,7 @@
 # VolgaCTF Quals CTF CTF write-ups
 
 * <http://2015.volgactf.ru/>
-* [Scoreboard](http://2015.volgactf.ru/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://2015.volgactf.ru/scoreboard) or [local alternative](score.txt)
 
 ## Completed write-ups
 
