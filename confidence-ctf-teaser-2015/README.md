@@ -15,9 +15,9 @@
 
 * [crypto/power-level-50](crypto/power-level-50)
 * [network/apache-underwear-400](network/apache-underwear-400)
+* [pwning/quarantine-500](pwning/quarantine-500)
 
 ## Missing write-ups
 
 * [crypto/the-real-mac-hacking-400](crypto/the-real-mac-hacking-400)
 * [programming/here-be-dragons-300](programming/here-be-dragons-300)
-* [pwning/quarantine-500](pwning/quarantine-500)

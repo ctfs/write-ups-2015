@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://int3pids.blogspot.in/2015/04/confidence-2015-teaser-quarantine-write.html>
