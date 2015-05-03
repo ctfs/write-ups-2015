@@ -185,4 +185,4 @@ flag{shellcode_with_the_colors_of_the_rainbow_db43044f}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://neg9.org/news/2015/4/26/plaidctf-2015-ram-pwnable-170-writeup> 

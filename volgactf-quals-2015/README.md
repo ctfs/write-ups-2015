@@ -12,6 +12,7 @@
 * [admin/remote-web](admin/remote-web)
 * [crypto/carry](crypto/carry)
 * [crypto/lcg](crypto/lcg)
+* [crypto/rsa](crypto/rsa)
 * [joy/homework](joy/homework)
 * [ppc/mathproblem](ppc/mathproblem)
 * [pwn/bash](pwn/bash)
@@ -19,12 +20,12 @@
 * [recon/yacst](recon/yacst)
 * [reverse/interstellar](reverse/interstellar)
 * [stego/strange-text](stego/strange-text)
+* [web/web2](web/web2)
 
 ## Missing write-ups
 
 * [crypto/cpkc](crypto/cpkc)
 * [crypto/gostfuscator](crypto/gostfuscator)
-* [crypto/rsa](crypto/rsa)
 * [crypto/russian-doll](crypto/russian-doll)
 * [crypto/rusty-idea](crypto/rusty-idea)
 * [joy/relax-and-enjoy](joy/relax-and-enjoy)
@@ -38,4 +39,3 @@
 * [web/hack-t-private-site-1](web/hack-t-private-site-1)
 * [web/hack-t-private-site-2](web/hack-t-private-site-2)
 * [web/malware](web/malware)
-* [web/web2](web/web2)

@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/blob/master/2015/VOLGACTF/misc/mathproblem/solution/mathsolve.py>
