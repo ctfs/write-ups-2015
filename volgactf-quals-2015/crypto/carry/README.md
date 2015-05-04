@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en> 
+* <http://capturetheswag.blogspot.com.au/2015/05/volga-ctf-2015-carry-500-point-crypto.html>

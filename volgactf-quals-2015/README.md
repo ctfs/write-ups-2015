@@ -19,6 +19,7 @@
 * [pwn/database](pwn/database)
 * [recon/yacst](recon/yacst)
 * [reverse/interstellar](reverse/interstellar)
+* [stego/captcha](stego/captcha)
 * [stego/strange-text](stego/strange-text)
 * [web/web2](web/web2)
 
@@ -32,7 +33,6 @@
 * [joy/world-art](joy/world-art)
 * [pwn/my-little-pwnie](pwn/my-little-pwnie)
 * [recon/find-him](recon/find-him)
-* [stego/captcha](stego/captcha)
 * [stego/midi](stego/midi)
 * [stego/poem](stego/poem)
 * [stego/tlsb](stego/tlsb)

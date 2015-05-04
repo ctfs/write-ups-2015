@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://neg9.org/news/2015/5/3/volga-quals-2015-captcha-stegoppc-150-writeup>
