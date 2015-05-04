@@ -1,9 +1,0 @@
-rsa
-
-The oldie but goodie.
-
-[script](http://files.2015.volgactf.ru/rsa/decryptor.py)
-[key](http://files.2015.volgactf.ru/rsa/key.public)
-[ciphertext](http://files.2015.volgactf.ru/rsa/ciphertext.bin)
-
-This task has been solved by 99 teams.

@@ -1,8 +1,0 @@
-remote web
-
-There is a web server somewhere (10.0.1.18), but we have forgotten a port number. Can you GET something from it?
-
-ssh:team@194.190.143.247
-pass:volgactf123
-
-This task has been solved by 49 teams.
