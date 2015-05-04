@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://neg9.org/news/2015/5/3/volga-quals-2015-captcha-stegoppc-150-writeup>
+* <http://www.mrt-prodz.com/blog/view/2015/05/volgactf-2015-quals---captcha-150pts-writeup>
