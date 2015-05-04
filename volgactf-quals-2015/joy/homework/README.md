@@ -16,4 +16,4 @@
 ## Other write-ups and resources
 
 * <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en>
-* <http://lockboxx.blogspot.in/2015/05/volgactf-2015-quals-writeup-homework.html>
+* <http://lockboxx.blogspot.com/2015/05/volgactf-2015-quals-writeup-homework.html>
