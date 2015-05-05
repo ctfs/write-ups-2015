@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * none yet
+* <https://www.whitehatters.academy/volgactf-2015-gostfuscator/>
