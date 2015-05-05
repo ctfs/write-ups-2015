@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://lockboxx.blogspot.com/2015/05/volgactf-2015-quals-writeup-homework.html>
+* <http://fadec0d3.blogspot.com/2015/05/volga-ctf-2015-find-him-recon-250.html>
