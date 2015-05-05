@@ -18,3 +18,4 @@
 
 * <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en>
 * <http://www.mrt-prodz.com/blog/view/2015/05/volgactf-2015-quals---bash-125pts-writeup>
+* <https://www.whitehatters.academy/volgactf-2015-bash/>
