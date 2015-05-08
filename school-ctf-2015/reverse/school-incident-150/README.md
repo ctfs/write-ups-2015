@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](http://www.hasnydes.us/2015/05/schoolctf-school-incident-150pts/) 

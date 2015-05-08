@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](http://www.hasnydes.us/2015/05/schoolctf-shop-of-goodness-100pts/) 
