@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://www.whitehatters.academy/volgactf-2015-mylittlepwnie/>
+* <https://github.com/Team-Sportsball/CTFs-2015/blob/master/VolgaCTF/My%20Little%20Pwnie.md>
