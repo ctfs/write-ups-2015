@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://fritzfs.blogspot.de/2015/05/writeup-saw-this-1-asis-ctf-quals-2015.html>

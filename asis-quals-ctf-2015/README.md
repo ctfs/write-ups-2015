@@ -9,7 +9,9 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/simple-algorithm](crypto/simple-algorithm)
+* [forensic/broken-heart](forensic/broken-heart)
+* [pwn/saw-this-1](pwn/saw-this-1)
 
 ## Missing write-ups
 
@@ -17,8 +19,6 @@
 * [crypto/cross-check](crypto/cross-check)
 * [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/qrypt](crypto/qrypt)
-* [crypto/simple-algorithm](crypto/simple-algorithm)
-* [forensic/broken-heart](forensic/broken-heart)
 * [forensic/checkme](forensic/checkme)
 * [forensic/dump](forensic/dump)
 * [forensic/keka-bomb](forensic/keka-bomb)
@@ -28,7 +28,6 @@
 * [programming/grids](programming/grids)
 * [pwn/auth-ng](pwn/auth-ng)
 * [pwn/math-sequence](pwn/math-sequence)
-* [pwn/saw-this-1](pwn/saw-this-1)
 * [pwn/saw-this-2](pwn/saw-this-2)
 * [pwn/shellc0d3](pwn/shellc0d3)
 * [reverse/asis-card](reverse/asis-card)

@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.com.au/2015/05/asis-ctf-2015-simplealgorithm-100-point.html>
