@@ -42,3 +42,4 @@ This looks like a false lead, but if we remove the image, we can reveal the flag
 ## Other write-ups and resources
 
 * <http://www.bobbyblues.com/misc/CTF/uiu2015-sniffthis/>
+* <http://www.gameofpwnz.com/?p=102>
