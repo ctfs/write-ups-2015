@@ -9,12 +9,13 @@
 * [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
+* [forensic/my-ped](forensic/my-ped)
 
 ## External write-ups only
 
+* [forensic/broken-heart](forensic/broken-heart)
 * [forensic/dump](forensic/dump)
 * [forensic/keka-bomb](forensic/keka-bomb)
-* [forensic/broken-heart](forensic/broken-heart)
 * [programming/grids](programming/grids)
 * [pwn/math-sequence](pwn/math-sequence)
 * [pwn/saw-this-1](pwn/saw-this-1)
@@ -29,7 +30,6 @@
 * [crypto/qrypt](crypto/qrypt)
 * [forensic/checkme](forensic/checkme)
 * [forensic/must-see-iran](forensic/must-see-iran)
-* [forensic/my-ped](forensic/my-ped)
 * [forensic/zrypt](forensic/zrypt)
 * [pwn/auth-ng](pwn/auth-ng)
 * [pwn/saw-this-2](pwn/saw-this-2)

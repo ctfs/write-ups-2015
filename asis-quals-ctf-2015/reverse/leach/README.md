@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/reversing/leach>
+* <https://www.whitehatters.academy/asis-ctf-leach/>

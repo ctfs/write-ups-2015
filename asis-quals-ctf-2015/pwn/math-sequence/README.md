@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* <https://www.whitehatters.academy/asis/>
+* <https://www.whitehatters.academy/asismathsequence/>
