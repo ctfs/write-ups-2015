@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * [solution] (https://gist.github.com/anonymous/c9de6b5d3e20ea80dc27) from crowell
+* <http://pastebin.com/Zc5s75jq>

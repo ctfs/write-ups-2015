@@ -33,3 +33,4 @@
 
 * [whitehatters](https://www.whitehatters.academy/plaid-ctf-qttpd-part1/)
 * <http://filedu.mp/29828b3c14629f02/exploit-part1a.sh>
+* <http://capturetheswag.blogspot.com.au/2015/04/plaidctf-qttpd-pwnable-part-1-200-point.html>

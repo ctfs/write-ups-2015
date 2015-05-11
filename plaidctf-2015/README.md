@@ -17,6 +17,7 @@
 
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
+* [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/sawed](misc/sawed)
 * [pwnable/prodmanager](pwnable/prodmanager)
 * [pwnable/qttpd](pwnable/qttpd)
@@ -29,7 +30,6 @@
 
 ## Missing write-ups
 
-* [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)

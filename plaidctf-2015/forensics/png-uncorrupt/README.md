@@ -112,3 +112,6 @@ The flag is `flag{have_a_wonderful_starcrafts}`.
 
 * <http://z1h4wk.tumblr.com/post/116828562808/ctf-plaidctf2015-forensic150>
 * <https://nebelwelt.net/blog/plaid-pnguncorrupt.html>
+* <http://www.securifera.com/blog/2015/04/23/plaidctf-2015-png-uncorrupt/>
+* <https://mattscodecave.com/posts/plaidctf-2015---corrupt-png>
+* <https://13c5.wordpress.com/2015/04/20/plaidctf-2015-png-uncorrupt/>

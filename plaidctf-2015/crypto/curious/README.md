@@ -104,4 +104,6 @@ flag_S0Y0UKN0WW13N3R$4TT4CK!
 
 * [b01lers](https://b01lers.net/challenges/PlaidCTF%202015/curious/46/)
 * [Lense](https://gist.github.com/Lense/8a84b2e6d140176bfad9)
+* <http://capturetheswag.blogspot.com.au/2015/04/plaidctf-curious-crypto-70-point.html>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/PCTF/crypto/curious>
 * <https://gist.github.com/anthonyclays/c530372fc5f15b05b843>
