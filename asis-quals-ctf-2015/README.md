@@ -6,10 +6,10 @@
 ## Completed write-ups
 
 * [crypto/golden-metal](crypto/golden-metal)
+* [crypto/simple-algorithm](crypto/simple-algorithm)
 
 ## External write-ups only
 
-* [crypto/simple-algorithm](crypto/simple-algorithm)
 * [forensic/broken-heart](forensic/broken-heart)
 * [pwn/saw-this-1](pwn/saw-this-1)
 
