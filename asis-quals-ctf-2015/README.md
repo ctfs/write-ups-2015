@@ -5,6 +5,8 @@
 
 ## Completed write-ups
 
+* [crypto/angler](crypto/angler)
+* [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
 
@@ -23,9 +25,7 @@
 
 ## Missing write-ups
 
-* [crypto/angler](crypto/angler)
 * [crypto/cross-check](crypto/cross-check)
-* [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/qrypt](crypto/qrypt)
 * [forensic/checkme](forensic/checkme)
 * [forensic/must-see-iran](forensic/must-see-iran)
