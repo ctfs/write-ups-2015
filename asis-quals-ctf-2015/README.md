@@ -10,8 +10,12 @@
 
 ## External write-ups only
 
+* [forensic/dump](forensic/dump)
+* [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/broken-heart](forensic/broken-heart)
+* [programming/grids](programming/grids)
 * [pwn/saw-this-1](pwn/saw-this-1)
+* [reverse/keylead](reverse/keylead)
 
 ## Missing write-ups
 
@@ -20,19 +24,15 @@
 * [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/qrypt](crypto/qrypt)
 * [forensic/checkme](forensic/checkme)
-* [forensic/dump](forensic/dump)
-* [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/must-see-iran](forensic/must-see-iran)
 * [forensic/my-ped](forensic/my-ped)
 * [forensic/zrypt](forensic/zrypt)
-* [programming/grids](programming/grids)
 * [pwn/auth-ng](pwn/auth-ng)
 * [pwn/math-sequence](pwn/math-sequence)
 * [pwn/saw-this-2](pwn/saw-this-2)
 * [pwn/shellc0d3](pwn/shellc0d3)
 * [reverse/asis-card](reverse/asis-card)
 * [reverse/dark](reverse/dark)
-* [reverse/keylead](reverse/keylead)
 * [reverse/leach](reverse/leach)
 * [reverse/selfie](reverse/selfie)
 * [reverse/tera](reverse/tera)

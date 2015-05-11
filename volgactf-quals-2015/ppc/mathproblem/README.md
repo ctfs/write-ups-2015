@@ -17,3 +17,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/blob/master/2015/VOLGACTF/misc/mathproblem/solution/mathsolve.py>
 * <https://www.whitehatters.academy/volgactf-2015-mathproblem/>
 * <https://github.com/Team-Sportsball/CTFs-2015/blob/master/VolgaCTF/Mathproblem.md>
+* <http://dakutenpura.hatenablog.com/entry/2015/05/05/005522>

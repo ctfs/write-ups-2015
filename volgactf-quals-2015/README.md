@@ -17,6 +17,7 @@
 * [crypto/russian-doll](crypto/russian-doll)
 * [joy/homework](joy/homework)
 * [joy/world-art](joy/world-art)
+* [joy/relax-and-enjoy](joy/relax-and-enjoy)
 * [ppc/mathproblem](ppc/mathproblem)
 * [pwn/bash](pwn/bash)
 * [pwn/database](pwn/database)
@@ -35,7 +36,6 @@
 
 * [crypto/cpkc](crypto/cpkc)
 * [crypto/rusty-idea](crypto/rusty-idea)
-* [joy/relax-and-enjoy](joy/relax-and-enjoy)
 * [web/hack-t-private-site-1](web/hack-t-private-site-1)
 * [web/hack-t-private-site-2](web/hack-t-private-site-2)
 * [web/malware](web/malware)
