@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* <http://lockboxx.blogspot.de/2015/05/asis-ctf-2015-quals-writeup-broken-heart.html>
+* <http://lockboxx.blogspot.com/2015/05/asis-ctf-2015-quals-writeup-broken-heart.html>
