@@ -20,3 +20,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/NUITDUHACK/crypto/gameoflife>
 * <https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-game-of-life-crypto-150-writeup/>
 * <http://wiki.zenk-security.com/doku.php?id=ndhquals2015:game_of_life/> (French)
+* <http://wiki.yobi.be/wiki/NDH_Writeups#Game-of-Life>

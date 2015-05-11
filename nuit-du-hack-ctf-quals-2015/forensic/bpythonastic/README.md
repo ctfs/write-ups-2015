@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ipushino.blogspot.de/2015/04/ndh-ctf-2015-bpythonastic.html>

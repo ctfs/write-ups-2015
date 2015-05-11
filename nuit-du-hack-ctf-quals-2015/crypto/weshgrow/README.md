@@ -28,3 +28,5 @@ The flag is `Can_I_haz_s3cureD_hm4c_plz`.
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2015/04/ndh-2015-quals-weshgrow/>
+* <http://wiki.yobi.be/wiki/NDH_Writeups#Weshgrow>
+* <http://geeksspeak.github.io/blog/2015/04/06/ndh-ctf-2015-weshgrow-writeup/>

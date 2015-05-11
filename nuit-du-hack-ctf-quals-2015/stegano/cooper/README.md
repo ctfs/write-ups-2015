@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://geeksspeak.github.io/blog/2015/04/06/ndh-ctf-2015-cooper-writeup/>
+* <http://ipushino.blogspot.de/2015/04/ndh-ctf-2015-cooper.html>
