@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/golden-metal](crypto/golden-metal)
 
 ## External write-ups only
 
@@ -16,7 +16,6 @@
 * [crypto/angler](crypto/angler)
 * [crypto/cross-check](crypto/cross-check)
 * [crypto/falsecrypt](crypto/falsecrypt)
-* [crypto/golden-metal](crypto/golden-metal)
 * [crypto/qrypt](crypto/qrypt)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
 * [forensic/broken-heart](forensic/broken-heart)
