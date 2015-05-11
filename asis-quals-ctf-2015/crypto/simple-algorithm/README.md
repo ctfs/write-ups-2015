@@ -78,3 +78,4 @@ With a different flag, the number of possibilities can maybe grow even more, and
 ## Other write-ups and resources
 
 * <http://capturetheswag.blogspot.com.au/2015/05/asis-ctf-2015-simplealgorithm-100-point.html>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/crypto/simplealgorithm>
