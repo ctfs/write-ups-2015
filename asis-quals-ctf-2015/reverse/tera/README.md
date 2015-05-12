@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/reversing/tera>
+* <http://boaster.github.io/reverse%20engineering,%20ctf/2015/05/11/ASIS-CTF-Tera.html>
