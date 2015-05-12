@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.tinduong.pw/asis-quals-2015-saw-this-writeup/>
