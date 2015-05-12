@@ -29,11 +29,11 @@ solver code is here:
 
 ```python
 p = 1285380609783825451015579898011805465763518244839
-q = 1358902095093762824984385249873903079031552839163 
- 
+q = 1358902095093762824984385249873903079031552839163
+
 d = eval(open("enc.txt").read()[5:])
 e = ((p-1)*(q-1)+4)/8
- 
+
 m = ""
 for x in d:
   k = pow(x, e, p*q)
@@ -41,10 +41,10 @@ for x in d:
     m += "0"
   else:
     m += "1"
- 
- 
+
+
 print m
- 
+
 print ("%x"%int(m, 2)).decode("hex")
 ```
 
@@ -52,4 +52,4 @@ written by [@elliptic_shiho](http://twitter.com/elliptic_shiho)
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/ASIS%202015/Golden%20Metal/53/)

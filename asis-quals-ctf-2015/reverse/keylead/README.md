@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://dakutenpura.hatenablog.com/entry/2015/05/11/235011>
+* [b01lers](https://b01lers.net/challenges/ASIS%202015/KeyLead/51/)
