@@ -15,3 +15,4 @@
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/reversing/dark>
 * <https://twitter.com/m_ad3l/status/597878193069096961>
+* <http://boaster.github.io/ctf/2015/05/11/ASIS-CTF-Dark.html>
