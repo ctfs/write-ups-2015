@@ -23,10 +23,10 @@
 * [reverse/keylead](reverse/keylead)
 * [reverse/leach](reverse/leach)
 * [reverse/tera](reverse/tera)
+* [crypto/cross-check](crypto/cross-check)
 
 ## Missing write-ups
 
-* [crypto/cross-check](crypto/cross-check)
 * [crypto/qrypt](crypto/qrypt)
 * [forensic/checkme](forensic/checkme)
 * [forensic/must-see-iran](forensic/must-see-iran)
