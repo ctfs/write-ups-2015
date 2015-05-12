@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <http://dakutenpura.hatenablog.com/entry/2015/05/11/232642>
+* [Indonesian](https://github.com/rentjongteam/write-ups-2014/tree/master/asis-quals-2015/grids)

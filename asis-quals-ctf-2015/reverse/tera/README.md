@@ -16,3 +16,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/reversing/tera>
 * <http://boaster.github.io/reverse%20engineering,%20ctf/2015/05/11/ASIS-CTF-Tera.html>
 * <http://blog.morganz.me/blog/2015/05/12/asis-ctf-quals-2015-re100-tera-writeup/>
+* [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/tera)

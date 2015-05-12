@@ -53,4 +53,4 @@ ASIS{0e9800346489a3ac4f30c45976e325cf}
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/my-ped)

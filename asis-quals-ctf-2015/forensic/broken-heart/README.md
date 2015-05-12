@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://lockboxx.blogspot.com/2015/05/asis-ctf-2015-quals-writeup-broken-heart.html>
+* [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/broken-heart)

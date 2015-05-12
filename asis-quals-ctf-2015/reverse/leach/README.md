@@ -16,3 +16,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/reversing/leach>
 * <https://www.whitehatters.academy/asis-ctf-leach/>
 * <http://boaster.github.io/ctf/2015/05/11/ASIS-CTF-Leach.html>
+* [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/leach)

@@ -24,6 +24,8 @@
 * [reverse/leach](reverse/leach)
 * [reverse/tera](reverse/tera)
 * [crypto/cross-check](crypto/cross-check)
+* [web/best-photo](web/best-photo)
+* [trivia/whats-example-flag](trivia/whats-example-flag)
 
 ## Missing write-ups
 
@@ -41,7 +43,5 @@
 * [trivia/bonus-point](trivia/bonus-point)
 * [trivia/launch-printer](trivia/launch-printer)
 * [trivia/survey](trivia/survey)
-* [trivia/whats-example-flag](trivia/whats-example-flag)
-* [web/best-photo](web/best-photo)
 * [web/secret-message](web/secret-message)
 * [web/strange-authen](web/strange-authen)

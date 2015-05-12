@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://dakutenpura.hatenablog.com/entry/2015/05/12/011233>
+* <https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/keka-bomb>
