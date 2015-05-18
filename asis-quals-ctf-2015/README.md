@@ -10,6 +10,7 @@
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
 * [forensic/my-ped](forensic/my-ped)
+* [web/strange-authen](web/strange-authen)
 
 ## External write-ups only
 
@@ -44,4 +45,3 @@
 * [trivia/bonus-point](trivia/bonus-point)
 * [trivia/launch-printer](trivia/launch-printer)
 * [trivia/survey](trivia/survey)
-* [web/strange-authen](web/strange-authen)
