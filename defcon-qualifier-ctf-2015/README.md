@@ -15,6 +15,7 @@
 * [babys-first/r0pbaby](babys-first/r0pbaby)
 * [coding-challenge/catwestern](coding-challenge/catwestern)
 * [misc/blackbox](misc/blackbox)
+* [misc/patcher](misc/patcher)
 * [pwnable/cybergrandsandbox](pwnable/cybergrandsandbox)
 * [pwnable/fuckup](pwnable/fuckup)
 * [pwnable/heapsoffun](pwnable/heapsoffun)
@@ -23,7 +24,6 @@
 
 ## Missing write-ups
 
-* [misc/patcher](misc/patcher)
 * [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/secrf](pwnable/secrf)
 * [pwnable/tensixtyseven](pwnable/tensixtyseven)
