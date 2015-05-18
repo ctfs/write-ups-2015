@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
+* <https://ucs.fbi.h-da.de/writeup-asis-ctf-quals-2015-best-photo/>
 * [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/best-photo)

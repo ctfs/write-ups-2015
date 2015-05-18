@@ -95,4 +95,4 @@ And here is the Flag:
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-asis-ctf-quals-2015-strange-authen/>
