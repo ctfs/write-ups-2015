@@ -18,3 +18,4 @@
 * <http://lockboxx.blogspot.com/2015/05/defcon-ctf-2015-quals-writeup-babycmd.html>
 * <http://pastebin.com/8Nb1Kv7J>
 * <https://ctf-team.vulnhub.com/defcon-2015-quals-mathwhiz/>
+* <http://www.mrt-prodz.com/blog/view/2015/05/def-con-2015-quals---mathwhiz-1pt-writeup>

@@ -21,3 +21,4 @@
 * <https://gist.github.com/anonymous/052f0cac9b54748fb15c>
 * <http://pastebin.com/vX4L6ebJ>
 * <https://ctf-team.vulnhub.com/defcon-2015-quals-babycmd/>
+* <http://www.mrt-prodz.com/blog/view/2015/05/def-con-2015-quals---babycmd-1pt-writeup>
