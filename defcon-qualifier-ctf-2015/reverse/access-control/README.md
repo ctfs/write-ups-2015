@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/DEFCONCTF/reversing/accesscontrol>
+* <http://www.mrt-prodz.com/blog/view/2015/05/def-con-2015-quals---access-control-1pt-writeup>
