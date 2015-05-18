@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/x2z1KgqW>

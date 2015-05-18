@@ -22,3 +22,5 @@
 * <https://github.com/rick2600/writeups/blob/master/defcon2015/catwestern.md>
 * [Korean](http://blackcon.tistory.com/122)
 * <https://gist.github.com/emyei/828f8fa231b82bc2925e>
+* <http://pastebin.com/BU1dh8xN>
+* <http://pastebin.com/fMQ7v6Ut>

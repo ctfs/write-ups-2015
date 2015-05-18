@@ -16,3 +16,6 @@
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/DEFCONCTF/babysfirst/r0pbaby>
 * <http://box.haxx.in/~blasty/e9b52923e5b8dfefdc917bb88a92843ac4dbe4a7/r0pbaby_xpl.py>
+* <http://blog.0x80.org/r0pbaby-writeup-defcon-prequal/>
+* [Japanese](http://qiita.com/MarshMallow_sh/items/87019f038e4f5dc82451)
+* <http://pastebin.com/3jr47B98>

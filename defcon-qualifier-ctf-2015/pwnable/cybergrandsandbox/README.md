@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
+* <http://blog.0x80.org/cybergrandsandbox-writeup-defcon-prequal/>
 * <https://gist.github.com/jgor/15029aa1efa960e5c805#file-defconctf2015_cybergrandsandbox-py>

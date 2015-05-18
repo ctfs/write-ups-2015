@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://lokalhost.pl/ctf/defcon2015/heap.py>
+* <http://pastebin.com/N8JNkiUL>

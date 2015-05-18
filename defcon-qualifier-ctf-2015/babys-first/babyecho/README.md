@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [Korean](http://blackcon.tistory.com/121)
+* <http://pastebin.com/TGuRLGCQ>

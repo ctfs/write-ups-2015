@@ -16,4 +16,7 @@
 
 * <https://www.whitehatters.academy/legitbs-2015-babycmd/>
 * <https://sysexit.wordpress.com/2015/05/18/defcon-23-ctf-quals-2015-babycmd-writeup/>
+* <http://blog.0x80.org/r0pbaby-writeup-defcon-prequal/>
+* <http://lockboxx.blogspot.de/2015/05/defcon-ctf-2015-quals-writeup-babycmd.html>
 * <https://gist.github.com/anonymous/052f0cac9b54748fb15c>
+* <http://pastebin.com/vX4L6ebJ>
