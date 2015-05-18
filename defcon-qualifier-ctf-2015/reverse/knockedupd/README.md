@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [sophia.re](http://www.sophia.re/defconquals2015_knockedupd_writeup.html)
