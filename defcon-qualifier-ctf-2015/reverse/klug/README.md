@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/Riatre/5e91727d83081831877e>
