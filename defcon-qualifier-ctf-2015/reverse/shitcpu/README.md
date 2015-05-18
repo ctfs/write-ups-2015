@@ -1,0 +1,17 @@
+# DEF CON Qualifier 2015: shitcpu
+
+**Category:** Reverse Engineering
+**Points:** 3
+**Solves:** TODO
+**Description:**
+
+> shitcpu_5f766bf9fb92aead0ae2de76ea57f21c.quals.shallweplayaga.me:19192 [Download](http://downloads.notmalware.ru/shitcpu_5f766bf9fb92aead0ae2de76ea57f21b)
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
