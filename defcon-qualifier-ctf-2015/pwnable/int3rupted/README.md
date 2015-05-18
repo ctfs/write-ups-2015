@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://lokalhost.pl/ctf/defcon2015/int3.py>
+* <https://gist.github.com/zachriggle/72a36becca0650a766ba>

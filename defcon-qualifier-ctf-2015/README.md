@@ -21,6 +21,8 @@
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
 * [reverse/access-control](reverse/access-control)
+* [reverse/klug](reverse/klug)
+* [reverse/pr0dk3y](reverse/pr0dk3y)
 
 ## Missing write-ups
 
@@ -30,9 +32,7 @@
 * [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [pwnable/wibbly-wobbly-timey-wimey](pwnable/wibbly-wobbly-timey-wimey)
-* [reverse/klug](reverse/klug)
 * [reverse/knockedupd](reverse/knockedupd)
-* [reverse/pr0dk3y](reverse/pr0dk3y)
 * [reverse/scrambler](reverse/scrambler)
 * [reverse/shitcpu](reverse/shitcpu)
 * [web/waiting-for-your-touch](web/waiting-for-your-touch)

@@ -21,3 +21,4 @@
 * <http://capturetheswag.blogspot.com.au/2015/05/defcon-ctf-2015-cat-western-1-point.html>
 * <https://github.com/rick2600/writeups/blob/master/defcon2015/catwestern.md>
 * [Korean](http://blackcon.tistory.com/122)
+* <https://gist.github.com/emyei/828f8fa231b82bc2925e>

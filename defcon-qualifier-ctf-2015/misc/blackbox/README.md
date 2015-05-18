@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://www.whitehatters.academy/legitbs-2015-blackbox/>
+* <https://gist.github.com/anonymous/60eda1db5c7d8b852840>
