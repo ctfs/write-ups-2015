@@ -15,5 +15,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/rick2600/writeups/blob/master/defcon2015/matwiz.md>
-* <http://lockboxx.blogspot.de/2015/05/defcon-ctf-2015-quals-writeup-babycmd.html>
+* <http://lockboxx.blogspot.com/2015/05/defcon-ctf-2015-quals-writeup-babycmd.html>
 * <http://pastebin.com/8Nb1Kv7J>
