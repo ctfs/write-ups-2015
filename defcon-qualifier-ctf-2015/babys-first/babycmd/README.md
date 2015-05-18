@@ -20,3 +20,4 @@
 * <http://lockboxx.blogspot.com/2015/05/defcon-ctf-2015-quals-writeup-babycmd.html>
 * <https://gist.github.com/anonymous/052f0cac9b54748fb15c>
 * <http://pastebin.com/vX4L6ebJ>
+* <https://ctf-team.vulnhub.com/defcon-2015-quals-babycmd/>
