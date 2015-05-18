@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/NUITDUHACK/reverse/crackmeprime>
+* <http://blog.0x80.org/ndh2k15-crackme-prime-writeup/>

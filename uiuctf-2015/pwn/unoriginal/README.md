@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/emyei/5f60c733761573b760d2>
