@@ -18,3 +18,4 @@
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/DEFCONCTF/reversing/accesscontrol>
 * <http://www.mrt-prodz.com/blog/view/2015/05/def-con-2015-quals---access-control-1pt-writeup>
+* <https://github.com/TeamColonelPanic/write-ups/tree/master/2015/defcon-qualifier-ctf-2015/reverse/access-control>
