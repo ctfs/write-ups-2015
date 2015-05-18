@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/rick2600/writeups/blob/master/defcon2015/matwiz.md>

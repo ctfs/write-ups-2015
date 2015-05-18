@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lokalhost.pl/ctf/defcon2015/heap.py>

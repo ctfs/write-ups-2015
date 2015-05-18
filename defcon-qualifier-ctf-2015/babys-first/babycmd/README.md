@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.whitehatters.academy/legitbs-2015-babycmd/>
+* <https://sysexit.wordpress.com/2015/05/18/defcon-23-ctf-quals-2015-babycmd-writeup/>

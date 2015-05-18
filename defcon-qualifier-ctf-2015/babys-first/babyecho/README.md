@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Korean](http://blackcon.tistory.com/121)

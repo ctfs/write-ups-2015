@@ -9,28 +9,27 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [babys-first/babycmd](babys-first/babycmd)
 * [babys-first/babyecho](babys-first/babyecho)
 * [babys-first/mathwhiz](babys-first/mathwhiz)
 * [babys-first/r0pbaby](babys-first/r0pbaby)
 * [coding-challenge/catwestern](coding-challenge/catwestern)
 * [misc/blackbox](misc/blackbox)
-* [misc/patcher](misc/patcher)
 * [pwnable/cybergrandsandbox](pwnable/cybergrandsandbox)
 * [pwnable/fuckup](pwnable/fuckup)
-* [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
+* [reverse/access-control](reverse/access-control)
+
+## Missing write-ups
+
+* [misc/patcher](misc/patcher)
+* [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/secrf](pwnable/secrf)
 * [pwnable/tensixtyseven](pwnable/tensixtyseven)
 * [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [pwnable/wibbly-wobbly-timey-wimey](pwnable/wibbly-wobbly-timey-wimey)
-* [reverse/access-control](reverse/access-control)
 * [reverse/klug](reverse/klug)
 * [reverse/knockedupd](reverse/knockedupd)
 * [reverse/pr0dk3y](reverse/pr0dk3y)

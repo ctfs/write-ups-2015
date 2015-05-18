@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/jgor/15029aa1efa960e5c805#file-defconctf2015_cybergrandsandbox-py>

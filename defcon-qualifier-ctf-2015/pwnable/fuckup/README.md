@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lokalhost.pl/ctf/defcon2015/fuck.py>
+* <http://hastebin.com/iyinepaxen.py>

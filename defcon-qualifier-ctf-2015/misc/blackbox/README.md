@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.whitehatters.academy/legitbs-2015-blackbox/>

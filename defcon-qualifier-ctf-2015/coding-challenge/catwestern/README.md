@@ -16,4 +16,8 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/DEFCONCTF/coding/catwestern>
+* <http://fritzfs.blogspot.de/2015/05/writeup-coding-defcon-ctf-quals-2015.html>
+* <http://capturetheswag.blogspot.com.au/2015/05/defcon-ctf-2015-cat-western-1-point.html>
+* <https://github.com/rick2600/writeups/blob/master/defcon2015/catwestern.md>
+* [Korean](http://blackcon.tistory.com/122)
