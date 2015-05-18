@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/DEFCONCTF/babysfirst/r0pbaby>
+* <http://box.haxx.in/~blasty/e9b52923e5b8dfefdc917bb88a92843ac4dbe4a7/r0pbaby_xpl.py>
