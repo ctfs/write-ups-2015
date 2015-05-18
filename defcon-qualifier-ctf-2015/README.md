@@ -26,6 +26,7 @@
 * [reverse/klug](reverse/klug)
 * [reverse/pr0dk3y](reverse/pr0dk3y)
 * [reverse/shitcpu](reverse/shitcpu)
+* [reverse/knockedupd](reverse/knockedupd)
 
 ## Missing write-ups
 
@@ -33,6 +34,5 @@
 * [pwnable/secrf](pwnable/secrf)
 * [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
-* [reverse/knockedupd](reverse/knockedupd)
 * [reverse/scrambler](reverse/scrambler)
 * [web/waiting-for-your-touch](web/waiting-for-your-touch)
