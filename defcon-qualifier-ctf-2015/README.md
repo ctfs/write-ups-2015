@@ -25,6 +25,7 @@
 * [reverse/access-control](reverse/access-control)
 * [reverse/klug](reverse/klug)
 * [reverse/pr0dk3y](reverse/pr0dk3y)
+* [reverse/shitcpu](reverse/shitcpu)
 
 ## Missing write-ups
 
@@ -34,5 +35,4 @@
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [reverse/knockedupd](reverse/knockedupd)
 * [reverse/scrambler](reverse/scrambler)
-* [reverse/shitcpu](reverse/shitcpu)
 * [web/waiting-for-your-touch](web/waiting-for-your-touch)

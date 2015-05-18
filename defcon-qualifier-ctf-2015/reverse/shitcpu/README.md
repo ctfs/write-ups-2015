@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/mheistermann/273cf850f207b886f9de>
