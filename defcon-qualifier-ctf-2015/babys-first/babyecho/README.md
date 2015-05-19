@@ -182,6 +182,7 @@ The flag is: 1s 1s th3r3 th3r3 @n @n 3ch0 3ch0 1n 1n h3r3 h3r3? 3uoiw!T0*%
 
 ## Other write-ups and resources
 
-* [Korean](http://blackcon.tistory.com/121)
 * <http://pastebin.com/TGuRLGCQ>
 * <https://ctf-team.vulnhub.com/defcon-2015-quals-babyecho/>
+* <http://geeksspeak.github.io/blog/2015/05/18/defconctf-2015-quals-babyecho-writeup/>
+* [Korean](http://blackcon.tistory.com/121)

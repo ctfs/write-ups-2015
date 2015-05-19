@@ -19,3 +19,4 @@
 * <http://pastebin.com/8Nb1Kv7J>
 * <https://ctf-team.vulnhub.com/defcon-2015-quals-mathwhiz/>
 * <http://www.mrt-prodz.com/blog/view/2015/05/def-con-2015-quals---mathwhiz-1pt-writeup>
+* <http://geeksspeak.github.io/blog/2015/05/18/defconctf-2015-quals-mathwize-writeup/>

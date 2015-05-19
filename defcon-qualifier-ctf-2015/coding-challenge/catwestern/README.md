@@ -20,6 +20,7 @@
 * <http://fritzfs.blogspot.de/2015/05/writeup-coding-defcon-ctf-quals-2015.html>
 * <http://capturetheswag.blogspot.com.au/2015/05/defcon-ctf-2015-cat-western-1-point.html>
 * <https://github.com/rick2600/writeups/blob/master/defcon2015/catwestern.md>
+* <http://geeksspeak.github.io/blog/2015/05/18/defconctf-2015-quals-catwestern-writeup/>
 * [Korean](http://blackcon.tistory.com/122)
 * <https://gist.github.com/emyei/828f8fa231b82bc2925e>
 * <http://pastebin.com/BU1dh8xN>
