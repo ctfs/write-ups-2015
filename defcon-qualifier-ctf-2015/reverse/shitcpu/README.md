@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/mheistermann/273cf850f207b886f9de>
+* <https://gist.github.com/libmaru/d46bd65bf6a7a1a94f5a>
