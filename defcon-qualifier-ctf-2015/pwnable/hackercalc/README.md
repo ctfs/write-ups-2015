@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* exploit: http://pastebin.com/2ynEtVwh
