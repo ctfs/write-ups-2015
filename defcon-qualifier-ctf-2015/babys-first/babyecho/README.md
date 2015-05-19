@@ -14,7 +14,7 @@
 
 _This write-up is made by boogy of the on_est_pas_contents CTF team._
 
-This was an cool challenge which was worth 1 point. But nevertheless we enjoyed solving it. The binary is 32bit and striped:
+The binary is 32bit and striped:
 ```bash
 $ file babyecho_eb11fdf6e40236b1a37b7974c53b6c3d
 babyecho_eb11fdf6e40236b1a37b7974c53b6c3d: ELF 32-bit LSB  executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.24, BuildID[sha1]=c9a66685159ad72bd157b521f05a85e2e427f5ee, stripped
