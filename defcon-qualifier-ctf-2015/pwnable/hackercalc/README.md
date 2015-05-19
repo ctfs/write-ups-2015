@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://secgroup.dais.unive.it/2015/05/19/defcon-ctf-2015-hackercalc-exploit>

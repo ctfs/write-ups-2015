@@ -18,6 +18,7 @@
 * [misc/patcher](misc/patcher)
 * [pwnable/cybergrandsandbox](pwnable/cybergrandsandbox)
 * [pwnable/fuckup](pwnable/fuckup)
+* [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
 * [pwnable/tensixtyseven](pwnable/tensixtyseven)
@@ -30,7 +31,6 @@
 
 ## Missing write-ups
 
-* [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/secrf](pwnable/secrf)
 * [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
