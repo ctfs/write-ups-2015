@@ -20,3 +20,4 @@
 
 * <http://lokalhost.pl/ctf/defcon2015/heap.py>
 * <http://pastebin.com/N8JNkiUL>
+* [sophia.re](http://sophia.re/defconquals2015_heapsoffun_writeup.html)
