@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [babys-first/babyecho](babys-first/babyecho)
 
 ## External write-ups only
 
