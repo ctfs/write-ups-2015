@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://xmgv.wordpress.com/2015/05/11/asis-ctf-quals-2015-zrypt/>
+* <http://www.thice.nl/asis-ctf-2015-write-ups/>
