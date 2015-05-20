@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://pastebin.com/x2z1KgqW>
+* [sophia.re](http://sophia.re/defconquals2015_wibbly_writeup.html)
