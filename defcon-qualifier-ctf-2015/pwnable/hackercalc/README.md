@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* [Exploit](exploit: http://pastebin.com/2ynEtVwh)
+* [Exploit](http://pastebin.com/2ynEtVwh)
 * <http://secgroup.dais.unive.it/2015/05/19/defcon-ctf-2015-hackercalc-exploit>
