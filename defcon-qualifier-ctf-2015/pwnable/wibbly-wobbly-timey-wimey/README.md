@@ -18,5 +18,6 @@
 
 ## Other write-ups and resources
 
-* <http://pastebin.com/x2z1KgqW>
 * [sophia.re](http://sophia.re/defconquals2015_wibbly_writeup.html)
+* <http://blog.morganz.me/blog/2015/05/23/def-con-ctf-qualifier-2015-wibbly-wobbly-timey-wimey-writeup/>
+* <http://pastebin.com/x2z1KgqW>
