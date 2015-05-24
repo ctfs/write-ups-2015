@@ -14,6 +14,7 @@
 
 ## External write-ups only
 
+* [crypto/cross-check](crypto/cross-check)
 * [forensic/broken-heart](forensic/broken-heart)
 * [forensic/dump](forensic/dump)
 * [forensic/keka-bomb](forensic/keka-bomb)
@@ -27,7 +28,6 @@
 * [reverse/leach](reverse/leach)
 * [reverse/selfie](reverse/selfie)
 * [reverse/tera](reverse/tera)
-* [crypto/cross-check](crypto/cross-check)
 * [trivia/whats-example-flag](trivia/whats-example-flag)
 * [web/best-photo](web/best-photo)
 * [web/secret-message](web/secret-message)
