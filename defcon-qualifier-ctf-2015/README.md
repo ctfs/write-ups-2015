@@ -6,11 +6,11 @@
 ## Completed write-ups
 
 * [babys-first/babyecho](babys-first/babyecho)
+* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 
 ## External write-ups only
 
 * [babys-first/babycmd](babys-first/babycmd)
-* [babys-first/babyecho](babys-first/babyecho)
 * [babys-first/mathwhiz](babys-first/mathwhiz)
 * [babys-first/r0pbaby](babys-first/r0pbaby)
 * [coding-challenge/catwestern](coding-challenge/catwestern)
@@ -25,9 +25,9 @@
 * [pwnable/wibbly-wobbly-timey-wimey](pwnable/wibbly-wobbly-timey-wimey)
 * [reverse/access-control](reverse/access-control)
 * [reverse/klug](reverse/klug)
+* [reverse/knockedupd](reverse/knockedupd)
 * [reverse/pr0dk3y](reverse/pr0dk3y)
 * [reverse/shitcpu](reverse/shitcpu)
-* [reverse/knockedupd](reverse/knockedupd)
 
 ## Missing write-ups
 
@@ -35,4 +35,3 @@
 * [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [reverse/scrambler](reverse/scrambler)
-* [web/waiting-for-your-touch](web/waiting-for-your-touch)
