@@ -7,6 +7,7 @@
 
 * [babys-first/babyecho](babys-first/babyecho)
 * [web/waiting-for-your-touch](web/waiting-for-your-touch)
+* [pwnable/fuckup](pwnable/fuckup)
 
 ## External write-ups only
 
@@ -17,7 +18,6 @@
 * [misc/blackbox](misc/blackbox)
 * [misc/patcher](misc/patcher)
 * [pwnable/cybergrandsandbox](pwnable/cybergrandsandbox)
-* [pwnable/fuckup](pwnable/fuckup)
 * [pwnable/hackercalc](pwnable/hackercalc)
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
