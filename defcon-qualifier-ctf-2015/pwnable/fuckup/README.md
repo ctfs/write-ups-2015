@@ -109,7 +109,7 @@ Note, that if stars align, we would be able to solve for `s` given `A` and `v`. 
 
 Let's think about how matrix-vector multiplication works. If we only care about the ith value in the vector, then it comes from the ith row in the matrix. The rest of the rows do not affect that particular value. So we can try gluing some rows together from `M_i` matrices to form A.
 
-Remember that each `M_i` is defined as if it started off at `idx=i`. So, for example, to go from `idx=0` t `idx=13` in one matrix, we need to multiply them together, producing `M_14 . M_15 . M_0 . s`. Note that it goes backwards from 0 to 15 to 14 to 13, etc. since `idx` is decremented every time.
+Remember that each `M_i` is defined as if it started off at `idx=i`. So, for example, to go from `idx=0` to `idx=13` in one matrix, we need to multiply them together, producing `M_14 . M_15 . M_0 . s`. Note that it goes backwards from 0 to 15 to 14 to 13, etc. since `idx` is decremented every time.
 
 Further, note how the PRNG returns a value that is part of the state. As such, calling PRNG 3 times will yield the 13th value in the vector `M_14 . M_15 . M_0 . s`, which is the bits `[13*32 .. 14*32)` in the new state vector. Hence, we know that these are determined by rows `[13*32 .. 15*32)` of our hypothetical matrix `A`.
 
