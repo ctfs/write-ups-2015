@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/Riatre/5e91727d83081831877e>
+* <http://tasteless.eu/2015/06/defcon-quals-2015-klug/>
