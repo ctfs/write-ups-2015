@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+<http://www.securifera.com/blog/2015/05/27/defcon-quals-2015-twentyfiveseventy/>

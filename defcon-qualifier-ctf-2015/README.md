@@ -22,6 +22,7 @@
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
 * [pwnable/tensixtyseven](pwnable/tensixtyseven)
+* [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [pwnable/wibbly-wobbly-timey-wimey](pwnable/wibbly-wobbly-timey-wimey)
 * [reverse/access-control](reverse/access-control)
 * [reverse/klug](reverse/klug)
@@ -33,5 +34,4 @@
 
 * [pwnable/secrf](pwnable/secrf)
 * [pwnable/thing2](pwnable/thing2)
-* [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [reverse/scrambler](reverse/scrambler)
