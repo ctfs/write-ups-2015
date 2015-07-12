@@ -13,7 +13,11 @@
 
 ## Write-up
 
-(TODO)
+Extract all files from pcap (you can use wireshark) and you can see logo.png is very different with original logo.png from http://polictf.it/images/logo.png. Using stegsolve or image manipulation tool, you can see the hidden text in the image.
+
+![](logo.png?raw=true)
+
+The flag is `flag{J0hn_th3_Sn1ff3r}`
 
 ## Other write-ups and resources
 
