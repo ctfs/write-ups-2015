@@ -6,7 +6,8 @@
 **Description:**
 
 > john loves riddles, he wants to challenge you to solve this one, will you be able to solve it?
-> gandgalf.polictf.it
+
+>> gandgalf.polictf.it
 
 ## Write-up
 
