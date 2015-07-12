@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://neg9.org/news/2015/4/22/plaidctf-2015-eces-revenge2-misc-250-writeup>

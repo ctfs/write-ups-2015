@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [PlaidCTF CTF 2015: Unknown](http://ipushino.blogspot.de/2015/04/plaidctf-ctf-2015-unknown.html)

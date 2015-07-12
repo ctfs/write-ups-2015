@@ -1,0 +1,550 @@
+   Team Name Country Score Last submission
+1 	KITCTF 	[Germany]   2400 	26th 04:24:32 CEST
+2 	int3pids 	[Spain]   2400 	26th 09:15:41 CEST
+3 	StratumAuhuur 	[Germany]   2100 	25th 21:59:39 CEST
+4 	ebfe 	-   2100 	26th 01:52:35 CEST
+5 	tasteless 	[Belgium]   2100 	26th 02:27:46 CEST
+6 	9447 	[Australia]   1900 	25th 15:59:51 CEST
+7 	SpamAndHex 	[Hungary]   1900 	25th 19:27:24 CEST
+8 	217 	[Taiwan]   1900 	26th 00:33:50 CEST
+9 	Rule110 	[Norway]   1900 	26th 05:00:40 CEST
+10 	HackingForSoju 	[Sweden]   1900 	26th 05:58:06 CEST
+11 	dcua 	[Ukraine]   1500 	25th 20:36:02 CEST
+12 	TokyoWesterns 	[Japan]   1500 	25th 21:13:57 CEST
+13 	PPP 	[United States]   1500 	26th 03:44:56 CEST
+14 	NULL Life 	-   1450 	26th 06:56:07 CEST
+15 	w0pr 	[Spain]   1200 	25th 19:24:37 CEST
+16 	H4x0rPsch0rr 	[Germany]   1200 	25th 20:20:08 CEST
+17 	SUSlo.PAS 	[Russian Federation]   1200 	25th 21:23:23 CEST
+18 	RDot.Org 	[Russian Federation]   1200 	25th 21:59:12 CEST
+19 	wasamusume 	[Japan]   1200 	25th 22:50:18 CEST
+20 	0daysober 	-   1200 	25th 23:27:32 CEST
+21 	DatNoobs 	[Slovakia]   1200 	26th 01:54:32 CEST
+22 	0xbadf00d 	[United Kingdom]   1200 	26th 03:11:43 CEST
+23 	peanuts 	-   1100 	26th 02:43:41 CEST
+24 	"monads" 	[United States]   1100 	26th 06:49:35 CEST
+25 	Tower of Hanoi 	[Italy]   1050 	26th 01:04:25 CEST
+26 	oo AT XX 	[Taiwan]   1000 	25th 18:18:29 CEST
+27 	FluxFingers 	[Germany]   1000 	26th 01:41:01 CEST
+28 	HacknamStyle 	[Belgium]   1000 	26th 02:21:52 CEST
+29 	Snatch The Root 	[Poland]   1000 	26th 02:28:00 CEST
+30 	khack40 	[France]   1000 	26th 03:47:23 CEST
+31 	smoke leet everyday 	[Netherlands]   950 	26th 07:52:00 CEST
+32 	cyberkastike 	-   900 	26th 07:22:50 CEST
+33 	p4 	[Poland]   800 	25th 19:55:37 CEST
+34 	Team32 	[Russian Federation]   800 	25th 22:47:20 CEST
+35 	gn00bz 	-   800 	26th 01:24:16 CEST
+36 	0x8F 	-   750 	25th 23:12:48 CEST
+37 	none 	-   700 	25th 19:49:55 CEST
+38 	Gallopsled 	-   700 	26th 02:41:57 CEST
+39 	an empty fridge 	[Poland]   650 	25th 17:56:06 CEST
+40 	Shellphish 	-   650 	26th 06:57:30 CEST
+41 	fuffateam 	[Aland Islands]   600 	25th 19:58:46 CEST
+42 	hellman 	[Zimbabwe]   600 	25th 21:19:31 CEST
+43 	The Cat is #1!! 	[Korea, Democratic People&#39;s Republic of]   600 	25th 21:25:21 CEST
+44 	atx2600 	[United States]   600 	25th 21:27:48 CEST
+45 	Hexpresso 	[France]   600 	26th 01:38:13 CEST
+46 	JustChecking 	[Canada]   600 	26th 05:24:47 CEST
+47 	Neg9 	[United States]   600 	26th 09:10:52 CEST
+48 	HackCat 	[Korea, Republic of]   550 	25th 11:28:13 CEST
+49 	SiBears 	[Russian Federation]   500 	25th 17:04:46 CEST
+50 	ij3nm2t 	[Czech Republic]   500 	25th 21:12:56 CEST
+51 	TSG 	[Japan]   500 	25th 21:20:48 CEST
+52 	WeAreBuyingCatsInBags 	[Poland]   500 	26th 02:17:11 CEST
+53 	wh00ps 	-   450 	25th 18:15:26 CEST
+54 	DTUHax 	[Denmark]   450 	25th 20:53:49 CEST
+55 	Church of 0x41414141 	[Poland]   450 	25th 22:01:41 CEST
+56 	#LizardHQ 	[Yemen]   450 	26th 00:53:40 CEST
+57 	Bono_iPad 	[Japan]   450 	26th 07:23:15 CEST
+58 	SegFault 	-   450 	26th 08:00:05 CEST
+59 	noraneco 	[Japan]   450 	26th 09:05:01 CEST
+60 	PastaAlRagu 	[Italy]   400 	25th 18:00:08 CEST
+61 	despair 	-   400 	26th 00:37:18 CEST
+62 	Team Sportsball 	-   400 	26th 04:32:16 CEST
+63 	IncoGnito 	-   350 	25th 13:56:38 CEST
+64 	amn3s1a 	[Spain]   350 	25th 20:37:31 CEST
+65 	squareroots 	[Germany]   350 	25th 22:31:38 CEST
+66 	Batman's Kitchen 	[United States]   350 	26th 02:49:28 CEST
+67 	mrx 	[Japan]   350 	26th 09:45:45 CEST
+68 	kopytko 	[Poland]   300 	25th 18:37:22 CEST
+69 	BalalaikaCr3w 	[Russian Federation]   300 	25th 20:09:10 CEST
+70 	DebugTeam 	[Poland]   300 	25th 20:34:17 CEST
+71 	b01lers 	[United States]   300 	25th 20:40:05 CEST
+72 	BU2 	-   300 	26th 01:18:48 CEST
+73 	d&s 	[Austria]   300 	26th 01:38:46 CEST
+74 	samurai 	-   300 	26th 09:17:39 CEST
+75 	Phil9l 	[Russian Federation]   200 	25th 16:56:50 CEST
+76 	banbi 	[Japan]   200 	26th 05:47:23 CEST
+77 	Charo 	[Japan]   150 	25th 12:10:58 CEST
+78 	Ad Victoriam 	[Korea, Republic of]   150 	25th 12:34:30 CEST
+79 	Wiremask 	[France]   150 	25th 13:36:04 CEST
+80 	b2Z4bWpnZmhzcHZx 	-   150 	25th 14:48:12 CEST
+81 	LetItGoat 	-   150 	25th 15:01:58 CEST
+82 	CS-WAT 	[Poland]   150 	25th 15:46:19 CEST
+83 	dodododo 	[Japan]   150 	25th 16:15:28 CEST
+84 	okudo3 	[Japan]   150 	25th 17:07:51 CEST
+85 	CTF-infinit 	[Japan]   150 	25th 17:15:32 CEST
+86 	CSI Oryza 	[Indonesia]   150 	25th 17:49:57 CEST
+87 	gghh_ 	-   150 	25th 18:17:57 CEST
+88 	WizardsOfDos 	[Germany]   150 	25th 18:24:47 CEST
+89 	scryptos 	[Japan]   150 	25th 19:31:30 CEST
+90 	ClusterFrack 	[France]   150 	25th 19:56:25 CEST
+91 	nese 	[China]   150 	25th 20:08:53 CEST
+92 	WHA 	[United Kingdom]   150 	25th 20:48:28 CEST
+93 	JayXon 	[United States]   150 	25th 23:58:32 CEST
+94 	0x1337 	[Tunisia]   150 	26th 01:36:23 CEST
+95 	STT 	-   150 	26th 02:50:44 CEST
+96 	Charles_Yang 	[Taiwan]   150 	26th 03:10:13 CEST
+97 	blwgo 	[United States]   150 	26th 04:07:04 CEST
+98 	Overseers 	[Portugal]   150 	26th 04:23:24 CEST
+99 	0ops 	[China]   150 	26th 04:39:24 CEST
+100 	Slug Security 	-   150 	26th 06:20:04 CEST
+101 	임준오가돌아왔다 	[Korea, Republic of]   150 	26th 07:17:51 CEST
+102 	Steampunkers 	[Poland]   150 	26th 08:49:52 CEST
+103 	SigSegV 	[India]   150 	26th 09:25:17 CEST
+104 	powerline 	[United Kingdom]   100 	25th 10:39:45 CEST
+105 	doraem0n5566 	[Taiwan]   100 	25th 10:51:53 CEST
+106 	omerta 	[United States]   100 	25th 11:05:44 CEST
+107 	SecureDuck 	[Korea, Republic of]   100 	25th 11:16:24 CEST
+108 	IPFactory 	-   100 	25th 11:24:07 CEST
+109 	mage 	[Japan]   100 	25th 11:35:07 CEST
+110 	REU 	[Ukraine]   100 	25th 11:45:17 CEST
+111 	Invisible Shield 	[Korea, Republic of]   100 	25th 11:47:07 CEST
+112 	dqi 	[Netherlands]   100 	25th 11:48:11 CEST
+113 	v4r3s3 	[Italy]   100 	25th 12:11:24 CEST
+114 	BitsForEveryone 	-   100 	25th 12:11:54 CEST
+115 	On est pas contents 	[Switzerland]   100 	25th 12:35:57 CEST
+116 	race 	-   100 	25th 12:47:43 CEST
+117 	aaa 	-   100 	25th 13:23:52 CEST
+118 	omakase 	[Japan]   100 	25th 13:52:57 CEST
+119 	bucsec 	[United States]   100 	25th 14:25:54 CEST
+120 	v++ 	[Belgium]   100 	25th 14:37:02 CEST
+121 	fgxzRkzy 	-   100 	25th 14:55:27 CEST
+122 	chuck14 	[Japan]   100 	25th 14:56:05 CEST
+123 	BobLeBricoleur 	[France]   100 	25th 15:20:23 CEST
+124 	106 	[China]   100 	25th 15:22:42 CEST
+125 	Hawk1n5 	-   100 	25th 15:37:11 CEST
+126 	lumjjb 	-   100 	25th 15:52:10 CEST
+127 	PoodleSector 	[France]   100 	25th 16:02:22 CEST
+128 	pumpernikiel 	[Poland]   100 	25th 16:05:46 CEST
+129 	XVHHV 	[Mongolia]   100 	25th 16:13:48 CEST
+130 	mau5 	[Mongolia]   100 	25th 16:18:18 CEST
+131 	morganFr33man 	[United States]   100 	25th 16:59:44 CEST
+132 	BlackVelt 	[Korea, Republic of]   100 	25th 17:08:00 CEST
+133 	CureSecure 	[Japan]   100 	25th 17:10:03 CEST
+134 	Capture The Swag 	-   100 	25th 17:23:39 CEST
+135 	danigargu 	[Spain]   100 	25th 17:30:39 CEST
+136 	HackItGuys 	-   100 	25th 17:38:03 CEST
+137 	Smart Robot 	[China]   100 	25th 18:25:30 CEST
+138 	mitigateAllTheThings 	-   100 	25th 18:36:34 CEST
+139 	GoBack 	[Algeria]   100 	25th 18:38:52 CEST
+140 	MinistryOfSillyHacks 	-   100 	25th 19:31:41 CEST
+141 	n0l3ptr 	[United States]   100 	25th 19:54:55 CEST
+142 	fritzfs 	[Croatia]   100 	25th 21:07:12 CEST
+143 	REKCAH 	[Korea, Republic of]   100 	25th 21:20:11 CEST
+144 	binarybandits 	[Uganda]   100 	25th 21:44:43 CEST
+145 	UOSec 	[United States]   100 	25th 21:47:43 CEST
+146 	Sturdy Arch Devils 	[Poland]   100 	25th 22:42:15 CEST
+147 	ATM Machine 	[United States]   100 	26th 00:33:48 CEST
+148 	dropkick 	[Afghanistan]   100 	26th 02:35:41 CEST
+149 	decrepitgoats 	[United States]   100 	26th 02:58:41 CEST
+150 	Bottom of the Bottle 	[Canada]   100 	26th 03:39:13 CEST
+151 	hoxii 	[United States]   100 	26th 03:45:53 CEST
+152 	Blue-Whale 	[China]   100 	26th 03:49:43 CEST
+153 	三江游击队 	-   50 	25th 11:42:07 CEST
+154 	BilkentSec 	[Turkey]   50 	25th 12:33:47 CEST
+155 	EskaTeam 	-   50 	25th 12:37:46 CEST
+156 	some_usual_team 	[Russian Federation]   50 	25th 13:30:48 CEST
+157 	Inquisitive 	[India]   50 	25th 20:08:27 CEST
+158 	WeWinItAll 	-   50 	25th 20:30:30 CEST
+159 	Legal Spies 	[Russian Federation]   50 	26th 00:01:56 CEST
+160 	RooterX 	[Russian Federation]   50 	26th 07:20:42 CEST
+- 	BambooFox 	[Taiwan]   - 	-
+- 	mochigoma 	[Japan]   - 	-
+- 	p03p0wn 	[Japan]   - 	-
+- 	LFC 	[Russian Federation]   - 	-
+- 	zenk-security 	[France]   - 	-
+- 	Luke_Taskwalker 	-   - 	-
+- 	ids-team 	[Japan]   - 	-
+- 	OOatXX 	[Taiwan]   - 	-
+- 	Noobs1337 	[Indonesia]   - 	-
+- 	ZenSecurity 	[Belarus]   - 	-
+- 	AsssassiNOPs 	[Korea, Republic of]   - 	-
+- 	Ms. Bigglesworth's Corrective Institute for Wayward Youth 	-   - 	-
+- 	htaccess 	[India]   - 	-
+- 	n0b0 	-   - 	-
+- 	Nightingale 	[Iran, Islamic Republic of]   - 	-
+- 	a 	-   - 	-
+- 	Sattva 	[India]   - 	-
+- 	MyLoSt 	[Japan]   - 	-
+- 	Camel48852 	[Thailand]   - 	-
+- 	Bench 	[Australia]   - 	-
+- 	BadSector 	[India]   - 	-
+- 	__defunct 	-   - 	-
+- 	53N5H1_ 	[Spain]   - 	-
+- 	never_for 	-   - 	-
+- 	Insanity 	[Spain]   - 	-
+- 	Insomnia 	[Spain]   - 	-
+- 	hkr 	[Iceland]   - 	-
+- 	eaters 	[France]   - 	-
+- 	k3_ex 	[Korea, Republic of]   - 	-
+- 	Custos 	[Korea, Republic of]   - 	-
+- 	jcfg 	[Portugal]   - 	-
+- 	PorcoddioTEAM 	[Italy]   - 	-
+- 	Monkeys Ironically Brew Hops 	-   - 	-
+- 	Howryou 	-   - 	-
+- 	hackgyver 	[France]   - 	-
+- 	FIIYC 	[Israel]   - 	-
+- 	White-Shark 	-   - 	-
+- 	Testujemy na produkcji 	[Poland]   - 	-
+- 	sauce 	[Poland]   - 	-
+- 	theunknown 	[Poland]   - 	-
+- 	ASIS 	[Iran, Islamic Republic of]   - 	-
+- 	HJHSH 	[Korea, Republic of]   - 	-
+- 	metjam 	-   - 	-
+- 	Can into winnings 	[Poland]   - 	-
+- 	The DHARMA Initiative 	[Spain]   - 	-
+- 	275o 	[United States]   - 	-
+- 	baNULL 	[Greece]   - 	-
+- 	chakanme 	[Uganda]   - 	-
+- 	ByteBandits 	[India]   - 	-
+- 	Pioupiou 	[France]   - 	-
+- 	TravestiSec 	[Argentina]   - 	-
+- 	Jawo.Eu 	[Poland]   - 	-
+- 	Jawo.OVH 	[Poland]   - 	-
+- 	Fatal_Err0r 	[Tunisia]   - 	-
+- 	wannabeast 	[United States]   - 	-
+- 	Fred 	-   - 	-
+- 	LizardHQ 	-   - 	-
+- 	NeOLux-C1Ph3r 	[France]   - 	-
+- 	#000000 Hat 	[United States]   - 	-
+- 	kinim 	[Poland]   - 	-
+- 	th3jackers 	[Algeria]   - 	-
+- 	CASPER 	[Korea, Republic of]   - 	-
+- 	the_muggles 	-   - 	-
+- 	CapslockON 	-   - 	-
+- 	justanoob 	-   - 	-
+- 	pktkosakuin 	-   - 	-
+- 	UnnamedMonster 	[Afghanistan]   - 	-
+- 	[Data Expunged] 	[Taiwan]   - 	-
+- 	BelumAdaNama 	[Indonesia]   - 	-
+- 	F&R 	-   - 	-
+- 	RnD 	-   - 	-
+- 	LLLLLL 	[China]   - 	-
+- 	Jarvis 	[India]   - 	-
+- 	icyrec 	[Indonesia]   - 	-
+- 	ugu3ss 	-   - 	-
+- 	dook 	[Australia]   - 	-
+- 	ls kills some time 	[Australia]   - 	-
+- 	alanlei 	[Hong Kong]   - 	-
+- 	cnxx 	-   - 	-
+- 	bantayden 	[Viet Nam]   - 	-
+- 	BestTeamInTheWorld 	[Poland]   - 	-
+- 	\U+4b3rs 	[Spain]   - 	-
+- 	S.A 	[Mongolia]   - 	-
+- 	doge4doge 	[Russian Federation]   - 	-
+- 	hakad 	-   - 	-
+- 	1N7H3H4Y574CK 	-   - 	-
+- 	MiIn 	[Korea, Republic of]   - 	-
+- 	Bin@ry-X 	[Myanmar]   - 	-
+- 	ulix 	-   - 	-
+- 	SA 	[Mongolia]   - 	-
+- 	siph0n 	[Russian Federation]   - 	-
+- 	Midas 	[Belgium]   - 	-
+- 	LineAL 	[Albania]   - 	-
+- 	yozik 	[Russian Federation]   - 	-
+- 	n0ne 	[Russian Federation]   - 	-
+- 	44uN 	[Ukraine]   - 	-
+- 	D0r43m0n 	[Viet Nam]   - 	-
+- 	Team Name 	-   - 	-
+- 	Yamagi.com 	[Japan]   - 	-
+- 	OneManRescue 	[Japan]   - 	-
+- 	The Players 	[United States]   - 	-
+- 	AHS Players 	[United States]   - 	-
+- 	Kelvin The Frog 	[United States]   - 	-
+- 	Securimag 	[France]   - 	-
+- 	L 	[China]   - 	-
+- 	Hopjesvla 	[Netherlands]   - 	-
+- 	Coffee with Jason 	[United States]   - 	-
+- 	F^3 	[United States]   - 	-
+- 	JeJe-50 	-   - 	-
+- 	bishop 	[Italy]   - 	-
+- 	hAIXer 	[Germany]   - 	-
+- 	Magic-Hat 	[Russian Federation]   - 	-
+- 	ArrBas 	-   - 	-
+- 	vvv 	-   - 	-
+- 	D717_Lab 	[Taiwan]   - 	-
+- 	Team31 	[Russian Federation]   - 	-
+- 	z3nm0nk 	[Japan]   - 	-
+- 	EvilsWorld 	[Russian Federation]   - 	-
+- 	ElvisWorld 	[Russian Federation]   - 	-
+- 	gppcbs 	-   - 	-
+- 	┌∩┐(◣_◢)┌∩┐ 	-   - 	-
+- 	SeCiber 	[Brazil]   - 	-
+- 	TCPwnage 	-   - 	-
+- 	g1nguteam 	-   - 	-
+- 	Delta 	-   - 	-
+- 	Zailbreak 	[Korea, Republic of]   - 	-
+- 	dpnz 	-   - 	-
+- 	SwissMadeSecurity 	[Switzerland]   - 	-
+- 	RIPSEC 	[United States]   - 	-
+- 	PwnThemAll 	-   - 	-
+- 	BYTE 	[Viet Nam]   - 	-
+- 	Kurawa In Disorder 	[Indonesia]   - 	-
+- 	PWN_4_GLORY 	[Afghanistan]   - 	-
+- 	/etc/passwd 	-   - 	-
+- 	sup3rh3r0 	[Korea, Republic of]   - 	-
+- 	SNK 	[Russian Federation]   - 	-
+- 	batik 	[Indonesia]   - 	-
+- 	WeGetBy 	-   - 	-
+- 	JeramyL 	[United States]   - 	-
+- 	adithya 	[India]   - 	-
+- 	beast 	-   - 	-
+- 	NoPwnNoCookie 	[Spain]   - 	-
+- 	[Redacted] 	[United States]   - 	-
+- 	NCC1701D 	[Germany]   - 	-
+- 	Mango Hot 	[Taiwan]   - 	-
+- 	chesteroni 	[Poland]   - 	-
+- 	dalifit 	[Tunisia]   - 	-
+- 	DerpSec 	[United States]   - 	-
+- 	Ozi 	-   - 	-
+- 	otherflow 	-   - 	-
+- 	testtesttest 	-   - 	-
+- 	863 	-   - 	-
+- 	huhuhu 	[United States]   - 	-
+- 	osct 	[Indonesia]   - 	-
+- 	CyberEagles 	-   - 	-
+- 	gooligans 	[Canada]   - 	-
+- 	NobodyKnows 	[Zimbabwe]   - 	-
+- 	dadada 	-   - 	-
+- 	AuPhishYellow 	[United States]   - 	-
+- 	single_fighter 	-   - 	-
+- 	zonda 	[Taiwan]   - 	-
+- 	ukk1337 	-   - 	-
+- 	H0pjesvla 	-   - 	-
+- 	EpicTeam 	[Russian Federation]   - 	-
+- 	0CooL 	[Morocco]   - 	-
+- 	NIS 	[Japan]   - 	-
+- 	ComCodeSec 	[Indonesia]   - 	-
+- 	Phantom 	-   - 	-
+- 	LuroonTol 	[Australia]   - 	-
+- 	OPT 	[China]   - 	-
+- 	sigkillsux 	[United States]   - 	-
+- 	PaPe Team 	[Indonesia]   - 	-
+- 	konoos 	[Iran, Islamic Republic of]   - 	-
+- 	Infamous 	-   - 	-
+- 	plusnewb 	[Korea, Republic of]   - 	-
+- 	SecurityFirst 	[Korea, Republic of]   - 	-
+- 	X+1 	-   - 	-
+- 	bucen 	-   - 	-
+- 	ZAP 	-   - 	-
+- 	MalowanyKaloryfer 	[Poland]   - 	-
+- 	CAFEBABE 	[Japan]   - 	-
+- 	Team H4C 	[Korea, Republic of]   - 	-
+- 	NotYeAvailable 	[Pakistan]   - 	-
+- 	Poopxt 	[United States]   - 	-
+- 	Vincent 	[Viet Nam]   - 	-
+- 	bl4de 	[Poland]   - 	-
+- 	c4kexors 	[Poland]   - 	-
+- 	NoneSector 	[Thailand]   - 	-
+- 	vanlang 	-   - 	-
+- 	bmo 	[Russian Federation]   - 	-
+- 	ShizoidHT 	[Russian Federation]   - 	-
+- 	Firefly76 	[Russian Federation]   - 	-
+- 	KernelPanic 	[Russian Federation]   - 	-
+- 	4then4 	[Japan]   - 	-
+- 	pentesteam 	[Poland]   - 	-
+- 	pla 	[Norway]   - 	-
+- 	KPT 	[Poland]   - 	-
+- 	Jani Tech 	[Turkey]   - 	-
+- 	P5U71 	[Russian Federation]   - 	-
+- 	clone 	[Korea, Republic of]   - 	-
+- 	Codernate 	[Indonesia]   - 	-
+- 	DarkPing 	-   - 	-
+- 	LeaveRet 	[Korea, Democratic People&#39;s Republic of]   - 	-
+- 	s111 	[Iran, Islamic Republic of]   - 	-
+- 	spudik 	-   - 	-
+- 	. 	-   - 	-
+- 	try 	[China]   - 	-
+- 	tansom 	-   - 	-
+- 	teamname 	-   - 	-
+- 	snap 	-   - 	-
+- 	net99c 	[Taiwan]   - 	-
+- 	gglol 	[Afghanistan]   - 	-
+- 	svg 	-   - 	-
+- 	Sequel 	[Norway]   - 	-
+- 	foo 	[Zimbabwe]   - 	-
+- 	quark 	-   - 	-
+- 	akcelero 	[Poland]   - 	-
+- 	Dokkodai 	[Korea, Republic of]   - 	-
+- 	ganbatte 	-   - 	-
+- 	qwerty123 	-   - 	-
+- 	SpySheriff 	[United States]   - 	-
+- 	l0lextreme 	[Italy]   - 	-
+- 	R3d-Ch@R 	[Algeria]   - 	-
+- 	Hawks 	-   - 	-
+- 	geeksspeak 	[Iran, Islamic Republic of]   - 	-
+- 	flema es una mierda 	-   - 	-
+- 	TeamVisit 	[Poland]   - 	-
+- 	apocalypse 	-   - 	-
+- 	popo 	[Taiwan]   - 	-
+- 	PentL@BS 	[Mongolia]   - 	-
+- 	mym0mym 	[United States]   - 	-
+- 	kkokko 	[Korea, Republic of]   - 	-
+- 	toasted cheese 	-   - 	-
+- 	NULLfilled 	-   - 	-
+- 	HanBijtMond 	[Netherlands]   - 	-
+- 	splarcit 	-   - 	-
+- 	SpainIsCorrupt 	[Spain]   - 	-
+- 	DrOptix 	[Romania]   - 	-
+- 	asad 	-   - 	-
+- 	RabackBoama 	[Poland]   - 	-
+- 	dmg.inc 	[Poland]   - 	-
+- 	khongphaidangvuadau 	[Viet Nam]   - 	-
+- 	alonplay 	[Afghanistan]   - 	-
+- 	aloneplay 	[Korea, Republic of]   - 	-
+- 	Unknow 	[Poland]   - 	-
+- 	WestenTeam 	[Poland]   - 	-
+- 	lonew00f 	[Sweden]   - 	-
+- 	Askwrite 	-   - 	-
+- 	ctfgen 	-   - 	-
+- 	D0r1t05 	[Spain]   - 	-
+- 	superhero01 	-   - 	-
+- 	roleksuperstar 	-   - 	-
+- 	tails 	[Korea, Republic of]   - 	-
+- 	SCI 	[Poland]   - 	-
+- 	gameon 	[Italy]   - 	-
+- 	macbernick 	[France]   - 	-
+- 	Alexander Miller 	[Russian Federation]   - 	-
+- 	solo rider 	[Poland]   - 	-
+- 	Gr33nH4t 	[Korea, Republic of]   - 	-
+- 	VincereVelMori 	[Italy]   - 	-
+- 	girav 	[Russian Federation]   - 	-
+- 	tyage 	-   - 	-
+- 	Darki 	[Poland]   - 	-
+- 	TTA 	-   - 	-
+- 	Blaxter_x 	[Colombia]   - 	-
+- 	hooters 	[Japan]   - 	-
+- 	Securimag2 	[France]   - 	-
+- 	daphnejs7 	[Malaysia]   - 	-
+- 	pwn3r 	[Bahrain]   - 	-
+- 	Admin 	-   - 	-
+- 	Bu 	[Taiwan]   - 	-
+- 	Welehcool 	[Indonesia]   - 	-
+- 	Aldafoor 	[Norway]   - 	-
+- 	No Internet Access 	[India]   - 	-
+- 	Muhammad Kali 	[United Kingdom]   - 	-
+- 	hackyard 	[Romania]   - 	-
+- 	rnbw_smrfs 	-   - 	-
+- 	H4cktu5 	[France]   - 	-
+- 	heartofgold 	[Poland]   - 	-
+- 	zaq0x 	-   - 	-
+- 	After_Shock 	[Russian Federation]   - 	-
+- 	splico 	-   - 	-
+- 	g4mm4 	-   - 	-
+- 	BullCantShit 	[Aland Islands]   - 	-
+- 	m0rsp4wn3rs 	[Morocco]   - 	-
+- 	AGEmpire 	[Russian Federation]   - 	-
+- 	sita 	-   - 	-
+- 	johnBob 	-   - 	-
+- 	RandomName 	-   - 	-
+- 	omw2syg 	-   - 	-
+- 	BigGasWarship 	-   - 	-
+- 	Yang 	-   - 	-
+- 	Suzy 	[Viet Nam]   - 	-
+- 	RFK 	[Russian Federation]   - 	-
+- 	NeO_Team 	[Albania]   - 	-
+- 	csfs 	[Russian Federation]   - 	-
+- 	swehack 	[Sweden]   - 	-
+- 	innercircle 	-   - 	-
+- 	kickas-ass 	[United Kingdom]   - 	-
+- 	KE 	[Malaysia]   - 	-
+- 	LSD 	[Russian Federation]   - 	-
+- 	ANTN2k14 	[Viet Nam]   - 	-
+- 	withoutName 	-   - 	-
+- 	The Brits 	-   - 	-
+- 	vagante 	-   - 	-
+- 	t_yo 	-   - 	-
+- 	rmrf 	[Viet Nam]   - 	-
+- 	BigSlugga 	-   - 	-
+- 	0x1700B NiNjA 	[Myanmar]   - 	-
+- 	team extreme team 	-   - 	-
+- 	iuiu 	[Korea, Republic of]   - 	-
+- 	Easy 	-   - 	-
+- 	zzzzz 	[Afghanistan]   - 	-
+- 	thekillingtime 	-   - 	-
+- 	mbsecurity 	[Poland]   - 	-
+- 	Praetorian 	-   - 	-
+- 	ToxicBandits 	[France]   - 	-
+- 	me&myself 	-   - 	-
+- 	naavinm 	[Malaysia]   - 	-
+- 	The tunisian cooks 	[Tunisia]   - 	-
+- 	abcd 	[France]   - 	-
+- 	VNSFT 	[Viet Nam]   - 	-
+- 	KO51NUS 	[Russian Federation]   - 	-
+- 	Al-Fatih 	[Indonesia]   - 	-
+- 	Memory Leak 	[Macedonia, the former Yugoslav Republic of]   - 	-
+- 	Five 	[China]   - 	-
+- 	SFT 	[Viet Nam]   - 	-
+- 	SDSLabs 	[India]   - 	-
+- 	ShieldsuP 	[India]   - 	-
+- 	Ty221Team 	[Poland]   - 	-
+- 	HatsuTeam 	-   - 	-
+- 	fooo 	[Madagascar]   - 	-
+- 	joker 	-   - 	-
+- 	test-ffffg 	-   - 	-
+- 	aaaq@a.com 	-   - 	-
+- 	RNS 	-   - 	-
+- 	RedNeckSec 	[United States]   - 	-
+- 	SectorC 	-   - 	-
+- 	ihavenoteam 	-   - 	-
+- 	khanfidant 	-   - 	-
+- 	ma9rout 	[Algeria]   - 	-
+- 	PeterPen 	[Russian Federation]   - 	-
+- 	tyro 	[India]   - 	-
+- 	Patriot_Down 	[United States]   - 	-
+- 	UITMikael 	[Viet Nam]   - 	-
+- 	xtrmbuster 	-   - 	-
+- 	Petre_Tutea 	[Romania]   - 	-
+- 	dotpackn 	-   - 	-
+- 	rul 	-   - 	-
+- 	snoopein 	-   - 	-
+- 	COG 	[United States]   - 	-
+- 	NateAGeek(Solo) 	[United States]   - 	-
+- 	DonPiekarz 	[Poland]   - 	-
+- 	KernelRats 	-   - 	-
+- 	NA 	-   - 	-
+- 	3a9LL 	[Russian Federation]   - 	-
+- 	0x7A31336462 	[Tunisia]   - 	-
+- 	random 	[Indonesia]   - 	-
+- 	Calcifer 	[France]   - 	-
+- 	PurpleNerple 	[United States]   - 	-
+- 	teamx 	-   - 	-
+- 	Layer8 	[United States]   - 	-
+- 	epow 	-   - 	-
+- 	gitux 	[United States]   - 	-
+- 	TQB 	[Korea, Republic of]   - 	-
+- 	oing 	[Korea, Republic of]   - 	-
+- 	sploitfun 	[India]   - 	-
+- 	go away 	-   - 	-
+- 	cMc_MGKing 	-   - 	-
+- 	serena159 	-   - 	-
+- 	sendy 	[Japan]   - 	-
+- 	chcx 	-   - 	-
+- 	TTA_no.1 	[Korea, Republic of]   - 	-
+- 	DiGIMON 	-   - 	-
+- 	fedaykin 	[United States]   - 	-
+- 	xotjd911 	[Korea, Republic of]   - 	-
+- 	h1dd3ntru7h 	[India]   - 	-
+- 	dekhi 	-   - 	-
+- 	drnoob 	[United States]   - 	-
+- 	knight_fury 	-   - 	-
+- 	nuc13us 	-   - 	-
+- 	Legends0 	[United States]   - 	-
+- 	burner 	[Syrian Arab Republic]   - 	-
+- 	feraltits 	-   - 	-
+- 	hmrb 	[Zimbabwe]   - 	-
+- 	te 	-   - 	-
+- 	c0mrad3 	[India]   - 	-
+- 	yerrang123 	[Korea, Republic of]   - 	-
+- 	do9dark 	[Korea, Republic of]   - 	-

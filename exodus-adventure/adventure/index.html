@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exodus Adventure!</title>
+<style>
+.term {
+    font-family: courier,fixed,swiss,monospace,sans-serif;
+    font-size: 14px;
+    color: #f0f0f0;
+    background: #000000;
+}
+
+.termReverse {
+    color: #000000;
+    background: #00ff00;
+}
+#note {
+    font-size: 12px;
+}
+#copyright {
+    font-size: 10px;
+}
+#clipboard {
+    font-size: 12px;
+}
+body {
+    color: #ddd;
+    background-color: black;
+}
+a {
+    color: white;
+}
+#terminal table {
+    border: 10px;
+    border-style: ridge;
+    border-color: tan;
+}
+</style>
+</head>
+<body>
+<h1>Exodus Adventure!</h1>
+<h2>To Play:</h2>
+<p>Download <a href="adventure">Exodus Adventure!</a> for x86 Linux.<br>
+MD5: 465ac9d38d32a7cef1a15db2c39dd63f</p>
+<p>Or</p>
+<button onclick="this.disabled=true;start()">Play Online!</button>
+<br><br>
+<div id="terminal">
+<script type="text/javascript" src="utils.js"></script>
+<script type="text/javascript" src="term.js"></script>
+<script type="text/javascript" src="cpux86.js"></script>
+<script type="text/javascript" src="jslinux.js"></script>
+</div>
+<div id="copyright">JS Linux &copy; 2011 Fabrice Bellard. Used with permission.
+</div>
+</body>
+</html>

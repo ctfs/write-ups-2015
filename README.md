@@ -9,7 +9,7 @@ There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in ge
 
 This repository aims to solve those problems.
 
-It’s a collection of CTF source files and write-ups that anyone can contribute to. Did you just publish a CTF write-up? [Let us know](https://github.com/ctfs/write-ups/issues/new), and we’ll add a link to your post — or just add the link yourself and submit a pull request. Spot an issue with a solution? Correct it, and send a pull request.
+It’s a collection of CTF source files and write-ups that anyone can contribute to. Did you just publish a CTF write-up? [Let us know](https://github.com/ctfs/write-ups-2015/issues/new), and we’ll add a link to your post — or just add the link yourself and submit a pull request. Spot an issue with a solution? Correct it, and send a pull request.
 
 ## Contributing
 

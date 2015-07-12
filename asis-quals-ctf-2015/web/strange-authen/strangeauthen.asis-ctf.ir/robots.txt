@@ -1,0 +1,17 @@
+# hi all
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /misc/
+Disallow: /assets/
+# Files
+Disallow: /signature.asc

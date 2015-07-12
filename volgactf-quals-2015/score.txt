@@ -1,0 +1,604 @@
+1 	BalalaikaCr3w 	5100 	May 3, 2015 6:08 PM
+2 	DatNoobs 	4950 	May 3, 2015 8:11 PM
+3 	dcua 	4800 	May 3, 2015 6:20 PM
+4 	EpicTeam 	4700 	May 3, 2015 6:05 PM
+5 	TokyoWesterns 	4700 	May 3, 2015 8:59 PM
+6 	Shellphish 	4550 	May 3, 2015 7:04 PM
+7 	Bushwhackers 	4550 	May 3, 2015 7:21 PM
+8 	SpamAndHex 	4550 	May 3, 2015 7:50 PM
+9 	SUSlo.PAS 	4500 	May 3, 2015 8:52 PM
+10 	int3pids 	4300 	May 3, 2015 6:56 PM
+11 	w0pr 	4050 	May 3, 2015 8:47 PM
+12 	9447 	4000 	May 3, 2015 6:24 PM
+13 	BabyPhD 	4000 	May 3, 2015 8:07 PM
+14 	Rule110 	3775 	May 3, 2015 7:18 PM
+15 	217 	3700 	May 3, 2015 8:09 PM
+16 	Lights Out 	3400 	May 3, 2015 4:57 PM
+17 	Snatch The Root 	3350 	May 3, 2015 8:30 PM
+18 	Yozik 	3350 	May 3, 2015 8:56 PM
+19 	H4x0rPsch0rr 	3250 	May 3, 2015 8:01 PM
+20 	Afnom 	3250 	May 3, 2015 8:19 PM
+21 	mongols 	3250 	May 3, 2015 8:32 PM
+22 	[censored] 	3250 	May 3, 2015 8:44 PM
+23 	Whitehatters Academy 	3100 	May 3, 2015 6:49 PM
+24 	khack40 	3050 	May 3, 2015 7:54 PM
+25 	ked 	3025 	May 3, 2015 5:24 PM
+26 	girav 	3000 	May 3, 2015 8:31 PM
+27 	Brizz 	2975 	May 3, 2015 5:57 PM
+28 	NULL Life 	2900 	May 3, 2015 7:55 PM
+29 	RDot.Org 	2800 	May 3, 2015 3:58 PM
+30 	gallopsled 	2750 	May 3, 2015 7:49 PM
+31 	Destructive Voice 	2625 	May 3, 2015 8:11 PM
+32 	Magic-Hat 	2550 	May 3, 2015 8:58 PM
+33 	ThunderClap 	2525 	May 3, 2015 7:42 PM
+34 	Singularity 	2500 	May 3, 2015 5:23 PM
+35 	CaptureTheSwag 	2500 	May 3, 2015 6:29 PM
+36 	dodododo 	2500 	May 3, 2015 7:52 PM
+37 	PiggyBird 	2400 	May 3, 2015 2:30 PM
+38 	HackingForSoju 	2400 	May 3, 2015 7:15 PM
+39 	"monads" 	2350 	May 3, 2015 8:02 PM
+40 	5051TE 	2325 	May 3, 2015 7:50 PM
+41 	HacknamStyle 	2300 	May 3, 2015 7:24 PM
+42 	thecat 	2300 	May 3, 2015 7:30 PM
+43 	Amber Chamber 	2250 	May 3, 2015 6:45 PM
+44 	WeAreScientists 	2250 	May 3, 2015 8:07 PM
+45 	Noobs4Win 	2250 	May 3, 2015 8:17 PM
+46 	smoke leet everyday 	2200 	May 3, 2015 8:59 PM
+47 	v0rt3x 	2175 	May 3, 2015 7:13 PM
+48 	FluxFingers 	2150 	May 3, 2015 6:27 PM
+49 	ist_P5U71 	2100 	May 3, 2015 8:32 PM
+50 	Ministry_Of_Silly_Hacks 	2075 	May 3, 2015 8:07 PM
+51 	Koibasta 	2050 	May 3, 2015 7:30 PM
+52 	ygx82nd 	2025 	May 3, 2015 4:43 PM
+53 	Interstellar 	2000 	May 3, 2015 4:57 PM
+54 	p4 	1950 	May 3, 2015 7:08 PM
+55 	mau5 	1925 	May 3, 2015 5:53 PM
+56 	SwissMadeSecurity 	1925 	May 3, 2015 8:36 PM
+57 	Squareroots 	1875 	May 3, 2015 6:01 PM
+58 	0ops 	1850 	May 2, 2015 10:12 PM
+59 	STT 	1850 	May 3, 2015 6:31 PM
+60 	xBh 	1850 	May 3, 2015 8:18 PM
+61 	scryptos 	1800 	May 3, 2015 7:22 PM
+62 	Tasteless 	1800 	May 3, 2015 8:02 PM
+63 	HoneyPot 	1800 	May 3, 2015 8:15 PM
+64 	TheUnsullied 	1750 	May 3, 2015 6:20 PM
+65 	On est pas contents 	1750 	May 3, 2015 8:27 PM
+66 	Honeypot 	1725 	May 3, 2015 5:31 PM
+67 	Eindbazen 	1700 	May 2, 2015 7:37 PM
+68 	g4mm4 	1700 	May 3, 2015 5:22 PM
+69 	Team Sportsball 	1650 	May 3, 2015 5:49 PM
+70 	CS 	1650 	May 3, 2015 7:43 PM
+71 	BambooFox 	1650 	May 3, 2015 7:44 PM
+72 	cyberkastike 	1600 	May 3, 2015 12:44 PM
+73 	RooterX 	1575 	May 3, 2015 3:43 PM
+74 	rekcah 	1575 	May 3, 2015 4:46 PM
+75 	hellman 	1500 	May 3, 2015 3:30 PM
+76 	CSI Oryza 	1500 	May 3, 2015 8:36 PM
+77 	b01lers 	1475 	May 3, 2015 6:02 AM
+78 	amn3s1a 	1450 	May 3, 2015 5:42 AM
+79 	StratumAuhuur 	1450 	May 3, 2015 6:32 PM
+80 	noraneco 	1425 	May 3, 2015 6:21 PM
+81 	rentjong 	1400 	May 3, 2015 7:24 PM
+82 	CyKor 	1350 	May 3, 2015 3:20 PM
+83 	DDoSya 	1325 	May 2, 2015 10:10 PM
+84 	Crypto Knights 	1250 	May 3, 2015 7:58 PM
+85 	Samurai 	1200 	May 3, 2015 1:35 AM
+86 	Come To Fight 	1200 	May 3, 2015 2:41 AM
+87 	TheJiSk 	1200 	May 3, 2015 6:44 AM
+88 	UscherbGuild 	1200 	May 3, 2015 5:52 PM
+89 	delimitry 	1175 	May 3, 2015 1:22 AM
+90 	Hacking Time 	1175 	May 3, 2015 5:24 PM
+91 	c0kada 	1150 	May 3, 2015 1:45 PM
+92 	9871 	1150 	May 3, 2015 3:32 PM
+93 	Erio 	1100 	May 3, 2015 6:08 PM
+94 	Bono_iPad 	1100 	May 3, 2015 8:04 PM
+95 	Sausage 	1050 	May 3, 2015 1:06 AM
+96 	brains_404 	1050 	May 3, 2015 2:47 PM
+97 	mrx 	1050 	May 3, 2015 4:45 PM
+98 	despair 	1050 	May 3, 2015 5:23 PM
+99 	metjam 	1050 	May 3, 2015 7:22 PM
+100 	CORRECTBEER 	1025 	May 3, 2015 5:47 PM
+101 	Peterpen 	1025 	May 3, 2015 6:59 PM
+102 	WeAreBuyingCatsInBags 	1000 	May 3, 2015 1:11 AM
+103 	gn00bz 	1000 	May 3, 2015 2:29 AM
+104 	d4rwinb0ts 	1000 	May 3, 2015 3:04 AM
+105 	We_have_a_Hulk 	1000 	May 3, 2015 3:22 PM
+106 	0day 	1000 	May 3, 2015 3:43 PM
+107 	SigSegV 	1000 	May 3, 2015 8:36 PM
+108 	GeeksSpeak 	950 	May 2, 2015 7:17 PM
+109 	sherl0ck 	950 	May 3, 2015 11:48 AM
+110 	Nuff Fluff 	950 	May 3, 2015 6:09 PM
+111 	Hopjesvla 	950 	May 3, 2015 6:39 PM
+112 	blue-lotus 	925 	May 3, 2015 1:50 AM
+113 	an empty fridge 	900 	May 3, 2015 5:36 AM
+114 	Paravozik 	900 	May 3, 2015 6:15 AM
+115 	okudo3 	900 	May 3, 2015 7:37 AM
+116 	bcs 	900 	May 3, 2015 10:55 AM
+117 	UFOlogists 	900 	May 3, 2015 12:20 PM
+118 	CTF-infinit 	900 	May 3, 2015 7:26 PM
+119 	qwqw 	825 	May 2, 2015 4:26 PM
+120 	lcmafia 	800 	May 3, 2015 10:51 AM
+121 	BSUTEAM 	800 	May 3, 2015 6:57 PM
+122 	Church of 0x41414141 	775 	May 2, 2015 7:39 PM
+123 	mage 	750 	May 3, 2015 6:50 AM
+124 	Suzy 	750 	May 3, 2015 12:35 PM
+125 	ISITDTU 	750 	May 3, 2015 1:17 PM
+126 	Neg9 	750 	May 3, 2015 2:24 PM
+127 	The_invilnerable 	750 	May 3, 2015 5:38 PM
+128 	NoPwnNoCookie 	750 	May 3, 2015 6:48 PM
+129 	PSUTI_united 	750 	May 3, 2015 7:24 PM
+130 	pr0v3rbs 	750 	May 3, 2015 8:34 PM
+131 	WIremask 	700 	May 3, 2015 12:11 AM
+132 	sigkillsux 	700 	May 3, 2015 6:47 AM
+133 	Über Hackin 	700 	May 3, 2015 7:09 AM
+134 	NeSE 	700 	May 3, 2015 9:32 AM
+135 	G04tzZZ 	700 	May 3, 2015 9:39 AM
+136 	Hawks 	700 	May 3, 2015 9:40 AM
+137 	Team Red Ace 	700 	May 3, 2015 5:33 PM
+138 	peanuts 	650 	May 2, 2015 3:52 PM
+139 	ASIS 	650 	May 2, 2015 10:02 PM
+140 	RFK 	650 	May 3, 2015 3:02 AM
+141 	Hexpresso 	625 	May 3, 2015 5:12 AM
+142 	Cobra 	600 	May 3, 2015 5:49 PM
+143 	Team Action Kaktus 	600 	May 3, 2015 7:33 PM
+144 	Batman's Kitchen 	600 	May 3, 2015 8:23 PM
+145 	Rumata 	575 	May 2, 2015 6:24 AM
+146 	WontSleep 	575 	May 2, 2015 8:13 PM
+147 	ripsec 	575 	May 3, 2015 11:57 AM
+148 	LeetZeppelin 	550 	May 3, 2015 11:47 AM
+149 	Clanker 	550 	May 3, 2015 12:33 PM
+150 	0xbadf00d_for_serious 	550 	May 3, 2015 3:59 PM
+151 	WeWinItAll 	550 	May 3, 2015 8:21 PM
+152 	Helios 	525 	May 3, 2015 8:55 AM
+153 	JustChecking 	525 	May 3, 2015 10:21 AM
+154 	BSUIR 	500 	May 2, 2015 8:29 PM
+155 	10 15 5 10 5 4 5 10 5 	500 	May 3, 2015 3:29 PM
+156 	Kalancha 	500 	May 3, 2015 6:38 PM
+157 	ITCrowd 	500 	May 3, 2015 7:39 PM
+158 	$7UNF15K 	475 	May 3, 2015 5:22 AM
+159 	dqi 	450 	May 2, 2015 4:23 PM
+160 	lookingaround 	450 	May 3, 2015 4:01 AM
+161 	Lulz 	450 	May 3, 2015 6:35 AM
+162 	SNK 	450 	May 3, 2015 4:43 PM
+163 	Krew 	450 	May 3, 2015 6:57 PM
+164 	iSec 	450 	May 3, 2015 8:53 PM
+165 	0x8F 	400 	May 2, 2015 3:35 AM
+166 	ipfactory 	400 	May 2, 2015 3:24 PM
+167 	ECX Inc. 	400 	May 2, 2015 10:50 PM
+168 	bit0n 	400 	May 3, 2015 1:14 AM
+169 	atx2600 	400 	May 3, 2015 7:42 AM
+170 	Luckers 	400 	May 3, 2015 9:46 AM
+171 	KNUSEC 	400 	May 3, 2015 11:21 AM
+172 	P.S. 	400 	May 3, 2015 12:41 PM
+173 	Lions 	400 	May 3, 2015 5:38 PM
+174 	turndown4wat 	350 	May 2, 2015 5:04 AM
+175 	The DHARMA Initiative 	350 	May 2, 2015 7:19 PM
+176 	nullify 	350 	May 3, 2015 9:03 AM
+177 	0x1337 	325 	May 2, 2015 4:20 PM
+178 	Epic Leet Team 	325 	May 3, 2015 7:01 AM
+179 	ClusterFrack 	300 	May 2, 2015 4:21 AM
+180 	#infosec 	300 	May 2, 2015 5:18 PM
+181 	CS-WAT 	300 	May 2, 2015 6:04 PM
+182 	Testa 	300 	May 3, 2015 12:42 AM
+183 	NERV 	300 	May 3, 2015 12:42 AM
+184 	VUiT 	300 	May 3, 2015 5:17 PM
+185 	Temp 	300 	May 3, 2015 8:41 PM
+186 	PL 	250 	May 2, 2015 1:41 PM
+187 	LuroonTol 	250 	May 2, 2015 3:20 PM
+188 	Veryeasy 	250 	May 2, 2015 3:31 PM
+189 	Mighty Pack 	250 	May 2, 2015 3:46 PM
+190 	keva 	250 	May 2, 2015 6:41 PM
+191 	b1n4ry4rms 	250 	May 2, 2015 9:15 PM
+192 	icyrec 	250 	May 2, 2015 10:15 PM
+193 	cyb3rpunk3r 	250 	May 2, 2015 11:22 PM
+194 	Furacão 2000 	250 	May 3, 2015 12:20 AM
+195 	TeamReboot 	250 	May 3, 2015 3:03 AM
+196 	b4ckdoors 	250 	May 3, 2015 4:52 AM
+197 	chuck14 	250 	May 3, 2015 5:19 AM
+198 	rm -rf [enter] 	250 	May 3, 2015 6:55 AM
+199 	stayready 	250 	May 3, 2015 9:34 AM
+200 	mochigoma 	250 	May 3, 2015 11:39 AM
+201 	SleeplessOnes 	250 	May 3, 2015 2:06 PM
+202 	WallUp 	250 	May 3, 2015 3:39 PM
+203 	Firefly76 	250 	May 3, 2015 3:54 PM
+204 	lmred 	200 	May 2, 2015 2:02 PM
+205 	HammerTigers 	200 	May 2, 2015 10:08 PM
+206 	Slug Security 	200 	May 3, 2015 12:50 AM
+207 	morganFr33man 	200 	May 3, 2015 3:49 AM
+208 	vita 	200 	May 3, 2015 11:12 AM
+209 	hmhm 	200 	May 3, 2015 2:15 PM
+210 	Aether Shell 	200 	May 3, 2015 4:12 PM
+211 	are_you_hacker 	200 	May 3, 2015 6:59 PM
+212 	Myfirstteam 	200 	May 3, 2015 8:43 PM
+213 	7HxzZ 	175 	May 1, 2015 10:32 PM
+214 	JacobJacob 	175 	May 3, 2015 8:09 PM
+215 	1ns1ght 	150 	May 2, 2015 2:23 AM
+216 	Go_Back 	150 	May 2, 2015 8:25 PM
+217 	S.A 	150 	May 3, 2015 9:52 AM
+218 	Polytech 	150 	May 3, 2015 3:11 PM
+219 	omakase 	150 	May 3, 2015 3:36 PM
+220 	kzoi 	150 	May 3, 2015 6:29 PM
+221 	Barklay 	150 	May 3, 2015 7:01 PM
+222 	#STAG 	150 	May 3, 2015 7:32 PM
+223 	NIS 	150 	May 3, 2015 7:40 PM
+224 	KITCTF 	125 	May 2, 2015 2:34 AM
+225 	안녕하세요 	125 	May 3, 2015 10:27 AM
+226 	MTeam 	100 	May 1, 2015 9:39 PM
+227 	blackflame 	100 	May 2, 2015 4:08 AM
+228 	HazaNaLeni 	100 	May 2, 2015 9:16 AM
+229 	tjbecker 	100 	May 2, 2015 9:36 AM
+230 	Curiosity 	100 	May 2, 2015 1:35 PM
+231 	FoXXes 	100 	May 2, 2015 3:54 PM
+232 	Aple 	100 	May 2, 2015 4:48 PM
+233 	Kamazi 	100 	May 2, 2015 8:34 PM
+234 	Sharlike 	100 	May 3, 2015 12:43 AM
+235 	flyup 	100 	May 3, 2015 3:18 AM
+236 	OPT 	100 	May 3, 2015 2:06 PM
+237 	Invisible Shield 	100 	May 3, 2015 5:48 PM
+238 	Sherlock 	100 	May 3, 2015 7:26 PM
+239 	FakeCodeByte 	100 	May 3, 2015 7:53 PM
+240 	0x7007h4ch3 	100 	May 3, 2015 8:50 PM
+241 	xL3gi0n 	100 	May 3, 2015 8:56 PM
+242 	enklawa 	75 	May 1, 2015 10:45 PM
+243 	4tochka 	75 	May 2, 2015 6:08 AM
+244 	captchaflag 	75 	May 2, 2015 8:44 AM
+245 	Legal Spies 	75 	May 2, 2015 3:52 PM
+246 	Pioupiou 	75 	May 2, 2015 10:32 PM
+247 	utdcsg 	75 	May 3, 2015 1:11 AM
+248 	zzoru 	75 	May 3, 2015 2:04 AM
+249 	Crimson Agents 	75 	May 3, 2015 5:48 AM
+250 	.hack//spartan 	75 	May 3, 2015 8:26 AM
+251 	Horsemen 	75 	May 3, 2015 7:32 PM
+252 	QM 	0 	never
+253 	Kurawa In Disorder 	0 	never
+254 	hnh 	0 	never
+255 	Carl Jonson 	0 	never
+256 	1337 	0 	never
+257 	D1QU3 	0 	never
+258 	Server deers 	0 	never
+259 	cctt 	0 	never
+260 	dpnz 	0 	never
+261 	k2701 	0 	never
+262 	NICHOSI 	0 	never
+263 	Ramolino 	0 	never
+264 	lulzs3c 	0 	never
+265 	segfault 	0 	never
+266 	Kyzylorda orbs 	0 	never
+267 	D0r43m0n 	0 	never
+268 	Noobs1337 	0 	never
+269 	Jani Tech 	0 	never
+270 	Pariah 	0 	never
+271 	KazNTU 	0 	never
+272 	HJHSH 	0 	never
+273 	X Hunt3r 	0 	never
+274 	j0k3r 	0 	never
+275 	GreatEvent 	0 	never
+276 	X+1 	0 	never
+277 	Int Main 	0 	never
+278 	careless 	0 	never
+279 	Seven planets 	0 	never
+280 	NEO 	0 	never
+281 	KernelPanic 	0 	never
+282 	H2KSAG0N 	0 	never
+283 	55-AA 	0 	never
+284 	NameRUS 	0 	never
+285 	teamsparks 	0 	never
+286 	Gymnopedia No 1 	0 	never
+287 	M0rsp4wn3rs 	0 	never
+288 	TurkSec 	0 	never
+289 	Cyber Echelon 	0 	never
+290 	Intrusion Injection System 	0 	never
+291 	Shrimp 	0 	never
+292 	AndroidDevelopers 	0 	never
+293 	IBAS-31 	0 	never
+294 	srsly? 	0 	never
+295 	rosako 	0 	never
+296 	IITU 	0 	never
+297 	vallejocc 	0 	never
+298 	Inquisitive 	0 	never
+299 	and35 	0 	never
+300 	Mr.ST4N 	0 	never
+301 	Fatal_Err0r 	0 	never
+302 	ath3ns1ck 	0 	never
+303 	SSM Hackers 	0 	never
+304 	LUNN 	0 	never
+305 	BlackVelt 	0 	never
+306 	never_for 	0 	never
+307 	NeOLux-C1Ph3r 	0 	never
+308 	44uN 	0 	never
+309 	Seciber 	0 	never
+310 	Blaxter_x 	0 	never
+311 	red yeys 	0 	never
+312 	BCCHack 	0 	never
+313 	KeyStrOke 	0 	never
+314 	2mr 	0 	never
+315 	empoly 	0 	never
+316 	Smart Robot 	0 	never
+317 	BelumAdaNama 	0 	never
+318 	bucsec 	0 	never
+319 	Natus Sapience (Na'Sa) 	0 	never
+320 	0xbadf00d 	0 	never
+321 	106 	0 	never
+322 	konoos 	0 	never
+323 	Mango Hot 	0 	never
+324 	BadSector 	0 	never
+325 	******** 	0 	never
+326 	bread1234 	0 	never
+327 	SherlockInOurHomes 	0 	never
+328 	CASPER 	0 	never
+329 	ob1k 	0 	never
+330 	secsec 	0 	never
+331 	ids-team 	0 	never
+332 	blubbomat 	0 	never
+333 	GOVGUARD 	0 	never
+334 	D3K10N 	0 	never
+335 	AsssassiNOPs 	0 	never
+336 	det0x 	0 	never
+337 	Lions 	0 	never
+338 	Obs(e)curity 	0 	never
+339 	XVHHV 	0 	never
+340 	ComCodeSec 	0 	never
+341 	GeruzoniAnsasu 	0 	never
+342 	Admin 	0 	never
+343 	PwnSh0p 	0 	never
+344 	Snow_Niggers 	0 	never
+345 	barkiteqs 	0 	never
+346 	HackCat 	0 	never
+347 	Bad_Magic 	0 	never
+348 	Ad Victoriam 	0 	never
+349 	noobs 	0 	never
+350 	trycatch 	0 	never
+351 	SeaCreatures 	0 	never
+352 	\U+4b3rs 	0 	never
+353 	Party Goblin 	0 	never
+354 	Fatal_Error 	0 	never
+355 	Securimag 	0 	never
+356 	WhiteHat 	0 	never
+357 	GinVlad 	0 	never
+358 	dook 	0 	never
+359 	임준오가처단한다 	0 	never
+360 	doratest 	0 	never
+361 	CureSecure 	0 	never
+362 	YMHC.gz 	0 	never
+363 	WizardsOfDos 	0 	never
+364 	#yolo 	0 	never
+365 	장선웅이돌아왔다 	0 	never
+366 	CS:GO 	0 	never
+367 	尝试打dota 	0 	never
+368 	VictoryBird 	0 	never
+369 	noob4ik 	0 	never
+370 	1st_IN_THE_RATING 	0 	never
+371 	seciber 	0 	never
+372 	pythonist 	0 	never
+373 	hakunamatata_usu 	0 	never
+374 	SGFk 	0 	never
+375 	Buddha 	0 	never
+376 	The real men 	0 	never
+377 	LFC 	0 	never
+378 	1up 	0 	never
+379 	nothing 	0 	never
+380 	dfkos 	0 	never
+381 	Loopback 	0 	never
+382 	0x009 	0 	never
+383 	hashtag 	0 	never
+384 	Delusions of Grandeur 	0 	never
+385 	Prosto_13ya 	0 	never
+386 	Black-X 	0 	never
+387 	PentL@BS 	0 	never
+388 	Yamagi.com 	0 	never
+389 	Poopxt 	0 	never
+390 	mathboy7(Soloplaying) 	0 	never
+391 	Sh4rk 	0 	never
+392 	dwall 	0 	never
+393 	Chuut !! 	0 	never
+394 	swehack 	0 	never
+395 	LacLoi 	0 	never
+396 	return 	0 	never
+397 	c6h0st 	0 	never
+398 	vanlang 	0 	never
+399 	TocXu 	0 	never
+400 	JoseBeo 	0 	never
+401 	Puma 	0 	never
+402 	D717_Lab 	0 	never
+403 	Meerkat 	0 	never
+404 	BrianCTF 	0 	never
+405 	michaf 	0 	never
+406 	PELF 	0 	never
+407 	Greater Rift 56 (Barb Solo) 	0 	never
+408 	H4cktu5 	0 	never
+409 	ashtrie 	0 	never
+410 	App team 	0 	never
+411 	janggeum2 	0 	never
+412 	The Flying Dutchman 	0 	never
+413 	Dokkodai 	0 	never
+414 	NoneSector 	0 	never
+415 	th3jackers 	0 	never
+416 	Insanity 	0 	never
+417 	hAIXer 	0 	never
+418 	ΔΔ 	0 	never
+419 	CTF_CONDORS 	0 	never
+420 	CyberEagles 	0 	never
+421 	SHS Patriots 	0 	never
+422 	otherflow 	0 	never
+423 	Roblox Dragon 	0 	never
+424 	Cyber_Squad 	0 	never
+425 	Wolverine CTF Club 	0 	never
+426 	RaulHC 	0 	never
+427 	shizy 	0 	never
+428 	Stuyvesant Pis 	0 	never
+429 	sun 	0 	never
+430 	Catbug 	0 	never
+431 	ingyoe 	0 	never
+432 	-IMC- 	0 	never
+433 	Anomalous Materials 	0 	never
+434 	mother_father_give_me_a_1_dollar 	0 	never
+435 	xxd 	0 	never
+436 	batik 	0 	never
+437 	DiGIMON 	0 	never
+438 	Mhe 	0 	never
+439 	ArrBas 	0 	never
+440 	Sinon 	0 	never
+441 	r3b00+ 	0 	never
+442 	HWOODY 	0 	never
+443 	CLASSIFIED 	0 	never
+444 	kdj2438 	0 	never
+445 	Khol 	0 	never
+446 	Xilef 	0 	never
+447 	acchan 	0 	never
+448 	ShieldsUp 	0 	never
+449 	Avontis 	0 	never
+450 	asad2 	0 	never
+451 	Revolver 	0 	never
+452 	XORcists 	0 	never
+453 	nonkulu 	0 	never
+454 	TBBT 	0 	never
+455 	fuffateam 	0 	never
+456 	LSE 	0 	never
+457 	OnePointer 	0 	never
+458 	0x7A31336462 	0 	never
+459 	TTW 	0 	never
+460 	jabba 	0 	never
+461 	0x22 	0 	never
+462 	shiomoomin 	0 	never
+463 	scau_nana 	0 	never
+464 	haxwhore 	0 	never
+465 	RIPSEC 	0 	never
+466 	Subliminal 	0 	never
+467 	ixvw 	0 	never
+468 	Zailbreak 	0 	never
+469 	jopa 	0 	never
+470 	s111 	0 	never
+471 	c0mrad3 	0 	never
+472 	Spider Pigs 	0 	never
+473 	BioHazard 	0 	never
+474 	net99c 	0 	never
+475 	epicycloid 	0 	never
+476 	MacBernick 	0 	never
+477 	Custos 	0 	never
+478 	spudeg 	0 	never
+479 	Volt 	0 	never
+480 	phieulang 	0 	never
+481 	xoxo 	0 	never
+482 	Guac Squad 	0 	never
+483 	adithya 	0 	never
+484 	ThugLife 	0 	never
+485 	DarkPing 	0 	never
+486 	F^3 	0 	never
+487 	Bullcantshit 	0 	never
+488 	tester 	0 	never
+489 	0xp0wn 	0 	never
+490 	Internet Trolls 	0 	never
+491 	localhost 	0 	never
+492 	Flake 	0 	never
+493 	DPTT 	0 	never
+494 	cyberdyne 	0 	never
+495 	Lonely 	0 	never
+496 	SproutedBit 	0 	never
+497 	r00t 	0 	never
+498 	PoodleSector 	0 	never
+499 	usedoils 	0 	never
+500 	Phantom 	0 	never
+501 	irani 	0 	never
+502 	$t@hl 	0 	never
+503 	0x1700b NiNJA 	0 	never
+504 	wagiro 	0 	never
+505 	Patriot_Down 	0 	never
+506 	gooligans 	0 	never
+507 	nullptr 	0 	never
+508 	BuNeyinKafasi 	0 	never
+509 	SuncoastTeamOfDreams 	0 	never
+510 	Ms. Bigglesworth's Corrective Institute for Wayward Youth 	0 	never
+511 	splico 	0 	never
+512 	wrkk 	0 	never
+513 	ctf@jopa 	0 	never
+514 	criple_ripper 	0 	never
+515 	splarcit 	0 	never
+516 	SpySheriff 	0 	never
+517 	BU3 	0 	never
+518 	hoxii 	0 	never
+519 	Calcifer 	0 	never
+520 	WhizzyWig 	0 	never
+521 	blwgo 	0 	never
+522 	WeekendWarriors 	0 	never
+523 	lolnoobs 	0 	never
+524 	Lays 	0 	never
+525 	makenbank 	0 	never
+526 	sandvich 	0 	never
+527 	Chuut 	0 	never
+528 	serpong 	0 	never
+529 	Kafuu Chino 	0 	never
+530 	nonameHDT 	0 	never
+531 	7r41n3rDn9 	0 	never
+532 	KiritoQN 	0 	never
+533 	dhh3k4 	0 	never
+534 	GreyBell 	0 	never
+535 	OkOk 	0 	never
+536 	asd 	0 	never
+537 	LittleBobbyTables 	0 	never
+538 	hashiruhito 	0 	never
+539 	dildo 	0 	never
+540 	ITFox 	0 	never
+541 	congacon 	0 	never
+542 	n00bs 	0 	never
+543 	abcdefg 	0 	never
+544 	me 	0 	never
+545 	wobaZ 	0 	never
+546 	DTUHax 	0 	never
+547 	1338-offbyone 	0 	never
+548 	XOROR 	0 	never
+549 	JnJHAHA 	0 	never
+550 	TraiOi 	0 	never
+551 	fritzfs 	0 	never
+552 	newheart 	0 	never
+553 	GeniusHackmen 	0 	never
+554 	justtrying 	0 	never
+555 	sec1 	0 	never
+556 	blacksmith 	0 	never
+557 	vikassy 	0 	never
+558 	rebellion 	0 	never
+559 	ecc 	0 	never
+560 	17H3H4Y574CK 	0 	never
+561 	Hackavelli 	0 	never
+562 	zerox 	0 	never
+563 	Codernate 	0 	never
+564 	DreamEnter 	0 	never
+565 	ByteBandits 	0 	never
+566 	PROG_for_FUN 	0 	never
+567 	#FINALFORCE 	0 	never
+568 	Megabyte 	0 	never
+569 	UOSec 	0 	never
+570 	hackgyver 	0 	never
+571 	x86 	0 	never
+572 	JeramyL 	0 	never
+573 	Lampaca 	0 	never
+574 	CAFEBABE 	0 	never
+575 	Bottom of the Bottle 	0 	never
+576 	ToxicBandits 	0 	never
+577 	BadTaco 	0 	never
+578 	VanSec 	0 	never
+579 	Syntactics 	0 	never
+580 	ruteam 	0 	never
+581 	having_fun 	0 	never
+582 	alpha 	0 	never
+583 	DATA-TECH 	0 	never
+584 	zonda 	0 	never
+585 	aupnstuff 	0 	never
+586 	iridescent 	0 	never
+587 	p0 	0 	never
+588 	XiaShang 	0 	never
+589 	newbiess 	0 	never
+590 	Rekt2015 	0 	never
+591 	test 	0 	never
+592 	TricComeForU 	0 	never
+593 	aloneplay 	0 	never
+594 	SFT 	0 	never
+595 	moon 	0 	never
+596 	Bytelandians 	0 	never
+597 	SectorK 	0 	never
+598 	S3N5H1_ 	0 	never
+599 	none 	0 	never
+600 	putsi 	0 	never
+601 	whitelow(Solo Playing) 	0 	never
+602 	Шмоманда 	0 	never
+603 	oSnNQUnC 	0 	never
+604 	ukk1337 	0 	never

@@ -5,35 +5,33 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/curious](crypto/curious)
+* [crypto/strength](crypto/strength)
+* [forensics/png-uncorrupt](forensics/png-uncorrupt)
+* [pwnable/ebp](pwnable/ebp)
+* [pwnable/ram](pwnable/ram)
+* [misc/sanity-check](misc/sanity-check)
+* [misc/kolmogorov](misc/kolmogorov)
 
 ## External write-ups only
 
-* none yet
+* [crypto/lazy](crypto/lazy)
+* [crypto/parlor2](crypto/parlor2)
+* [misc/eces-revenge2](misc/eces-revenge2)
+* [misc/sawed](misc/sawed)
+* [pwnable/prodmanager](pwnable/prodmanager)
+* [pwnable/qttpd](pwnable/qttpd)
+* [reversing/cryptoserv](reversing/cryptoserv)
+* [reversing/re-gex](reversing/re-gex)
+* [pwnable/plaiddb](pwnable/plaiddb)
+* [reversing/clifford](reversing/clifford)
+* [forensics/unknown](forensics/unknown)
+* [web/radhos](web/radhos)
 
 ## Missing write-ups
 
-* [crypto/curious](crypto/curious)
-* [crypto/lazy](crypto/lazy)
-* [crypto/parlor2](crypto/parlor2)
-* [crypto/strength](crypto/strength)
-* [forensics/png-uncorrupt](forensics/png-uncorrupt)
-* [forensics/unknown](forensics/unknown)
-* [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/ironic](misc/ironic)
-* [misc/kolmogorov](misc/kolmogorov)
-* [misc/sanity-check](misc/sanity-check)
-* [misc/sawed](misc/sawed)
-* [pwnable/ebp](pwnable/ebp)
-* [pwnable/plaiddb](pwnable/plaiddb)
-* [pwnable/prodmanager](pwnable/prodmanager)
-* [pwnable/qttpd](pwnable/qttpd)
-* [pwnable/ram](pwnable/ram)
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)
 * [reversing/angela-merkel](reversing/angela-merkel)
-* [reversing/clifford](reversing/clifford)
-* [reversing/cryptoserv](reversing/cryptoserv)
 * [reversing/jumble-mumble](reversing/jumble-mumble)
-* [reversing/re-gex](reversing/re-gex)
-* [web/radhos](web/radhos)

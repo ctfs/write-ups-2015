@@ -14,8 +14,10 @@
 * [crypto/weshgrow](crypto/weshgrow)
 * [exploit/updator](exploit/updator)
 * [exploit/secureauth](exploit/secureauth)
+* [forensic/bpythonastic](forensic/bpythonastic)
 * [forensic/pdfception](forensic/pdfception)
 * [forensic/private](forensic/private)
+* [misc/bleep](misc/bleep)
 * [misc/raptor](misc/raptor)
 * [reverse/clark-kent](reverse/clark-kent)
 * [reverse/superman](reverse/superman)
@@ -26,9 +28,6 @@
 
 ## Missing write-ups
 
-* [forensic/bpythonastic](forensic/bpythonastic)
-* [misc/bleep](misc/bleep)
 * [misc/followtherabbit](misc/followtherabbit)
 * [misc/macbeth](misc/macbeth)
-* [reverse/superman](reverse/superman)
 * [web/mickey](web/mickey)

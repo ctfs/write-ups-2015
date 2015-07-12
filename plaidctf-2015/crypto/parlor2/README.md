@@ -24,4 +24,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [sophia.re](http://www.sophia.re/plaid2015_parlor2_writeup.html)

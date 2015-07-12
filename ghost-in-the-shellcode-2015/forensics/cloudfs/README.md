@@ -88,7 +88,7 @@ I'm sure there was an easier way to do this with automation but this seemed to w
 
 ## Other write-ups and resources
 
-* <http://blog.tuxgeek.org/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html>
+* <http://blog.reverser.ninja/2015/01/ghost-in-shellcode-2015-cloudfs-writeup.html>
 * <http://0xa.li/ghost-in-the-shellcode-2015-ctf-cloudfs-writeup/>
 * <http://blog.tinduong.pw/ghost-in-the-shellcode-2015-write-ups/>
 * <http://0x1337seichi.wordpress.com/2015/01/18/ghost-in-the-shellcode-2015-cloudfs-writeup/>

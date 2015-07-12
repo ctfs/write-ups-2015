@@ -11,14 +11,14 @@
 
 ## External write-ups only
 
-* [web/hype](web/hype)
+* [pwn/unoriginal](pwn/unoriginal)
 * [stego/qr](stego/qr)
+* [web/hype](web/hype)
 
 ## Missing write-ups
 
 * [forensics/the-gibson](forensics/the-gibson)
 * [pwn/okami](pwn/okami)
-* [pwn/unoriginal](pwn/unoriginal)
 * [recon/incertia](recon/incertia)
 * [recon/luckdragon](recon/luckdragon)
 * [reverse/refun](reverse/refun)

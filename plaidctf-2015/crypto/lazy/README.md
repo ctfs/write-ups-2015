@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://gnoobz.com/plaid-ctf-2015-lazy-writeup.html>
+* [Vietnamese](https://forum.whitehat.vn/threads/12894-Plaidctf-2015-Crypto180-Lazy.html)
