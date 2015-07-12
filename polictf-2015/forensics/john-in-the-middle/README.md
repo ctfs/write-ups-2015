@@ -6,8 +6,10 @@
 **Description:**
 
 > Can John hijack your surfin'? :)
-> GPG key: GhairfAvvewvukDetolicDer-OcNayd#
-> [http://download.polictf.it/john-in-the-middle_153a4fa94b9c23459897157df4ed4105.tar.gz.gpg](Download)
+
+>> GPG key: GhairfAvvewvukDetolicDer-OcNayd#
+
+> [john-in-the-middle](john-in-the-middle_153a4fa94b9c23459897157df4ed4105.tar.gz.gpg)
 
 ## Write-up
 

@@ -6,8 +6,10 @@
 **Description:**
 
 > You got this Uber-Secret file containing all the needed parts of the key to launch or disable forever a nuke... Save the world!
-> GPG key: kecNunBiebatubadupJotnagveitvosh
-> [http://download.polictf.it/fragmented-key_9635e49fe40f85c892c8e1a71516d0df.tar.gz.gpg](Download)
+
+>> GPG key: kecNunBiebatubadupJotnagveitvosh
+
+> [fragmented-key](fragmented-key_9635e49fe40f85c892c8e1a71516d0df.tar.gz.gpg)
 
 ## Write-up
 
