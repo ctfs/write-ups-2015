@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.mheistermann.de/2015/07/12/polictf-2015-trollface-writeup/>
