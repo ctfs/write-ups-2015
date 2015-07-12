@@ -139,6 +139,7 @@ So putting it all together:
 >r.interactive()
 >```
 
+_flag{rand0mizing_things_with_l0ve}_
 ## Other write-ups and resources
 
 * none yet
