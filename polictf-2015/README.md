@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [pwnable/johns-shuffle](pwnable/johns-shuffle)
+* [pwnable/haas](pwnable/haas)
 
 ## External write-ups only
 
@@ -26,7 +27,6 @@
 * [grab-bag/interview](grab-bag/interview)
 * [grab-bag/lightning](grab-bag/lightning)
 * [grab-bag/trollface](grab-bag/trollface)
-* [pwnable/haas](pwnable/haas)
 * [pwnable/john-pastry-shop](pwnable/john-pastry-shop)
 * [pwnable/johns-library](pwnable/johns-library)
 * [pwnable/verylong](pwnable/verylong)
