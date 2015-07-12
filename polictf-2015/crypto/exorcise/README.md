@@ -1,4 +1,4 @@
-# PoliCTF 2015: Exorcise 
+# PoliCTF 2015: Exorcise
 
 **Category:** Crypto
 **Points:** 50
@@ -6,7 +6,8 @@
 **Description:**
 
 > Simple Exorcise. Get the key! Connect to
-> exorcise.polictf.it:80
+
+>> exorcise.polictf.it:80
 
 ## Write-up
 
