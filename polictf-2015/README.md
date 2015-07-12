@@ -1,11 +1,12 @@
 # PoliCTF write-ups
 
 * <http://polictf.it/>
-* [Scoreboard](http://polictf.it/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://polictf.it/scoreboard/ranking) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
 
-* none yet
+* [pwnable/johns-shuffle](pwnable/johns-shuffle)
+* [pwnable/haas](pwnable/haas)
 
 ## External write-ups only
 
@@ -26,10 +27,8 @@
 * [grab-bag/interview](grab-bag/interview)
 * [grab-bag/lightning](grab-bag/lightning)
 * [grab-bag/trollface](grab-bag/trollface)
-* [pwnable/haas](pwnable/haas)
 * [pwnable/john-pastry-shop](pwnable/john-pastry-shop)
 * [pwnable/johns-library](pwnable/johns-library)
-* [pwnable/johns-shuffle](pwnable/johns-shuffle)
 * [pwnable/verylong](pwnable/verylong)
 * [reversing/am-i-cheating](reversing/am-i-cheating)
 * [reversing/crack-me-if-you-can](reversing/crack-me-if-you-can)
