@@ -7,8 +7,10 @@
 
 > John is completely drunk and unable to protect his poor stack.. Fortunately he can still count on his terrific shuffling skills. Connect to
 > shuffle.polictf.it:80
-> GPG key: PenOrmunonCerwivpagsyasOwirOjVed
-> [http://download.polictf.it/johns-shuffle_ebee3fc8684b5802b681ade5dd06623f.tar.gz.gpg](Download)
+
+>> GPG key: PenOrmunonCerwivpagsyasOwirOjVed
+
+> [johns-shuffle](johns-shuffle_ebee3fc8684b5802b681ade5dd06623f.tar.gz.gpg)
 
 ## Write-up
 
