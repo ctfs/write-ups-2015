@@ -6,9 +6,8 @@
 **Description:**
 
 > I visit this website when I'm sad, contains many magical things that help me to find the solution. Focused on your problem and find "the magic thing" that will help you to solve it.
-> referee.polictf.it
 
-## Write-up
+>   magic.polictf.it  
 
 (TODO)
 
