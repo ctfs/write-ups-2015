@@ -51,4 +51,4 @@ Also there is a filter that terminates the session if anything os related is sen
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2015/07/polictf-2015---hanoi-as-a-service-50pts-writeup>
