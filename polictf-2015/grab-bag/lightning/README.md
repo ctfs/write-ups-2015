@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://towerofhanoi.github.io/write-ups/2015/07/12/Lightning/>
