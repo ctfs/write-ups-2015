@@ -9,7 +9,9 @@
 
 ## External write-ups only
 
-* none yet
+* [grab-bag/interview](grab-bag/interview)
+* [pwnable/haas](pwnable/haas)
+* [reversing/reversemeplz](reversing/reversemeplz)
 
 ## Missing write-ups
 
@@ -23,10 +25,8 @@
 * [forensics/lost-a-file](forensics/lost-a-file)
 * [grab-bag/dropper](grab-bag/dropper)
 * [grab-bag/gandgalf](grab-bag/gandgalf)
-* [grab-bag/interview](grab-bag/interview)
 * [grab-bag/lightning](grab-bag/lightning)
 * [grab-bag/trollface](grab-bag/trollface)
-* [pwnable/haas](pwnable/haas)
 * [pwnable/john-pastry-shop](pwnable/john-pastry-shop)
 * [pwnable/johns-library](pwnable/johns-library)
 * [pwnable/johns-shuffle](pwnable/johns-shuffle)
@@ -35,7 +35,6 @@
 * [reversing/crack-me-if-you-can](reversing/crack-me-if-you-can)
 * [reversing/exceptionally](reversing/exceptionally)
 * [reversing/john-the-packer](reversing/john-the-packer)
-* [reversing/reversemeplz](reversing/reversemeplz)
 * [web/magic](web/magic)
 * [web/referee](web/referee)
 * [web/traveller](web/traveller)
