@@ -1,4 +1,4 @@
-# PoliCTF 2015: Even the server lies (on a couch unfortunatel
+# PoliCTF 2015: Prophet-Said 
 
 **Category:** Crypto
 **Points:** 100

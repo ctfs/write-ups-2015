@@ -1,4 +1,4 @@
-# ASIS Quals CTF 2015 write-ups
+# PoliCTF write-ups
 
 * <http://polictf.it/>
 * [Scoreboard](http://polictf.it/scoreboard/) or [local alternative](TODOLOCAL)
