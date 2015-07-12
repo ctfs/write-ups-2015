@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/BatmansKitchen/ctf-writeups/tree/master/2015-polictf> 

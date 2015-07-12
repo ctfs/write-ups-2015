@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.nusgreyhats.org/polictf15-john-the-traveller.html>

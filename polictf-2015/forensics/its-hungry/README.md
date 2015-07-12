@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://nandynarwhals.org/2015/07/13/polictf-2015-its-hungry-forensics-100/> 
