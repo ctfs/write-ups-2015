@@ -1,4 +1,4 @@
-# PoliCTF 2015: John Pastry Shop
+# PoliCTF 2015: John's Library
 
 **Category:** Pwnable
 **Points:** 150
@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.whitehatters.academy/polictf-2015-pwnable-johns-library/>
