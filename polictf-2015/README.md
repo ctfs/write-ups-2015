@@ -1,7 +1,7 @@
 # PoliCTF write-ups
 
 * <http://polictf.it/>
-* [Scoreboard](http://polictf.it/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://polictf.it/scoreboard/ranking) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
 
