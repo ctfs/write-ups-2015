@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/polictf-2015-crack-me-if-you-can/>
+* <http://www.bannsecurity.com/index.php/home/10-ctf-writeups/10-polictf-2015-crack-me-if-you-can>
