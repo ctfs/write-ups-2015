@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://boaster.github.io/ctf/2015/07/13/poliCTF-John-The-Packer.html>
