@@ -25,7 +25,7 @@ This pwnable is pretty simple, it seems to be a tower of hanoi solver.
 > * Move top disk from a to b
 >```
 
-After messing around with it and looking up error codes it seems to be using prolog which is a logical programming language.
+After messing around with it and looking up error codes, it seems to be using prolog which is a logical programming language.
 
 >```bash
 >$ nc haas.polictf.it 80
@@ -39,7 +39,7 @@ After messing around with it and looking up error codes it seems to be using pro
 >ERROR: ) . 
 >```
 
-Also there is a filter that terminates the session if anything os related is sent. After looking around on prolog functions, it turns out you can concatenate to atoms and use the call function on the result to by pass the filter.
+Also there is a filter that terminates the session if anything os related is sent. After looking around on prolog functions, it turns out you can concatenate two atoms and use the call function on the result to by pass the filter. 
 
 >```bash
 >% nc haas.polictf.it 80
