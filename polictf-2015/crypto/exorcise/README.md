@@ -17,4 +17,4 @@ The flag is `flag{_this_1s_s0_simple_you_should_have_solved__it_1n_5_sec}`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-exorcise/>

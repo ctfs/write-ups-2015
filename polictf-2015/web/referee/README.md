@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-john-the-referee/>

@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-crack-me-if-you-can/>

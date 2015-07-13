@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-and-the-prophet-said/>
