@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/BatmansKitchen/ctf-writeups/tree/master/2015-polictf> 
+* <https://github.com/BatmansKitchen/ctf-writeups/tree/master/2015-polictf>
+* [sophia.re](http://www.sophia.re/plaid2015_parlor2_writeup.html) 
