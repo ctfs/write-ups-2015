@@ -20,4 +20,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/BatmansKitchen/ctf-writeups/tree/master/2015-polictf>
-* [sophia.re](http://www.sophia.re/plaid2015_parlor2_writeup.html) 
+* [sophia.re](http://www.sophia.re/polictf2015_3doges2_writeup.html) 
