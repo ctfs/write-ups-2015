@@ -21,3 +21,4 @@
 * <https://www.whitehatters.academy/polictf-2015-pwnable-johns-library/>
 * <https://ctf-team.vulnhub.com/polictf-2015-johns-library/>
 * <https://github.com/thebarbershopper/ctf-writeups/tree/master/polictf-2015/johns-library>
+* <http://www.bannsecurity.com/index.php/home/10-ctf-writeups/11-polictf-2015-john-s-library>
