@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://towerofhanoi.github.io/write-ups/2015/07/13/Server-lies/>

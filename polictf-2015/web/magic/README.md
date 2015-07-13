@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.pwntester.com/blog/2015/07/12/polictf-2015-web350-magic-chall/>

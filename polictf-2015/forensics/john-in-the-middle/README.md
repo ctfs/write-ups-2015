@@ -21,4 +21,4 @@ The flag is `flag{J0hn_th3_Sn1ff3r}`
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.pwntester.com/blog/2015/07/12/polictf-forensics100/>

@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/polictf-2015-and-the-prophet-said/>
+* <http://www.pwntester.com/blog/2015/07/12/polictf-2015-crypto100-and-the-prophet-said/>

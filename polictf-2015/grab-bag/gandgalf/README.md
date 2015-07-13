@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ocean1/Gandgalf>

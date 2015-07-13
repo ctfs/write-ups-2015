@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://boaster.github.io/ctf/2015/07/13/poliCTF-John-The-Packer.html>
+* <http://v0ids3curity.blogspot.com/2015/07/polictf-re350-john-packer-pin-z3.html>
