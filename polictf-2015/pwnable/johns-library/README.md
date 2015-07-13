@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://www.whitehatters.academy/polictf-2015-pwnable-johns-library/>
+* <https://ctf-team.vulnhub.com/polictf-2015-johns-library/>
