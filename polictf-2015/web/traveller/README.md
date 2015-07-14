@@ -17,3 +17,4 @@
 
 * <http://www.nusgreyhats.org/polictf15-john-the-traveller.html>
 * <http://www.pwntester.com/blog/2015/07/12/picoctf-web100/>
+* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#web100-john-the-traveller>

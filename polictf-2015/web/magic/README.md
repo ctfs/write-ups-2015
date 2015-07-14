@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2015/07/12/polictf-2015-web350-magic-chall/>
+* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#web350-magic>
