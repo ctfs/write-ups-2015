@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* <https://towerofhanoi.github.io/write-ups/2015/07/12/Exceptionally-obfuscated/>
+* <https://towerofhanoi.github.io/polictf2015/reversing/Exceptionally-obfuscated/>
