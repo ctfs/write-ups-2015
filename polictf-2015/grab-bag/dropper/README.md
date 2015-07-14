@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/polictf-2015-john-the-dropper/>
+* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#grabbag100-john-the-dropper>
