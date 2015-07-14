@@ -16,5 +16,4 @@
 (TODO)
 
 ## Other write-ups and resources
-
-* <http://towerofhanoi.github.io/write-ups/2015/07/12/Lightning/>
+* <https://towerofhanoi.github.io/polictf2015/grabbag/Lightning/>
