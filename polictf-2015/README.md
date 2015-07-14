@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [crypto/exorcise](crypto/exorcise)
 * [forensics/john-in-the-middle](forensics/john-in-the-middle)
 * [pwnable/haas](pwnable/haas)
 * [pwnable/johns-shuffle](pwnable/johns-shuffle)
@@ -13,7 +14,6 @@
 
 * [crypto/3doges2](crypto/3doges2)
 * [crypto/even-the-server](crypto/even-the-server)
-* [crypto/exorcise](crypto/exorcise)
 * [crypto/prophet-said](crypto/prophet-said)
 * [forensics/its-hungry](forensics/its-hungry)
 * [grab-bag/dropper](grab-bag/dropper)
