@@ -17,3 +17,4 @@
 
 * <http://www.mrt-prodz.com/blog/view/2015/07/polictf-2015---reversemeplz-200pts-writeup>
 * <http://www.bannsecurity.com/index.php/home/10-ctf-writeups/12-polictf-2015-reversemeplz>
+* <http://boaster.github.io/ctf/2015/07/12/poliCTF-Reversemeplz.html>
