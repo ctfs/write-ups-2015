@@ -16,4 +16,4 @@ NB This challenge is avaiable only via torrent
 
 ## Other write-ups and resources
 
-* none yet
+* <https://blog.spirotot.com/2015/07/13/polictf-2015-am-i-cheating-reversing-writeup/>

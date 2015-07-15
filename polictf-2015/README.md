@@ -27,6 +27,7 @@
 * [reversing/exceptionally](reversing/exceptionally)
 * [reversing/john-the-packer](reversing/john-the-packer)
 * [reversing/reversemeplz](reversing/reversemeplz)
+* [reversing/am-i-cheating](reversing/am-i-cheating)
 * [web/referee](web/referee)
 * [web/traveller](web/traveller)
 * [web/magic](web/magic)
@@ -36,4 +37,3 @@
 * [forensics/fragmented-key](forensics/fragmented-key)
 * [forensics/lost-a-file](forensics/lost-a-file)
 * [pwnable/verylong](pwnable/verylong)
-* [reversing/am-i-cheating](reversing/am-i-cheating)
