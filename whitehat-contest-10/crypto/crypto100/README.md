@@ -1,13 +1,14 @@
 # WhiteHat Contest 10 2015: crypto100
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category: Cryptography**
+**Points: 100**
+**Solves: 17**
+**Author: WhiteHat Wargame**
 **Description:**
 
 > Do you love Arithmetic?
-> 
-> Category Cryptography | Teams having solved this 17 | Point 100 | Author: WhiteHat Wargame
+
+> [file](crypto100_c3747ddbe535de5601206babb456191b)
 
 
 ## Write-up

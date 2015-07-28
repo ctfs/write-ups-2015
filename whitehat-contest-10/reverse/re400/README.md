@@ -1,14 +1,14 @@
 # WhiteHat Contest 10 2015: re400
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category: Reverse Engineering**
+**Points: 400**
+**Solves: 7**
+**Author: WhiteHat Wargame**
 **Description:**
 
 > Flag = WhiteHat{SHA1(upper(key))}
-> 
-> Category Reverse Engineering | Teams having solved this 7 | Point 400 | Author: WhiteHat Wargame
-
+>
+> [file](re400_524c6f057478be2bdef39998e3b334c4.zip)
 
 ## Write-up
 

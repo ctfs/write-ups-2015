@@ -1,14 +1,14 @@
 # WhiteHat Contest 10 2015: crypto200
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category: Cryptography**
+**Points: 200**
+**Solves: 8**
+**Author: WhiteHat Wargame**
 **Description:**
 
 > Secret Sharing
-> 
-> Category Cryptography | Teams having solved this 8 | Point 200 | Author: WhiteHat Wargame
 
+> [file](crypto200_43637d719c7a8bd53f018e7fa6f5b83f)
 
 ## Write-up
 

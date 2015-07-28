@@ -1,15 +1,15 @@
 # WhiteHat Contest 10 2015: re300
 
-**Category:** 
-**Points:** 
-**Solves:** 
+**Category: Reverse Engineering**
+**Points: 300**
+**Solves: 17**
+**Author: WhiteHat Wargame**
 **Description:**
 
 > Flag = WhiteHat{SHA1(key)}
 > The key is a string that has meaning
-> 
-> Category Reverse Engineering | Teams having solved this 17 | Point 300 | Author: WhiteHat Wargame
-
+>
+> [file](re300_7cb9f7846b7425cb6532fd55fb4b6b76.zip)
 
 ## Write-up
 
