@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://nnguwriteups.blogspot.ru/2015/07/whitehat-contest-10-reverse-200.html> 

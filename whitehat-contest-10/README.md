@@ -9,12 +9,11 @@
 
 ## External write-ups only
 
-* none yet
+* [reverse/re200](reverse/re200)
+* [reverse/re300](reverse/re300)
 
 ## Missing write-ups
 
-* [reverse/re300](reverse/re300)
-* [reverse/re200](reverse/re200)
 * [reverse/re400](reverse/re400)
 * [crypto/crypto100](crypto/crypto100)
 * [crypto/crypto200](crypto/crypto200)
