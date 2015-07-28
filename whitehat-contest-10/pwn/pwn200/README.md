@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* <https://ctf-team.vulnhub.com/whitehat-ctf-2015-pwn100/>
+* <https://ctf-team.vulnhub.com/whitehat-ctf-2015-pwn200/>
