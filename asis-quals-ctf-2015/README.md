@@ -1,7 +1,7 @@
 # ASIS Quals CTF 2015 write-ups
 
 * <http://www.asis-ctf.ir/>
-* [Scoreboard](http://www.asis-ctf.ir/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://www.asis-ctf.ir/scoreboard/) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
