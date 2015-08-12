@@ -1,7 +1,7 @@
 # DEF CON Qualifier CTF write-ups
 
 * <https://2015.legitbs.net/>
-* [Scoreboard](https://2015.legitbs.net/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://2015.legitbs.net/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
