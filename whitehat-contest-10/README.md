@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [crypto/crypto100](crypto/crypto100)
+* [crypto/crypto200](crypto/crypto200)
 
 ## External write-ups only
 
@@ -17,7 +18,6 @@
 ## Missing write-ups
 
 * [reverse/re400](reverse/re400)
-* [crypto/crypto200](crypto/crypto200)
 * [crypto/crypto400](crypto/crypto400)
 * [web/web100](web/web100)
 * [web/web200](web/web200)
