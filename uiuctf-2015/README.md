@@ -1,7 +1,7 @@
 # UIU CTF write-ups
 
 * <https://ctf.acm.illinois.edu/about>
-* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
