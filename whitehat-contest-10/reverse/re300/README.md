@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/dqi/ctf_writeup/tree/master/2015/whitehat/reversing/re300> 
+* <http://boaster.github.io/ctf/2015/07/25/WhiteHat-Contest-10-RE-300.html>
