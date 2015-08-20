@@ -1,4 +1,4 @@
-# Hackcon 2015: Let's Learn Debugging
+# Hackcon 2015: And So On
 
 **Category:** Binary
 **Points:** 75
