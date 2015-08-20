@@ -9,11 +9,10 @@
 
 ## External write-ups only
 
-* none yet
+* [binary/AndSoOn](binary/AndSoOn)
 
 ## Missing write-ups
 
-* [binary/AndSoOn](binary/AndSoOn)
 * [binary/LetsLearnDebugging](binary/LetsLearnDebugging)
 * [crypto/IdLoveToTurnYouOn](crypto/IdLoveToTurnYouOn)
 * [crypto/StealTheDiamond](crypto/StealTheDiamond)
