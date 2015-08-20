@@ -1,7 +1,7 @@
 # hackcon15 write-ups
 
 * [Website](http://hackcon.in/)
-* [Scoreboard](http://hackcon.in/scoreboard)
+* [Scoreboard](scoreboard.json)
 
 # Questions
 
