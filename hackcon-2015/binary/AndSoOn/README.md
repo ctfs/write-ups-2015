@@ -14,4 +14,4 @@ The flag is in the form of two words separated by an underscore.
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/and-so-on.html>
