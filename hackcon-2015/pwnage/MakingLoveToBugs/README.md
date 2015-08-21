@@ -14,4 +14,4 @@ Get your flag [here](ilovebugs.pyc).
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/category/2015/08/20/making-love-to-bugs.html>

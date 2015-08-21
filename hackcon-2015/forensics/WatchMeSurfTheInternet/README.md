@@ -14,4 +14,4 @@ Get the flag from the pcap file in the directory.
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/watch-me-surf-the-internet.html>

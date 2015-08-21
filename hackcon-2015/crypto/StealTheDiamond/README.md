@@ -41,4 +41,4 @@ He used the above mentioned system in such a way that enc(b,c) gave out his pass
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/steal-the-diamond.html>

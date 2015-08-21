@@ -14,4 +14,4 @@ Flag is [here](http://hackcon.in:8080/level8/)
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/doctor-doctor.html>
