@@ -18,4 +18,4 @@ This is a crypto challenge. Only the highlighted parts are important to get to k
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/id-love-to-turn-you-on.html>

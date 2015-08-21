@@ -3,25 +3,21 @@
 * [Website](http://hackcon.in/)
 * [Scoreboard](scoreboard.json)
 
-# Questions
-
-* [pwnage/Pythonista](pwnage/Pythonista)
-* [pwnage/MakingLoveToBugs] (pwnage/MakingLoveToBugs)
-* [pwnage/DidYouMean] (pwnage/DidYouMean)
-* [binary/AndSoOn](binary/AndSoOn)
-* [binary/LetsLearnDebugging](binary/LetsLearnDebugging)
-* [crypto/StealTheDiamond](crypto/StealTheDiamond)
-* [crypto/IdLoveToTurnYouOn](crypto/IdLoveToTurnYouOn)
-* [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
-* [web/DoctorDoctor](web/DoctorDoctor)
-* [misc/SurpriseModafocka](misc/SurpriseModafocka)
-* [misc/FragGrenade](misc/FragG)
-* [misc/NinjaTurtles](misc/NinjaTurtles)
-
 ## Completed write-ups
 
-(TODO)
+* none yet
 
 ## External write-ups only
 
-(TODO)
+* [binary/AndSoOn](binary/AndSoOn)
+* [binary/LetsLearnDebugging](binary/LetsLearnDebugging)
+* [crypto/IdLoveToTurnYouOn](crypto/IdLoveToTurnYouOn)
+* [crypto/StealTheDiamond](crypto/StealTheDiamond)
+* [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
+* [misc/FragGrenade](misc/FragG)
+* [misc/NinjaTurtles](misc/NinjaTurtles)
+* [misc/SurpriseModafocka](misc/SurpriseModafocka)
+* [pwnage/DidYouMean] (pwnage/DidYouMean)
+* [pwnage/MakingLoveToBugs] (pwnage/MakingLoveToBugs)
+* [pwnage/Pythonista](pwnage/Pythonista)
+* [web/DoctorDoctor](web/DoctorDoctor)

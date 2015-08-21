@@ -14,4 +14,4 @@ The program apparently once could print more than stories.
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://vimvaders.github.io/hackcon2015/2015/08/20/pythonista.html>
