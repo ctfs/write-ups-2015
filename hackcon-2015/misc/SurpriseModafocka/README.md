@@ -6,7 +6,7 @@
 **Difficulty:** Medium
 **Description:** 
 
-[Surprise Surprise](https://s3-ap-southeast-1.amazonaws.com/hackcon15/surprise_muthafuka.jpg)
+[Surprise Surprise](surprise_muthafuka.jpg)
 
 ## Write-up
 
