@@ -9,18 +9,18 @@
 
 ## External write-ups only
 
+* [pwn/bitterman-300](pwn/bitterman-300)
+* [pwn/hacker_level-200](pwn/hacker_level-200)
+* [pwn/ropcalc-225](pwn/ropcalc-225)
 * [pwn/secret_file-150](pwn/secret_file-150)
+* [pwn/shell-300](pwn/shell-300)
 
 ## Missing write-ups
 
 * [forensics/APT-incident-response-400](forensics/APT-incident-response-400)
-* [pwn/bitterman-300](pwn/bitterman-300)
 * [pwn/phobos-300](pwn/phobos-300)
-* [pwn/ropcalc-225](pwn/ropcalc-225)
 * [pwn/spam-100](pwn/spam-100)
-* [pwn/shell-300](pwn/shell-300)
 * [pwn/datenklo-manager-300](pwn/datenklo-manager-300)
-* [pwn/hacker_level-200](pwn/hacker_level-200)
 * [web/trolol-150](web/trolol-150)
 * [web/websocket-75](web/websocket-75)
 * [web/voodoo-250](web/voodoo-250)
