@@ -9,14 +9,13 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/secret_file-150](pwn/secret_file-150)
 
 ## Missing write-ups
 
 * [forensics/APT-incident-response-400](forensics/APT-incident-response-400)
 * [pwn/bitterman-300](pwn/bitterman-300)
 * [pwn/phobos-300](pwn/phobos-300)
-* [pwn/secret_file-150](pwn/secret_file-150)
 * [pwn/ropcalc-225](pwn/ropcalc-225)
 * [pwn/spam-100](pwn/spam-100)
 * [pwn/shell-300](pwn/shell-300)

@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://nuc13us.wordpress.com/2015/08/16/secret_file-150-cscamp-ctf-2015/> 
