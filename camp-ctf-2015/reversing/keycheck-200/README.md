@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://reu.org.ua/camp-ctf-2015-keycheck.html (russian)

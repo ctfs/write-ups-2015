@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/campctf-2015-hacker-level/> 
+* http://reu.org.ua/camp-ctf-2015-hacker-level.html (russian)
