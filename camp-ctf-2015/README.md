@@ -1,7 +1,7 @@
 # CAMP CTF CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* https://campctf.ccc.ac/ 
+* [Scoreboard](https://campctf.ccc.ac/scoreboard/) or [local alternative](score.txt)
 
 ## Completed write-ups
 
