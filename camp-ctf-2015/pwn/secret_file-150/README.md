@@ -18,3 +18,4 @@
 
 * <https://nuc13us.wordpress.com/2015/08/16/secret_file-150-cscamp-ctf-2015/> 
 * <https://ctf-team.vulnhub.com/campctf-2015-secret-file/>
+* [Russian](http://reu.org.ua/camp-ctf-2015-secret-file.html)

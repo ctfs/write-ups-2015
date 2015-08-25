@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Russian](http://reu.org.ua/camp-ctf-2015-spam.html) 
