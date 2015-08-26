@@ -1,4 +1,4 @@
-# hackcon15 write-ups
+# IceCTF 2015 write-ups
 
 * [Website](http://icec.tf/)
 * [Scoreboard](scoreboard.json)
