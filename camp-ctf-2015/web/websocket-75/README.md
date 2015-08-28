@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://bannsecurity.com/index.php/home/10-ctf-writeups/15-camp-ctf-2015-websocket
