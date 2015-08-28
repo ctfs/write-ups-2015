@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [Russian](http://reu.org.ua/camp-ctf-2015-keycheck.html) 
+* http://bannsecurity.com/index.php/home/10-ctf-writeups/14-camp-ctf-2015-keycheck
