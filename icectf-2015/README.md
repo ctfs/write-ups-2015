@@ -2,7 +2,7 @@
 
 * [Website](http://icec.tf/)
 * [Scoreboard](scoreboard.json)
-* [Wrap-Up (Icelandic)](https://www.youtube.com/watch?v=Gezc25RGNJA)
+* [Wrap-Up (Icelandic)](https://www.youtube.com/watch?v=gqAoCpUfXaI)
 ## Completed write-ups
 
 * none yet
