@@ -10,6 +10,7 @@
 
 ## External write-ups only
 
+* [binary-exploitation/benders-big-score/](binary-exploitation/benders-big-score)
 * [binary-exploitation/overflow-1/](binary-exploitation/overflow-1/)
 * [binary-exploitation/overflow-2/](binary-exploitation/overflow-2/)
 * [binary-exploitation/pyshell/](binary-exploitation/pyshell/)
