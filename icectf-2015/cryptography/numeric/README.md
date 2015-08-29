@@ -4,7 +4,11 @@
 **Points:** 20
 **Description:** 
 
-bG9zdF9pbl90aGVfbnVtYmVycwo=
+> bG9zdF9pbl90aGVfbnVtYmVycwo=
+
+**Hint:**
+
+> This code reminds me of something...
 
 ## Write-up
 
@@ -12,3 +16,4 @@ bG9zdF9pbl90aGVfbnVtYmVycwo=
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>

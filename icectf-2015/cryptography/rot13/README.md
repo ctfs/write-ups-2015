@@ -4,7 +4,11 @@
 **Points:** 25
 **Description:** 
 
-Can you decipher <a target='_blank' href='/problem-static/stage1/crypto/rot13/code.txt'>this secret message</a>?
+> Can you decipher <a target='_blank' href='/problem-static/stage1/crypto/rot13/code.txt'>this secret message</a>?
+
+**Hint:**
+
+> This cipher better be crackable...
 
 ## Write-up
 
@@ -12,3 +16,4 @@ Can you decipher <a target='_blank' href='/problem-static/stage1/crypto/rot13/co
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>

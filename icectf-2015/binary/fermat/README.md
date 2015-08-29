@@ -4,7 +4,11 @@
 **Points:** 80
 **Description:** 
 
-This program is vulnerabel to format string attacks! See if you can modify a variable by supplying a format string!. The binary can be found at <code>/home/fermat</code> on the <a target='_blank' href='http://icec.tf/play/shell'>shell</a>
+> This program is vulnerabel to format string attacks! See if you can modify a variable by supplying a format string!. The binary can be found at <code>/home/fermat</code> on the <a target='_blank' href='http://icec.tf/play/shell'>shell</a>
+
+**Hint:**
+
+> There is already a pointer to the variable on the stack! Also, %n may be useful!
 
 ## Write-up
 
@@ -12,3 +16,5 @@ This program is vulnerabel to format string attacks! See if you can modify a var
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-fermat-80pts-binary/>
+* <http://blog.atx.name/icectf/#Fermat>

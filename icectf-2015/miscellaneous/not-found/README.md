@@ -4,7 +4,11 @@
 **Points:** 15
 **Description:** 
 
-I lost this problem!!! Can you help me find it? There's a flag in it for you if you do ;)
+> I lost this problem!!! Can you help me find it? There's a flag in it for you if you do ;)
+
+**Hint:**
+
+> Perhaps it's on the CDIV(194) page?
 
 ## Write-up
 
@@ -12,3 +16,4 @@ I lost this problem!!! Can you help me find it? There's a flag in it for you if 
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>

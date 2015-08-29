@@ -4,7 +4,11 @@
 **Points:** 15
 **Description:** 
 
-Could there be something hidden on our <a target='_blank' href='https://facebook.com/icectf'>facebook page</a>?
+> Could there be something hidden on our <a target='_blank' href='https://facebook.com/icectf'>facebook page</a>?
+
+**Hint:**
+
+> If I were a flag, where would I be?
 
 ## Write-up
 
@@ -12,3 +16,4 @@ Could there be something hidden on our <a target='_blank' href='https://facebook
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>
