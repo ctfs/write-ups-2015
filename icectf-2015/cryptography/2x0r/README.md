@@ -16,3 +16,4 @@
 
 ## Other write-ups and resources
 
+* <http://blog.atx.name/icectf/#2x0r>

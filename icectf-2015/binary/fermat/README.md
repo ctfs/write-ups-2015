@@ -16,3 +16,5 @@
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-fermat-80pts-binary/>
+* <http://blog.atx.name/icectf/#Fermat>

@@ -16,3 +16,4 @@
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-scan-me-55-forensics/>

@@ -16,3 +16,4 @@
 
 ## Other write-ups and resources
 
+* <http://blog.oleaass.com/ctf-icectf-logoventures-2-reloaded-40-forensics/>
