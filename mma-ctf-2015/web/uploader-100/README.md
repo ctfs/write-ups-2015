@@ -21,6 +21,7 @@
 
 ## Other write-ups and resources
 
-* <http://blog.init-labs.org/2015/09/07/mmact-web-100-challenge/> 
+* <http://blog.init-labs.org/2015/09/07/mmact-web-100-challenge/>
 * <https://github.com/bl4de/ctf/blob/master/MMACTF_2015/Uploader_Web100.md>
 * <http://fadec0d3.blogspot.com/2015/09/mma-1st-ctf-2015-uploader-100.html>
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/Uploader/54/)
