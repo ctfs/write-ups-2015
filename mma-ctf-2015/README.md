@@ -17,7 +17,8 @@
 * [web/mortal-magi-agents-300](web/mortal-magi-agents-300)
 * [crypto/signer-and-verifier-100](crypto/signer-and-verifier-100)
 * [web/login-as-admin-1-30](web/login-as-admin-1-30)
-* [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
+* [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80) 
+* [reverse/impossible-150](reverse/impossible-150)
 
 ## Missing write-ups
 
@@ -38,7 +39,6 @@
 * [reverse/how-to-use-30](reverse/how-to-use-30)
 * [reverse/simple-hash-200](reverse/simple-hash-200)
 * [reverse/digital-circuit-250](reverse/digital-circuit-250)
-* [reverse/impossible-150](reverse/impossible-150)
 * [reverse/money-game-200](reverse/money-game-200)
 * [reverse/encrypted-500](reverse/encrypted-500)
 * [crypto/LCG-sign-400](crypto/LCG-sign-400)
