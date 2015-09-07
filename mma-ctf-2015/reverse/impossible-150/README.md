@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://hxp.io/blog/18/MMACTF%202015:%20Reversing%20150%20"Impossible/?"%20writeup/
