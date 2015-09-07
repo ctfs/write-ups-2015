@@ -20,6 +20,7 @@
 * [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
 * [crypto/regrettable-ecc-200](crypto/regrettable-ecc-200)
 * [pwn/rps-50](pwn/rps-50)
+* [crypto/alice-game-250](crypto/alice-game-250)
 
 ## Missing write-ups
 
@@ -43,5 +44,4 @@
 * [reverse/money-game-200](reverse/money-game-200)
 * [reverse/encrypted-500](reverse/encrypted-500)
 * [crypto/LCG-sign-400](crypto/LCG-sign-400)
-* [crypto/alice-game-250](crypto/alice-game-250)
 * [crypto/smart-cipher-system-90](crypto/smart-cipher-system-90)
