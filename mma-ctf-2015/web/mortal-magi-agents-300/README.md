@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://blog.init-labs.org/2015/09/07/mmactf-web300-challenge-writeup/> 
+* <http://81glntd.blogspot.com/2015/09/writeup-web300-mmactf-2015.html>
