@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+<http://boaster.github.io/ctf/2015/09/07/MMA-CTF-RE-150.html>
