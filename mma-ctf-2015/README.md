@@ -21,7 +21,7 @@
 * [crypto/regrettable-ecc-200](crypto/regrettable-ecc-200)
 * [web/login-as-admin-1-30](web/login-as-admin-1-30)
 * [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
-* [reverse/impossible?](http://boaster.github.io/ctf/2015/09/07/MMA-CTF-RE-150.html)
+* [reverse/impossible-150](reverse/impossible-150)
 
 ## Missing write-ups
 
