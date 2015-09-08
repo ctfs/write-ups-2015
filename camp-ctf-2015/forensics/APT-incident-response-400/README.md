@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dft-labs.eu/~ctf/CCCCAMP_2015/APT-incident-response/writeup.txt> 
