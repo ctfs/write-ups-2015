@@ -1,7 +1,7 @@
 # UIU CTF write-ups
 
 * <https://ctf.acm.illinois.edu/about>
-* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
@@ -11,14 +11,14 @@
 
 ## External write-ups only
 
-* [web/hype](web/hype)
+* [pwn/unoriginal](pwn/unoriginal)
 * [stego/qr](stego/qr)
+* [web/hype](web/hype)
 
 ## Missing write-ups
 
 * [forensics/the-gibson](forensics/the-gibson)
 * [pwn/okami](pwn/okami)
-* [pwn/unoriginal](pwn/unoriginal)
 * [recon/incertia](recon/incertia)
 * [recon/luckdragon](recon/luckdragon)
 * [reverse/refun](reverse/refun)

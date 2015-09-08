@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-cryptomatrix.html>

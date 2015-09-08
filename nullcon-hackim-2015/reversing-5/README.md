@@ -15,4 +15,5 @@
 ## Other write-ups and resources
 
 * <http://blog.tinduong.pw/nullcon-hackim-2014-write-ups/>
+* [Vietnamese](https://babyphd.net/2015/01/hackim-2014-re-pwn-mentalnote/)
 * <http://pastebin.com/qpAMCiMJ>

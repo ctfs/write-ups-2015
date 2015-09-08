@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Vietnamese](https://babyphd.net/2015/01/hackim-2014-re-pwn-mentalnote/)

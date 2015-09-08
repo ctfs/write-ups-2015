@@ -1,7 +1,7 @@
 # PlaidCTF CTF write-ups
 
 * <http://reg.plaidctf.com/>
-* [Scoreboard](http://reg.plaidctf.com/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://reg.plaidctf.com/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 

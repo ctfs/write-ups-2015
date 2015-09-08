@@ -1,7 +1,7 @@
 # Nuit du Hack Quals CTF write-ups
 
 * <http://quals.nuitduhack.com/>
-* [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups

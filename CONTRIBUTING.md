@@ -34,4 +34,4 @@ These rules exist to keep the repo maintainable and complete. Please consider fo
 	* :pill: when fixing broken links or corrupt Markup stuff
 	* :books: when updating the structure of this repo or adding a ctf skeleton structure
 	* :fire: when deleting files
-5. If you want to add a new CTF directory/structure (skeleton), then consider using [this tool](https://github.com/ctfs/write-ups-tools/tree/master/genctf)
+5. If you want to add a new CTF directory/structure (skeleton), then consider using [this tool](https://github.com/ctfs/write-ups-tools/)

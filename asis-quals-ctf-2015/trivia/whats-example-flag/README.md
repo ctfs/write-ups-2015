@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/whats-example-flag)

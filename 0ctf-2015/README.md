@@ -1,7 +1,7 @@
 # 0CTF 2015 Quals CTF write-ups
 
 * <https://ctf.0ops.sjtu.cn/>
-* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](scoreboard)
 * [Number of solves per task](http://dl.0ops.net/count.txt) or [local alternative](count.txt)
 * [Given hints and notes](hints)
 

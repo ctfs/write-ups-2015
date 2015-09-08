@@ -12,6 +12,7 @@
 ## External write-ups only
 
 * [crack/crack1](crack/crack1)
+* [crypto/matrix-everywhere](crypto/matrix-everywhere)
 * [forensics/forensics2](forensics/forensics2)
 * [logic/logic1](logic/logic1)
 * [programming/be-genious](programming/be-genious)
@@ -23,7 +24,6 @@
 
 * [crypto/card-games](crypto/card-games)
 * [crypto/decrypt-me](crypto/decrypt-me)
-* [crypto/matrix-everywhere](crypto/matrix-everywhere)
 * [hidden/hidden1](hidden/hidden1)
 * [programming/dos-attack](programming/dos-attack)
 * [recon/recon1](recon/recon1)

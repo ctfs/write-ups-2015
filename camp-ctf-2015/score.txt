@@ -1,0 +1,124 @@
+1	milliways	5200
+2	H4x0rPsch0rr	3950
+3	nneonneo	3850
+4	mongols	3850
+5	dcua	3825
+6	khack40	3350
+7	Rule110	3250
+8	fluorescence	3150
+9	0x8F	3125
+10	samurai	2900
+11	SpamAndHex	2775
+12	DadsWhoHack	2675
+13	FluxFingers	2525
+14	Bitnuts	2250
+15	bamboofox	2225
+16	tasteless	2200
+17	ezio3593	2175
+18	_yonghwi_	2100
+19	vulnhub-ctf	2100
+20	scryptos	1850
+21	Bono_iPad	1750
+22	RPISEC7	1675
+23	CaptainDildo	1650
+24	Antani	1600
+25	BabyPhD	1575
+26	Gogo Sing	1500
+27	s0meAlliedPyrates	1250
+28	qwqw	1175
+29	PwnThyBytes	1075
+30	avi.cii	1050
+31	Hexpresso	1050
+32	hashbang	950
+33	[DATA EXPUNGED]	950
+34	4then4	950
+35	YetAnotherTeam	875
+36	bi0s	875
+37	ucq	850
+38	NOP	700
+39	omnomnom	675
+40	Postboten	650
+41	TehUberKittenz	650
+42	0xbadf00d	650
+43	REU	625
+44	JohnDoe	625
+45	qqq	600
+46	rep	600
+47	vito at legitbs	600
+48	Cyclopropenylidene	550
+49	ChaosWest	550
+50	pate enc root	525
+51	keineAhnung	500
+52	little pa-ge	450
+53	fluxion	450
+54	snowman	450
+55	BatmansKitchen	450
+56	On est pas contents	450
+57	thebarbershopper	400
+58	knightsec	400
+59	grogklog	400
+60	mage	375
+61	Hawkins	350
+62	ubof	300
+63	chaoshd	300
+64	LeaveRet	300
+65	DisturbedSystems	300
+66	AdHocPoc	300
+67	cy	300
+68	kitctfnoobs	300
+69	quanyang	300
+70	NoneButFools	300
+71	abcd	300
+72	Hola	300
+73	faptehpown	275
+74	f0xtr0t	275
+75	No Internet Access	250
+76	Vereenigde Online Compagnie	250
+77	psuje	250
+78	julio	250
+79	rudolfos	225
+80	necomimi	225
+81	Mr. Fister	225
+82	drop table teams cascade	200
+83	mathboy7	200
+84	Atooop	200
+85	kanken	200
+86	The Pacman's Army	175
+87	Farming Team	150
+88	NULLify	150
+89	BelgianVillage	100
+90	TeamHugo	100
+91	SuvwI' jIHchoH	100
+92	EvilsWorld	100
+93	cytosine	100
+94	azneye	100
+95	xxxxx	100
+96	rot	100
+97	xXx	100
+98	dmnk	100
+99	blabla	100
+100	devnull	100
+101	squareroots	100
+102	asdf	100
+103	S&L	100
+104	asdfghj	100
+105	shelf of an empty fridge	100
+106	30 characters or fewer.	100
+107	vladvis1	75
+108	phlint	75
+109	HTG	75
+110	pupzor	75
+111	Flipflop	75
+112	mau5	75
+113	test	75
+114	can	75
+115	Surmano	75
+116	SuRmanos	75
+117	Klekticist	75
+118	nopsec	75
+119	HonkerCN	75
+120	rentjong	75
+121	Xatei	75
+122	rantrantalleshitler	75
+123	darkwinghack	75
+124	TheRealSuperfly	75
