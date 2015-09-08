@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://fadec0d3.blogspot.com/2015/09/mma-ctf-2015-cannotberun-80.html> 
+* <http://boaster.github.io/ctf/2015/09/08/MMA-CTF-RE-80.html>
