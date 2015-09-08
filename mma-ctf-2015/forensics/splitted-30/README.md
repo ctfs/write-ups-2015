@@ -15,3 +15,5 @@
 ## Other write-ups and resources
 
 * <https://shankaraman.wordpress.com/2015/09/07/mma-ctf-2015-splitted-writeup-forensics/>
+* <http://fadec0d3.blogspot.com/2015/09/mma-ctf-2015-splitted-30.html>
+* <http://ctf-for-beginners.blogspot.com/2015/09/write-up-mma-ctf-2015-splitted-30.html>

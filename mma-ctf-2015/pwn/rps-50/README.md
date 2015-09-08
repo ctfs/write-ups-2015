@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/RPS%20%28rock%20paper%20scissors%29/58/) 
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/RPS%20%28rock%20paper%20scissors%29/58/)
+* <http://iamlazlow.blogspot.com/2015/09/mma-ctf-2015-rps-pwn-warmup.html>

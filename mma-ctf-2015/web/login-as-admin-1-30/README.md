@@ -20,3 +20,5 @@
 ## Other write-ups and resources
 
 * <http://fadec0d3.blogspot.com/2015/09/mma-ctf-2015-login-as-admin-30.html> 
+* <https://ctftime.org/writeup/1626>
+* <http://www.i4info.in/2015/09/08/test-post/>

@@ -33,4 +33,5 @@
 
 ## Other write-ups and resources
 
-* <http://dakutenpura.hatenablog.com/entry/2015/09/07/172118> 
+* <http://dakutenpura.hatenablog.com/entry/2015/09/07/172118>
+* <http://ctf-for-beginners.blogspot.com/2015/09/write-up-mma-ctf-2015-pattern-lock-20.html>
