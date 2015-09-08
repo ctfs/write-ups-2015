@@ -1,4 +1,4 @@
-# MMM-CTF-2015 CTF write-ups
+# MMA-CTF-2015 CTF write-ups
 
 * <http://score.mmactf.link/>
 * [Scoreboard](http://score.mmactf.link/ranking?locale=en) or [local alternative](score.txt)
@@ -9,8 +9,11 @@
 
 ## External write-ups only
 
+* [forensics/splitted-30](forensics/splitted-30)
 * [forensics/stream-100](forensics/stream-100)
 * [pwn/rps-50](pwn/rps-50)
+* [ppc/perfect-matching-200](ppc/perfect-matching-200)
+* [ppc/pattern-lock-60](ppc/pattern-lock-60)
 * [misc/mqaaa-70](misc/mqaaa-70)
 * [misc/pieceofeight-reloaded-100](misc/pieceofeight-reloaded-100)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
@@ -25,15 +28,12 @@
 
 ## Missing write-ups
 
-* [forensics/splitted-30](forensics/splitted-30)
 * [forensics/qr-code-recovery-challenge-400](forensics/qr-code-recovery-challenge-400)
 * [misc/welcome-10](misc/welcome-10)
 * [pwn/spell-300](pwn/spell-300)
 * [pwn/d3flate-500](pwn/d3flate-500)
 * [ppc/i-150](ppc/i-150)
-* [ppc/perfect-matching-200](ppc/perfect-matching-200)
 * [ppc/alphabet-programming-200](ppc/alphabet-programming-200)
-* [ppc/pattern-lock-60](ppc/pattern-lock-60)
 * [stego/miyako-350](stego/miyako-350)
 * [web/motto-mijkai-address-400](web/motto-mijkai-address-400)
 * [web/login-as-admin-2-200](web/login-as-admin-2-200)
