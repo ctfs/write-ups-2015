@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/MMACTF/crypto/signerverifier> 
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/Signer%20And%20Verifier/56/)

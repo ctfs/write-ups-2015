@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/regrettable%20ecc/57/) 

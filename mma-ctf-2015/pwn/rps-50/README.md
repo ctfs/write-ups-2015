@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/RPS%20%28rock%20paper%20scissors%29/58/) 
