@@ -24,8 +24,10 @@
 * [crypto/regrettable-ecc-200](crypto/regrettable-ecc-200)
 * [crypto/smart-cipher-system-90](crypto/smart-cipher-system-90)
 * [web/login-as-admin-1-30](web/login-as-admin-1-30)
+* [reverse/how-to-use-30](reverse/how-to-use-30)
 * [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
 * [reverse/impossible-150](reverse/impossible-150)
+* [reverse/simple-hash-200](reverse/simple-hash-200)
 
 ## Missing write-ups
 
@@ -39,8 +41,6 @@
 * [web/motto-mijkai-address-400](web/motto-mijkai-address-400)
 * [web/login-as-admin-2-200](web/login-as-admin-2-200)
 * [web/bow-tickets-500](web/bow-tickets-500)
-* [reverse/how-to-use-30](reverse/how-to-use-30)
-* [reverse/simple-hash-200](reverse/simple-hash-200)
 * [reverse/digital-circuit-250](reverse/digital-circuit-250)
 * [reverse/money-game-200](reverse/money-game-200)
 * [reverse/encrypted-500](reverse/encrypted-500)
