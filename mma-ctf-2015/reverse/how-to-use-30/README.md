@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/angr/angr-doc/blob/master/examples/mma_howtouse/howtouse.py - mostly-automated solution using the angr binary analysis framework

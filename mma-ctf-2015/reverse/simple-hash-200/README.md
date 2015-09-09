@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/angr/angr-doc/blob/master/examples/mma_simplehash/mma_simplehash.py - mostly-automated solution, using the angr binary analysis framework.
