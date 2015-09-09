@@ -32,4 +32,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://bannsecurity.com/index.php/home/10-ctf-writeups/17-mma-ctf-2015-smart-cipher-system
