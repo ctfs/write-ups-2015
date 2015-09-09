@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Partial Write-up](http://ctf-for-beginners.blogspot.in/2015/09/write-up-mma-ctf-2015-qr-code-recovery.html) 

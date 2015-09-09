@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * https://github.com/angr/angr-doc/blob/master/examples/mma_simplehash/mma_simplehash.py - mostly-automated solution, using the angr binary analysis framework.
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/MMACTF/reversing/simple_hash>
