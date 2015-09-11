@@ -32,4 +32,5 @@
 
 ## Other write-ups and resources
 
-* http://bannsecurity.com/index.php/home/10-ctf-writeups/17-mma-ctf-2015-smart-cipher-system
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/17-mma-ctf-2015-smart-cipher-system>
+* <https://0x90r00t.com/2015/09/07/mma-2015-cryptowarmup-smart-cipher-system-write-up/>

@@ -23,3 +23,4 @@
 * <http://iamlazlow.blogspot.com/2015/09/mma-ctf-2015-rps-pwn-warmup.html>
 * <https://0x90r00t.com/2015/09/08/mma-2015-pwnwarmup-rps-write-up/>
 * <http://www.securifera.com/blog/2015/09/09/mmactf-2015-rock-paper-scissors-rps/>
+* <https://jkrshnmenon.wordpress.com/2015/09/09/mmactf15-rps-write-up/>
