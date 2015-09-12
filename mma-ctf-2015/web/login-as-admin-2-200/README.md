@@ -10,7 +10,7 @@
 > http://login2.chal.mmactf.link
 >
 > You can use test:test account.
-> 
+>
 
 ## Write-up
 
@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/Login%20As%20Admin!%282%29/61/)
