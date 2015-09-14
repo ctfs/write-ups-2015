@@ -1,0 +1,10 @@
+from whoareyou import *
+
+class IKnowWhoYouAre(sock_handler):
+    def enc(self,plain):
+        return str(random.randint(1, 1000000)*p+int(plain.encode("hex"),16)%p)+', '+str(random.randint(1, 1000000)*p+int(plain.encode("hex"),16)%q)
+    def handle(self):
+        self.request.sendall(self.enc(flag))
+
+if __name__ == '__main__':
+    start(IKnowWhoYouAre)
