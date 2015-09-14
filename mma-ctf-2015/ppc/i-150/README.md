@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/mma2015/prog150-i/writeup.md> 

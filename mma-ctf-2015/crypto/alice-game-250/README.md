@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/Alicegame/59/) 
+* <https://github.com/pwning/public-writeup/blob/master/mma2015/crypto250-alicegame/writeup.md>

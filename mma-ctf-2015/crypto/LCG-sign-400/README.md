@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/mma2015/crypto400-lcgsign/writeup.md>

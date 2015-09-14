@@ -20,4 +20,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/pwning/public-writeup/blob/master/mma2015/misc400-qr/writeup.md>
 * [Partial Write-up](http://ctf-for-beginners.blogspot.in/2015/09/write-up-mma-ctf-2015-qr-code-recovery.html) 
