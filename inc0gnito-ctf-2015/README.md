@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [pwnable/ToDoList](pwnable/ToDoList)
 
 ## Missing write-ups
 
@@ -26,7 +26,6 @@
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
 * [network/Network-hacking-is-easy](network/Network-hacking-is-easy)
 * [pwnable/Gameland](pwnable/Gameland)
-* [pwnable/ToDoList](pwnable/ToDoList)
 * [web/Solve-a-problem-with-kakao-friends](web/Solve-a-problem-with-kakao-friends)
 * [web/OSS](web/OSS)
 * [web/ARKANOID](web/ARKANOID)

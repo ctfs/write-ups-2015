@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/guswns0528/inc0gnito_2015_todolist/blob/master/attack.py>
