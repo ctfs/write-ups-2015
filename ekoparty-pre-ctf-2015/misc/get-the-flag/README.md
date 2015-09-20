@@ -1,6 +1,6 @@
 # EKOPARTY PRE-CTF 2015: Get the flag
 
-**Category:** Misc  
+**Category:** Misc
 **Points:** 50
 **Solves:** 80
 **Description:**

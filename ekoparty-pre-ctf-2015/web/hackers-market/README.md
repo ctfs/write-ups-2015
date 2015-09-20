@@ -1,6 +1,6 @@
 # EKOPARTY PRE-CTF 2015: Hacker's Market
 
-**Category:** Web   
+**Category:** Web
 **Points:** 50
 **Solves:** 122
 **Description:**

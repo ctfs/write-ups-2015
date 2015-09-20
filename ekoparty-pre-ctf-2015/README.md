@@ -1,7 +1,7 @@
 # EKOPARTY PRE-CTF 2015
 
 * <http://ctf.ekoparty.org>
-* [Scoreboard](http://ctf.ekoparty.org/scoreboard/) or [local alternative](scoreboard)
+* [Scoreboard](http://ctf.ekoparty.org/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
