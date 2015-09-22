@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* (TODO)
+* <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-safebox/>
