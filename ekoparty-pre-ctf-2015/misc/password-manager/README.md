@@ -1,0 +1,20 @@
+# EKOPARTY PRE-CTF 2015: Password manager
+
+**Category:** Misc
+**Points:** 100
+**Solves:** 91
+**Description:**
+
+> It looks like someone has been using a really bad key!
+
+> Hints: [a-zA-Z0-9]{0,4} 
+
+>[misc100](misc100.zip)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* (TODO)

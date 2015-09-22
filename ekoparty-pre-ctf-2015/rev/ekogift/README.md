@@ -1,0 +1,18 @@
+# EKOPARTY PRE-CTF 2015: EKOGIFT
+
+**Category:** Reversing
+**Points:** 25
+**Solves:** 159
+**Description:**
+
+> The easiest reversing challenge! 
+
+> [reversing25.zip](reversing25.zip)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* (TODO)
