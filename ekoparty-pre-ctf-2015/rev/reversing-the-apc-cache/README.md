@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* (TODO)
+* <http://www.tasteless.eu/post/2015/09/EKOParty-PreCTF-Reversing-APC/>
