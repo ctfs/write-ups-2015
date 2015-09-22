@@ -21,6 +21,7 @@
 * [rev/mov](rev/mov)
 * [rev/decode-it](rev/decode-it)
 * [rev/ekogitf](rev/ekogift)
+* [rev/reversing-the-apc-cache](rev/reversing-the-apc-cache)
 * [web/hackers-market](web/hackers-market)
 * [web/safebox](web/safebox)
 * [web/flag-requester](web/flag-requester)
@@ -30,5 +31,4 @@
 * [crypto/perfect-security](crypto/perfect-security)
 * [misc/the-picture-challenge](misc/the-picture-challenge)
 * [misc/get-the-flag](misc/get-the-flag)
-* [rev/reversing-the-apc-cache](rev/reversing-the-apc-cache)
 * [web/protocols](web/protocols)
