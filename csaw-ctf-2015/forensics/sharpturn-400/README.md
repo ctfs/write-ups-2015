@@ -18,4 +18,9 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://cclub.cs.wmich.edu/planet/2015/09/21/csaw-2015-sharpturn.html>
+* <https://systemoverlord.com/blog/csaw-quals-2015-sharpturn-aka-forensics-400/>
+* <http://geeksspeak.github.io/blog/2015/09/21/csaw-2015-for400-sharpturn/>
+* <https://github.com/hypnosec/writeups/blob/master/2015/csaw-ctf/forensics/sharpturn.md>
+* <http://nandynarwhals.org/2015/09/21/csaw-2015-sharpturn-forensics-400/>
+* <https://github.com/thehobn/sharpturn>
