@@ -22,3 +22,5 @@
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-autobots/>
 * [http://bruce30262.logdown.com/posts/301623-csaw-ctf-2015-autobots](http://bruce30262.logdown.com/posts/301623-csaw-ctf-2015-autobots)
+* <http://trich.im/?p=74>
+* <https://www.pawpetersen.dk/csaw-ctf-qualification-round-2015-autobots/>
