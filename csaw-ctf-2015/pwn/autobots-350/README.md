@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://bruce30262.logdown.com/posts/301623-csaw-ctf-2015-autobots](http://bruce30262.logdown.com/posts/301623-csaw-ctf-2015-autobots)
