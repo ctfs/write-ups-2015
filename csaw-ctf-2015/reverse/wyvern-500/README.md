@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.mathyvanhoef.com/2015/09/csaw-ctf-solving-reversing-wyvern-500.html>

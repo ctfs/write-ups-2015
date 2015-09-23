@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [web/weebdate-500](web/weebdate-500)
+* [reverse/wyvern-500](reverse/wyvern-500)
 
 ## Missing write-ups
 
@@ -29,7 +30,6 @@
 * [web/K_achieve-200](web/K_achieve-200)
 * [web/throwback-600](web/throwback-600)
 * [web/lawn-care-stimulator-200](web/lawn-care-stimulator-200)
-* [reverse/wyvern-500](reverse/wyvern-500)
 * [reverse/ftp-300](reverse/ftp-300)
 * [reverse/hacking-time-200](reverse/hacking-time-200)
 * [recon/julian-cohen-100](recon/julian-cohen-100)
