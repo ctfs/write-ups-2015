@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://bruce30262.logdown.com/posts/301384--csaw-ctf-2015-hacking-time](http://bruce30262.logdown.com/posts/301384--csaw-ctf-2015-hacking-time)

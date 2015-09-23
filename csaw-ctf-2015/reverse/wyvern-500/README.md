@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <http://www.mathyvanhoef.com/2015/09/csaw-ctf-solving-reversing-wyvern-500.html>
+* [http://bruce30262.logdown.com/posts/301490-csaw-ctf-2015-wyvern](http://bruce30262.logdown.com/posts/301490-csaw-ctf-2015-wyvern)
