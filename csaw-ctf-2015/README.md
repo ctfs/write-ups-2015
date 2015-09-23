@@ -5,7 +5,8 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/zer0-day-50](crypto/zer0-day-50)
+* [crypto/notesy-100](crypto/notesy-100)
 
 ## External write-ups only
 
@@ -13,8 +14,6 @@
 * [crypto/ones_and_zer0s-50](crypto/ones_and_zer0s-50)
 * [crypto/notesy-100](crypto/notesy-100)
 * [crypto/whiter0se-50](crypto/whiter0se-50)
-* [crypto/zer0-day-50](crypto/zer0-day-50)
-* [forensics/airport-200](forensics/airport-200)
 * [forensics/flash-100](forensics/flash-100)
 * [forensics/keep-calm-and-ctf-100](forensics/keep-calm-and-ctf-100)
 * [forensics/pcapin-150](forensics/pcapin-150)
