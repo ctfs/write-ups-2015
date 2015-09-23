@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.init-labs.org/2015/09/21/csaw-web-600-write-up/>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/web/throwback>
