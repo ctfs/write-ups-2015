@@ -19,3 +19,8 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-flash/>
+* <http://fadec0d3.blogspot.com/2015/09/csaw-2015-forensics-keep-calm-ctf-flash.html>
+* <https://p4f.github.io/csaw-online-qual-forensics100/>
+* <http://www.gameofpwnz.com/?p=144>
+* <http://xd4rker.blogspot.com/2015/09/csaw-ctf-2015-forensics-100-flash-write.html>
+* <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Flash>

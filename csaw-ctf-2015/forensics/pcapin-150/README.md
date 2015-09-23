@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://p4f.github.io/csaw-online-qual-forensics150/>
+* <http://reyammer.blogspot.com/2015/09/csawctf-2015-pcapin-forensic-150-write.html>

@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.truedigitalsecurity.com/blog/2015/09/22/csaw-2015-crypto-500-bricks-of-gold-writeup/>
+* <https://www.zybuluo.com/romangol/note/179586>

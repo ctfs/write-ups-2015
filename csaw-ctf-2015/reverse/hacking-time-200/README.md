@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [http://bruce30262.logdown.com/posts/301384--csaw-ctf-2015-hacking-time](http://bruce30262.logdown.com/posts/301384--csaw-ctf-2015-hacking-time)
+* <https://gist.github.com/ocean1/4efba4e84365b58b1e87>

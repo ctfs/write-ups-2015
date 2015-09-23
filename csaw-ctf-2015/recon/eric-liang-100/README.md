@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://fadec0d3.blogspot.com/2015/09/csaw-2015-recon-trivia.html>
+* <https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Recon/Eric-Liang>
