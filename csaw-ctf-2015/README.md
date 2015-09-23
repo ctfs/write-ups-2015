@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [web/weebdate-500](web/weebdate-500)
 
 ## Missing write-ups
 
@@ -27,7 +27,6 @@
 * [pwn/ftp-2-300](pwn/ftp-2-300)
 * [web/K_stairs-100](web/K_stairs-100)
 * [web/K_achieve-200](web/K_achieve-200)
-* [web/weebdate-500](web/weebdate-500)
 * [web/throwback-600](web/throwback-600)
 * [web/lawn-care-stimulator-200](web/lawn-care-stimulator-200)
 * [reverse/wyvern-500](reverse/wyvern-500)
