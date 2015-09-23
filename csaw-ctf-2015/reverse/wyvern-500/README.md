@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://bruce30262.logdown.com/posts/301490-csaw-ctf-2015-wyvern](http://bruce30262.logdown.com/posts/301490-csaw-ctf-2015-wyvern)
