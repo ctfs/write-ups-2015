@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://l.avala.mp/blog/csaw-2015-web-500-writeup/>
