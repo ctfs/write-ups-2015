@@ -17,3 +17,6 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-contacts/>
+* <https://www.whitehatters.academy/csaw-2015-prequals-exploit-250-contacts/>
+* <http://geeksspeak.github.io/blog/2015/09/21/csaw-2015-pwn250-contacts/>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/pwn/contacts>
