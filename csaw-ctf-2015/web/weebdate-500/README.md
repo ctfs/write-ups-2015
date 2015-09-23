@@ -19,3 +19,7 @@
 ## Other write-ups and resources
 
 * <http://l.avala.mp/blog/csaw-2015-web-500-writeup/>
+* <http://buer.haus/2015/09/20/csaw-2015-web-500-weebdate-writeup/>
+* <http://w00tsec.blogspot.com/2015/09/csaw-2015-write-up-weebdate-web500.html>
+* <http://blog.init-labs.org/2015/09/21/csaw-web-500-write-up/>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/web/weebdate>
