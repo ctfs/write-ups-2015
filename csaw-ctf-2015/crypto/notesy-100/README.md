@@ -18,7 +18,10 @@
 
 ## Write-up
 
-(TODO)
+It's a simple substitution cypher. Since we have nothing to decrypt or encrypt, I decided to extract the key (encrypt the alphabet) and submit it as the flag, and it worked.
+
+The flag:
+_UNHMAQWZIDYPRCJKBGVSLOETXF_
 
 ## Other write-ups and resources
 
