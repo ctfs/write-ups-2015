@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/csaw-quals-2015-fuzyll/>
