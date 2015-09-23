@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://l.avala.mp/blog/csaw-2015-web-500-writeup/>
+* <http://w00tsec.blogspot.com/2015/09/csaw-2015-write-up-weebdate-web500.html>
