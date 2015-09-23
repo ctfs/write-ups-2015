@@ -8,7 +8,11 @@
 * none yet
 
 ## External write-ups only
-
+* [pwn/ftp-2-300](pwn/ftp-2-300)
+* [pwn/autobots-350](pwn/autobots-350)
+* [reverse/wyvern-500](reverse/wyvern-500)
+* [reverse/ftp-300](reverse/ftp-300)
+* [reverse/hacking-time-200](reverse/hacking-time-200)
 * [web/weebdate-500](web/weebdate-500)
 
 ## Missing write-ups
@@ -19,19 +23,14 @@
 * [forensics/airport-200](forensics/airport-200)
 * [forensics/keep-calm-and-ctf-100](forensics/keep-calm-and-ctf-100)
 * [forensics/flash-100](forensics/flash-100)
-* [pwn/autobots-350](pwn/autobots-350)
 * [pwn/rhinoxorus-500](pwn/rhinoxorus-500)
 * [pwn/meme-shop-400](pwn/meme-shop-400)
 * [pwn/precision-100](pwn/precision-100)
 * [pwn/contacts-250](pwn/contacts-250)
-* [pwn/ftp-2-300](pwn/ftp-2-300)
 * [web/K_stairs-100](web/K_stairs-100)
 * [web/K_achieve-200](web/K_achieve-200)
 * [web/throwback-600](web/throwback-600)
 * [web/lawn-care-stimulator-200](web/lawn-care-stimulator-200)
-* [reverse/wyvern-500](reverse/wyvern-500)
-* [reverse/ftp-300](reverse/ftp-300)
-* [reverse/hacking-time-200](reverse/hacking-time-200)
 * [recon/julian-cohen-100](recon/julian-cohen-100)
 * [recon/alexander-taylor-100](recon/alexander-taylor-100)
 * [recon/eric-liang-100](recon/eric-liang-100)
