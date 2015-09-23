@@ -20,3 +20,4 @@
 * <http://blog.init-labs.org/2015/09/21/csaw-web-200-write-up/>
 * <https://github.com/bl4de/ctf/blob/master/CSAW_CTF_2015/LawnCareimulator_Web200_writeup.md>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/web/lawncaresimulator>
+* <http://colin.keigher.ca/2015/09/csaw-ctf-2015-web-200-in-two-steps.html>
