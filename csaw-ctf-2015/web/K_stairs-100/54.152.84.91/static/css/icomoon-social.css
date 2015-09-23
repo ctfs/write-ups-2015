@@ -1,0 +1,55 @@
+.icon-google-plus,.icon-facebook,.icon-twitter,.icon-vimeo2,.icon-flickr,.icon-picassa,.icon-dribbble,.icon-github,.icon-wordpress,.icon-blogger,.icon-tumblr,.icon-soundcloud,.icon-linkedin,.icon-lastfm,.icon-stumbleupon,.icon-pinterest {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(../img/icomoon-social.png);
+	background-repeat: no-repeat;
+}
+.icon-google-plus {
+	background-position: 0 0;
+}
+.icon-facebook {
+	background-position: -32px 0;
+}
+.icon-twitter {
+	background-position: -64px 0;
+}
+.icon-vimeo2 {
+	background-position: -96px 0;
+}
+.icon-flickr {
+	background-position: -128px 0;
+}
+.icon-picassa {
+	background-position: -160px 0;
+}
+.icon-dribbble {
+	background-position: -192px 0;
+}
+.icon-github {
+	background-position: -224px 0;
+}
+.icon-wordpress {
+	background-position: -256px 0;
+}
+.icon-blogger {
+	background-position: -288px 0;
+}
+.icon-tumblr {
+	background-position: -320px 0;
+}
+.icon-soundcloud {
+	background-position: -352px 0;
+}
+.icon-linkedin {
+	background-position: -384px 0;
+}
+.icon-lastfm {
+	background-position: -416px 0;
+}
+.icon-stumbleupon {
+	background-position: -448px 0;
+}
+.icon-pinterest {
+	background-position: -480px 0;
+}

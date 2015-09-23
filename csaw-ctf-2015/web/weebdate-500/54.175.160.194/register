@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Weebdate - register</title>
+<link href="/static/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<link href="/static/css/style.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<script src="/static/js/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+<div class="header">
+    <div class='container'>
+        <div class="header_left">
+            <img src="/static/images/rate.png" alt=""/>
+        </div>
+        <div class="logo">
+            <a href="/"><img src="/static/images/logo.png" alt=""/>
+                <span>Weebdate</span>
+            </a>
+        </div>
+        <div class="header_right">
+            <ul class="header_user_info">
+
+
+
+              <a class="login" href="/login">
+                <li class="user_desc"><span class="m_1">Already user?</span> Login</li>
+                <i class="user"> </i> 
+                <div class="clearfix"> </div>
+              </a>
+              <div class="clearfix"> </div>
+            </ul>
+            <a href="/register" class="btn1 btn-1 btn1-1b">Sign Up</a>
+
+
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+<div class="profile_banner">
+    <div class="container"> 
+       <h3>register</h3>
+    </div>
+</div>
+<div class='profiles'>
+  <div class="container">
+       <div class="register">
+              <p></p>
+              <form method="POST" action=""> 
+                 <div class="register-top-grid">
+                    <h3>PERSONAL INFORMATION</h3>
+                     <div>
+                        <span>Username<label>*</label></span>
+                        <input type="text" name="username" /> 
+                     </div>
+                     <div>
+                        <span>Password<label>*</label></span>
+                        <input type="password" name="password" /> 
+                     </div>
+                     <div class="clearfix"> </div>
+                     </div>
+                             <div class="clearfix"> </div>
+                       <input type="submit" value="submit">
+                </form>
+           </div>
+  </div>
+</div>
+<div class="footer">
+    <div class="container">
+        <div class="cssmenu">
+          <ul>
+            <li class="active"><a href="#">Home</a></li> 
+            <li><a href="#">About</a></li>
+            <li><a href="#">Add Profile</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+        <div class="copy">
+        </div>
+        <div class="social"> 
+            <ul class="footer_social">
+              <li><a href="#"> <i class="fb"> </i> </a></li>
+              <li><a href="#"> <i class="tw"> </i> </a></li>
+           </ul>
+        </div>
+        <div class='clearfix'> </div>
+    </div>
+</div>
+</body>
+</html>     
