@@ -25,10 +25,10 @@
 * [web/hackers-market](web/hackers-market)
 * [web/safebox](web/safebox)
 * [web/flag-requester](web/flag-requester)
+* [web/protocols](web/protocols)
 
 ## Missing write-ups
 
 * [crypto/perfect-security](crypto/perfect-security)
 * [misc/the-picture-challenge](misc/the-picture-challenge)
 * [misc/get-the-flag](misc/get-the-flag)
-* [web/protocols](web/protocols)
