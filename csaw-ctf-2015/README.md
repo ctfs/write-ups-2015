@@ -11,8 +11,9 @@
 ## External write-ups only
 
 * [crypto/bricks-of-gold-500](crypto/bricks-of-gold-500)
-* [crypto/ones_and_zer0s-50](crypto/ones_and_zer0s-50)
 * [crypto/notesy-100](crypto/notesy-100)
+* [crypto/ones_and_zer0s-50](crypto/ones_and_zer0s-50)
+* [crypto/punchout-200](crypto/punchout-200)
 * [crypto/whiter0se-50](crypto/whiter0se-50)
 * [forensics/flash-100](forensics/flash-100)
 * [forensics/keep-calm-and-ctf-100](forensics/keep-calm-and-ctf-100)
@@ -43,6 +44,5 @@
 
 ## Missing write-ups
 
-* [crypto/punchout-200](crypto/punchout-200)
 * [pwn/rhinoxorus-500](pwn/rhinoxorus-500)
 * [web/K_achieve-200](web/K_achieve-200)
