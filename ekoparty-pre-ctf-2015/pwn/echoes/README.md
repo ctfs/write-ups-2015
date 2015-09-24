@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-echoes/>
+* <https://www.whitehatters.academy/pwn200-ret2libc/>
