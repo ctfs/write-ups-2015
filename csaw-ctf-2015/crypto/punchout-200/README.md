@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+[https://gist.github.com/triazo/f8379a5df446de5dd00e](https://gist.github.com/triazo/f8379a5df446de5dd00e)
