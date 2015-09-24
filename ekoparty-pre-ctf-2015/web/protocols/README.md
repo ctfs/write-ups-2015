@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* (TODO)
+* https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-web100-protocols-write-up/
