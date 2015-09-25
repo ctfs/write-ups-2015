@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://www.tasteless.eu/post/2015/09/EKOParty-PreCTF-Reversing-APC/>
+* <https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-rev200-reversing-the-apc-cache-write-up/>

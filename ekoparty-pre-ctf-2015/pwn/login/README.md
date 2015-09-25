@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-login/>
+* <https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-pwn50-login-write-up/>

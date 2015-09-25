@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-base-unknown/>
+* <https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-cry25-base-unknown-write-up/>

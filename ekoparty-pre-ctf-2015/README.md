@@ -11,7 +11,9 @@
 
 * [crypto/base-unknown](crypto/base-unknown)
 * [crypto/classic-crypto](crypto/classic-crypto)
+* [crypto/perfect-security](crypto/perfect-security)
 * [crypto/rsa-2070](crypto/rsa-2070)
+* [misc/get-the-flag](misc/get-the-flag)
 * [misc/password-manager](misc/password-manager)
 * [misc/reversing-psychology](misc/reversing-psychology)
 * [pwn/prng-service](pwn/prng-service)
@@ -29,6 +31,4 @@
 
 ## Missing write-ups
 
-* [crypto/perfect-security](crypto/perfect-security)
 * [misc/the-picture-challenge](misc/the-picture-challenge)
-* [misc/get-the-flag](misc/get-the-flag)
