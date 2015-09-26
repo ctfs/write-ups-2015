@@ -27,3 +27,4 @@ _UNHMAQWZIDYPRCJKBGVSLOETXF_
 
 * <http://ctf-for-beginners.blogspot.com/2015/09/write-up-csaw-ctf-2015-crypto-notesy-100.html>
 * <http://fadec0d3.blogspot.com/2015/09/csaw-2015-crypto-50-50-50-100.html>
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/18-csaw-2015-notesy>
