@@ -16,3 +16,4 @@
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-ones-and-zer0es/>
 * <http://fadec0d3.blogspot.com/2015/09/csaw-2015-crypto-50-50-50-100.html>
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/19-csaw-2015-ones-and-zer0es>
