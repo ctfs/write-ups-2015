@@ -22,3 +22,4 @@
 * <http://www.securifera.com/blog/2015/09/22/csaw-2015-precision/>
 * <https://www.whitehatters.academy/csaw2015-quals-precision-exploit-100/>
 * <http://blog.init-labs.org/2015/09/22/csaw-pwn-100-write-up/>
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/20-csaw-2015-precision>
