@@ -17,7 +17,8 @@
 (TODO)
 
 ## Other write-ups and resources
-
 * <https://p4f.github.io/csaw-online-qual-forensics100/>
 * <https://github.com/hypnosec/writeups/blob/master/2015/csaw-ctf/forensics/transfer.md>
-* <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Transfer>
+* <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Transfer> 
+* <https://djekmani.github.io/posts/CSAW2015-writeup-transfer-forensics/>
+
