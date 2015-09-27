@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/mma-ctf-2015-miyako-stega-write-up/>
