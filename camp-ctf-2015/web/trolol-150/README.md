@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/camp-ctf-2015-trolol-web-write-up/>
