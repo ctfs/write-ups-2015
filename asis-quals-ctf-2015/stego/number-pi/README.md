@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/asis-quals-ctf-2015-number-pistega-write-up/>

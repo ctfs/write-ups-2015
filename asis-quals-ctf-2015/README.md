@@ -31,6 +31,8 @@
 * [trivia/whats-example-flag](trivia/whats-example-flag)
 * [web/best-photo](web/best-photo)
 * [web/secret-message](web/secret-message)
+* [stego/blind](stego/blind)
+* [stego/number-pi](stego/number-pi)
 
 ## Missing write-ups
 
@@ -40,8 +42,6 @@
 * [pwn/auth-ng](pwn/auth-ng)
 * [pwn/shellc0d3](pwn/shellc0d3)
 * [reverse/asis-card](reverse/asis-card)
-* [stego/blind](stego/blind)
-* [stego/number-pi](stego/number-pi)
 * [trivia/bonus-point](trivia/bonus-point)
 * [trivia/launch-printer](trivia/launch-printer)
 * [trivia/survey](trivia/survey)
