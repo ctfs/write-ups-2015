@@ -19,3 +19,6 @@
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-whiter0se/>
 * <http://fadec0d3.blogspot.com/2015/09/csaw-2015-crypto-50-50-50-100.html>
 * <http://www.gameofpwnz.com/?p=135>
+* <http://blog.bitsforeveryone.com/2015/09/writeup-csaw-2015-crypto-50-whiter0se.html>
+* <http://cafelinux.info/articles/writeups-csaw-2015-crypto-50-whiter0se>
+* <https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Crypto/whiter0se>

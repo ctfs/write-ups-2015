@@ -22,3 +22,5 @@
 * <https://github.com/hypnosec/writeups/blob/master/2015/csaw-ctf/forensics/transfer.md>
 * <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Transfer>
 * <https://djekmani.github.io/posts/CSAW2015-writeup-transfer-forensics/>
+* <https://ctftime.org/writeup/1675>
+* <http://kikisctf.blogspot.hr/2015/09/csaw-2015-quals-forensic-100-transfer.html>

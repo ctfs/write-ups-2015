@@ -24,3 +24,4 @@
 * <https://github.com/hypnosec/writeups/blob/master/2015/csaw-ctf/forensics/sharpturn.md>
 * <http://nandynarwhals.org/2015/09/21/csaw-2015-sharpturn-forensics-400/>
 * <https://github.com/thehobn/sharpturn>
+* <http://blog.bitsforeveryone.com/2015/09/writeup-csaw-2015-sharpturn.html>

@@ -19,3 +19,5 @@
 * <https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Recon/Alexander-Taylor>
 * <http://ctf-for-beginners.blogspot.com/2015/09/write-up-csaw-ctf-2015-recon-alexander.html>
 * <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Alexander%20Taylor>
+* <http://thekillingtime.com/?p=319>
+* <https://github.com/p4-team/ctf/tree/master/2015-09-16-csaw/recon_100_alexander_taylor>

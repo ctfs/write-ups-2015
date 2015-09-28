@@ -23,3 +23,4 @@
 * <http://w00tsec.blogspot.com/2015/09/csaw-2015-write-up-weebdate-web500.html>
 * <http://blog.init-labs.org/2015/09/21/csaw-web-500-write-up/>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/web/weebdate>
+* <https://github.com/p4-team/ctf/tree/master/2015-09-16-csaw/web_500_weebdate>
