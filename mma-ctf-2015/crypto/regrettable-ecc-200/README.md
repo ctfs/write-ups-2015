@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/regrettable%20ecc/57/) 
+* <https://github.com/tyhan/CTF/tree/master/MMA2015/regrettable_ecc>
