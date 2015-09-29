@@ -25,3 +25,4 @@
 * <http://nandynarwhals.org/2015/09/21/csaw-2015-sharpturn-forensics-400/>
 * <https://github.com/thehobn/sharpturn>
 * <http://blog.bitsforeveryone.com/2015/09/writeup-csaw-2015-sharpturn.html>
+* <http://conorpp.com/blog/how-to-fix-a-corrupted-file-by-brute-force/>
