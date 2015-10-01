@@ -1,0 +1,359 @@
+1	K17	5805
+2	blue-lotus	5105
+3	binja	5012
+4	0ops	4505
+5	_0x0_	4410
+6	TokyoWesterns	4313
+7	217	4211
+8	Shellphish	4209
+9	OO AT XX 4	4005
+10	BambooFox	4005
+11	CyKor	3913
+12	CLGT	3805
+13	negainoido	3705
+14	eatingBoys	3310
+15	superflip	3305
+16	vulscryptos	3305
+17	dcua	3104
+18	m1z0r3	3005
+19	kyuridenamida	3005
+20	0daysober	2910
+21	dtss	2908
+22	&"$%&'hNslIIld910)dJ1n217ad@`=~	2906
+23	Play4Fun	2905
+24	PPP	2905
+25	st4b	2905
+26	sky3	2705
+27	CSC_RO	2505
+28	Dragon Sector	2505
+29	RabbitHouse	2505
+30	b01lers	2505
+31	NUSGreyhats	2406
+32	!SpamAndHex	2405
+33	BalalaikaCr3w	2300
+34	shtarkraft	2205
+35	all4hacks	2205
+36	balsn	2205
+37	Knightsec	2205
+38	BOC	2200
+39	pwnffman	2105
+40	LSTAR64	2105
+41	9447	2105
+42	YOKARO-MON	2102
+43	Reborn	2100
+44	cMc_MGKing	2100
+45	ids-team	2100
+46	Ten*48	2005
+47	GoGoSING	2005
+48	0x000505AD	2005
+49	Aquarium	2005
+50	Sigma	2000
+51	******	1805
+52	infoseciitr	1805
+53	PwnThyBytes	1705
+54	w0pr	1705
+55	OssanHoihoi	1705
+56	noraneco	1700
+57	c21h30o2	1605
+58	RDot	1600
+59	int0x80	1600
+60	RandomsCTFTeam	1505
+61	UCCU	1500
+62	sherl0ck	1500
+63	cho_ru_ru	1405
+64	bamanpiderman	1405
+65	int3pids	1405
+66	7HxzZ	1400
+67	On est pas Contents	1400
+68	Snatch The Root	1400
+69	balicasag	1400
+70	Mt.Takedashi	1305
+71	squareroots	1305
+72	People of the 8th floor	1305
+73	4then4	1305
+74	torikabuto	1300
+75	Look for a team. cowardmind@gmai	1300
+76	Insight-labs	1208
+77	QuanYang	1205
+78	ufologists	1200
+79	LC/BC	1200
+80	dtuhax	1200
+81	p4	1200
+82	marimarimarigold	1200
+83	TimeIDA	1105
+84	ming	1105
+85	kobanzame	1105
+86	khack40	1100
+87	Whitehatters Academy	1100
+88	SiBears	1100
+89	Fast Affine Projection	1100
+90	Yachibouzu	1005
+91	meowmeowmeowmeowmeowmeowmeow	1005
+92	p3r0z	1000
+93	q86	1000
+94	The Last of Us	1000
+95	smokeleeteveryday	1000
+96	H4x0rPsch0rr	1000
+97	I	1000
+98	RNNF	1000
+99	DC351	1000
+100	ggg	1000
+101	Bitnuts	1000
+102	Cocob0iz	901
+103	ASLR	900
+104	hackcats	900
+105	0x8f	900
+106	TESTTEAMPLEASEIGNORE	900
+107	TenDollar	900
+108	1T0H3I	900
+109	Capture The Swag	900
+110	Team Enu	900
+111	higlog	900
+112	ckm	900
+113	0xbadf00d	805
+114	PhoenixForce	805
+115	aba	800
+116	SUSlo.PAS	800
+117	loli washing cafe	800
+118	No Internet Access	800
+119	s0meAlliedPyrates	800
+120	mau5	800
+121	yeee	800
+122	SBT	800
+123	MAVISANG	800
+124	narisuke	705
+125	"monads"	700
+126	okudo3	700
+127	2nit	700
+128	ctpm	700
+129	sagume	700
+130	ampulex	700
+131	R0-Crew	700
+132	goCTFONWeekdays	700
+133	Xv10	700
+134	pl	700
+135	OnwardSecurity	700
+136	d1am0nd	600
+137	_girav_	600
+138	Mr.Robot	600
+139	3mpoma	600
+140	Legal Spies	600
+141	segfault	600
+142	yeppeppep	600
+143	74abrfh	600
+144	Tengu	600
+145	117#	600
+146	0x90r00t	600
+147	opentosome	600
+148	Follow_the_Sun	600
+149	e2.8a.95	600
+150	TeamZAP	600
+151	The Cat is #1!!	600
+152	MiTm	600
+153	Twackers	600
+154	Route9	600
+155	Ainge Crot	600
+156	TheGoonies	600
+157	nullify	600
+158	nubl3t	600
+159	Autr011bots	500
+160	Vud00child	500
+161	DokuDempa	500
+162	hst.tw	500
+163	NoChicken	500
+164	HITCON GIRLS	500
+165	p03p0wn	500
+166	YMHC.gz	500
+167	Tasteless	500
+168	Brizz	500
+169	SpecialPizzaSource	500
+170	ByteBandits	500
+171	Tower Defence Singapore	500
+172	mal	500
+173	otten10	500
+174	Nooelec	500
+175	Glimpes Of Grandeur	500
+176	hexpressoctf	500
+177	Bottom of the Bottle	500
+178	SPN	500
+179	alTobuns	500
+180	SHARK	500
+181	g0tiu5a	500
+182	soko	500
+183	BelumAdaNama	500
+184	hooters	500
+185	LeetZeppelin	500
+186	sanma_of_machida	401
+187	Dystopian Narwhals	400
+188	PACMAN	400
+189	Hackstars	400
+190	murotas	400
+191	HackThePlanet	400
+192	HeXA	400
+193	woolycryptocreature	400
+194	axe	400
+195	xssssx	400
+196	konkon	400
+197	wight	400
+198	kagaya	400
+199	1up	400
+200	enn	400
+201	!+1@6	400
+202	has_NOTHING_todo	400
+203	h3x	400
+204	Oy Vsyo	400
+205	BioHazard	400
+206	sadpandasecurity	400
+207	/dev/null	400
+208	NISNIS	400
+209	xSTF	400
+210	Kurawa In Disorder	400
+211	CLDL	302
+212	testteampleaseignore	300
+213	sirius	300
+214	groke	300
+215	k0b4	300
+216	sisters	300
+217	vimvaders	300
+218	dqi	300
+219	G04tzZZ	300
+220	Single Gateway	300
+221	Ring4	300
+222	Sausage	300
+223	Bash	300
+224	Lv3_Probation_O	300
+225	th3jackers1	300
+226	aho	300
+227	500 Internal Human Error	300
+228	CAFEBABE	300
+229	M0C	300
+230	tgo_lab	300
+231	Yamagi.com	300
+232	Kokoro6406	300
+233	meshinotsuka	300
+234	shsirk_in	300
+235	ForgotTeamPasswd	300
+236	bi0s	300
+237	chobe	300
+238	FSTeam	300
+239	sendy	300
+240	Xtatic	300
+241	msr62514@pooae.com	300
+242	Csevendudes	300
+243	Honeypot	300
+244	taurus	300
+245	Proteus	300
+246	Chikka	300
+247	takopa	300
+248	uvb-76	300
+249	talky	300
+250	uiuctf	300
+251	EchoTeam	200
+252	snh_CTF	200
+253	CTFNovice	200
+254	Loststar	200
+255	PolyHack_FR	200
+256	smi1e	200
+257	jcfg	200
+258	WCDI	200
+259	MostWanted	200
+260	zonda	200
+261	blah	200
+262	momofuku	200
+263	Ni4osi	200
+264	IUTTeam	200
+265	NullByte	200
+266	Go! Go! Meguro!	200
+267	puppet_lads	200
+268	gyoiler	200
+269	Hrms5	200
+270	Team JM	200
+271	testsat	200
+272	ASIS	200
+273	0xDEFACED	200
+274	CatsInBags	200
+275	Team ChinaBox	200
+276	saku-labs	200
+277	jibashiri	200
+278	vulnhub-ctf	200
+279	RPISEC	200
+280	Ida10-2015	200
+281	Binary Vikings	200
+282	FiveTree	200
+283	ss	200
+284	AGUAPANELA	200
+285	CTF-infinit	200
+286	MSEC	200
+287	fistful_of_bits	200
+288	team rookies	200
+289	MOD	100
+290	tomcr00se	100
+291	YoRoxx	100
+292	IPFactory	100
+293	neglect	100
+294	M3SI	100
+295	utsubot	100
+296	HackingForSoju	100
+297	Ghostship	100
+298	#include	100
+299	tenko5987	100
+300	805	100
+301	merah-putih	100
+302	knk48	100
+303	rellikbijan	100
+304	RTFM - Red Team Freakin' Maniacs	100
+305	SegFault	100
+306	g0at	100
+307	Wasy	100
+308	Lubebul	100
+309	k.z.a	100
+310	oekaki	100
+311	h0lid@y	100
+312	ILikeTrains	100
+313	Fuga	100
+314	N15RA	100
+315	mk	100
+316	r3b00t	100
+317	ShinyPandas	100
+318	HoGU	100
+319	P1ggyB1rd	100
+320	YSNR	100
+320	NCC(post-internet)	100
+322	BlackCloud	100
+323	TommyTommy	100
+324	TheDragon	100
+325	f1nger5	100
+326	EpicTeam	100
+327	fuffateam	100
+328	thekillingtime	100
+329	g3ts	100
+330	AOOM	100
+331	#infosec	100
+332	MELON the Parakeet	100
+333	Securimag	100
+334	wasamusume	100
+335	kiss_shot	100
+336	Capture The Yeah	100
+337	AmumuCarryU	100
+338	just4funteam	100
+339	s111	100
+340	psuje	100
+341	NTHU_WhiteHat	100
+342	fightmilk	100
+343	HeaderEnrichment	100
+344	Invulnerable	100
+345	mofumofu	100
+346	EvilsWorld	100
+347	cyberkastike	100
+348	SGFk	100
+349	Winning Like Webster	100
+350	tuscom	100
+351	Cyber Defense Team SDSU	100
+352	3sigma	100
+353	f60	100
+354	CSI Oryza	100
+355	ISITDTU	100
+356	mickeys	100
+357	Y3Rp	100
+358	Efiens	100
+359	forx	100
