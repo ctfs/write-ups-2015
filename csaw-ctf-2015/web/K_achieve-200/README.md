@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://itszn.com/blog/?p=20> 

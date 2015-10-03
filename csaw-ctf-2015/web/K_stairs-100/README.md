@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Web/K_-Stairs>
+* <http://itszn.com/blog/?p=20>
