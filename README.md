@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ctfs/write-ups-2015.png?label=ready&title=Ready)](https://waffle.io/ctfs/write-ups-2015)
 # CTF write-ups 2015
 
 There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
