@@ -9,12 +9,11 @@
 
 ## External write-ups only
 
-* none yet
+* [exploit/such-exploit-much-random-300](exploit/such-exploit-much-random-300)
 
 ## Missing write-ups
 
 * [exploit/master-of-exploit-400](exploit/master-of-exploit-400)
-* [exploit/such-exploit-much-random-300](exploit/such-exploit-much-random-300)
 * [exploit/that-moment-200](exploit/that-moment-200)
 * [exploit/password-encrypting-tool-100](exploit/password-encrypting-tool-100)
 * [misc/can-you-read-pacifico-400](misc/can-you-read-pacifico-400)
