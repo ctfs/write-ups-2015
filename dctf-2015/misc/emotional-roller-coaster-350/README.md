@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/defcamp-quals-ctf-2015-emotional-roller-coaster-misc-write-up/> (French)
