@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/asis-final-ctf-2015-impossible-web-write-up/> (French)
