@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+http://blog.squareroots.de/en/2015/10/asis-ctf-finals-2015-10-sed-crypto-175/
