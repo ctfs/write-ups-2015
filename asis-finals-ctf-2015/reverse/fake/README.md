@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+https://kt.pe/blog/2015/10/asis-2015-finals-fake/
