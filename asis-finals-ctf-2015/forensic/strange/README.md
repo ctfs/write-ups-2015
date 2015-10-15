@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 http://blog.squareroots.de/en/2015/10/asis-ctf-finals-2015-strange/
+https://kt.pe/blog/2015/10/asis-2015-finals-strange/
