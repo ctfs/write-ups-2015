@@ -43,7 +43,7 @@ case GLOBAL:
     stack.push(className);
     break;
 ```
-Basically, `findClass` takes two strings, a modulename and a name. It looks if modulename exists in `this` and returns this[modulename][name] if name exists in modulename.
+Basically, `findClass` takes two strings, a modulename and a name. It looks if modulename exists in `this` and returns `this[modulename][name]` if name exists in `this[modulename]`.
 
 A blacklist of dangerous functions prevents usage of `eval` or `require`...
 
@@ -102,15 +102,15 @@ var pickle = ""+
 "c"+ // GLOBAL
 "global\n"+ //moduleName
 "global\n"+ //name
-"S'rediuce'\n"+ // push arbitrary String 'rediuce'
+"S'rekire'\n"+ // push arbitrary String 'rekire'
 "c"+ // GLOBAL
 "b\n"+ //moduleName
 "_load\n"+ //name
-// now we got [`this`, 'rediuce', `process.mainModule.constructor._load`]
+// now we got [`this`, 'rekire', `process.mainModule.constructor._load`]
 "s" // SETITEM
 ```
 
-We have an equivalent of the `reduce` function directly callable from `this.rediuce`, so now we can `require` any library and use the same technique to retrieve any function.
+We have an equivalent of the `require` function directly callable from `this.rekire`, so now we can `require` any library and use the same technique to retrieve any function.
 
 ```
 pickle += ""+
@@ -120,12 +120,12 @@ pickle += ""+
 "S'cp'\n"+ // push arbitrary String 'cp'
 "c"+ // GLOBAL
 "global\n"+ //moduleName
-"rediuce\n"+ //name
+"rekire\n"+ //name
 "("+ // a marker used to define the begining of something
 "S'child_process'\n"+ // 'child_process' String
 "l"+ // l create an array of elements until the marker
-// stack looks like [`this`, 'cp', `this.rediuce`, ['child_process']]
-"R"+ // REDUCE apply `this.rediuce` on 'child_process'
+// stack looks like [`this`, 'cp', `this.rekire`, ['child_process']]
+"R"+ // REDUCE apply `this.rekire` on 'child_process'
 // stack looks like [`this`, 'cp', `child_process`]
 "s"+ // SETITEM so we have this.cp accessible
 "c"+ // GLOBAL
@@ -184,11 +184,11 @@ var pickle = ""+
 "c"+ // GLOBAL
 "global\n"+ //moduleName
 "global\n"+ //name
-"S'rediuce'\n"+ // push arbitrary String 'rediuce'
+"S'rekire'\n"+ // push arbitrary String 'rekire'
 "c"+ // GLOBAL
 "b\n"+ //moduleName
 "_load\n"+ //name
-// now we got [`this`, 'rediuce', `process.mainModule.constructor._load`]
+// now we got [`this`, 'rekire', `process.mainModule.constructor._load`]
 "s" // SETITEM
 
 pickle += ""+
@@ -198,12 +198,12 @@ pickle += ""+
 "S'fs'\n"+ // push arbitrary String 'fs'
 "c"+ // GLOBAL
 "global\n"+ //moduleName
-"rediuce\n"+ //name
+"rekire\n"+ //name
 "("+ // a marker used to define the begining of something
 "S'fs'\n"+ // 'fs' String
 "l"+ // l create an array of elements until the marker
-// stack looks like [`this`, 'fs', `this.rediuce`, ['fs']]
-"R"+ // REDUCE apply `this.rediuce` on 'fs'
+// stack looks like [`this`, 'fs', `this.rekire`, ['fs']]
+"R"+ // REDUCE apply `this.rekire` on 'fs'
 // stack looks like [`this`, 'fs', `fs`]
 "s"+ // SETITEM so we have this.fs accessible
 
