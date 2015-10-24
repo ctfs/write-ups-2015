@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-https://kt.pe/blog/2015/10/asis-2015-finals-impossible/
+* <https://kt.pe/blog/2015/10/asis-2015-finals-impossible/>
+* <http://khack40.info/asis-final-ctf-2015-impossible-web-write-up/> (French)
