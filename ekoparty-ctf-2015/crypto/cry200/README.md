@@ -13,17 +13,16 @@
 
 
 ## Write-up
-Summary: Breaking XOR-Shift
+Summary: Breaking XOR(-Right)-Shift
 
-This "cryptor" is using XOR--Shift.
+The "cryptor" is using XOR(-Right)-Shift.
 
-XOR-Shift is following things.
+XOR(-Right)-Shift is here.
 ```
 y = enc(x) = x ^ (x >> 16)
 ```
 
 this is very weak, and decrypt function is here:
-
 ```
 dec(y) {
   x = y & (0b11111111111111111 << 16)
@@ -40,13 +39,13 @@ import struct
 # cipher text
 ct = "CjBPewYGc2gdD3RpMRNfdDcQX3UGGmhpBxZhYhFlfQA=".decode("base64")
 
-# decompose into 4 bytes each.(and unpack)
+# decompose into 4 bytes.(and unpack)
 c = []
 while len(ct) > 0:
   c += [struct.unpack("I", ct[:4])[0]]
   ct = ct[4:]
 
-
+# xor-(right)-shift decryptor
 def dec_xorshift(x, b=16):
   res = x & (0b11111111111111111 << 32-b);
   res += (x ^ (res >> b)) & (0b111111111111111);
