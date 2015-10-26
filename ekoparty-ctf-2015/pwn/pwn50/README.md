@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.whitehatters.academy/ekoparty-2015-baby/
