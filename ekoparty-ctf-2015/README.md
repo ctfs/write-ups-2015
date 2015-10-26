@@ -5,7 +5,8 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/cry200](crypto/cry200)
+* [misc/misc100](misc/misc100)
 
 ## External write-ups only
 
@@ -14,11 +15,9 @@
 ## Missing write-ups
 
 * [crypto/cry100](crypto/cry100)
-* [crypto/cry200](crypto/cry200)
 * [crypto/cry300](crypto/cry300)
 * [crypto/cry400](crypto/cry400)
 * [crypto/cry50](crypto/cry50)
-* [misc/misc100](misc/misc100)
 * [misc/misc200](misc/misc200)
 * [misc/misc300](misc/misc300)
 * [misc/misc400](misc/misc400)
