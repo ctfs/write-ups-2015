@@ -11,8 +11,12 @@
 
 
 ## Write-up
+I got a mysterious text file. I guessed that is key scan code... Bingo!
 
-(TODO)
+decode by hand using this: http://www.computer-engineering.org/ps2keyboard/scancodes1.html
+
+...and some minutes after, I got flag. We were First Solve!.
+flag is `EKO{ibm_model_m}`
 
 ## Other write-ups and resources
 
