@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * https://www.whitehatters.academy/ekoparty-2015-baby/
+* https://gist.github.com/soez/4ee5eb07d4a3982815ad

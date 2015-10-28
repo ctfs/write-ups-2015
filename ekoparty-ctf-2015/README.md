@@ -10,7 +10,7 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/pwn50](pwn/pwn50)
 
 ## Missing write-ups
 
@@ -25,7 +25,6 @@
 * [pwn/pwn100](pwn/pwn100)
 * [pwn/pwn200](pwn/pwn200)
 * [pwn/pwn300](pwn/pwn300)
-* [pwn/pwn50](pwn/pwn50)
 * [reversing/rev100](reversing/rev100)
 * [reversing/rev200](reversing/rev200)
 * [reversing/rev300](reversing/rev300)
