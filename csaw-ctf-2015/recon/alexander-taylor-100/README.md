@@ -21,3 +21,4 @@
 * <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Alexander%20Taylor>
 * <http://thekillingtime.com/?p=319>
 * <https://github.com/p4-team/ctf/tree/master/2015-09-16-csaw/recon_100_alexander_taylor>
+* <http://blog.isis.poly.edu/2015/09/21/csaw-ctf-alexander-taylor.html>
