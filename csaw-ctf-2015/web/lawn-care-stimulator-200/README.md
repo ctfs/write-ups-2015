@@ -23,3 +23,4 @@
 * <http://colin.keigher.ca/2015/09/csaw-ctf-2015-web-200-in-two-steps.html>
 * <http://cafelinux.info/articles/writeups-csaw-2015-web-200-lawn-care-simulator>
 * <https://github.com/p4-team/ctf/tree/master/2015-09-16-csaw/web_200_lawn_care_simulator>
+* <http://blog.isis.poly.edu/2015/10/03/csaw-ctf-lawn-care.html>
