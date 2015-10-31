@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Champion</title>
+    <link href="champion.css" rel="stylesheet"></link>
+    <script src="merged.js"></script>
+  </head>
+  <body>
+    <div>
+      <canvas id="output" width="800" height="600"></canvas>
+      <div id="legend">
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/player.png"></div>
+          <div class="description">You</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/boots.png"></div>
+          <div class="description">Jumping boots - let you jump reeeeeally high!</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/player_with_boots.png"></div>
+          <div class="description">You with jumping boots</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/L.png"></div>
+          <div class="description">Confused robot, randomly shoots lazors</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/lazor.png"></div>
+          <div class="description">Lazor - don't touch</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/marcher_r.png"></div>
+          <div class="description">Walker-Bot - don't get in its way</div>
+        </div>
+        <div class="legendElement">
+          <div class="imgContainer"><img src="tiles/X.png"></div>
+          <div class="description">The exit - you want to get here</div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button id="btn_load">load replay</button>
+      <button id="btn_reset">restart game</button>
+      <a href="/scoreboard" target="_blank">view highscore</a>
+    </div>
+    <div>
+      <textarea id="replay_inout" cols="80" rows="10"></textarea>
+    </div>
+  </body>
+</html>
