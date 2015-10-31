@@ -1,7 +1,7 @@
 # Hack.lu CTF 2015 CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [http://school.fluxfingers.net/](http://school.fluxfingers.net/)
+* [Scoreboard](https://school.fluxfingers.net/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
