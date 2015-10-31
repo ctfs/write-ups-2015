@@ -1,7 +1,7 @@
 # WhiteHat Grand Prix Qualification Round CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [https://grandprix.whitehatvn.com](https://grandprix.whitehatvn.com)
+* [Scoreboard](https://ctftime.org/event/246) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
