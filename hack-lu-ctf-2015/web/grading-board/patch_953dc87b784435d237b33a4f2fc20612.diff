@@ -1,0 +1,333 @@
+diff --git a/controller/BaseController.php b/controller/BaseController.php
+index 8357182..359909f 100644
+--- a/controller/BaseController.php
++++ b/controller/BaseController.php
+@@ -20,10 +20,10 @@ class BaseController
+ 		$this->vars = array();
+ 	}
+ 
+-	public function run($db)
++	public function run($db, $bouncer)
+ 	{
+ 		if (in_array($this->action, get_class_methods($this)))
+-			$this->{$this->action}($db);
++			$this->{$this->action}($db, $bouncer);
+ 		else
+ 			throw new Exception("Controller can't handle action: ".$this->action);
+ 	}
+diff --git a/controller/DefaultController.php b/controller/DefaultController.php
+index cff1d05..4047fcd 100644
+--- a/controller/DefaultController.php
++++ b/controller/DefaultController.php
+@@ -1,15 +1,15 @@
+ <?php
+ class DefaultController extends BaseController
+ {
+-	public function indexAction($db)
++	public function indexAction($db, $bouncer)
+ 	{
+ 		$this->render($this->site.'.twig', $this->vars);
+ 	}
+ 
+-	public function searchAction($db)
++	public function searchAction($db, $bouncer)
+ 	{
+-		$cond = "WHERE first_name='{$_REQUEST['name']}'
+-			 OR last_name='{$_REQUEST['name']}'
++		$cond = "WHERE first_name='{$db->sanitize($_REQUEST['name'])}'
++			 OR last_name='{$db->sanitize($_REQUEST['name'])}'
+ 			 ORDER BY id ASC LIMIT 5";
+ 
+ 		$data = $db->select('id, first_name, last_name', 'student', $cond);
+diff --git a/controller/PanelController.php b/controller/PanelController.php
+index 42acc15..09537fb 100644
+--- a/controller/PanelController.php
++++ b/controller/PanelController.php
+@@ -1,7 +1,7 @@
+ <?php
+ class PanelController extends BaseController
+ {
+-	public function indexAction($db)
++	public function indexAction($db, $bouncer)
+ 	{
+ 		$data = $db->select('*', 'student', '');
+ 		$this->vars['phase_two'] = false;
+@@ -9,18 +9,33 @@ class PanelController extends BaseController
+ 		$this->render($this->site.'.twig', $this->vars);
+ 	}
+ 
+-	public function loginAction($db)
++	public function loginAction($db, $bouncer)
+ 	{
+ 		$username = $_REQUEST['username'];
+ 		$password = $_REQUEST['password'];
+ 
+ 		// password = trolo!Fool
+ 		if ($username !== "kdavis" || sha1($password) !== "c155164c8b0acab5ff5abba0dd1dd5e282af266a") {
++			$this->vars['phase_two'] = false;
+ 			$this->vars['error'] = "Invalid credentials";
+ 			$this->render($this->site.'.twig', $this->vars);
+ 		}
+ 
+-		$this->vars['flag'] = FLAG;
++		$this->vars['phase_two'] = true;
++		$this->render($this->site.'.twig', $this->vars);
++	}
++
++	public function login2Action($db, $bouncer)
++	{
++		$token = $_REQUEST['authtoken'];
++		$real_token = $bouncer->clientGetToken();
++
++		if ($token === $real_token) {
++			$this->vars['flag'] = FLAG;
++			$this->render($this->site.'.twig', $this->vars);
++		}
++
++		$this->vars['error'] = "Invalid token";
+ 		$this->render($this->site.'.twig', $this->vars);
+ 	}
+ }
+diff --git a/include/Bouncer.php b/include/Bouncer.php
+new file mode 100644
+index 0000000..d2ff5bf
+--- /dev/null
++++ b/include/Bouncer.php
+@@ -0,0 +1,148 @@
++<?php
++class Bouncer
++{
++	protected $db;
++	protected $client;
++	protected $table;
++	protected $master_pass;
++
++	protected $max_tries;
++
++	public function __construct($db, $master_pass)
++	{
++		$this->db = $db;
++		$this->client = "c".substr(md5($_SERVER['REMOTE_ADDR']), 0, 15);
++		$this->table = "t".substr(md5($_SERVER['REMOTE_ADDR']), 0, 15);
++		$this->master_pass = $master_pass;
++
++		$this->max_tries = 10;
++	}
++
++	public function guard()
++	{
++		if (!$this->clientExists()) {
++			if (($ret = $this->clientCreate()) < 0)
++				throw new Exception("oh boy, can't create new client: $ret mysql error :(");
++			if (($ret = $this->clientNewToken()) < 0)
++				throw new Exception("oO can't create new token: $ret mysql error :(");
++
++			return $this->reconnect();
++		}
++
++		$tries = $this->clientGetTries();
++		if ($tries < 0 || $tries > $this->max_tries) {
++			if ($this->clientRefreshToken() < 0)
++				throw new Exception("Couldn't refresh token");
++		} else {
++			$this->clientIncTries();
++		}
++
++		return $this->reconnect();
++	}
++
++	public function clientGetToken()
++	{
++		$row = $this->db->select('token', $this->table, 'WHERE id=1');
++
++		return $row[0]['token'];
++	}
++
++	private function reconnect()
++	{
++		mysql_close();
++
++		return new Database($this->db->getHost(),
++					$this->client,
++					$this->master_pass,
++					$this->db->getDB(),
++					$this->db->getPrefix());
++	}
++
++	private function clientIncTries()
++	{
++		$qry = "UPDATE {$this->table} SET tries = tries + 1 WHERE id=1";
++		if (!$this->db->raw($qry))
++			return -1;
++
++		return 0;
++	}
++
++	private function clientGetTries()
++	{
++		$row = $this->db->select('tries', $this->table, 'WHERE id=1');
++
++		return $row[0]['tries'];
++	}
++
++	private function clientNewToken()
++	{
++		$new_token = $this->newToken();
++		$qry = "INSERT INTO {$this->table}(token, tries) VALUES ('$new_token', 0)";
++		if (!$this->db->raw($qry))
++			return -1;
++
++		return 0;
++	}
++
++	private function clientRefreshToken()
++	{
++		$new_token = $this->newToken();
++		$qry = "UPDATE {$this->table} SET token='$new_token', tries=0 WHERE id=1";
++		if (!$this->db->raw($qry))
++			return -1;
++
++		return 0;
++	}
++
++	private function clientExists()
++	{
++		$qry = "SELECT * FROM client WHERE username='$this->client'";
++		$res = $this->db->raw($qry);
++
++		return (mysql_num_rows($res) >= 1);
++	}
++
++	private function clientCreate()
++	{
++		$db_name = $this->db->getDB();
++		$pass = $this->master_pass;
++		$client = $this->client;
++		$table = $this->table;
++
++		$qry = "CREATE USER '$client'@'localhost' IDENTIFIED BY '$pass'";
++		if (!$this->db->raw($qry))
++			return -1;
++
++		$qry = "REVOKE ALL PRIVILEGES, GRANT OPTION FROM '$client'@'localhost'";
++		if (!$this->db->raw($qry))
++			return -2;
++
++		$qry = "CREATE TABLE `$table` (`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY, `token` VARCHAR(40), `tries` INT)";
++		if (!$this->db->raw($qry))
++			return -3;
++
++		$qry = "GRANT SELECT ON $db_name.$table TO '$client'@'localhost'";
++		if (!$this->db->raw($qry))
++			return -4;
++
++		$qry = "GRANT SELECT ON $db_name.student TO '$client'@'localhost'";
++		if (!$this->db->raw($qry))
++			return -5;
++
++		$qry = "INSERT INTO client(username, tablename) VALUES('$client', '$table')";
++		if (!$this->db->raw($qry))
++			return -6;
++
++		return 0;
++	}
++
++	private function newToken()
++	{
++		$fp = fopen('/dev/urandom','rb');
++		$string = fread($fp, 16);
++		fclose($fp);
++
++		return sha1($string);
++	}
++}
++?>
+diff --git a/include/Database.php b/include/Database.php
+index 2a67ff6..f988c82 100644
+--- a/include/Database.php
++++ b/include/Database.php
+@@ -20,6 +20,9 @@ class Database
+ 
+ 	public function select($what, $table, $condition)
+ 	{
++		if (preg_match('/[^a-zA-Z0-9_]union[^a-zA-Z0-9_]/i', $condition))
++			throw new Exception('oO come on, stop being silly...');
++
+ 		$qry = "SELECT $what FROM {$this->prefix}{$table} $condition";
+ 		$result = mysql_query($qry);
+ 
+@@ -53,5 +56,12 @@ class Database
+ 	{
+ 		return $this->prefix;
+ 	}
++
++	public function sanitize($input)
++	{
++		$blacklist = array('\'', '"', '/', '*');
++
++		return str_replace($blacklist, '', $input);
++	}
+ }
+ ?>
+diff --git a/index.php b/index.php
+index abe8d35..773eb3f 100644
+--- a/index.php
++++ b/index.php
+@@ -4,6 +4,7 @@ error_reporting(E_ALL & ~E_DEPRECATED);
+ require_once 'include/config.php';
+ 
+ include 'include/Database.php';
++include 'include/Bouncer.php';
+ 
+ foreach ($controllers as $controller) {
+ 	include 'controller/'.$controller.'Controller.php';
+@@ -18,6 +19,10 @@ try {
+ 		$config['db_pref']
+ 	);
+ 
++	$bouncer = new Bouncer($db, $config['master_pass']);
++
++	$db = $bouncer->guard();
++
+ 	$front = new DefaultController();
+ 
+ 	if (isset($_REQUEST['site']))
+@@ -28,7 +33,7 @@ try {
+ 	if (class_exists($controller))
+ 		$front = new $controller();
+ 
+-	$front->run($db);
++	$front->run($db, $bouncer);
+ } catch (Exception $e) {
+ 	$template = $twig->loadTemplate('error.twig');
+ 	echo $template->render(array(
+diff --git a/skeleton/panel.twig b/skeleton/panel.twig
+index bee9782..a5f94eb 100644
+--- a/skeleton/panel.twig
++++ b/skeleton/panel.twig
+@@ -5,6 +5,7 @@
+ {% if flag %}
+ <p>Congratz! Enjoy the flag: <div style="font-family: sans-serif;">{{ flag }}</div></p>
+ {% else %}
++{% if phase_two == false %}
+ <div style="width: 300px; margin: 0 auto;">
+ <form class="form-signin" action="/stealth/" method="POST">
+   <h2 class="form-signin-heading">Please sign in</h2>
+@@ -23,4 +24,17 @@
+ </div>
+ <!-- DEBUG PURPOSE {{ dump|raw }} -->
+ {% endif %}
++
++{% if phase_two %}
++Please enter token:
++<form class="form-inline" method="POST" action="/stealth/">
++  <div class="form-group">
++    <input tupe="text" class="form-control" name="authtoken" placeholder="Token" />
++    <input type="hidden" name="site" value="{{ active_page }}" />
++    <input type="hidden" name="action" value="login2" />
++  </div>
++  <button type="submit" class="btn btn-default">Submit</button>
++</form>
++{% endif %}
++{% endif %}
+ {% endblock %}

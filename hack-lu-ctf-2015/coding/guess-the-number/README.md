@@ -1,0 +1,24 @@
+# Hack.lu CTF 2015: GuessTheNumber
+
+**Category:** Coding
+**Points:** 150
+**Solves:** 52
+**Description:**
+
+> The teacher of your programming class gave you a tiny little task: just write a guess-my-number script that beats his script. He also gave you some hard facts:
+> 
+>> he uses some LCG with standard glibc LCG parameters
+>> the LCG is seeded with server time using number format YmdHMS (python strftime syntax)
+>> numbers are from 0 up to (including) 99
+>> numbers should be sent as ascii string
+> 
+> You can find the service on school.fluxfingers.net:1523
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
