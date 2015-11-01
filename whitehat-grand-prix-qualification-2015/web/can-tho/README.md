@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://81glntd.blogspot.de/2015/10/writeup-web100-web150-whitehat.html>
