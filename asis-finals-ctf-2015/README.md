@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [web/impossible](web/impossible)
 
 ## Missing write-ups
 
@@ -42,6 +42,5 @@
 * [reverse/license](reverse/license)
 * [trivia/calm-down](trivia/calm-down)
 * [trivia/example-flag](trivia/example-flag)
-* [web/impossible](web/impossible)
 * [web/myblog](web/myblog)
 * [web/ultra-compression](web/ultra-compression)

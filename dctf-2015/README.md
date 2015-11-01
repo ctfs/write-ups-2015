@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [exploit/such-exploit-much-random-300](exploit/such-exploit-much-random-300)
+* [misc/emotional-roller-coaster-350](misc/emotional-roller-coaster-350)
 
 ## Missing write-ups
 
@@ -18,7 +19,6 @@
 * [exploit/password-encrypting-tool-100](exploit/password-encrypting-tool-100)
 * [misc/can-you-read-pacifico-400](misc/can-you-read-pacifico-400)
 * [misc/try-harder-200](misc/try-harder-200)
-* [misc/emotional-roller-coaster-350](misc/emotional-roller-coaster-350)
 * [misc/she-said-it-doesnt-matter-100](misc/she-said-it-doesnt-matter-100)
 * [web/the-hylian-dude-200](web/the-hylian-dude-200)
 * [web/warmup-100](web/warmup-100)

@@ -1,0 +1,53 @@
+body {
+  //background-color: black;
+  width: 1150px;
+}
+
+#output {
+  border: 10px solid green;
+}
+
+label {
+  background-color: #d0d0d0;
+}
+
+#legend {
+  float: right;
+  width: 300px;
+  border: 1px solid black;
+  background-color: #505050;
+}
+
+.legendElement {
+  border: 1px solid white;
+  height: 45px;
+  margin: 4px;
+}
+
+.legendElement .imgContainer {
+  width: 40px;
+  height: 40px;
+  margin: 2px;
+  float: left;
+  background-color: #ffffff;
+  border: 1px solid white;
+}
+
+.legendElement .imgContainer img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  /* there's probably a way better method for this... CSS is hard :/ */
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  padding: 20px;
+}
+
+.legendElement .description {
+  float: right;
+  width: 240px;
+  height: 40px;
+  top: 50%;
+  color: white;
+}

@@ -89,3 +89,5 @@ flag{3b532e0a187006879d262141e16fa5f05f2e6752}
 * <https://github.com/thehobn/sharpturn>
 * <http://blog.bitsforeveryone.com/2015/09/writeup-csaw-2015-sharpturn.html>
 * <http://conorpp.com/blog/how-to-fix-a-corrupted-file-by-brute-force/>
+* <http://khack40.info/csaw-ctf-2015-sharpturn-forensic-write-up/> (French)
+* <http://blog.isis.poly.edu/2015/10/03/csaw-ctf-sharpturn.html>

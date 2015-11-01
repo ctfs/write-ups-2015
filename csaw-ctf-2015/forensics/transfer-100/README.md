@@ -24,3 +24,4 @@
 * <https://djekmani.github.io/posts/CSAW2015-writeup-transfer-forensics/>
 * <https://ctftime.org/writeup/1675>
 * <http://kikisctf.blogspot.hr/2015/09/csaw-2015-quals-forensic-100-transfer.html>
+* <http://blog.isis.poly.edu/2015/10/03/csaw-ctf-transfer.html>
