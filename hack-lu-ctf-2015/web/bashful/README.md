@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/Bashful%20%5Bweb%5D%20(200)>

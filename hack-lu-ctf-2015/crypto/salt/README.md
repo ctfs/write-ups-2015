@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://der.ttyh.ru/blag/post/salt-writeup/>

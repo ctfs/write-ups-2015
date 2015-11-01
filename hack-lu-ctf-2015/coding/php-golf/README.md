@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/PHP%20Golf%20%5Bppc%5D%20(75)>
