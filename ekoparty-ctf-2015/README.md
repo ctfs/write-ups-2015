@@ -1,7 +1,7 @@
 # EKOPARTY CTF 2015 CTF write-ups
 
 * <https://ctf.ekoparty.org/>
-* [Scoreboard](https://ctf.ekoparty.org/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.ekoparty.org/scoreboard) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
