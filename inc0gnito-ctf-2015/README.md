@@ -1,7 +1,7 @@
 # Inc0gnito CTF CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* <http://ctf.inc0gnito.com/>
+* [Scoreboard](TODO) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
@@ -14,21 +14,21 @@
 ## Missing write-ups
 
 * [crypto/Gaebale-in-panic](crypto/Gaebale-in-panic)
-* [crypto/WhoAreYou](crypto/WhoAreYou)
 * [crypto/RSA](crypto/RSA)
-* [reversing/anti-hexray](reversing/anti-hexray)
-* [reversing/NTMaze](reversing/NTMaze)
-* [reversing/CFT](reversing/CFT)
-* [reversing/CryptoWorld](reversing/CryptoWorld)
-* [reversing/insideout](reversing/insideout)
-* [reversing/Panic](reversing/Panic)
-* [reversing/Reversing](reversing/Reversing)
+* [crypto/WhoAreYou](crypto/WhoAreYou)
+* [forensic/POS](forensic/POS)
+* [forensic/leaks-suspected](forensic/leaks-suspected)
+* [forensic/old_school](forensic/old_school)
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
 * [network/Network-hacking-is-easy](network/Network-hacking-is-easy)
 * [pwnable/Gameland](pwnable/Gameland)
-* [web/Solve-a-problem-with-kakao-friends](web/Solve-a-problem-with-kakao-friends)
-* [web/OSS](web/OSS)
+* [reversing/CFT](reversing/CFT)
+* [reversing/CryptoWorld](reversing/CryptoWorld)
+* [reversing/NTMaze](reversing/NTMaze)
+* [reversing/Panic](reversing/Panic)
+* [reversing/Reversing](reversing/Reversing)
+* [reversing/anti-hexray](reversing/anti-hexray)
+* [reversing/insideout](reversing/insideout)
 * [web/ARKANOID](web/ARKANOID)
-* [forensic/POS](forensic/POS)
-* [forensic/old_school](forensic/old_school)
-* [forensic/leaks-suspected](forensic/leaks-suspected)
+* [web/OSS](web/OSS)
+* [web/Solve-a-problem-with-kakao-friends](web/Solve-a-problem-with-kakao-friends)
