@@ -1,7 +1,7 @@
 # ASIS Cyber Security Contest CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* <http://asis-ctf.ir/>
+* [Scoreboard](http://asis-ctf.ir/scoreboard/) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
@@ -14,15 +14,15 @@
 ## Missing write-ups
 
 * [crypto/10-sed](crypto/10-sed)
+* [crypto/RSASR](crypto/RSASR)
 * [crypto/bodu](crypto/bodu)
 * [crypto/giloph](crypto/giloph)
 * [crypto/honeywall](crypto/honeywall)
-* [crypto/RSASR](crypto/RSASR)
 * [crypto/simple](crypto/simple)
 * [crypto/the-last-survivor](crypto/the-last-survivor)
+* [forensic/MBTI](forensic/MBTI)
 * [forensic/big-lie](forensic/big-lie)
 * [forensic/iosdump](forensic/iosdump)
-* [forensic/MBTI](forensic/MBTI)
 * [forensic/particles](forensic/particles)
 * [forensic/strange](forensic/strange)
 * [misc/flag-hunter](misc/flag-hunter)
