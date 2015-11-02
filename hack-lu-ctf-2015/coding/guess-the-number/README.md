@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/GuessTheNumber%20%5Bppc%5D%20(150)>

@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://sugivo.wordpress.com/2015/10/28/whitehat-2015-global-challenge-phong-nha-ke-bang-forensic-200/>

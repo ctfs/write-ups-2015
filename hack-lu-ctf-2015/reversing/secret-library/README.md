@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/duc-le/ctf-writeups/blob/master/2015_hack.lu_CTF/%2318_Secret_Library/writeup.md>

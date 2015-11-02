@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/Dr.%20Bob%20%5Bforensics%5D%20(150)>
