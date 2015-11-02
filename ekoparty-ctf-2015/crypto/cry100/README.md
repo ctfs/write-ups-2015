@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.nobbd.de/blog/artikel.php?titel=write-up-Ekoparty-CTF---Crypto-50-100-200#weirdvigenere>
