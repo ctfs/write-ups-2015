@@ -1,7 +1,7 @@
 # TUM CTF Teaser 2015 CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* <http://ctf.hxp.io/>
+* [Scoreboard](https://ctftime.org/event/238) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
 
@@ -9,34 +9,32 @@
 
 ## External write-ups only
 
-* none yet
+* [misc/sanity_check](misc/sanity_check)
+* [pwn/c0unter](pwn/c0unter)
+* [web/neocities](web/neocities)
 
 ## Missing write-ups
 
-* []()
-* [rev/whitebox_crypto](rev/whitebox_crypto)
-* [rev/b0rked_screens4ver](rev/b0rked_screens4ver)
-* [rev/selftest](rev/selftest)
-* [rev/qqqshit](rev/qqqshit)
-* [rev/quine](rev/quine)
+* [crypto/pudel](crypto/pudel)
+* [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
+* [crypto/turbo](crypto/turbo)
+* [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/circ](misc/circ)
 * [misc/t9](misc/t9)
-* [misc/sanity_check](misc/sanity_check)
-* [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
-* [crypto/pudel](crypto/pudel)
-* [crypto/turbo](crypto/turbo)
-* [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
-* [web/neocities](web/neocities)
-* [web/webshop](web/webshop)
-* [web/italy_food](web/italy_food)
-* [recon/up](recon/up)
-* [recon/give](recon/give)
-* [recon/you](recon/you)
-* [recon/never](recon/never)
-* [recon/gonna](recon/gonna)
-* [pwn/unlame_nayn](pwn/unlame_nayn)
-* [pwn/c0unter](pwn/c0unter)
-* [pwn/lame_nayn](pwn/lame_nayn)
-* [pwn/greeter](pwn/greeter)
-* [pwn/scge](pwn/scge)
 * [pwn/cloud_gaming](pwn/cloud_gaming)
+* [pwn/greeter](pwn/greeter)
+* [pwn/lame_nayn](pwn/lame_nayn)
+* [pwn/scge](pwn/scge)
+* [pwn/unlame_nayn](pwn/unlame_nayn)
+* [recon/give](recon/give)
+* [recon/gonna](recon/gonna)
+* [recon/never](recon/never)
+* [recon/up](recon/up)
+* [recon/you](recon/you)
+* [rev/b0rked_screens4ver](rev/b0rked_screens4ver)
+* [rev/qqqshit](rev/qqqshit)
+* [rev/quine](rev/quine)
+* [rev/selftest](rev/selftest)
+* [rev/whitebox_crypto](rev/whitebox_crypto)
+* [web/italy_food](web/italy_food)
+* [web/webshop](web/webshop)

@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0xabe.io/ctf/exploit/2015/10/30/TUM-CTF-Teaser-2015-pwn-counter.html>
