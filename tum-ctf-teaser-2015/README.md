@@ -1,7 +1,7 @@
 # TUM CTF Teaser 2015 CTF write-ups
 
 * <http://ctf.hxp.io/>
-* [Scoreboard](https://ctftime.org/event/238) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctftime.org/event/238) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
