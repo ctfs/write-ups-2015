@@ -1,7 +1,7 @@
 # HITCON QUALS CTF CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* <https://ctf2015.hitcon.org/>
+* [Scoreboard](https://ctf2015.hitcon.org/scoreboard.html) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
