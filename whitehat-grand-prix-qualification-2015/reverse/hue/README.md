@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/duc-le/ctf-writeups/blob/master/2015_WhiteHat_GrandPrix_Qual/RE450/writeup.md>
