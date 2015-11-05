@@ -5,34 +5,33 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/salt](crypto/salt)
+* [web/teachers-pinboard](web/teachers-pinboard)
 
 ## External write-ups only
 
 * [coding/guess-the-number](coding/guess-the-number)
 * [coding/perl-golf](coding/perl-golf)
 * [coding/php-golf](coding/php-golf)
-* [crypto/salt](crypto/salt)
+* [crypto/checkcheckcheck](crypto/checkcheckcheck)
+* [crypto/creative-cheating](crypto/creative-cheating)
+* [exploiting/stackstuff](exploiting/stackstuff)
 * [exploiting/petition-builder](exploiting/petition-builder)
 * [forensic/dr-bob](forensic/dr-bob)
 * [reversing/secret-library](reversing/secret-library)
+* [reversing/zoo](reversing/zoo)
 * [web/bashful](web/bashful)
+* [web/grading-board](web/grading-board)
 * [web/module-loader](web/module-loader)
+* [web/prof-m-eista-hax](web/prof-m-eista-hax)
 
 ## Missing write-ups
 
 * [coding/speedrun](coding/speedrun)
 * [crypto/campus-id-sso](crypto/campus-id-sso)
-* [crypto/checkcheckcheck](crypto/checkcheckcheck)
-* [crypto/creative-cheating](crypto/creative-cheating)
 * [crypto/formular-generator](crypto/formular-generator)
 * [exploiting/bookstore](exploiting/bookstore)
 * [exploiting/course-creator](exploiting/course-creator)
 * [exploiting/dragbox](exploiting/dragbox)
-* [exploiting/stackstuff](exploiting/stackstuff)
 * [reversing/solution-checker](reversing/solution-checker)
-* [reversing/zoo](reversing/zoo)
 * [web/champion](web/champion)
-* [web/grading-board](web/grading-board)
-* [web/prof-m-eista-hax](web/prof-m-eista-hax)
-* [web/teachers-pinboard](web/teachers-pinboard)
