@@ -29,4 +29,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://wget.pw/posts/hacklu-ctf-2015-grading-board-web-300>

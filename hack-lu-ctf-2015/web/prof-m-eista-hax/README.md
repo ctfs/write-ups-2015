@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://secgroup.github.io/2015/10/23/hacklu2015-writeup-prof-m-eista-hax/>
