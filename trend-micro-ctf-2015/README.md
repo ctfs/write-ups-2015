@@ -5,13 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [analysis/defensive-200](analysis/defensive-200)
 
 ## External write-ups only
 
 * [misc/misc-300](misc/misc-300)
 * [misc/misc-100](misc/misc-100)
-* [analysis/defensive-200](analysis/defensive-200)
 * [analysis/offensive-100](analysis/offensive-100)
 * [analysis/defensive-300](analysis/defensive-300)
 * [analysis/defensive-100](analysis/defensive-100)
