@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/Entry%20language%20%5Breverse%5D%20(100)> 

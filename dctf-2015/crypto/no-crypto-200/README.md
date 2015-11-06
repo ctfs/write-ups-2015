@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/No%20Crypto%20%5Bcrypto%5D%20(200)> 

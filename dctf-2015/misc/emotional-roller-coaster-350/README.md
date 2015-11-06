@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://khack40.info/defcamp-quals-ctf-2015-emotional-roller-coaster-misc-write-up/> (French)
+* <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/Emotional%20Roller%20Coaster%20%5Bmisc%5D%20(350)>
