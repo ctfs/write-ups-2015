@@ -66,9 +66,9 @@ while True:
 ```
 
 So there isn't much interaction going on, so it's rather obvious that
-this service acts as a (padding
-oracle)[https://en.wikipedia.org/wiki/Padding_oracle_attack]. Also the
-challenge is called `Pudel`, which is german for poodle, which is the 
+this service acts as a 
+[padding oracle](https://en.wikipedia.org/wiki/Padding_oracle_attack).
+Also the challenge is called `Pudel`, which is german for poodle, which is the 
 name for a prominent SSL vulnerability. So our goal is to use the service
 as padding oracle and decrypt the encrypted data in the pcap file.
 
