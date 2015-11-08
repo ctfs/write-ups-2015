@@ -5,7 +5,9 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/bad_apple](crypto/bad_apple)
+* [crypto/pudel](crypto/pudle)
+* [crypto/turbo](crypto/turbo)
 
 ## External write-ups only
 
