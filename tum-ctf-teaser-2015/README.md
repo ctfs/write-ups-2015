@@ -8,6 +8,7 @@
 * [crypto/bad_apple](crypto/bad_apple)
 * [crypto/pudel](crypto/pudle)
 * [crypto/turbo](crypto/turbo)
+* [pwn/greeter](pwn/greeter)
 
 ## External write-ups only
 
