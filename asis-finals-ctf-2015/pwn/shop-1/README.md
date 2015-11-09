@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-https://kt.pe/blog/2015/10/asis-2015-finals-shop-1/
+* https://kt.pe/blog/2015/10/asis-2015-finals-shop-1/
