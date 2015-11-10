@@ -13,7 +13,7 @@
 > 
 > HINT: His question is the answer http://hack-the-planet.hackover.h4q.it
 > 
-> Hint: Someone censored the source code.
+> Hint: Someone censored the [source code](./hack-the-planet-275983b5101b4c089443f0486c6bfb03.go).
 
 
 ## Write-up

@@ -10,7 +10,7 @@
 > 
 > ssh root@nodev.hackover.h4q.it
 > 
-> Hint: Take a look at the binary.
+> Hint: Take a look at the [binary](./nodev-5a29721c2f3fe140dc968f3e84381bce.tgz).
 > 
 > 
 > Another hint: Did you see the file descriptor? Where does it point to?

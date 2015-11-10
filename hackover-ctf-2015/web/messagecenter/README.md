@@ -11,7 +11,7 @@
 > Hint: Do you like ugly PHP code /[messagecenter-2275ebdf3f310d7a86d712b732947292.tgz](./messagecenter-2275ebdf3f310d7a86d712b732947292.tgz)?.
 > 
 > 
-> Hint: Do you like memes?
+> Hint: Do you like [memes](./65113994.jpg)?
 
 
 ## Write-up
