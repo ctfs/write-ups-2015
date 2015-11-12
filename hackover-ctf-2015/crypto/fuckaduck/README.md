@@ -5,7 +5,7 @@
 **Solves:** 4
 **Description:**
 
-> My [SSH key](http://fuckaduck.hackover.h4q.it/id_rsa) doesn't work anymore :-( TODO: Get id_rsa
+> My [SSH key](./id_rsa) doesn't work anymore :-(
 > 
 > ssh fuckaduck@fuckaduck.hackover.h4q.it
 > 
