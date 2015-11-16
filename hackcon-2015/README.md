@@ -14,10 +14,12 @@
 * [crypto/IdLoveToTurnYouOn](crypto/IdLoveToTurnYouOn)
 * [crypto/StealTheDiamond](crypto/StealTheDiamond)
 * [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
-* [misc/FragGrenade](misc/FragG)
+* [misc/FragG](misc/FragG)
 * [misc/NinjaTurtles](misc/NinjaTurtles)
 * [misc/SurpriseModafocka](misc/SurpriseModafocka)
-* [pwnage/DidYouMean] (pwnage/DidYouMean)
-* [pwnage/MakingLoveToBugs] (pwnage/MakingLoveToBugs)
+* [pwnage/DidYouMean](pwnage/DidYouMean)
+* [pwnage/MakingLoveToBugs](pwnage/MakingLoveToBugs)
 * [pwnage/Pythonista](pwnage/Pythonista)
 * [web/DoctorDoctor](web/DoctorDoctor)
+
+## Missing write-ups

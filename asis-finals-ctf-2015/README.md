@@ -10,13 +10,13 @@
 ## External write-ups only
 
 * [crypto/10-sed](crypto/10-sed)
-* [crypto/RSASR](crypto/RSASR)
 * [crypto/bodu](crypto/bodu)
 * [crypto/giloph](crypto/giloph)
 * [crypto/honeywall](crypto/honeywall)
+* [crypto/RSASR](crypto/RSASR)
 * [crypto/simple](crypto/simple)
-* [forensic/MBTI](forensic/MBTI)
 * [forensic/big-lie](forensic/big-lie)
+* [forensic/MBTI](forensic/MBTI)
 * [forensic/particles](forensic/particles)
 * [forensic/strange](forensic/strange)
 * [misc/flag-hunter](misc/flag-hunter)

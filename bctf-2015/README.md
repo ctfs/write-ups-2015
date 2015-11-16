@@ -6,14 +6,14 @@
 
 ## Completed write-ups
 
-* none yet
+* [survey/survey](survey/survey)
 
 ## External write-ups only
 
 * [crypto/backdoor](crypto/backdoor)
+* [crypto/redundant-code](crypto/redundant-code)
 * [crypto/warmup](crypto/warmup)
 * [crypto/weak-enc](crypto/weak-enc)
-* [crypto/redundant-code](crypto/redundant-code)
 * [exploit/drunk](exploit/drunk)
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)

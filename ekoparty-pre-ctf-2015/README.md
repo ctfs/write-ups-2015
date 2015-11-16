@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* (TODO)
+* none yet
 
 ## External write-ups only
 
@@ -16,19 +16,18 @@
 * [misc/get-the-flag](misc/get-the-flag)
 * [misc/password-manager](misc/password-manager)
 * [misc/reversing-psychology](misc/reversing-psychology)
-* [pwn/prng-service](pwn/prng-service)
-* [pwn/login](pwn/login)
-* [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
+* [misc/the-picture-challenge](misc/the-picture-challenge)
 * [pwn/echoes](pwn/echoes)
-* [rev/mov](rev/mov)
+* [pwn/login](pwn/login)
+* [pwn/prng-service](pwn/prng-service)
+* [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
 * [rev/decode-it](rev/decode-it)
-* [rev/ekogitf](rev/ekogift)
+* [rev/ekogift](rev/ekogift)
+* [rev/mov](rev/mov)
 * [rev/reversing-the-apc-cache](rev/reversing-the-apc-cache)
-* [web/hackers-market](web/hackers-market)
-* [web/safebox](web/safebox)
 * [web/flag-requester](web/flag-requester)
+* [web/hackers-market](web/hackers-market)
 * [web/protocols](web/protocols)
+* [web/safebox](web/safebox)
 
 ## Missing write-ups
-
-* [misc/the-picture-challenge](misc/the-picture-challenge)

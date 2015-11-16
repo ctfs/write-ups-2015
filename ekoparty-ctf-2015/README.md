@@ -7,6 +7,8 @@
 
 * [crypto/cry200](crypto/cry200)
 * [misc/misc100](misc/misc100)
+* [trivia/trv100](trivia/trv100)
+* [trivia/trv50](trivia/trv50)
 
 ## External write-ups only
 
@@ -29,15 +31,13 @@
 * [reversing/rev200](reversing/rev200)
 * [reversing/rev300](reversing/rev300)
 * [reversing/rev400](reversing/rev400)
-* [reversing/rev500](reversing/rev500)
 * [reversing/rev50](reversing/rev50)
-* [trivia/trv100](trivia/trv100)
-* [trivia/trv50](trivia/trv50)
+* [reversing/rev500](reversing/rev500)
 * [trivia/trv70](trivia/trv70)
 * [trivia/trv80](trivia/trv80)
 * [trivia/trv90](trivia/trv90)
 * [web/web100](web/web100)
 * [web/web300](web/web300)
 * [web/web400](web/web400)
-* [web/web500](web/web500)
 * [web/web50](web/web50)
+* [web/web500](web/web500)

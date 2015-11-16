@@ -25,5 +25,3 @@
 * [sandbox/big-prison-fence](sandbox/big-prison-fence)
 
 ## Missing write-ups
-
-* none

@@ -5,7 +5,9 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/bad_apple](crypto/bad_apple)
+* [crypto/pudel](crypto/pudel)
+* [crypto/turbo](crypto/turbo)
 
 ## External write-ups only
 
@@ -15,9 +17,8 @@
 
 ## Missing write-ups
 
-* [crypto/pudel](crypto/pudel)
+* [crypto/linear](crypto/linear)
 * [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
-* [crypto/turbo](crypto/turbo)
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/circ](misc/circ)
 * [misc/t9](misc/t9)
