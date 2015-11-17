@@ -5,7 +5,7 @@
 **Solves:** 24
 **Description:**
 
-> We received a [message](http://radorium.hackover.h4q.it/message.txt) from our bribed spy. TODO: MISSING message.txt
+> We received a [message](./message.txt) from our bribed spy.
 > 
 > ssh r7@radorium.hackover.h4q.it
 
