@@ -21,3 +21,4 @@
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-keep-calm-and-ctf/>
 * <http://fadec0d3.blogspot.com/2015/09/csaw-2015-forensics-keep-calm-ctf-flash.html>
 * <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Keep%20Calm%20and%20CTF>
+* <https://www.youtube.com/watch?v=69NL0LOzj98>

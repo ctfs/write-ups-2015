@@ -1,6 +1,6 @@
 # CSAW CTF 2015 CTF write-ups
 
-* <TODO>
+* <https://ctf.isis.poly.edu/>
 * [Scoreboard](https://ctf.isis.poly.edu/scoreboard) or [local alternative](score.txt)
 
 ## Completed write-ups
