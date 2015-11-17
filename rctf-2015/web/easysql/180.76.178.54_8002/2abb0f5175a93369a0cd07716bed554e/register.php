@@ -1,0 +1,1 @@
+<form action="register.php" method="post"><p>username: <input type="text" name="username" /></p><p>password: <input type="text" name="password" /></p>email: <input type="text" name="email" /></p><input type="submit" value="Submit" /></form> 
