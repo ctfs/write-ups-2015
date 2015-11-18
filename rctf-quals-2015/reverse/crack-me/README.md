@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://insight-labs.org/?p=2009>

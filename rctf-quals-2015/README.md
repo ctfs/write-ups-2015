@@ -12,6 +12,7 @@
 * [crypto/decode-the-file](crypto/decode-the-file)
 * [crypto/x-xor-md5](crypto/x-xor-md5)
 * [pwn/welpwn](pwn/welpwn)
+* [reverse/crack-me](reverse/crack-me)
 * [web/easysql](web/easysql)
 
 ## Missing write-ups
@@ -30,7 +31,6 @@
 * [pwn/keys](pwn/keys)
 * [pwn/nobug](pwn/nobug)
 * [pwn/shaxian](pwn/shaxian)
-* [reverse/crack-me](reverse/crack-me)
 * [reverse/not-sequence](reverse/not-sequence)
 * [reverse/old-driver](reverse/old-driver)
 * [reverse/tank](reverse/tank)

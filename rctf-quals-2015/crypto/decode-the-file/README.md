@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/2108>
+* <http://insight-labs.org/?p=2017>
