@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#misc100-she-said-it-doesnt-matter>

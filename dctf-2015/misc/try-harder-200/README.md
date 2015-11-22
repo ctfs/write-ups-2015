@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#misc200-try-harder>
