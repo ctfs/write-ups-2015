@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/Entry%20language%20%5Breverse%5D%20(100)> 
+* <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#reversing100-entry-language>
