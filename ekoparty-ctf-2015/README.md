@@ -9,6 +9,7 @@
 * [misc/misc100](misc/misc100)
 * [trivia/trv100](trivia/trv100)
 * [trivia/trv50](trivia/trv50)
+* [misc/misc300](misc/misc300)
 
 ## External write-ups only
 
@@ -21,7 +22,6 @@
 * [crypto/cry400](crypto/cry400)
 * [crypto/cry50](crypto/cry50)
 * [misc/misc200](misc/misc200)
-* [misc/misc300](misc/misc300)
 * [misc/misc400](misc/misc400)
 * [misc/misc50](misc/misc50)
 * [pwn/pwn100](pwn/pwn100)
