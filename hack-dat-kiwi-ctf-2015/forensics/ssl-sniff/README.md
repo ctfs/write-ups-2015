@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
+* <https://ctftime.org/writeup/2144>

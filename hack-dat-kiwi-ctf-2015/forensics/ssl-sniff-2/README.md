@@ -18,4 +18,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
+* <https://ctftime.org/writeup/2143>
+* <http://cafelinux.info/articles/writeups-hack-dat-kiwi-ssl-sniff-1-50>
+* <http://edholabs.ga/ctf_writeups/dump.png>
