@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/negasora/CTFWriteups/tree/master/CSAW-Finals-2015/Slabs-of-Platinum---Crypto-500>

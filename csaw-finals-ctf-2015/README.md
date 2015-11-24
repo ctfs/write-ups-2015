@@ -9,21 +9,10 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
-* [cryptography/check-plz](cryptography/check-plz)
 * [cryptography/slabs-of-platinum](cryptography/slabs-of-platinum)
-* [exploitation/boombox](exploitation/boombox)
-* [exploitation/hipster](exploitation/hipster)
 * [exploitation/stringipc](exploitation/stringipc)
 * [forensic/mandiant](forensic/mandiant)
-* [forensic/phish-it-phish-it-good](forensic/phish-it-phish-it-good)
 * [forensic/ransomewhere](forensic/ransomewhere)
-* [grabbag/1337](grabbag/1337)
-* [grabbag/late-night-smash](grabbag/late-night-smash)
-* [grabbag/moar-chess](grabbag/moar-chess)
 * [pwnadventurez/blox](pwnadventurez/blox)
 * [pwnadventurez/creditforcredits](pwnadventurez/creditforcredits)
 * [pwnadventurez/get-flag](pwnadventurez/get-flag)
@@ -31,6 +20,16 @@
 * [pwnadventurez/hiddencave](pwnadventurez/hiddencave)
 * [pwnadventurez/memory-disclosure-flag](pwnadventurez/memory-disclosure-flag)
 * [pwnadventurez/quarantinebreaker](pwnadventurez/quarantinebreaker)
+
+## Missing write-ups
+
+* [cryptography/check-plz](cryptography/check-plz)
+* [exploitation/boombox](exploitation/boombox)
+* [exploitation/hipster](exploitation/hipster)
+* [forensic/phish-it-phish-it-good](forensic/phish-it-phish-it-good)
+* [grabbag/1337](grabbag/1337)
+* [grabbag/late-night-smash](grabbag/late-night-smash)
+* [grabbag/moar-chess](grabbag/moar-chess)
 * [reversing/cookie-maze](reversing/cookie-maze)
 * [reversing/pwning-a-locked-container-plc](reversing/pwning-a-locked-container-plc)
 * [reversing/return-of-the-wieners](reversing/return-of-the-wieners)

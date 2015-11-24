@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/kareemroks101/CTF-Writeups/tree/master/CSAW%2015%20Finals/for300%20-%20Mandiant>

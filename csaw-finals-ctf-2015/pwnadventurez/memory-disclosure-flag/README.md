@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://andrewdutcher.com/view/21/pwn-adventure-z---writeup>
