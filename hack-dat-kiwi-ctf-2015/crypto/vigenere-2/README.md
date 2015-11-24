@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://pequalsnp-team.github.io/writeups/vigenere1/>

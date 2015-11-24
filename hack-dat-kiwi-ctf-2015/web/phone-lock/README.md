@@ -14,4 +14,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cafelinux.info/articles/writeups-hack-dat-kiwi-phone-lock-1-50>
+* <http://edholabs.ga/ctf_writeups/md5_crack_js.txt>
+* <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
+* <http://www.i4info.in/2015/11/21/hackdat-mathquiz/>

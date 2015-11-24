@@ -20,4 +20,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://pequalsnp-team.github.io/writeups/vigenere1/>
+* <http://cafelinux.info/articles/writeups-hack-dat-kiwi-vigenere-1-50>

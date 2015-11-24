@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cafelinux.info/articles/writeups-hack-dat-kiwi-gaychal-80>
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/hack.dat.kiwi/gaychal>
