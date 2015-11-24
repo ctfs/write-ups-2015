@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://edholabs.ga/ctf_writeups/Leet_Maze.txt>
