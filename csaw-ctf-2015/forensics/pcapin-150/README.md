@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: pcapin-150
+# CSAW QUALS 2015 2015: pcapin-150
 
 **Category:** Forensics
 **Points:** 100

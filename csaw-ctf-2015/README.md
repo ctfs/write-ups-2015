@@ -1,4 +1,4 @@
-# CSAW CTF 2015 CTF write-ups
+# CSAW QUALS 2015 CTF write-ups
 
 * <https://ctf.isis.poly.edu/>
 * [Scoreboard](https://ctf.isis.poly.edu/scoreboard) or [local alternative](score.txt)

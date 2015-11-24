@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: keep-calm-and-ctf-100
+# CSAW QUALS 2015 2015: keep-calm-and-ctf-100
 
 **Category:** Forensics
 **Points:** 100

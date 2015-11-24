@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: ftp-300
+# CSAW QUALS 2015 2015: ftp-300
 
 **Category:** Reversing
 **Points:** 300

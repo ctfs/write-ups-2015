@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: K_stairs-100
+# CSAW QUALS 2015 2015: K_stairs-100
 
 **Category:** Web
 **Points:** 100
@@ -20,4 +20,4 @@
 
 * <https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Web/K_-Stairs>
 * <http://itszn.com/blog/?p=20>
-* <http://blog.isis.poly.edu/2015/09/21/csaw-ctf-k-stairs.html>
+ <http://blog.isis.poly.edu/2015/09/21/csaw-ctf-k-stairs.html>

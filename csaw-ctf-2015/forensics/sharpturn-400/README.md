@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: sharpturn-400
+# CSAW QUALS 2015 2015: sharpturn-400
 
 **Category:** Forensics
 **Points:** 400
