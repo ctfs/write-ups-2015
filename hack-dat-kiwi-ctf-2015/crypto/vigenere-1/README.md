@@ -22,3 +22,4 @@
 
 * <https://pequalsnp-team.github.io/writeups/vigenere1/>
 * <http://cafelinux.info/articles/writeups-hack-dat-kiwi-vigenere-1-50>
+* <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
