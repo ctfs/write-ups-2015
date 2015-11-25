@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.jclariviere.com/posts/ctf-writeup-rctf-2015-quals-analysis-nginx-log/>

@@ -11,6 +11,7 @@
 
 * [crypto/decode-the-file](crypto/decode-the-file)
 * [crypto/x-xor-md5](crypto/x-xor-md5)
+* [misc/analysis-nginxs-log](misc/analysis-nginxs-log)
 * [pwn/welpwn](pwn/welpwn)
 * [reverse/crack-me](reverse/crack-me)
 * [web/easysql](web/easysql)
@@ -18,7 +19,6 @@
 ## Missing write-ups
 
 * [crypto/asm](crypto/asm)
-* [misc/analysis-nginxs-log](misc/analysis-nginxs-log)
 * [misc/caesar-deformation](misc/caesar-deformation)
 * [misc/i-cant-hear-that](misc/i-cant-hear-that)
 * [misc/qq](misc/qq)
