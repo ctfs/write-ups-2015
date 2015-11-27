@@ -1,7 +1,7 @@
 # School CTF write-ups
 
 * <http://school-ctf.org/>
-* [Scoreboard](http://school-ctf.org/#rating-ref) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://school-ctf.org/#rating-ref) or local alternative for [school only teams](./scoreboard-schoolteams) or [non-school teams](./scoreboard-noschoolteams)
 
 ## Completed write-ups
 
