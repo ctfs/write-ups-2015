@@ -11,6 +11,8 @@
 
 ## External write-ups only
 
+* [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
+* [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/sanity_check](misc/sanity_check)
 * [pwn/c0unter](pwn/c0unter)
 * [web/neocities](web/neocities)
@@ -18,8 +20,6 @@
 ## Missing write-ups
 
 * [crypto/linear](crypto/linear)
-* [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
-* [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/circ](misc/circ)
 * [misc/t9](misc/t9)
 * [pwn/cloud_gaming](pwn/cloud_gaming)
