@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hxp.io/blog/20/TUMCTF%20Teaser%202015:%20crypto150%20%22really_slow_arithmetic%22%20writeup/>

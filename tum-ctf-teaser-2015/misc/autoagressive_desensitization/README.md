@@ -28,4 +28,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hxp.io/blog/19/TUMCTF%20Teaser%202015:%20Misc%20200%20%22Autoaggressive%20Desensitization%22%20writeup/>
