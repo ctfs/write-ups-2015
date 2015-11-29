@@ -6,9 +6,9 @@
 
 ## Completed write-ups
 
-* [web/owlur](web/owlur)
-* [web/owltube](web/owltube)
 * [pwnable/sokoban](pwnable/sokoban)
+* [web/owltube](web/owltube)
+* [web/owlur](web/owlur)
 
 ## External write-ups only
 
@@ -26,3 +26,5 @@
 * [reversing/oemu](reversing/oemu)
 * [reversing/pirate-danbi](reversing/pirate-danbi)
 * [trick/guesspw](trick/guesspw)
+
+## Missing write-ups

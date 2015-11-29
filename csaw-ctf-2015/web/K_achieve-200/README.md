@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: K_achieve-200
+# CSAW QUALS 2015 2015: K_achieve-200
 
 **Category:** Web
 **Points:** 200

@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: trivia-6
+# CSAW QUALS 2015 2015: trivia-6
 
 **Category:** Trivia
 **Points:** 10

@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: alexander-taylor-100
+# CSAW QUALS 2015 2015: alexander-taylor-100
 
 **Category:** Recon
 **Points:** 100

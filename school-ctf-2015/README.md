@@ -1,7 +1,7 @@
 # School CTF write-ups
 
 * <http://school-ctf.org/>
-* [Scoreboard](http://school-ctf.org/#rating-ref) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://school-ctf.org/#rating-ref) or local alternative for [school only teams](./scoreboard-schoolteams) or [non-school teams](./scoreboard-noschoolteams)
 
 ## Completed write-ups
 
@@ -22,18 +22,18 @@
 
 ## Missing write-ups
 
-* [crypto/super-digest-4-400](crypto/super-digest-4-400)
-* [crypto/crypto-lego-500](crypto/crypto-lego-500)
-* [crypto/super-digest-4-strong-500](crypto/super-digest-4-strong-500)
 * [crypto/affine-cipher-100](crypto/affine-cipher-100)
 * [crypto/bypassing-the-snake-400](crypto/bypassing-the-snake-400)
-* [pwn/ssh-jail-500](pwn/ssh-jail-500)
-* [networks/misconfiguration-300](networks/misconfiguration-300)
-* [joy/darkness-200](joy/darkness-200)
-* [joy/alpha-to-foxtrot-alpha-150](joy/alpha-to-foxtrot-alpha-150)
+* [crypto/crypto-lego-500](crypto/crypto-lego-500)
+* [crypto/super-digest-4-400](crypto/super-digest-4-400)
+* [crypto/super-digest-4-strong-500](crypto/super-digest-4-strong-500)
 * [joy/agrement-by-default-100](joy/agrement-by-default-100)
+* [joy/alpha-to-foxtrot-alpha-150](joy/alpha-to-foxtrot-alpha-150)
+* [joy/darkness-200](joy/darkness-200)
 * [joy/old-school-hacking-200](joy/old-school-hacking-200)
+* [networks/misconfiguration-300](networks/misconfiguration-300)
+* [pwn/ssh-jail-500](pwn/ssh-jail-500)
+* [reverse/strange-program-300](reverse/strange-program-300)
 * [stegano/run-the-image-400](stegano/run-the-image-400)
 * [stegano/the-great-thing-200](stegano/the-great-thing-200)
-* [reverse/strange-program-300](reverse/strange-program-300)
 * [web/junior-pentesting-300](web/junior-pentesting-300)

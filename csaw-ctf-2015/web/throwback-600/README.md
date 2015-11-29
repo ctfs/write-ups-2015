@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: throwback-600
+# CSAW QUALS 2015 2015: throwback-600
 
 **Category:** Web
 **Points:** 600

@@ -9,6 +9,7 @@
 * [forensics/john-in-the-middle](forensics/john-in-the-middle)
 * [pwnable/haas](pwnable/haas)
 * [pwnable/johns-shuffle](pwnable/johns-shuffle)
+* [web/magic](web/magic)
 
 ## External write-ups only
 
@@ -23,14 +24,13 @@
 * [grab-bag/trollface](grab-bag/trollface)
 * [pwnable/john-pastry-shop](pwnable/john-pastry-shop)
 * [pwnable/johns-library](pwnable/johns-library)
+* [reversing/am-i-cheating](reversing/am-i-cheating)
 * [reversing/crack-me-if-you-can](reversing/crack-me-if-you-can)
 * [reversing/exceptionally](reversing/exceptionally)
 * [reversing/john-the-packer](reversing/john-the-packer)
 * [reversing/reversemeplz](reversing/reversemeplz)
-* [reversing/am-i-cheating](reversing/am-i-cheating)
 * [web/referee](web/referee)
 * [web/traveller](web/traveller)
-* [web/magic](web/magic)
 
 ## Missing write-ups
 

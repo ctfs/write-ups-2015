@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-https://kt.pe/blog/2015/10/asis-2015-finals-sniff3r/
+* https://kt.pe/blog/2015/10/asis-2015-finals-sniff3r/

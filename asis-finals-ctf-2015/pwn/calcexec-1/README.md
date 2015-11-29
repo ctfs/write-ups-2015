@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-https://kt.pe/blog/2015/10/asis-2015-finals-calcexe-1/
+* https://kt.pe/blog/2015/10/asis-2015-finals-calcexe-1/

@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: weebdate-500
+# CSAW QUALS 2015 2015: weebdate-500
 
 **Category:** Web
 **Points:** 500

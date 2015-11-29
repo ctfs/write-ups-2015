@@ -1,0 +1,19 @@
+body.mobile {
+	background-color: #404040;
+	padding: 0 30%;
+}
+
+.md-toolbar-tools h1 {
+	font-size: inherit;
+	font-weight: inherit;
+	margin: inherit;
+}
+
+.md-actions {
+	background-color: rgb(63,81,181);
+}
+
+.md-actions .md-button {
+	color: white;
+	font-weight: bold;
+}

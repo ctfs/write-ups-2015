@@ -6,8 +6,8 @@
 ## Completed write-ups
 
 * [babys-first/babyecho](babys-first/babyecho)
-* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 * [pwnable/fuckup](pwnable/fuckup)
+* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 
 ## External write-ups only
 

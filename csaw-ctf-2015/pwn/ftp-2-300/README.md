@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: ftp-2-300
+# CSAW QUALS 2015 2015: ftp-2-300
 
 **Category:** Pwn
 **Points:** 300

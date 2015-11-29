@@ -18,7 +18,7 @@
 
 ## Missing write-ups
 
-* [crypto/pudel](crypto/pudel)
+* [crypto/linear](crypto/linear)
 * [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
 * [crypto/turbo](crypto/turbo)
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)

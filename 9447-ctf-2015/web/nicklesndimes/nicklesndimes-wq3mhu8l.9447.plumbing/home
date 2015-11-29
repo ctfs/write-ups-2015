@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Home : Nick Les' Dimes - </title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://nicklesndimes-wq3mhu8l.9447.plumbing/css/mellivora.css" rel="stylesheet"><script type="text/javascript">
+        var global_dict = {};
+        
+    </script>
+</head>
+
+<body>
+    <div class="modal fade" id="login-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="login-dialog-form" method="post" class="form-signin" action="/actions/login">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Log in</h4>
+                    </div>
+                    <div class="modal-body">
+                            <input name="b8f151fdff68071a50b7a68beb4c6e81" type="email" class="form-control" placeholder="Email address" required autofocus />
+                            <input name="631848c2b71078c0db3a30f774e9bedf" type="password" class="form-control" placeholder="Password" required />
+                            <input type="hidden" name="action" value="login" />
+                            <input type="hidden" name="redirect" value="/home" />
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="remember_me" value="1"> Remember me
+                                </label>
+                            </div>
+                            <a href="reset_password">I've forgotten my password</a>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Log in</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+<div class="page">
+    <nav class="header" id="header">
+        <div id="header-inner">
+            <div id="header-logo">
+                <a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/">
+                    <h3 id="site-logo-text">Nick Les' Dimes</h3>
+                </a>
+            </div>
+            <div id="header-menu">
+                <ul class="nav nav-pills pull-right" id="menu-main">
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/home">Home</a></li>
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/users">Users</a></li>
+                            
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/register">Register</a></li>
+                            <li><a href="" data-toggle="modal" data-target="#login-dialog">Log in</a></li>
+                        
+                </ul>
+            </div>
+        </div>
+    </nav><!-- navbar -->
+
+    <div class="container" id="body-container">
+
+        <div id="content-container">
+        
+        <div class="news-container">
+    <div class="row">
+        <div class="col-lg-12">
+          <h2 class="page-header">Welcome </h2>
+        </div>
+    </div>
+    
+            <div class="news-body">
+                Welcome to Nick Les' Dimes!<br />
+<br />
+UNDER CONSTRUCTION!<br />
+<img src="http://i.imgur.com/ObNqxhM.gif" alt="ObNqxhM.gif" class="bbcode_img" /><br />
+<br />
+Hi, I'm Nick Les<br />
+<img src="http://i.imgur.com/Jk9z9ip.jpg" alt="Jk9z9ip.jpg" class="bbcode_img" /><br />
+<br />
+Please sign up if you share my passion for all things dimes.<br />
+<img src="http://i.imgur.com/jLrKThC.jpg" alt="jLrKThC.jpg" class="bbcode_img" />
+            </div>
+        </div>
+        
+
+    </div> <!-- / content container -->
+
+</div> <!-- /container -->
+
+</div> <!-- /page -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://nicklesndimes-wq3mhu8l.9447.plumbing/js/mellivora.js"></script>
+
+</body>
+</html>

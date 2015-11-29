@@ -6,8 +6,8 @@
 ## Completed write-ups
 
 * [crack/reverse](crack/reverse)
-* [web/cookies](web/cookies)
 * [forensics/document](forensics/document)
+* [web/cookies](web/cookies)
 
 ## External write-ups only
 

@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: rhinoxorus-500
+# CSAW QUALS 2015 2015: rhinoxorus-500
 
 **Category:** Pwn
 **Points:** 500

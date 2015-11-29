@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/No%20Crypto%20%5Bcrypto%5D%20(200)> 
+* <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#crypto200-no-crypto>

@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-https://kt.pe/blog/2015/10/asis-2015-finals-particles/
+* https://kt.pe/blog/2015/10/asis-2015-finals-particles/

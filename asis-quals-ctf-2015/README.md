@@ -10,6 +10,7 @@
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
 * [forensic/my-ped](forensic/my-ped)
+* [trivia/survey](trivia/survey)
 * [web/strange-authen](web/strange-authen)
 
 ## External write-ups only
@@ -28,11 +29,11 @@
 * [reverse/leach](reverse/leach)
 * [reverse/selfie](reverse/selfie)
 * [reverse/tera](reverse/tera)
+* [stego/blind](stego/blind)
+* [stego/number-pi](stego/number-pi)
 * [trivia/whats-example-flag](trivia/whats-example-flag)
 * [web/best-photo](web/best-photo)
 * [web/secret-message](web/secret-message)
-* [stego/blind](stego/blind)
-* [stego/number-pi](stego/number-pi)
 
 ## Missing write-ups
 
@@ -44,4 +45,3 @@
 * [reverse/asis-card](reverse/asis-card)
 * [trivia/bonus-point](trivia/bonus-point)
 * [trivia/launch-printer](trivia/launch-printer)
-* [trivia/survey](trivia/survey)

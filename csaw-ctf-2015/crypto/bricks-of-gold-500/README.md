@@ -1,4 +1,4 @@
-# CSAW CTF 2015 2015: bricks-of-gold-500
+# CSAW QUALS 2015 2015: bricks-of-gold-500
 
 **Category:** Crypto
 **Points:** 500
@@ -20,3 +20,4 @@
 
 * <http://www.truedigitalsecurity.com/blog/2015/09/22/csaw-2015-crypto-500-bricks-of-gold-writeup/>
 * <https://www.zybuluo.com/romangol/note/179586>
+* <https://github.com/negasora/CTFWriteups/tree/master/CSAW%20Quals%202015/Bricks%20of%20Gold>

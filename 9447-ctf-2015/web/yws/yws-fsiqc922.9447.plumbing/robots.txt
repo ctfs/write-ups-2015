@@ -1,0 +1,8 @@
+User-agnet: *
+Disallow: /
+Disallow: /..
+Disallow: .
+Disallow: ..
+Disallow: /work
+Disallow: /imegas/
+Allow: /sounds/pljesus.wav

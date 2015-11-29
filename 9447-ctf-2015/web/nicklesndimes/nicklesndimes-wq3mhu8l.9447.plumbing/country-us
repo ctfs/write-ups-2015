@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>United States : Nick Les' Dimes - </title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://nicklesndimes-wq3mhu8l.9447.plumbing/css/mellivora.css" rel="stylesheet"><script type="text/javascript">
+        var global_dict = {};
+        
+    </script>
+</head>
+
+<body>
+    <div class="modal fade" id="login-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="login-dialog-form" method="post" class="form-signin" action="/actions/login">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Log in</h4>
+                    </div>
+                    <div class="modal-body">
+                            <input name="b8f151fdff68071a50b7a68beb4c6e81" type="email" class="form-control" placeholder="Email address" required autofocus />
+                            <input name="631848c2b71078c0db3a30f774e9bedf" type="password" class="form-control" placeholder="Password" required />
+                            <input type="hidden" name="action" value="login" />
+                            <input type="hidden" name="redirect" value="/country?code=us" />
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="remember_me" value="1"> Remember me
+                                </label>
+                            </div>
+                            <a href="reset_password">I've forgotten my password</a>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Log in</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+<div class="page">
+    <nav class="header" id="header">
+        <div id="header-inner">
+            <div id="header-logo">
+                <a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/">
+                    <h3 id="site-logo-text">Nick Les' Dimes</h3>
+                </a>
+            </div>
+            <div id="header-menu">
+                <ul class="nav nav-pills pull-right" id="menu-main">
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/home">Home</a></li>
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/users">Users</a></li>
+                            
+                            <li><a href="http://nicklesndimes-wq3mhu8l.9447.plumbing/register">Register</a></li>
+                            <li><a href="" data-toggle="modal" data-target="#login-dialog">Log in</a></li>
+                        
+                </ul>
+            </div>
+        </div>
+    </nav><!-- navbar -->
+
+    <div class="container" id="body-container">
+
+        <div id="content-container">
+        
+    <div class="row">
+        <div class="col-lg-12">
+          <h2 class="page-header">United States
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a> </h2>
+        </div>
+    </div>
+    
+    <table class="team-table table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Team</th>
+          <th class="text-center">Country</th>
+          <th>Points</th>
+        </tr>
+      </thead>
+      <tbody>
+     
+        <tr>
+          <td>1</td>
+          <td class="team-name">
+            <a href="user?id=27">
+              <span class="team_27">
+                The Haxors
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>2</td>
+          <td class="team-name">
+            <a href="user?id=94">
+              <span class="team_94">
+                loolz
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>3</td>
+          <td class="team-name">
+            <a href="user?id=233">
+              <span class="team_233">
+                aaaa
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>4</td>
+          <td class="team-name">
+            <a href="user?id=289">
+              <span class="team_289">
+                something
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>5</td>
+          <td class="team-name">
+            <a href="user?id=629">
+              <span class="team_629">
+                donthacksober
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>6</td>
+          <td class="team-name">
+            <a href="user?id=729">
+              <span class="team_729">
+                Bring On The Fy
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>7</td>
+          <td class="team-name">
+            <a href="user?id=40">
+              <span class="team_40">
+                team7
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>8</td>
+          <td class="team-name">
+            <a href="user?id=110">
+              <span class="team_110">
+                Tmaxxer1
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>9</td>
+          <td class="team-name">
+            <a href="user?id=247">
+              <span class="team_247">
+                lol
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>10</td>
+          <td class="team-name">
+            <a href="user?id=336">
+              <span class="team_336">
+                Team409
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>11</td>
+          <td class="team-name">
+            <a href="user?id=669">
+              <span class="team_669">
+                test87
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>12</td>
+          <td class="team-name">
+            <a href="user?id=750">
+              <span class="team_750">
+                sdsuaztechacker
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>13</td>
+          <td class="team-name">
+            <a href="user?id=53">
+              <span class="team_53">
+                zabuduba
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>14</td>
+          <td class="team-name">
+            <a href="user?id=121">
+              <span class="team_121">
+                wolfpack
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>15</td>
+          <td class="team-name">
+            <a href="user?id=254">
+              <span class="team_254">
+                biotic_fibers
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>16</td>
+          <td class="team-name">
+            <a href="user?id=339">
+              <span class="team_339">
+                testmctest
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>17</td>
+          <td class="team-name">
+            <a href="user?id=670">
+              <span class="team_670">
+                pppqqq
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>18</td>
+          <td class="team-name">
+            <a href="user?id=864">
+              <span class="team_864">
+                zeroa
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>19</td>
+          <td class="team-name">
+            <a href="user?id=66">
+              <span class="team_66">
+                The CyberHawks
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>20</td>
+          <td class="team-name">
+            <a href="user?id=149">
+              <span class="team_149">
+                kkkk
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>21</td>
+          <td class="team-name">
+            <a href="user?id=258">
+              <span class="team_258">
+                Null Space Labs
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>22</td>
+          <td class="team-name">
+            <a href="user?id=344">
+              <span class="team_344">
+                wadawadagumdrop
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>23</td>
+          <td class="team-name">
+            <a href="user?id=694">
+              <span class="team_694">
+                tacotruck
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>24</td>
+          <td class="team-name">
+            <a href="user?id=74">
+              <span class="team_74">
+                nipples
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>25</td>
+          <td class="team-name">
+            <a href="user?id=192">
+              <span class="team_192">
+                admin’1234
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>26</td>
+          <td class="team-name">
+            <a href="user?id=270">
+              <span class="team_270">
+                asdffdsa
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>27</td>
+          <td class="team-name">
+            <a href="user?id=364">
+              <span class="team_364">
+                mmmm
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>28</td>
+          <td class="team-name">
+            <a href="user?id=695">
+              <span class="team_695">
+                T1
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>29</td>
+          <td class="team-name">
+            <a href="user?id=77">
+              <span class="team_77">
+                hanto
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>30</td>
+          <td class="team-name">
+            <a href="user?id=204">
+              <span class="team_204">
+                nslteam
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>31</td>
+          <td class="team-name">
+            <a href="user?id=274">
+              <span class="team_274">
+                assassass
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>32</td>
+          <td class="team-name">
+            <a href="user?id=509">
+              <span class="team_509">
+                aaaaaaaaa
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>33</td>
+          <td class="team-name">
+            <a href="user?id=706">
+              <span class="team_706">
+                gosha6
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>34</td>
+          <td class="team-name">
+            <a href="user?id=88">
+              <span class="team_88">
+                d4rk
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>35</td>
+          <td class="team-name">
+            <a href="user?id=206">
+              <span class="team_206">
+                foobar
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>36</td>
+          <td class="team-name">
+            <a href="user?id=276">
+              <span class="team_276">
+                VTCSec
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>37</td>
+          <td class="team-name">
+            <a href="user?id=515">
+              <span class="team_515">
+                asdf1234
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>38</td>
+          <td class="team-name">
+            <a href="user?id=711">
+              <span class="team_711">
+                scrubman
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>39</td>
+          <td class="team-name">
+            <a href="user?id=7">
+              <span class="team_7">
+                asdf
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>40</td>
+          <td class="team-name">
+            <a href="user?id=89">
+              <span class="team_89">
+                2032SeaThread
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>41</td>
+          <td class="team-name">
+            <a href="user?id=220">
+              <span class="team_220">
+                TestAcct
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>42</td>
+          <td class="team-name">
+            <a href="user?id=283">
+              <span class="team_283">
+                abcdefghijk
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>43</td>
+          <td class="team-name">
+            <a href="user?id=552">
+              <span class="team_552">
+                abcdefabcdef
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+        <tr>
+          <td>44</td>
+          <td class="team-name">
+            <a href="user?id=728">
+              <span class="team_728">
+                ascii overflow
+              </span>
+            </a>
+          </td>
+          <td class="text-center">
+            
+    <a href="country?code=us">
+        <img src="http://nicklesndimes-wq3mhu8l.9447.plumbing/img/flags/us.png" class="has-tooltip" data-toggle="tooltip" data-placement="right" alt="us" title="United States" />
+    </a>
+          </td>
+          <td>0</td>
+        </tr>
+        
+      </tbody>
+    </table>
+    
+
+    </div> <!-- / content container -->
+
+</div> <!-- /container -->
+
+</div> <!-- /page -->
+
+<!-- JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://nicklesndimes-wq3mhu8l.9447.plumbing/js/mellivora.js"></script>
+
+</body>
+</html>
