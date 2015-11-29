@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 160
-**Solves:** 
+**Solves:** 68
 **Description:**
 
 >  It's-a me, Mario!

@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 120
-**Solves:** 
+**Solves:** 94
 **Description:**
 
 > Find your random black box here:

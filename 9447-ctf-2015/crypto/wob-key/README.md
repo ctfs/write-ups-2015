@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 190
-**Solves:** 
+**Solves:** 20
 **Description:**
 
 > My friend won't believe that I signed it, and is now challenging me to sign anything she throws at me! Can you beat it?

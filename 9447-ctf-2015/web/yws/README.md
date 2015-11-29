@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 130
-**Solves:** 
+**Solves:** 197
 **Description:**
 
 > My friend wrote a cool web server. I'm sure he's stored some great doxxxs on the website. Can you take a look and report back any interesting things you find?

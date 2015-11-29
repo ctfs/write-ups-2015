@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 130
-**Solves:** 
+**Solves:** 54
 **Description:**
 
 > My friend set up a small signing scheme, however she won't let me sign stuff. Can you get it signed?

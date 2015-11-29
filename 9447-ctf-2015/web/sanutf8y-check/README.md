@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 1
-**Solves:** 
+**Solves:** 412
 **Description:**
 
 > Visit <http://sanutf8y-check-n2wisexx.9447.plumbing> for the flag.

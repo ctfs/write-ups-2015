@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 310
-**Solves:** 
+**Solves:** 16
 **Description:**
 
 > Some secret communication was captured, and we're having trouble decrypting it. Can you help?

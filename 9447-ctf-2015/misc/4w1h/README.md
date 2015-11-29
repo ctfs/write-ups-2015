@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:** 
+**Solves:** 113
 **Description:**
 
 > where in the world is 9447 ctf?

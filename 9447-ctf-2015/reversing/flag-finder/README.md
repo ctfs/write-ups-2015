@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 1
-**Solves:** 
+**Solves:** 434
 **Description:**
 
 > I've forgotten my flag. I remember it has the format "9447{<some string>}", but what could it be?

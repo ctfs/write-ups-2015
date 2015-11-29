@@ -2,7 +2,7 @@
 
 **Category:** Steganography
 **Points:** 90
-**Solves:** 
+**Solves:** 80
 **Description:**
 
 > Our spies found this image. They think something is hidden in it... what could it be?

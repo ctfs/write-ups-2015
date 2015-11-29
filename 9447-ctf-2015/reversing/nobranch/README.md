@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 330
-**Solves:** 
+**Solves:** 6
 **Description:**
 
 > $ ./nobranch `cat flag.txt`

@@ -2,7 +2,7 @@
 
 **Category:** Steganography
 **Points:** 100
-**Solves:** 
+**Solves:** 12
 **Description:**
 
 >  We noticed this binary running in prod. Can you find out what it is hiding?

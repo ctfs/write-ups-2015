@@ -2,7 +2,7 @@
 
 **Category:** Steganography
 **Points:** 170
-**Solves:** 
+**Solves:** 8
 **Description:**
 
 >  See title

@@ -2,6 +2,7 @@
 
 * <https://9447.plumbing>
 * [Scoreboard](https://9447.plumbing/scores) or [local alternative](TODOLOCAL)
+* Participants: 1136
 
 ## Completed write-ups
 

@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 180
-**Solves:** 
+**Solves:** 5
 **Description:**
 
 >  THE MACHINE FORGOTTEN

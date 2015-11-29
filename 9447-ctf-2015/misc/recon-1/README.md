@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 140
-**Solves:** 
+**Solves:** 85
 **Description:**
 
 > Someone has attacked your site. We have attached a log collected from the time of the attack.

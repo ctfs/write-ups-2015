@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 220
-**Solves:** 
+**Solves:** 4
 **Description:**
 
 >  Check out this game we made for the ctf!

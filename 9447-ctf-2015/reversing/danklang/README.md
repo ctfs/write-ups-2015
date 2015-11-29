@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 100
-**Solves:** 
+**Solves:** 78
 **Description:**
 
 >  if you see this task while scroling

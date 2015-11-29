@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 130
-**Solves:** 
+**Solves:** 18
 **Description:**
 
 > Do it without raising any suspicion!
