@@ -10,12 +10,11 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/fibbed](crypto/fibbed)
 
 ## Missing write-ups
 
 * [crypto/dub-key](crypto/dub-key)
-* [crypto/fibbed](crypto/fibbed)
 * [crypto/randbox](crypto/randbox)
 * [crypto/wob-key](crypto/wob-key)
 * [crypto/wob-key-hard](crypto/wob-key-hard)
