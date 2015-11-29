@@ -21,4 +21,4 @@
 ## Other write-ups and resources
 
 * <http://boaster.github.io/ctf/2015/09/07/MMA-CTF-RE-150.html>
-* <http://hxp.io/blog/18/MMACTF%202015:%20Reversing%20150%20"Impossible/?"%20writeup/>
+* <http://hxp.io/blog/18/MMACTF%202015:%20Reversing%20150%20%22Impossible/?%22%20writeup/>
