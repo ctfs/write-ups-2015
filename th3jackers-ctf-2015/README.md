@@ -19,6 +19,7 @@
 * [crypto/cry300](crypto/cry300)
 * [reverse/rev100](reverse/rev100)
 * [stegano/steg100](stegano/steg100)
+* [stegano/steg300](stegano/steg300)
 
 ## Missing write-ups
 
@@ -26,5 +27,4 @@
 * [reverse/rev200](reverse/rev200)
 * [reverse/rev300](reverse/rev300)
 * [stegano/steg200](stegano/steg200)
-* [stegano/steg300](stegano/steg300)
 * [web/web200](web/web200)
