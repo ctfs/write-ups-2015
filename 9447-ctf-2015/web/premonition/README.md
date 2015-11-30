@@ -133,3 +133,5 @@ the flag is:
 * <http://mumei.strangled.net/post/3> (spanish)
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/web140-premonition>
 * <https://asciinema.org/a/30878>
+* <http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-premonition/>
+* <http://pastebin.com/NCSv5qpW>

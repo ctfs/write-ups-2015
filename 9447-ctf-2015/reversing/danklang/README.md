@@ -22,4 +22,8 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/hypnosec/writeups/blob/master/2015/9447-ctf/reversing/danklang.md>
 * <https://gist.github.com/zzoru/c0991d5e24c4b17a55cb>
+* <http://pastebin.com/1pwA4SU9>
+* <https://gist.github.com/auscompgeek/d13d5d6c402de7e3bee7>
+* [Danklang Interpreter](https://github.com/jfeng41/greentext)

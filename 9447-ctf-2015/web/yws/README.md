@@ -50,3 +50,4 @@ append a `/` character or something like that.
 ## Other write-ups and resources
 
 * <http://blog.jclariviere.com/posts/ctf-writeup-9447-ctf-2015-yws/>
+* <http://pastebin.com/jzd6DVMu>
