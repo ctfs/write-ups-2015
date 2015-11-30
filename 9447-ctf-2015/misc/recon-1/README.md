@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/philo0x90/CTF-write-ups/blob/master/9447-ctf-2015/misc-recon1.md
