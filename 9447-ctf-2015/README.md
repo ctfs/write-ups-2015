@@ -11,6 +11,7 @@
 ## External write-ups only
 
 * [crypto/fibbed](crypto/fibbed)
+* [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
 
 ## Missing write-ups
 
@@ -44,5 +45,4 @@
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/premonition](web/premonition)
 * [web/sanutf8y-check](web/sanutf8y-check)
-* [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
 * [web/yws](web/yws)
