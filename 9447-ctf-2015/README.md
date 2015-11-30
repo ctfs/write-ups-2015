@@ -6,17 +6,20 @@
 
 ## Completed write-ups
 
+* [exploitation/calcpop](exploitation/calcpop)
 * [misc/get-help](misc/get-help)
 * [misc/give-feedback](misc/give-feedback)
 * [misc/recon-1](misc/recon-1)
 * [misc/recon-2](misc/recon-2)
 * [steganography/imaged](steganography/imaged)
+* [web/premonition](web/premonition)
+* [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
+* [web/yws](web/yws)
 
 ## External write-ups only
 
 * [crypto/fibbed](crypto/fibbed)
 * [crypto/randbox](crypto/randbox)
-* [exploitation/calcpop](exploitation/calcpop)
 * [exploitation/calpop-reloaded](exploitation/calpop-reloaded)
 * [misc/4w1h](misc/4w1h)
 * [reversing/flag-finder](reversing/flag-finder)
