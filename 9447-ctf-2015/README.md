@@ -36,6 +36,7 @@
 * [reversing/danklang](reversing/danklang)
 * [reversing/flag-finder](reversing/flag-finder)
 * [reversing/hello-joe](reversing/hello-joe)
+* [reversing/nobranch](reversing/nobranch)
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
 * [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
@@ -46,4 +47,3 @@
 
 * [exploitation/ctfzip](exploitation/ctfzip)
 * [exploitation/pwnos](exploitation/pwnos)
-* [reversing/nobranch](reversing/nobranch)

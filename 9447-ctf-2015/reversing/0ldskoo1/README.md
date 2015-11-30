@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <https://lf.lc/ctf/2015-11-29-9447-0ldskoo1>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/re180-0ldskoo1>
