@@ -26,7 +26,6 @@
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/sanutf8y-check](web/sanutf8y-check)
-* [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
 
 ## Missing write-ups
 
