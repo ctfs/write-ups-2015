@@ -26,3 +26,4 @@
 ## Other write-ups and resources
 
 * <http://corb3nik.github.io/2015/11/29/9447-recon-2/>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc190-recon2>

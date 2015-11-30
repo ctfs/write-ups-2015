@@ -49,4 +49,5 @@ with open("imaged.png", "rw+b") as f:
 
 ## Other write-ups and resources
 
-* http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-imaged/
+* <http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-imaged/>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/steg90-imaged>

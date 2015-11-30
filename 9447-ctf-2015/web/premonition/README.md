@@ -131,3 +131,4 @@ the flag is:
 ## Other write-ups and resources
 
 * <http://mumei.strangled.net/post/3> (spanish)
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/web140-premonition>

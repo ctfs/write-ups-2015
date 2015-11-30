@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-11-28-9447/randBox#eng-version>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/crypto120-randbox>

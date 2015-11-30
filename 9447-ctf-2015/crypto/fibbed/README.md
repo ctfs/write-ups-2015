@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <http://hxp.io/blog/22/9447%20CTF%202015:%20crypto310%20%22Fibbed%22%20writeup/>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/crypto310-fibbed>
