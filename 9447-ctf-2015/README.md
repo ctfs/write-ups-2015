@@ -6,8 +6,12 @@
 
 ## Completed write-ups
 
+* [exploitation/calcpop](exploitation/calcpop)
 * [misc/give-feedback](misc/give-feedback)
 * [steganography/imaged](steganography/imaged)
+* [web/premonition](web/premonition)
+* [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
+* [web/yws](web/yws)
 
 ## External write-ups only
 
