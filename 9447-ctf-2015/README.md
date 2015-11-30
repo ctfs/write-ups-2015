@@ -15,6 +15,7 @@
 
 * [crypto/fibbed](crypto/fibbed)
 * [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
+* [web/premonition](web/premonition)
 
 ## Missing write-ups
 
@@ -43,6 +44,5 @@
 * [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
 * [web/nicklesndimes](web/nicklesndimes)
-* [web/premonition](web/premonition)
 * [web/sanutf8y-check](web/sanutf8y-check)
 * [web/yws](web/yws)
