@@ -86,4 +86,5 @@ yay got it! Although given the flag I wonder if this really is the intended solu
 ## Other write-ups and resources
 
 * <http://www.kernelpicnic.net/2015/11/29/9447CTF-Super-Turbo-Atomic-GIF-Converter-Write-Up.html>
+* <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/web180-gif-converter>
 * <http://pastebin.com/FrsQinQz>

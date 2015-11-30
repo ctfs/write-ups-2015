@@ -33,6 +33,7 @@
 * [reversing/flag-finder](reversing/flag-finder)
 * [reversing/hello-joe](reversing/hello-joe)
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
+* [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/sanutf8y-check](web/sanutf8y-check)
@@ -46,4 +47,3 @@
 * [exploitation/pwnos](exploitation/pwnos)
 * [reversing/0ldskoo1](reversing/0ldskoo1)
 * [reversing/nobranch](reversing/nobranch)
-* [steganography/binned](steganography/binned)
