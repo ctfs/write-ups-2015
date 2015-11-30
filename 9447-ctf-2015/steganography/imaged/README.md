@@ -49,4 +49,4 @@ with open("imaged.png", "rw+b") as f:
 
 ## Other write-ups and resources
 
-* none yet
+* http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-imaged/
