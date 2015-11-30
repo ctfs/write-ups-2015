@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://rotiples.tistory.com/44>
+* <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-02-real-flag-finder-md>

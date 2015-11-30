@@ -27,3 +27,4 @@
 * <http://pastebin.com/1pwA4SU9>
 * <https://gist.github.com/auscompgeek/d13d5d6c402de7e3bee7>
 * [Danklang Interpreter](https://github.com/jfeng41/greentext)
+* <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-03-danklang-md>

@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <http://rotiples.tistory.com/43>
+* <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-01-flag-finder-md>
