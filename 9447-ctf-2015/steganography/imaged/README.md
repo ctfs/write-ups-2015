@@ -12,7 +12,7 @@
 
 ## Write-up
 
-After looking at the provided PNG file with the hexeditor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chuncks.
+After looking at the provided PNG file with the hexeditor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chuncks. (To be precise: the flag-parts were the CRC checksum of the *IDAT* chuncks.)
 
 ```
 0000000: 8950 4e47 0d0a 1a0a 0000 000d 4948 4452  .PNG........IHDR
