@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/zzoru/c0991d5e24c4b17a55cb>
+* <https://github.com/hypnosec/writeups/blob/master/2015/9447-ctf/reversing/danklang.md>
