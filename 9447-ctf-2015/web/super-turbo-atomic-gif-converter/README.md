@@ -24,4 +24,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.kernelpicnic.net/2015/11/29/9447CTF-Super-Turbo-Atomic-GIF-Converter-Write-Up.html
