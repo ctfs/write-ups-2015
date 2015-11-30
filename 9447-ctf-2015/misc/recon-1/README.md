@@ -18,7 +18,12 @@
 
 ## Write-up
 
-(TODO)
+1. Inspecting the log reveals two IP addresses `37.139.17.15` and `192.241.254.77`. 
+2. `192.241.254.77` resolves to `www.williestoleyour.pw`. 
+3. Opening your web browser and navigating to `http://www.williestoleyour.pw` reveals an email address in the body of the website: `info@williestoleyour.pw`. 
+4. Going to `http://archive.org` and entering `http://www.williestoleyour.pw` in the search bar reveals that an older version of the website is available for viewing from November 11th, 2015.
+5. Viewing the older website `https://web.archive.org/web/20151115002534/http://www.williestoleyour.pw/` reveals a second email: `info@dynamiclock.pw`
+6. Navigating to `http://dynamiclock.pw` in your web browser you see the flag `9447{YouAreStalKey}`
 
 ## Other write-ups and resources
 
