@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2015/11/30/9447-ctf-2015-web-200-nicklesndimes-write-up/>

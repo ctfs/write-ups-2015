@@ -10,8 +10,8 @@
 
 ## Write-up
 
-(TODO)
+Go to #9447CTF on irc.freenode.net. The flag is in the IRC channel's topic.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://rotiples.tistory.com/42>

@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://corb3nik.github.io/2015/11/29/9447-recon-2/>

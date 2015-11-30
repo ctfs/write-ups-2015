@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.jclariviere.com/posts/ctf-writeup-9447-ctf-2015-yws/>

@@ -27,4 +27,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/philo0x90/CTF-write-ups/blob/master/9447-ctf-2015/misc-recon1.md
+* <https://github.com/philo0x90/CTF-write-ups/blob/master/9447-ctf-2015/misc-recon1.md>
+* <http://corb3nik.github.io/2015/11/29/9447-recon-1/>
