@@ -12,7 +12,7 @@
 
 ## Write-up
 
-After looking at the provided PNG file with the hexeditor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chuncks. (To be precise: the flag-parts were the CRC checksum of the *IDAT* chuncks.)
+After looking at the provided PNG file with the Hex Editor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chunks. (To be precise: the flag-parts were the CRC checksum of the *IDAT* chunks.)
 
 ```
 0000000: 8950 4e47 0d0a 1a0a 0000 000d 4948 4452  .PNG........IHDR
@@ -28,7 +28,7 @@ After looking at the provided PNG file with the hexeditor of our choice, we spot
 ```
 
 
-After realizing this is also the case for other *IDAT* chuncks, a quick python script revealed the rest of the flag:
+After realizing this is also the case for other *IDAT* chunks, a quick python script revealed the rest of the flag:
 
 ```python
 #!/usr/bin/python
