@@ -27,7 +27,6 @@
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/sanutf8y-check](web/sanutf8y-check)
 * [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
-* [web/yws](web/yws)
 
 ## Missing write-ups
 
@@ -48,4 +47,3 @@
 * [reversing/nobranch](reversing/nobranch)
 * [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
-* [web/premonition](web/premonition)
