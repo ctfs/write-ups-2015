@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://lf.lc/ctf/2015-11-29-9447-0ldskoo1>

@@ -32,6 +32,7 @@
 * [exploitation/wtfos](exploitation/wtfos)
 * [misc/4w1h](misc/4w1h)
 * [misc/ctfclicker](misc/ctfclicker)
+* [reversing/0ldskoo1](reversing/0ldskoo1)
 * [reversing/danklang](reversing/danklang)
 * [reversing/flag-finder](reversing/flag-finder)
 * [reversing/hello-joe](reversing/hello-joe)
@@ -45,5 +46,4 @@
 
 * [exploitation/ctfzip](exploitation/ctfzip)
 * [exploitation/pwnos](exploitation/pwnos)
-* [reversing/0ldskoo1](reversing/0ldskoo1)
 * [reversing/nobranch](reversing/nobranch)
