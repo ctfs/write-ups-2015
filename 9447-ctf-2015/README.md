@@ -7,12 +7,13 @@
 ## Completed write-ups
 
 * [misc/give-feedback](misc/give-feedback)
+* [misc/recon-1](misc/recon-1)
+* [misc/recon-2](misc/recon-2)
 * [steganography/imaged](steganography/imaged)
 
 ## External write-ups only
 
 * [crypto/fibbed](crypto/fibbed)
-* [misc/recon-1](misc/recon-1)
 
 ## Missing write-ups
 
@@ -32,7 +33,6 @@
 * [misc/4w1h](misc/4w1h)
 * [misc/ctfclicker](misc/ctfclicker)
 * [misc/get-help](misc/get-help)
-* [misc/recon-2](misc/recon-2)
 * [reversing/0ldskoo1](reversing/0ldskoo1)
 * [reversing/danklang](reversing/danklang)
 * [reversing/flag-finder](reversing/flag-finder)

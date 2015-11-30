@@ -24,7 +24,6 @@
 * [misc/circ](misc/circ)
 * [misc/t9](misc/t9)
 * [pwn/cloud_gaming](pwn/cloud_gaming)
-* [pwn/greeter](pwn/greeter)
 * [pwn/lame_nayn](pwn/lame_nayn)
 * [pwn/scge](pwn/scge)
 * [pwn/unlame_nayn](pwn/unlame_nayn)
