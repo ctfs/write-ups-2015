@@ -7,6 +7,7 @@
 ## Completed write-ups
 
 * [misc/give-feedback](misc/give-feedback)
+* [steganography/imaged](steganography/imaged)
 
 ## External write-ups only
 
@@ -40,7 +41,6 @@
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
 * [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
-* [steganography/imaged](steganography/imaged)
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/premonition](web/premonition)
 * [web/sanutf8y-check](web/sanutf8y-check)
