@@ -19,8 +19,11 @@
 
 ## External write-ups only
 
+* [crypto/dub-key](crypto/dub-key)
 * [crypto/fibbed](crypto/fibbed)
 * [crypto/randbox](crypto/randbox)
+* [crypto/wob-key](crypto/wob-key)
+* [crypto/wob-key-hard](crypto/wob-key-hard)
 * [exploitation/bws](exploitation/bws)
 * [exploitation/calpop-reloaded](exploitation/calpop-reloaded)
 * [exploitation/cards](exploitation/cards)
@@ -40,9 +43,6 @@
 
 ## Missing write-ups
 
-* [crypto/dub-key](crypto/dub-key)
-* [crypto/wob-key](crypto/wob-key)
-* [crypto/wob-key-hard](crypto/wob-key-hard)
 * [exploitation/ctfzip](exploitation/ctfzip)
 * [exploitation/pwnos](exploitation/pwnos)
 * [reversing/0ldskoo1](reversing/0ldskoo1)
