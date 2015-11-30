@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mumei.strangled.net/post/3> (spanish)
