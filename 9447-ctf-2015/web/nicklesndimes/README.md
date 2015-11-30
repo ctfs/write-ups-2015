@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2015/11/30/9447-ctf-2015-web-200-nicklesndimes-write-up/>
+* <http://zoczus.blogspot.de/2015/11/ctf-9447-ctf-web200-nicklesndimes-write.html>

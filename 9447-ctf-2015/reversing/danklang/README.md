@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/zzoru/c0991d5e24c4b17a55cb>

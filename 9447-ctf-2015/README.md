@@ -2,6 +2,7 @@
 
 * <https://9447.plumbing>
 * [Scoreboard](https://9447.plumbing/scores) or [local alternative](TODOLOCAL)
+* [Sources for all challenges](https://s3-us-west-2.amazonaws.com/public.files.9447.plumbing/9447ctf2015-release.tar.gz)
 * Participants: 1136
 
 ## Completed write-ups
@@ -25,6 +26,7 @@
 * [exploitation/search-engine](exploitation/search-engine)
 * [misc/4w1h](misc/4w1h)
 * [misc/ctfclicker](misc/ctfclicker)
+* [reversing/danklang](reversing/danklang)
 * [reversing/flag-finder](reversing/flag-finder)
 * [reversing/hello-joe](reversing/hello-joe)
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
@@ -43,6 +45,5 @@
 * [exploitation/redos](exploitation/redos)
 * [exploitation/wtfos](exploitation/wtfos)
 * [reversing/0ldskoo1](reversing/0ldskoo1)
-* [reversing/danklang](reversing/danklang)
 * [reversing/nobranch](reversing/nobranch)
 * [steganography/binned](steganography/binned)
