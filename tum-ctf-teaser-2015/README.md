@@ -16,6 +16,7 @@
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/sanity_check](misc/sanity_check)
 * [pwn/c0unter](pwn/c0unter)
+* [rev/whitebox_crypto](rev/whitebox_crypto)
 * [web/neocities](web/neocities)
 
 ## Missing write-ups
@@ -36,6 +37,5 @@
 * [rev/qqqshit](rev/qqqshit)
 * [rev/quine](rev/quine)
 * [rev/selftest](rev/selftest)
-* [rev/whitebox_crypto](rev/whitebox_crypto)
 * [web/italy_food](web/italy_food)
 * [web/webshop](web/webshop)

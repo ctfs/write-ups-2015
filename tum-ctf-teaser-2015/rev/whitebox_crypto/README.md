@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/tum-ctf-teaser-2015/rev/whitebox%20crypto/sudhackar/README.md>

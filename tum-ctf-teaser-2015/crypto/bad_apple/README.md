@@ -143,4 +143,4 @@ length and we get the flag `hxp{M3rkL3_D4mg4rd_h4s_s0m3_Pr0bl3mZ}`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/tum-ctf-teaser-2015/crypto/bad_apple/sudhackar/README.md>

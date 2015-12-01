@@ -100,4 +100,4 @@ p.clean_and_log()
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/tum-ctf-teaser-2015/pwn/greeter/sudhackar/README.md>
