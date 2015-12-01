@@ -24,3 +24,4 @@
 
 * <https://github.com/p4-team/ctf/tree/master/2015-11-28-9447/4w1h#eng-version>
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc100-4w1h>
+* [Spanish](http://mumei.strangled.net/post/5)

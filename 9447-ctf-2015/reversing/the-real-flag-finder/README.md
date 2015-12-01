@@ -20,3 +20,4 @@
 
 * <http://rotiples.tistory.com/44>
 * <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-02-real-flag-finder-md>
+* <https://github.com/ByteBandits/writeups/tree/master/9447-2015/reversing/The%20*real*%20flag%20finder/sudhackar>
