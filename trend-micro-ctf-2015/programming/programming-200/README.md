@@ -23,3 +23,4 @@
 * <https://github.com/p4-team/ctf/tree/master/2015-09-26-trendmicro/calculator#eng-version>
 * <https://aeacussec.pt/blog/index.php/2015/09/27/trendmicro-ctf-programming200-calculated-it/>
 * <https://yanapermana.wordpress.com/2015/09/27/trend-micro-2015-ctf-programming-200/>
+* <https://github.com/ByteBandits/writeups/blob/master/trend-micro-ctf-2015/prog/calculator/chaitan94/README.md>

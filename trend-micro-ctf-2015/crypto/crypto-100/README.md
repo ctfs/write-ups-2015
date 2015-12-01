@@ -23,3 +23,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/TMCTF/crypto/crypto100>
 * <https://github.com/p4-team/ctf/tree/master/2015-09-26-trendmicro/rsa#eng-version>
 * <https://yanapermana.wordpress.com/2015/09/27/trend-micro-2015-write-up-ctf-cryptography-100/>
+* <https://github.com/ByteBandits/writeups/blob/master/trend-micro-ctf-2015/crypto/crypto-100/chaitan94/README.md>
