@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/whitehat-grand-prix-quals-2015/reversing/dong%20wan/sudhackar/README.md>
