@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/GuessTheNumber%20%5Bppc%5D%20(150)>
+* <https://github.com/ByteBandits/writeups/blob/master/hack.lu-ctf-2015/coding/GuessTheNumber/sudhackar/README.md>
