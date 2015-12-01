@@ -19,3 +19,4 @@
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-prng-service/>
 * <https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-pwn25-prng-service/>
+* <https://github.com/ByteBandits/writeups/blob/master/ekoparty-pre-ctf-2015/pwn/prng-service/chaitan94/README.md>

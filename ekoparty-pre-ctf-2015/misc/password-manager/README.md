@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-password-manager/>
+* <https://github.com/ByteBandits/writeups/blob/master/ekoparty-pre-ctf-2015/misc/password-manager/chaitan94/README.md>

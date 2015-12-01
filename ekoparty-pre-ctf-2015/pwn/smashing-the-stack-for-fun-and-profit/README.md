@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-smashing-the-stack-for-fun-and-profit/>
+* <https://github.com/ByteBandits/writeups/blob/master/ekoparty-pre-ctf-2015/pwn/smashing-the-stack-for-fun-and-profit/sudhackar/README.md>
