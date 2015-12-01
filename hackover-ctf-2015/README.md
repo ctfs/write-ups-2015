@@ -9,7 +9,9 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/easy-shell](pwn/easy-shell)
+* [reversing/goto](reversing/goto)
+* [web/hack-the-planet](web/hack-the-planet)
 
 ## Missing write-ups
 
@@ -29,12 +31,9 @@
 * [misc/simplepassword](misc/simplepassword)
 * [pwn/ascii-painter](pwn/ascii-painter)
 * [pwn/brainplant](pwn/brainplant)
-* [pwn/easy-shell](pwn/easy-shell)
 * [pwn/nodev](pwn/nodev)
 * [pwn/unfortune](pwn/unfortune)
 * [reversing/easy-math](reversing/easy-math)
-* [reversing/goto](reversing/goto)
 * [reversing/i-like-to-move-it](reversing/i-like-to-move-it)
-* [web/hack-the-planet](web/hack-the-planet)
 * [web/messagecenter](web/messagecenter)
 * [web/securelogin](web/securelogin)

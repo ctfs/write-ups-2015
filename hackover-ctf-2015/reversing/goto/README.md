@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/hackover-ctf-2015/reverse/goto/sudhackar/README.md>
