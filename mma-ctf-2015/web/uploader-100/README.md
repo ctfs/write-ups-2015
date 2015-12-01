@@ -26,3 +26,4 @@
 * <http://fadec0d3.blogspot.com/2015/09/mma-1st-ctf-2015-uploader-100.html>
 * [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/Uploader/54/)
 * <https://0x90r00t.com/2015/09/08/mma-2015-web-uploader-write-up/>
+* <https://github.com/ByteBandits/writeups/blob/master/mma-ctf-2015/web/uploader/chaitan94/README.md>
