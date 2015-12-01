@@ -25,3 +25,4 @@
 * <https://ctftime.org/writeup/1675>
 * <http://kikisctf.blogspot.hr/2015/09/csaw-2015-quals-forensic-100-transfer.html>
 * <http://blog.isis.poly.edu/2015/10/03/csaw-ctf-transfer.html>
+* <https://github.com/ByteBandits/writeups/blob/master/csaw-quals-2015/forensics/transfer/sudhackar/README.md>

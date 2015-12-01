@@ -26,3 +26,4 @@
 * <https://github.com/ViviTurtle/Programming/tree/master/Competitions/CSAW_2015/Flash>
 * <http://thekillingtime.com/?p=348>
 * <https://www.youtube.com/watch?v=0Vbw7HNlRtc>
+* <https://github.com/ByteBandits/writeups/blob/master/csaw-quals-2015/forensics/flash/chaitan94/README.md>
