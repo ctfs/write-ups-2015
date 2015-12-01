@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ByteBandits/writeups/blob/master/defcamp-quals-2015/reverse/r200/sudhackar/README.md>
