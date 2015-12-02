@@ -19,6 +19,7 @@
 * [exploiting/stackstuff](exploiting/stackstuff)
 * [forensic/dr-bob](forensic/dr-bob)
 * [reversing/secret-library](reversing/secret-library)
+* [reversing/solution-checker](reversing/solution-checker)
 * [reversing/zoo](reversing/zoo)
 * [web/bashful](web/bashful)
 * [web/grading-board](web/grading-board)
@@ -33,5 +34,4 @@
 * [exploiting/bookstore](exploiting/bookstore)
 * [exploiting/course-creator](exploiting/course-creator)
 * [exploiting/dragbox](exploiting/dragbox)
-* [reversing/solution-checker](reversing/solution-checker)
 * [web/champion](web/champion)

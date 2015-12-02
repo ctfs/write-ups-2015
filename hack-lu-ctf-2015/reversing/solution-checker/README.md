@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/Septyem/CTF-writeups/tree/master/hack.lu2015/SolutionChecker>
