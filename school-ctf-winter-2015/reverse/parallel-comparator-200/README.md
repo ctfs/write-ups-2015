@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://home.in.tum.de/~hagenloc/content/schoolctf-wu1/index.html>

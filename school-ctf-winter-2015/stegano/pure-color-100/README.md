@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://en.internetwache.org/school-ctf-2015-writeups-06-11-2015/>
