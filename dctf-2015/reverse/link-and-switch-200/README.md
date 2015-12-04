@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/ByteBandits/writeups/blob/master/defcamp-quals-2015/reverse/r200/sudhackar/README.md>
+* <https://b01lers.net/challenges/D-CTF%202015/Link%20%26%20Switch/71/>

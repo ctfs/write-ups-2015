@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://0x1337seichi.wordpress.com/2015/04/26/confidance-2015-ctf-teaser-power-level-writeup-crypto-50/>
+* <https://b01lers.net/challenges/CONFidence%20Teaser%202015/Power%20level/48/>

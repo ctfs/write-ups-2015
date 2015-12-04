@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/D-CTF%202015/LBS%20Checker/72/>

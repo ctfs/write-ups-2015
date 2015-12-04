@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://blog.jclariviere.com/posts/ctf-writeup-rctf-2015-quals-analysis-nginx-log/>
+* <https://b01lers.net/challenges/RCTF%202015/Analysis%20nginx%E2%80%98s%20log/74/>

@@ -17,4 +17,5 @@
 * <http://r3dey3.com/2015-03/bkpctf-alewife/>
 * <https://github.com/kitctf/writeups/blob/master/bkp2015/alewife/pwn.py>
 * <https://github.com/pwning/public-writeup/blob/master/bkp2015/pwn400-alewife/writeup.md>
+* <https://b01lers.net/challenges/Boston%20Key%20Party%202015/Alewife/43/>
 * <https://gist.github.com/g05u/4126f452ee41d4d5328c>

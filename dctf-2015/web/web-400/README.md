@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/D-CTF%202015/CSS%20Engineer/73/>
