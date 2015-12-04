@@ -1,17 +1,10 @@
 # School CTF Winter 2015 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* <http://school-ctf.org/>
+* [Scoreboard](http://school-ctf.org/#rating-ref) or [local alternative](TODOLOCAL)
+* Site hosts all writeups (writeup.md) here
 
 ## Completed write-ups
-
-* none yet
-
-## External write-ups only
-
-* none yet
-
-## Missing write-ups
 
 * [admin/awesome-web-200](admin/awesome-web-200)
 * [admin/can-you-follow-me-neo-300](admin/can-you-follow-me-neo-300)
@@ -43,3 +36,9 @@
 * [web/hunger-games-100](web/hunger-games-100)
 * [web/poetry-of-hacking-200](web/poetry-of-hacking-200)
 * [web/voting-fraud-400](web/voting-fraud-400)
+
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
