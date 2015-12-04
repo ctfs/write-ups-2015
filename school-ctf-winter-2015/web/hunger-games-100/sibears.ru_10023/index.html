@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+<!--  template "vOne - Free Business HTML5 Responsive Website"-->
+<title>Hunger games</title>
+<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+<!-- Custom styles for our template -->
+<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen" >
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+<body>
+  <div class="full_page">
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top headroom" >
+      <div class="container">
+        <div class="navbar-header"> 
+          <!-- Button for smallest screens -->
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="index.html"> Feed me PLEASE!</a> </div>
+        <!--/.nav-collapse --> 
+      </div>
+    </div>
+    <!-- /.navbar --> 
+
+    <!-- Highlights - jumbotron -->
+    <div class="jumbotron sectionBox main-content">
+        <div class="container my-content">
+            <div class="row">
+                <div class="col-md-12 highlight">
+                    <div class="h-caption">
+                        <h4></h4>
+                    </div>
+                    <div class="h-body">
+                        <div class="col-md-4">
+                            <p style="color:white">
+                                Feed the little monkey!<br />
+                                Choose the tasty fruits and send it to our pet!
+                            </p>
+                            <form>
+                                <div class="checkbox">
+                                    <label class="white"><input type="checkbox" value="orange">Orange</label>
+                                </div>
+                                <div class="checkbox">
+                                    <label class="white"><input type="checkbox" value="apple">Apple</label>
+                                </div>
+                                <div class="checkbox disabled">
+                                    <label class="white"><input type="checkbox" value="pineapple">Pineapple</label>
+                                </div>
+                                <button type="submit" class="btn col-md-offset-3 white">Feed!</button>
+                            </form>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="col-md-6 centered">
+                                <h2 id="msg">FEED MEEEE!</h2>
+                            </div>
+                            <div class="monkey col-md-6">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /row  --> 
+    
+      </div>
+    </div> 
+
+    <footer id="footer">
+      <div class="footer2">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 panel">
+              <div class="panel-body">
+                <p class="simplenav"><a href="https://twitter.com/schoolctf"><i class="fa fa-twitter fa-2"></i></a> <a href="https://vk.com/schoolctf2015"><i class="fa fa-vk fa-2"></i></a>  | <a href="#">Home</a></p>
+              </div>
+            </div>
+            <div class="col-md-6 panel">
+              <div class="panel-body">
+                <p class="text-right"> Copyright &copy; 2015. SchoolCTF by <a href="http://sibears.ru/" rel="develop">SiBears</a> </p>
+              </div>
+            </div>
+          </div>
+          <!-- /row of panels --> 
+        </div>
+      </div>
+    </footer>
+</div>
+<!-- JavaScript libs are placed at the end of the document so the pages load faster --> 
+<script src="assets/js/modernizr-latest.js"></script> 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script> 
+<script>
+    $(document).ready(function () {
+        $("form").on("submit", function (e) {
+            e.preventDefault();
+            var res= [];
+            var to_send = $("input:checked").each(function () { 
+                res.push($(this).val()) 
+            });
+            $("input:checked").prop("checked", false);
+            $.post('feed.php', 'data=' + res.join(), function (x) {
+                $("#msg").html(x);
+		if (x.indexOf("flag") > -1) 
+			$(".monkey").addClass("fed");
+            });
+
+        })
+    });
+</script>
+</body>
+</html>

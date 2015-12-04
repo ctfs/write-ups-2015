@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Best poetry here</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- Fonts from Google Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><b>POETRY</b></a>
+        </div>
+        
+      </div>
+    </div>
+
+	<div id="headerwrap">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 content">
+					<h3>Let's look for your favourite poetry</h3>
+                    <h5>If tou dont remember how to spell your favourite author you can use "_" instead unremembered letters.<br/>
+                    For example, "p___kin" or "b_ron"</h5>
+					<form class="form-inline" role="form">
+                        <div class="input-group">
+                            <input class="form-control" id="poet_name" placeholder="Enter author's name here">
+
+                            <div class="input-group-btn">
+                                <button class="btn btn-info">
+                                    <span class="glyphicon glyphicon-search"></span>
+                                </button>
+                            </div>
+                        </div>
+					</form>	
+                    <pre class="poetry">
+Not long ago, in a charming dream,
+I saw myself -- a king with crown's treasure;
+I was in love with you, it seemed,
+And heart was beating with a pleasure.
+                    </pre>				
+				</div><!-- /col-lg-6 -->
+				<div class="col-lg-4">
+					<img class="img-responsive" src="assets/img/pushkin.png" alt="">
+				</div><!-- /col-lg-6 -->
+				
+			</div><!-- /row -->
+		</div><!-- /container -->
+	</div><!-- /headerwrap -->
+	
+	
+	
+	
+	<div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                    <p class="simplenav">
+                        <a href="https://twitter.com/schoolctf"><i class="fa fa-twitter fa-2"></i></a>
+                        <a href="https://vk.com/schoolctf2015"><i class="fa fa-vk fa-2"></i></a>
+                    </p>
+            </div>
+            <div class="col-md-6">
+                
+                    <p class="text-right"> Copyright &copy; 2015. SchoolCTF by <a href="http://sibears.ru/" rel="develop"><b>SiBears</b></a> </p>
+                
+            </div>
+        </div>
+        <!-- /row of panels -->
+		<!-- Created by BlackTie.co - Attribution License 3.0 - 2013 -->
+	</div><!-- /container -->
+	
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script>
+        function search() {
+            to_send = "author=" + $("#poet_name")[0].value;
+            $.post("search.php", to_send, function (x) {
+                $(".poetry").text(x);
+            });
+        }
+        $(document).ready(function () {
+            $('form').on('submit', function (e) {
+                e.preventDefault();
+                search();
+            });
+        });
+    </script>
+  </body>
+</html>
