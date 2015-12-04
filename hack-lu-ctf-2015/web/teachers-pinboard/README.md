@@ -291,4 +291,4 @@ console.log(escape(accountinfo));
 
 ## Other write-ups and resources
 
-* none yet
+* <https://frederik-braun.com/teachers-pinboard-hack-lu-2015.html>
