@@ -18,3 +18,4 @@
 * <http://edholabs.ga/ctf_writeups/md5_crack_js.txt>
 * <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
 * <http://www.i4info.in/2015/11/21/hackdat-mathquiz/>
+* [French](https://ascopectf.wordpress.com/2015/11/22/write-upweb50phone-lock-1/)
