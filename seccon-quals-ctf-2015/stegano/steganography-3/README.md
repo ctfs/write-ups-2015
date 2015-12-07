@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/danangaji/ctf/blob/master/201512/SECCON/Stegano_3/README.md>
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/stegano_3_100#eng-version>
