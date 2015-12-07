@@ -15,3 +15,4 @@ Go to #9447CTF on irc.freenode.net. The flag is in the IRC channel's topic.
 ## Other write-ups and resources
 
 * <http://rotiples.tistory.com/42>
+* <https://gist.github.com/Invizory/1c2b4fb9a1edba86fac9>
