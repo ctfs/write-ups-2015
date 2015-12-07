@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<style>
+		HTML {
+			font-family: monospace;
+		}
+		TABLE {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+		TH, TD {
+			border: 1px solid black;
+			height: 15px;
+			line-height: 15px;
+			font-size: 15px;
+			font-weight: normal;
+			font-family: monospace;
+			cursor: pointer;
+		}
+
+		TD {
+			width: 15px;
+		}
+
+		.cols {
+			vertical-align: bottom;
+		}
+		.rows {
+			text-align: right;
+		}
+
+		TD {
+			color: transparent;
+		}
+		.mark {
+			background-color: black;
+		}
+
+		.gray {
+			background-color: #aaa;
+		}
+
+		.x {
+			color: #aaa;
+			background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAIAAAC0D9CtAAAAV0lEQVQoka2TUQoAIAhDd/9T7Wb2EZSIWov6kZwPyxZImrJIYoZ7wMzgNzfAZo6YV1EJTR69nGYiE4rSzgmzSquj5kwD/Osj30eem/w+sg9kv8m+fvg/A1zbR2407j/lAAAAAElFTkSuQmCC');
+			background-repeat: no-repeat;
+			background-position: 0px 0px; 
+		}
+
+		.strike {
+			text-decoration: line-through;
+			color: #aaa;
+		}
+		
+		.cell {
+			text-align: center;
+		}
+	</style>
+	<script src="jquery-2.1.4.min.js"></script>
+	<script>
+		$(function() {
+			$('.cell').click(function() {
+				if ($(this).hasClass('x')) {
+					$(this).removeClass('x');
+					return ;
+				}
+				if ($(this).hasClass('gray')) {
+					$(this).removeClass('gray').addClass('x');
+					return ;
+				}
+				if ($(this).hasClass('mark')) {
+					$(this).removeClass('mark').addClass('gray');
+					return ;
+				}
+				$(this).addClass('mark');
+			});
+			$('.cols span, .rows span').click(function() {
+				$(this).toggleClass('strike');
+			});
+		});
+	</script>
+</head>
+<body>
+Stage: 1 / 30<br />
+<table>
+<tr><th></th><th class="cols"><span>7</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>7</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>2</span><br /><span>2</span><br /><span>1</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>2</span><br /><span>1</span><br /><span>1</span><br /><span>1</span></th><th class="cols"><span>7</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>7</span></th><th class="cols"><span>1</span></th><th class="cols"><span>4</span><br /><span>2</span><br /><span>2</span><br /><span>1</span><br /><span>2</span><br /><span>2</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>2</span><br /><span>1</span><br /><span>1</span></th><th class="cols"><span>2</span><br /><span>1</span><br /><span>2</span><br /><span>1</span><br /><span>3</span><br /><span>2</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>4</span><br /><span>2</span><br /><span>1</span></th><th class="cols"><span>2</span><br /><span>1</span><br /><span>2</span><br /><span>1</span><br /><span>4</span><br /><span>1</span></th><th class="cols"><span>4</span><br /><span>4</span><br /><span>2</span></th><th class="cols"><span>7</span><br /><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>3</span><br /><span>2</span><br /><span>4</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>1</span><br /><span>2</span><br /><span>3</span></th><th class="cols"><span>1</span><br /><span>3</span><br /><span>1</span><br /><span>2</span><br /><span>2</span><br /><span>1</span></th><th class="cols"><span>1</span><br /><span>1</span><br /><span>3</span><br /><span>4</span></th><th class="cols"><span>7</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>1</span><br /><span>1</span></th></tr><tr><th class="rows"><span>7</span> <span>5</span> <span>7</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>1</span> <span>1</span> <span>3</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>4</span> <span>1</span> <span>3</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>1</span> <span>1</span> <span>3</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>2</span> <span>1</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>7</span> <span>1</span> <span>1</span> <span>1</span> <span>7</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>4</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>2</span> <span>3</span> <span>1</span> <span>1</span> <span>1</span> <span>4</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>2</span> <span>2</span> <span>6</span> <span>1</span> <span>2</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>2</span> <span>3</span> <span>1</span> <span>2</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>2</span> <span>3</span> <span>2</span> <span>2</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>7</span> <span>2</span> <span>2</span> <span>1</span> <span>2</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>2</span> <span>3</span> <span>1</span> <span>2</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>1</span> <span>2</span> <span>2</span> <span>2</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>2</span> <span>3</span> <span>1</span> <span>3</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>3</span> <span>1</span> <span>1</span> <span>1</span> <span>2</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>1</span> <span>3</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+<tr><th class="rows"><span>7</span> <span>2</span> <span>2</span> <span>1</span> <span>1</span></th>
+<td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td><td class="cell"></td></tr>
+</table>
+<br />
+<form method="POST">
+Answer: <input type="text" name="ans" />
+<input type="submit" value="Submit" />
+</form>
+</body>
+</html>
