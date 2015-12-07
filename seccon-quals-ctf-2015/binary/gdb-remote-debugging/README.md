@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://pony7.fr/ctf:public:seccon:gdb-remote-debugging>
