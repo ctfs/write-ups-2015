@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/dqi/ctf_writeup/tree/master/2015/seccon/crypto/unzip>

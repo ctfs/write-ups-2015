@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/paillier_crypto_200#eng-version>

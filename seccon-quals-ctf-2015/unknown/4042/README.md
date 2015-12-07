@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/4042_crypto_100#eng-version>

@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://khack40.info/seccon-2015-ctf-bonsai-xss-revolutions/>
