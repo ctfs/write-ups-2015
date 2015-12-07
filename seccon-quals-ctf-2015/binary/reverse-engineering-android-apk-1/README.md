@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://0xecute.com/index.php/2015/12/07/54/>
+* <https://ascopectf.wordpress.com/2015/12/06/seccon2015reverse-engineering-android-apk-1binary100/>
