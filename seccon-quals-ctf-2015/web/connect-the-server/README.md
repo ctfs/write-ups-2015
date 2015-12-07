@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/connect_web_100#eng-version>
+* <https://ascopectf.wordpress.com/2015/12/06/seccon2015connect-the-serverwebnetwork100/>
