@@ -3,6 +3,7 @@
 * <http://ctf.seccon.jp/>
 * [Scoreboard](http://ranking.quals.seccon.jp/) or [local alternative](TODOLOCAL)
 * [Sources for all Challenges](https://github.com/SECCON/SECCON2015_online_CTF)
+* Participants (>0 pts): 872
 
 ## Completed write-ups
 
