@@ -30,3 +30,4 @@
 * <https://github.com/philo0x90/CTF-write-ups/blob/master/9447-ctf-2015/misc-recon1.md>
 * <http://corb3nik.github.io/2015/11/29/9447-recon-1/>
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc140-recon1>
+* <https://gist.github.com/Invizory/2905c34fe4d2a885efec>
