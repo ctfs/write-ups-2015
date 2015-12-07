@@ -20,4 +20,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ascopectf.wordpress.com/2015/12/06/seccon2015command-line-quizunknown100/>
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/seccon/Command-line%20Quiz>
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/quiz_100#eng-version>
