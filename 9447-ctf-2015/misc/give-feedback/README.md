@@ -23,7 +23,8 @@
 
 9447{Thanks_for_the_feedback}
 
+“We gave our thoughts. At the end of the survey, there was something that looked like a flag. Wow, it was! ~ :D “
+
 ## Other write-ups and resources
 
-* “We gave our thoughts. At the end of the survey, there was something that looked like a flag. Wow, it was! ~ :D “
-
+* none yet
