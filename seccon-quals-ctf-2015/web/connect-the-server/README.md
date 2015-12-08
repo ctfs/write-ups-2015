@@ -19,3 +19,4 @@
 * [Japanese](http://kanpapa.com/today/2015/12/seccon-ctf-2015-online-write-up.html)
 * [Japanese](http://blog.kawa-xxx.jp/entry/2015/12/06/214456)
 * [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)
+* [Japanese](https://hackmd.io/s/4ke4H_iVx)

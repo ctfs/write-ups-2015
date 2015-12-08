@@ -13,6 +13,7 @@
 
 * [binary/exec-dmesg](binary/exec-dmesg)
 * [binary/gdb-remote-debugging](binary/gdb-remote-debugging)
+* [binary/individual-elebin](binary/individual-elebin)
 * [binary/reverse-engineering-android-apk-1](binary/reverse-engineering-android-apk-1)
 * [binary/reverse-engineering-hardware-1](binary/reverse-engineering-hardware-1)
 * [binary/reverse-engineering-hardware-2](binary/reverse-engineering-hardware-2)
@@ -22,6 +23,8 @@
 * [exercises/last-challenge](exercises/last-challenge)
 * [exercises/start-seccon-ctf](exercises/start-seccon-ctf)
 * [exploit/fsb-treewalker](exploit/fsb-treewalker)
+* [exploit/micro-computer-exploit-code-challenge](exploit/micro-computer-exploit-code-challenge)
+* [exploit/syscall-impossible](exploit/syscall-impossible)
 * [stegano/seccon-wars-2015](stegano/seccon-wars-2015)
 * [stegano/steganography-1](stegano/steganography-1)
 * [stegano/steganography-2](stegano/steganography-2)
@@ -39,7 +42,4 @@
 
 ## Missing write-ups
 
-* [binary/individual-elebin](binary/individual-elebin)
 * [crypto/please-give-me-md5-collision-files](crypto/please-give-me-md5-collision-files)
-* [exploit/micro-computer-exploit-code-challenge](exploit/micro-computer-exploit-code-challenge)
-* [exploit/syscall-impossible](exploit/syscall-impossible)

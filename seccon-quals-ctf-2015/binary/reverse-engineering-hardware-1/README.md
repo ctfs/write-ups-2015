@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * [Japaanese](https://github.com/hideyuki/SECCON-2015-Online-CTF-Writeup/tree/master/Reverse-Engineering-Hardware-1)
+* [Japanese](https://hackmd.io/s/4JhhsThNg)

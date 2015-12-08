@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/qr_nonogram_300#eng-version>
+* [Japanese](https://hackmd.io/s/Nk63Aqj4e)

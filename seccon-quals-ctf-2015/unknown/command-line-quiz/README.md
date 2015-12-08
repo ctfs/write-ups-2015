@@ -25,3 +25,4 @@
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/quiz_100#eng-version>
 * [Japanese](http://akashisn.azurewebsites.net/2015/12/06/seccon-2015-online-ctf-write-up/)
 * [Japanese](http://kanpapa.com/today/2015/12/seccon-ctf-2015-online-write-up.html)
+* [Japanese](https://hackmd.io/s/NkC2KdiVg)

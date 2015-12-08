@@ -18,3 +18,4 @@
 
 * [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)
 * [Japanese](https://ww24.jp/security/seccon-2015-online-ctf-write-up-fragment2/)
+* [Japanese](https://hackmd.io/s/4yKSTwi4g)

@@ -20,3 +20,4 @@
 * <https://ascopectf.wordpress.com/2015/12/06/seccon2015reverse-engineering-android-apk-1binary100/>
 * <http://blog.squareroots.de/en/2015/12/seccon-2015-online-ctf-reverse-engineering-android-apk-1/>
 * [Japanese](http://akashisn.azurewebsites.net/2015/12/06/seccon-2015-online-ctf-write-up/)
+* [Japanese](https://hackmd.io/s/EJdT9624x)

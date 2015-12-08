@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](https://hackmd.io/s/E1gc7g3Vl)

@@ -21,3 +21,4 @@
 * [Japanese](http://iwasi.hatenablog.jp/entry/2015/12/06/190557)
 * [Japanese](http://akashisn.azurewebsites.net/2015/12/06/seccon-2015-online-ctf-write-up/)
 * [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)
+* [Japanese](https://hackmd.io/s/VJKXiph4x)
