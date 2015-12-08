@@ -20,3 +20,6 @@
 * [Japanese](http://blog.kawa-xxx.jp/entry/2015/12/06/214456)
 * [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)
 * [Japanese](https://hackmd.io/s/4ke4H_iVx)
+* [Japanese](http://amiq11.tumblr.com/post/134657262324/seccon2015-writeup-eeic-advent-calendar-day-6)
+* [Japanese](http://hfukuda.hatenablog.com/entry/2015/12/07/235823)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)

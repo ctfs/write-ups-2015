@@ -24,3 +24,4 @@
 * [Japanese](http://katc.hateblo.jp/entry/2015/12/06/185159)
 * [Japanese](http://iwasi.hatenablog.jp/entry/2015/12/06/190557)
 * [Japanese](https://hackmd.io/s/Ekwbl134e)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)

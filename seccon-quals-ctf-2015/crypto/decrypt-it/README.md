@@ -24,3 +24,5 @@
 * <https://pony7.fr/ctf:public:seccon:decrypt-it>
 * <https://github.com/dqi/ctf_writeup/tree/master/2015/seccon/crypto/cryptooo>
 * [Japanese](https://hackmd.io/s/4J7yitjVl)
+* [Japanese](http://hfukuda.hatenablog.com/entry/2015/12/07/235823)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)

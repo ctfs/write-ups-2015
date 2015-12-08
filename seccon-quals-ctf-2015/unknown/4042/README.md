@@ -21,3 +21,5 @@
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/4042_crypto_100#eng-version>
 * [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)
 * [Japanese](https://hackmd.io/s/E1c3Eg3Eg)
+* [Japanese](http://d.hatena.ne.jp/waidotto/20151206/1449409523)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)

@@ -18,3 +18,4 @@
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/qr_web_400#eng-version>
 * [Japanese](http://d.hatena.ne.jp/Dltn/20151207/p1)
+* [Japanese](http://qiita.com/iroiro123/items/7f2f83a70a9547e6d400)

@@ -22,3 +22,5 @@
 * [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)
 * [Japanese](http://katc.hateblo.jp/entry/2015/12/06/185159)
 * [Japanese](https://hackmd.io/s/EkG_hFsEx)
+* [Japanese](http://hfukuda.hatenablog.com/entry/2015/12/07/235823)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQc)

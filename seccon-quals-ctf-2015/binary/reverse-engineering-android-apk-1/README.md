@@ -21,3 +21,5 @@
 * <http://blog.squareroots.de/en/2015/12/seccon-2015-online-ctf-reverse-engineering-android-apk-1/>
 * [Japanese](http://akashisn.azurewebsites.net/2015/12/06/seccon-2015-online-ctf-write-up/)
 * [Japanese](https://hackmd.io/s/EJdT9624x)
+* [Japanese](http://hfukuda.hatenablog.com/entry/2015/12/07/235823)
+* [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)
