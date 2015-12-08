@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc220-ctfclicker>
+* <http://ohaithe.re/post/134755783432/ctfclicker-writeup-9447-ctf>

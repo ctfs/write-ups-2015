@@ -22,3 +22,4 @@
 * <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-02-real-flag-finder-md>
 * <https://github.com/ByteBandits/writeups/tree/master/9447-2015/reversing/The%20*real*%20flag%20finder/sudhackar>
 * [b01lers](https://b01lers.net/challenges/9447%20CTF%202015/FlagFinder/77/)
+* <https://github.com/ubuntor/misc_writeups/tree/master/9447ctf2015>

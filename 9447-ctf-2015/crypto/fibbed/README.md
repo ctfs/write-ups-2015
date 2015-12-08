@@ -20,3 +20,5 @@
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/crypto310-fibbed>
 * <http://www.gnoobz.com/9447-ctf-2015-fibbed-writeup.html>
 * [b01lers](https://b01lers.net/challenges/9447%20CTF%202015/Fibbed/75/)
+* <https://github.com/ubuntor/misc_writeups/tree/master/9447ctf2015>
+

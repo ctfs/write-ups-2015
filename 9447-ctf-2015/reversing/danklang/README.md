@@ -31,3 +31,4 @@
 * <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-03-danklang-md>
 * [b01lers](https://b01lers.net/challenges/9447%20CTF%202015/darklang/79/)
 * <https://github.com/p4-team/ctf/tree/master/2015-11-28-9447/danklang#eng-version>
+* <https://github.com/ubuntor/misc_writeups/tree/master/9447ctf2015>

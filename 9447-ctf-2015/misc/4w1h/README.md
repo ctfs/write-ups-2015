@@ -26,3 +26,4 @@
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc100-4w1h>
 * [Spanish](http://mumei.strangled.net/post/5)
 * [b01lers](https://b01lers.net/challenges/9447%20CTF%202015/4w1h/80/)
+* [sophia.re](http://www.sophia.re/4w1h.mdown.html)
