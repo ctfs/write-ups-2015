@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/qr_windows_200#eng-version>
