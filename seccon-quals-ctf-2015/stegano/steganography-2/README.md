@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [French](http://khack40.info/seccon-ctf-2015-steganography-2/)
+* [Japanese](http://iwasi.hatenablog.jp/entry/2015/12/06/190557)

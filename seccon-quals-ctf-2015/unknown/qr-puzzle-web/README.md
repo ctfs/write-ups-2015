@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/qr_web_400#eng-version>
+* [Japanese](http://d.hatena.ne.jp/Dltn/20151207/p1)

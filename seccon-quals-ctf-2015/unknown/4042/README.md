@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/4042_crypto_100#eng-version>
+* [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)

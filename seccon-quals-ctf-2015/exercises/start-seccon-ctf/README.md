@@ -37,3 +37,6 @@
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/start_seccon_50#eng-version>
 * <https://ascopectf.wordpress.com/2015/12/06/seccon2015start-seccon-ctfexercises50/>
+* [Japanese](http://katc.hateblo.jp/entry/2015/12/06/185159)
+* [Japanese](http://kanpapa.com/today/2015/12/seccon-ctf-2015-online-write-up.html)
+* [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)

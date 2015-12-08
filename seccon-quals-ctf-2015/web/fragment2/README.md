@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)
+* [Japanese](https://ww24.jp/security/seccon-2015-online-ctf-write-up-fragment2/)

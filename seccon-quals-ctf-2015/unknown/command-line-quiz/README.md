@@ -23,3 +23,5 @@
 * <https://ascopectf.wordpress.com/2015/12/06/seccon2015command-line-quizunknown100/>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/seccon/Command-line%20Quiz>
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/quiz_100#eng-version>
+* [Japanese](http://akashisn.azurewebsites.net/2015/12/06/seccon-2015-online-ctf-write-up/)
+* [Japanese](http://kanpapa.com/today/2015/12/seccon-ctf-2015-online-write-up.html)

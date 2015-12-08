@@ -19,3 +19,5 @@
 * <https://pony7.fr/ctf:public:seccon:exec-dmesg>
 * <http://gnoobz.com/seccon-online-ctf-2015-exec-dmesg.html>
 * <https://github.com/dqi/ctf_writeup/tree/master/2015/seccon/binary/exec%20dmesg>
+* [Japanese](http://miettal.hatenablog.com/entry/2015/12/07/104233)
+* [Japanese](http://katc.hateblo.jp/entry/2015/12/06/185159)

@@ -17,3 +17,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/qr_windows_200#eng-version>
+* [Japanese](http://www.lac.co.jp/blog/category/security/201512072.html)
+* [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)

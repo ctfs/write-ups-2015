@@ -16,3 +16,6 @@
 
 * <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/connect_web_100#eng-version>
 * <https://ascopectf.wordpress.com/2015/12/06/seccon2015connect-the-serverwebnetwork100/>
+* [Japanese](http://kanpapa.com/today/2015/12/seccon-ctf-2015-online-write-up.html)
+* [Japanese](http://blog.kawa-xxx.jp/entry/2015/12/06/214456)
+* [Japanese](http://nononono.sakura.ne.jp/blog/2015-1206/)
