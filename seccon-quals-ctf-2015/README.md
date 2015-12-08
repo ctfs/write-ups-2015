@@ -4,7 +4,7 @@
 * [Scoreboard](http://ranking.quals.seccon.jp/) or [local alternative](TODOLOCAL)
 * [Sources for all Challenges](https://github.com/SECCON/SECCON2015_online_CTF)
 * Participants (>0 pts): 872
-* [Google Docs containing list of writeups](https://docs.google.com/spreadsheets/d/1IEKOBftoAMnOocH10Q2r8sjC54sprRJJsXt9KMnwmBQ)
+* [Google Docs containing list of writeups](https://docs.google.com/spreadsheets/d/1IEKOBftoAMnOocH10Q2r8sjC54sprRJJsXt9KMnwmBQ) presumably contributed by [@syusui_s](https://twitter.com/syusui_s)
 
 ## Completed write-ups
 
