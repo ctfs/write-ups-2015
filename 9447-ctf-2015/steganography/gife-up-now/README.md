@@ -27,3 +27,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/steg170-gife-up-now>
+* [sophia.re](http://www.sophia.re/94472015_gifeupnow_writeup.html)

@@ -25,4 +25,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* “We gave our thoughts. At the end of the survey, there was something that looked like a flag. Wow, it was! ~ :D “
+

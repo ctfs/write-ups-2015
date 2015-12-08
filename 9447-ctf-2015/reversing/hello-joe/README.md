@@ -20,3 +20,4 @@
 
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/re160-hello-joe>
 * <https://gist.github.com/xyzz/9a5511ffa1ade17e7359#file-01-re-04-hello-joe-md>
+* <http://ohaithe.re/post/134749034617/hellojoe-writeup-9447-ctf>

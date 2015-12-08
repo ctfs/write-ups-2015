@@ -16,3 +16,4 @@ Go to #9447CTF on irc.freenode.net. The flag is in the IRC channel's topic.
 
 * <http://rotiples.tistory.com/42>
 * <https://gist.github.com/Invizory/1c2b4fb9a1edba86fac9>
+* <http://www.sophia.re/94472015_gethelp_writeup.html>

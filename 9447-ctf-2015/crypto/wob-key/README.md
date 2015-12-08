@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/tree/e8104c307426dbeb8081a2f8b08200e7182e9db8/9447ctf2015/crypto320-wob-key>
+* <http://ohaithe.re/post/134557184717/dubkey-wobkey-writeup-9447-ctf>

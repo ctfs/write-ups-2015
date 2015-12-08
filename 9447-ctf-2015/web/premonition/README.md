@@ -136,3 +136,4 @@ the flag is:
 * <http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-premonition/>
 * <http://pastebin.com/NCSv5qpW>
 * <https://pony7.fr/ctf:public:9447:premonition>
+* [sophia.re](http://www.sophia.re/94472015_premonition_writeup.html)

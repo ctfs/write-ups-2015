@@ -31,3 +31,4 @@
 * <http://corb3nik.github.io/2015/11/29/9447-recon-1/>
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/misc140-recon1>
 * <https://gist.github.com/Invizory/2905c34fe4d2a885efec>
+* [sophia.re](http://www.sophia.re/94472015_recon12_writeup.html)

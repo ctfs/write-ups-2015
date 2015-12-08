@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/re330-nobranch>
+* <https://github.com/angr/angr-doc/blob/master/examples/9447_nobranch/solve.py>
