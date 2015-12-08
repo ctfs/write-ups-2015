@@ -18,3 +18,4 @@
 
 * <http://0xecute.com/index.php/2015/12/07/54/>
 * <https://ascopectf.wordpress.com/2015/12/06/seccon2015reverse-engineering-android-apk-1binary100/>
+* <http://blog.squareroots.de/en/2015/12/seccon-2015-online-ctf-reverse-engineering-android-apk-1/>

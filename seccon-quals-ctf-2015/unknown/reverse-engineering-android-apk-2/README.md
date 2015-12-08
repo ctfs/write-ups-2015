@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://gnoobz.com/seccon-online-ctf-2015-reverse-engineering-android-apk-2.html>
+* <https://cedricvb.be/post/seccon-2015-reverse-engineering-android-apk-2-400-writeup/>

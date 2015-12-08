@@ -25,9 +25,11 @@
 * [stegano/steganography-3](stegano/steganography-3)
 * [unknown/4042](unknown/4042)
 * [unknown/command-line-quiz](unknown/command-line-quiz)
+* [unknown/qr-puzzle-nonogram](unknown/qr-puzzle-nonogram)
 * [unknown/reverse-engineering-android-apk-2](unknown/reverse-engineering-android-apk-2)
 * [web/bonsai-xss-revolutions](web/bonsai-xss-revolutions)
 * [web/connect-the-server](web/connect-the-server)
+* [web/entry-form](web/entry-form)
 
 ## Missing write-ups
 
@@ -38,8 +40,6 @@
 * [exploit/micro-computer-exploit-code-challenge](exploit/micro-computer-exploit-code-challenge)
 * [exploit/syscall-impossible](exploit/syscall-impossible)
 * [stegano/steganography-2](stegano/steganography-2)
-* [unknown/qr-puzzle-nonogram](unknown/qr-puzzle-nonogram)
 * [unknown/qr-puzzle-web](unknown/qr-puzzle-web)
 * [unknown/qr-puzzle-windows](unknown/qr-puzzle-windows)
-* [web/entry-form](web/entry-form)
 * [web/fragment2](web/fragment2)

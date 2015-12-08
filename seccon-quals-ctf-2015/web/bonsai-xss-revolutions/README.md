@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://khack40.info/seccon-2015-ctf-bonsai-xss-revolutions/>
+* <https://github.com/p4-team/ctf/tree/master/2015-12-05-seccon/bonsai_xss_revolutions_web_200#eng-version>
