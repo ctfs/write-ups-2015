@@ -1,0 +1,43 @@
+__libc_start_main(0x400e0a, 1, 0x7fffe1009978, 0x4014a0 <unfinished ...>
+socket(2, 1, 0)                                  = 3
+puts("Begin working out flag...")                = 26
+getpeername(3, 0x7fffe10097e0, 0x7fffe1009748, 0x7fffe10097e0) = -1
+getpeername(3, 0x7fffe10097e0, 0x7fffe1009748, 0x7fffe10097e0) = -1
+getsockopt(3, 1, 4, 0x7fffe1009770)              = 0
+shmdt(0x7fffe100972c, 1, 533, 11)                = -1
+getgid()                                         = 1000
+getsockname(3, 0x7fffe10097e0, 0x7fffe1009748, 0x7fffe10097e0) = 0
+sysinfo(0x7fffe1009770, 0x7fffe10097e0, 0x7fffe1009748, -1) = 0
+geteuid()                                        = 1000
+umask(01)                                        = 02
+shutdown(3, 1, 0xfffffffc, -1)                   = -1
+setresuid(1000, 1000, 1000, 1000)                = 0
+rmdir("10")                                      = -1
+umask(01)                                        = 01
+ftruncate(3, 1000)                               = -1
+getpgid(2302)                                    = 2300
+umask(01)                                        = 01
+memset(0x7fffe10097e8, '\0', 8)                  = 0x7fffe10097e8
+shmdt(0x7fffe100972c, 0, 0xfffffffd, 0)          = -1
+getpeername(3, 0x7fffe10097e0, 0x7fffe1009748, 0x7fffe10097e0) = -1
+htons(8888, 0x7fffe10097e0, 0x7fffe1009748, -160) = 0xb822
+inet_pton(2, 0x401544, 0x7fffe10097e4, -160)     = 1
+memset(0x7fffe10097e8, '\0', 8)                  = 0x7fffe10097e8
+bind(3, 0x7fffe10097e0, 0xe1009748, 0x7fffe10097e0) = -1
+htons(8888, 0x7fffe10097e0, 0xe1009748, -160)    = 0xb822
+inet_pton(2, 0x401544, 0x7fffe10097e4, -160)     = 1
+memset(0x7fffe10097e8, '\0', 8)                  = 0x7fffe10097e8
+bind(3, 0x7fffe10097e0, 0xe1009748, 0x7fffe10097e0) = -1
+setuid(2300)                                     = -1
+syscall(78, 3, 0x7fffe10097f0, 1)                = -1
+klogctl(2, 0x7fffe1009810, 100, -160)            = -1
+umask(01)                                        = 01
+shmdt(0x7fffe100972c, 0x7fffe1009810, 0xfffffffd, 0xfffffff9) = -1
+shutdown(3, 2, 0xfffffffd, -160)                 = -1
+times(0x7fffe1009770, 2, 0xfffffffd, -160)       = 0x666659da
+msgsnd(1, 0x7fffe1009770, 32, 2048)              = -1
+syscall(125, 0, 0, -160)                         = -1
+puts("Flag worked out!")                         = 17
+Begin working out flag...
+Flag worked out!
++++ exited (status 0) +++
