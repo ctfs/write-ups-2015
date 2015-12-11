@@ -13,7 +13,7 @@
 > 
 > [encripted](./encripted)
 > 
-> [counterhardware.zip](./counterhardware.zip)
+> [counterhardware.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Binary/500_Reverse-Engineering%20Hardware%202/counterhardware.zip)
 
 
 ## Write-up

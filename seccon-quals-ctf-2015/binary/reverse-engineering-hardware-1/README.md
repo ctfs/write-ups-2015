@@ -14,7 +14,7 @@
 > [gpio.py](./gpio.py)
 > 
 > 
-> [ChristmasIllumiations.zip](./ChristmasIllumiations.zip)
+> [ChristmasIllumiations.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Binary/400_Reverse-Engineering%20Hardware%201/ChristmasIllumiations.zip)
 
 
 ## Write-up

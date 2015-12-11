@@ -8,7 +8,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [stegano/steganography-2](stegano/steganography-2)
 
 ## External write-ups only
 
@@ -28,7 +28,6 @@
 * [exploit/syscall-impossible](exploit/syscall-impossible)
 * [stegano/seccon-wars-2015](stegano/seccon-wars-2015)
 * [stegano/steganography-1](stegano/steganography-1)
-* [stegano/steganography-2](stegano/steganography-2)
 * [stegano/steganography-3](stegano/steganography-3)
 * [unknown/4042](unknown/4042)
 * [unknown/command-line-quiz](unknown/command-line-quiz)
