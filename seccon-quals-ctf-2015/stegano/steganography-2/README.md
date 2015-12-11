@@ -29,9 +29,9 @@ So we open `sunrise.png` with any hexeditor (My preference is `hexedit`), look u
 
 ![](./hexedit-1.png)
 
-However, the each chunk has a checksum/CRC to detect tampering/corruption as explained [here](http://www.w3.org/TR/PNG/#5Chunk-layout).
+However, each chunk has a checksum/CRC to detect tampering/corruption as explained [here](http://www.w3.org/TR/PNG/#5Chunk-layout).
 
-`pngcheck` can tell us which CRC is to be expected:
+`pngcheck` can tell us which CRC is to be expected and which one is computed:
 
 ```bash
 +bash-4.3$ pngcheck sunrise.new.png 
@@ -39,7 +39,7 @@ sunrise.new.png  CRC error in chunk IHDR (computed 318df665, expected a01b1a42)
 ERROR: sunrise.new.png
 ```
 
-So we change the CRC of our `IDAT` chunk to the expected one in `hexedit`:
+So we change the CRC of our `IDAT` chunk to the computed one in `hexedit`:
 
 ![](./hexedit-2.png)
 
