@@ -22,7 +22,7 @@ It shows an ELF named flag opened in a hex editor, a paint tool and a forum thre
 
 	This problem can be solved by pre-school children [...]
 
-If you are blind and miss miss the wood for the trees, you start by applying [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) to get the binary representation of [the portraited ELF](./thiself).
+If you are blind and miss the wood for the trees, you start by applying [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) to get the binary representation of [the portraited ELF](./thiself).
 
 However, when you run the ELF, you only get the output `Rmxvb2QgZmlsbA0K`, which, base64 decoded, is `Flood fill`.
 
