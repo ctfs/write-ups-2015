@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: infinity-star
+# EasyCTF 2015 2015: Infinity Star (375)
 
 **Category:** Web
-**Points:** 
+**Points:** 375
 **Solves:** 
 **Description:**
 
-> # Infinity Star (375)
-> 
-> 
-> Infinity Star Bank's [new website](<http://web.easyctf.com:10206/)> is up! In honor of their opening, they are offering a premium service that allows you to view flags.
+> Infinity Star Bank's [new website](http://web.easyctf.com:10206/) is up! In honor of their opening, they are offering a premium service that allows you to view flags.
 > 
 > 
 > Important note: the account `michael` is an admin account.
@@ -23,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/infinity_star_375.md>

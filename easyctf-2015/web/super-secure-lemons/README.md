@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: super-secure-lemons
+# EasyCTF 2015 2015: Super Secure Lemons (225)
 
 **Category:** Web
-**Points:** 
+**Points:** 225
 **Solves:** 
 **Description:**
 
-> # Super Secure Lemons (225)
-> 
-> 
-> This [site](<https://web.easyctf.com:10202)> uses an encryption technology to keep its lemons super secure! On second thought, it might not be as secure as we thought.
+> This [site](https://web.easyctf.com:10202) uses an encryption technology to keep its lemons super secure! On second thought, it might not be as secure as we thought.
 > 
 > 
 > Hint: Why is your browser giving you that funny security message?
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/super_secure_lemons_225.md>

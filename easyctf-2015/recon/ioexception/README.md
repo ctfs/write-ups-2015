@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: ioexception
+# EasyCTF 2015 2015: IOException (450)
 
 **Category:** Recon
-**Points:** 
+**Points:** 450
 **Solves:** 
 **Description:**
 
-> # IOException (450)
-> 
-> 
 > My name is Michael Zhang.
 > 
 > 
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/ioexception_450.md>

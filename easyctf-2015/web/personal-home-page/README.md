@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: personal-home-page
+# EasyCTF 2015 2015: Personal Home Page (225)
 
 **Category:** Web
-**Points:** 
+**Points:** 225
 **Solves:** 
 **Description:**
 
-> # Personal Home Page (225)
-> 
-> 
-> [I hate PHP](<http://web.easyctf.com:10200)>
+> [I hate PHP](http://web.easyctf.com:10200)
 > 
 > 
 > Hint: You might not have permission to read the file, but someone else does ;)
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/personal_home_page_225.md>

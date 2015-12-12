@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: easter
+# EasyCTF 2015 2015: Easter (100)
 
 **Category:** Web
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
-> # Easter (100)
-> 
-> 
-> [page](<https://www.easyctf.com/static/problems/easter/easter.html)>
+> [page](https://www.easyctf.com/static/problems/easter/easter.html)
 > 
 > 
 > Hint: Just look around.
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/easter_100.md>

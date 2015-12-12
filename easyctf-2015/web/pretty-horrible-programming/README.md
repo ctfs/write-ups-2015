@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: pretty-horrible-programming
+# EasyCTF 2015 2015: Pretty Horrible Programming (275)
 
 **Category:** Web
-**Points:** 
+**Points:** 275
 **Solves:** 
 **Description:**
 
-> # Pretty Horrible Programming (275)
-> 
-> 
-> [I *still* hate PHP](<http://web.easyctf.com:10201).>
+> [I *still* hate PHP](http://web.easyctf.com:10201).
 > 
 > 
 > Hint: How is the webpage checking your password?
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/pretty_horrible_programming_275.md>
