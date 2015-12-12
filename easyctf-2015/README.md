@@ -4,16 +4,13 @@
 * [Scoreboard](http://2015.easyctf.com/scoreboard) or [local alternative](TODOLOCAL)
 * [Writeup book by CTF organizers](http://writeups.easyctf.com/index.html), for download [here](https://www.gitbook.com/book/failedxyz/easyctf-2015-writeups/details)
 * [List of local + external writeups on EasyCTF's github repo](https://github.com/EasyCTF/easyctf-2015-writeups)
+* [List of easter eggs during the challenge](http://writeups.easyctf.com/easter_eggs.html)
 
 ## Completed write-ups
 
 * none yet
 
 ## External write-ups only
-
-* none yet
-
-## Missing write-ups
 
 * [binary-exploitation/adoughbee](binary-exploitation/adoughbee)
 * [binary-exploitation/buffering](binary-exploitation/buffering)
@@ -82,3 +79,5 @@
 * [web/wastebin-1](web/wastebin-1)
 * [web/wastebin-2](web/wastebin-2)
 * [web/wastebin-3](web/wastebin-3)
+
+## Missing write-ups
