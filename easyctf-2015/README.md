@@ -1,6 +1,6 @@
 # EasyCTF 2015 write-ups
 
-* <http://easyctf.com/>
+* <http://2015.easyctf.com/>
 * [Scoreboard](http://2015.easyctf.com/scoreboard) or [local alternative](TODOLOCAL)
 * [Writeup book by CTF organizers](http://writeups.easyctf.com/index.html), for download [here](https://www.gitbook.com/book/failedxyz/easyctf-2015-writeups/details)
 * [List of local + external writeups on EasyCTF's github repo](https://github.com/EasyCTF/easyctf-2015-writeups)
