@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Zob's Password (450)
+# EasyCTF 2015: Zob's Password (450)
 
 **Category:** Cryptography
 **Points:** 450

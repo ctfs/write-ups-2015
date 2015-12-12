@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Plot Twist (20)
+# EasyCTF 2015: Plot Twist (20)
 
 **Category:** Web
 **Points:** 20

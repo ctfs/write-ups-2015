@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Hardwood Floors (200)
+# EasyCTF 2015: Hardwood Floors (200)
 
 **Category:** Cryptography
 **Points:** 200

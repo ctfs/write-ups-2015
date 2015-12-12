@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Pretty Horrible Programming (275)
+# EasyCTF 2015: Pretty Horrible Programming (275)
 
 **Category:** Web
 **Points:** 275

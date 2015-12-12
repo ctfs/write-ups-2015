@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: H4sh3D (200)
+# EasyCTF 2015: H4sh3D (200)
 
 **Category:** Cryptography
 **Points:** 200

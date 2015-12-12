@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Math Class (50)
+# EasyCTF 2015: Math Class (50)
 
 **Category:** Programming
 **Points:** 50

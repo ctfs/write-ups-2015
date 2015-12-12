@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Easter (100)
+# EasyCTF 2015: Easter (100)
 
 **Category:** Web
 **Points:** 100

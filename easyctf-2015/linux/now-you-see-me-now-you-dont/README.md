@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Now You See Me, Now You Don't (75)
+# EasyCTF 2015: Now You See Me, Now You Don't (75)
 
 **Category:** Linux
 **Points:** 75

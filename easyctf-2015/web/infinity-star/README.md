@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Infinity Star (375)
+# EasyCTF 2015: Infinity Star (375)
 
 **Category:** Web
 **Points:** 375

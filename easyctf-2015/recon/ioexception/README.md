@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: IOException (450)
+# EasyCTF 2015: IOException (450)
 
 **Category:** Recon
 **Points:** 450

@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Repetitive Strain Injury (475)
+# EasyCTF 2015: Repetitive Strain Injury (475)
 
 **Category:** Forensics
 **Points:** 475

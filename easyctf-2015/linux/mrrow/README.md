@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Mrrow????? (75)
+# EasyCTF 2015: Mrrow????? (75)
 
 **Category:** Linux
 **Points:** 75

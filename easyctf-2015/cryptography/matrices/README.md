@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Matrices (575)
+# EasyCTF 2015: Matrices (575)
 
 **Category:** Cryptography
 **Points:** 575

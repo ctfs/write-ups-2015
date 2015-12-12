@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Can You Even??? (40)
+# EasyCTF 2015: Can You Even??? (40)
 
 **Category:** Programming
 **Points:** 40

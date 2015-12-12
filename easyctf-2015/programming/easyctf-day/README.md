@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: EasyCTF Day (55)
+# EasyCTF 2015: EasyCTF Day (55)
 
 **Category:** Programming
 **Points:** 55

@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Faster Math (325)
+# EasyCTF 2015: Faster Math (325)
 
 **Category:** Programming
 **Points:** 325

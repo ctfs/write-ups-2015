@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Who is this god? (175)
+# EasyCTF 2015: Who is this god? (175)
 
 **Category:** Forensics
 **Points:** 175

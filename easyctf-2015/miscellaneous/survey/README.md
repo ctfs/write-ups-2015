@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Survey (15)
+# EasyCTF 2015: Survey (15)
 
 **Category:** Miscellaneous
 **Points:** 15

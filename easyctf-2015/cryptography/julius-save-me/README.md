@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Julius Save Me (20)
+# EasyCTF 2015: Julius Save Me (20)
 
 **Category:** Cryptography
 **Points:** 20

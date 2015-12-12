@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Teach Me How to Write Like This (30)
+# EasyCTF 2015: Teach Me How to Write Like This (30)
 
 **Category:** Web
 **Points:** 30

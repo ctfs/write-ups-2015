@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: 2147483648% Secure (35)
+# EasyCTF 2015: 2147483648% Secure (35)
 
 **Category:** Web
 **Points:** 35

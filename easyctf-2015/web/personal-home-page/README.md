@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Personal Home Page (225)
+# EasyCTF 2015: Personal Home Page (225)
 
 **Category:** Web
 **Points:** 225

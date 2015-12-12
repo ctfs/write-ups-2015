@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Bigger is Better (500)
+# EasyCTF 2015: Bigger is Better (500)
 
 **Category:** Cryptography
 **Points:** 500

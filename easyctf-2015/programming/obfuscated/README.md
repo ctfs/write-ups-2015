@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Obfuscated (400)
+# EasyCTF 2015: Obfuscated (400)
 
 **Category:** Programming
 **Points:** 400

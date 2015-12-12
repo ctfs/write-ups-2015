@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Sum It! (30)
+# EasyCTF 2015: Sum It! (30)
 
 **Category:** Programming
 **Points:** 

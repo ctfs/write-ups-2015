@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Coordinates (150)
+# EasyCTF 2015: Coordinates (150)
 
 **Category:** Programming
 **Points:** 150

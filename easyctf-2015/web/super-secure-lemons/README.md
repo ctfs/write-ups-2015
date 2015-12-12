@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Super Secure Lemons (225)
+# EasyCTF 2015: Super Secure Lemons (225)
 
 **Category:** Web
 **Points:** 225

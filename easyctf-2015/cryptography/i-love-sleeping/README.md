@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: I <3 SLEEPING (125)
+# EasyCTF 2015: I <3 SLEEPING (125)
 
 **Category:** Cryptography
 **Points:** 125

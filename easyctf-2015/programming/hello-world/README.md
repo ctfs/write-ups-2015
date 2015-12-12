@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Hello World! (20)
+# EasyCTF 2015: Hello World! (20)
 
 **Category:** Programming
 **Points:** 20

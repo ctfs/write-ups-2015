@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Looking for Letters (65)
+# EasyCTF 2015: Looking for Letters (65)
 
 **Category:** Programming
 **Points:** 65

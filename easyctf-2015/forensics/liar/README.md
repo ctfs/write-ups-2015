@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Liar (50)
+# EasyCTF 2015: Liar (50)
 
 **Category:** Forensics
 **Points:** 

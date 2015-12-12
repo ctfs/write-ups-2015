@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: iSpy (120)
+# EasyCTF 2015: iSpy (120)
 
 **Category:** Forensics
 **Points:** 120

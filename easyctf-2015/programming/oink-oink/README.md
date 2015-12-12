@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Oink Oink (115)
+# EasyCTF 2015: Oink Oink (115)
 
 **Category:** Programming
 **Points:** 115

@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: lolteam (65)
+# EasyCTF 2015: lolteam (65)
 
 **Category:** Forensics
 **Points:** 65

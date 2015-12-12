@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Rest in Pepperoni-Pizzas (100)
+# EasyCTF 2015: Rest in Pepperoni-Pizzas (100)
 
 **Category:** Forensics
 **Points:** 100

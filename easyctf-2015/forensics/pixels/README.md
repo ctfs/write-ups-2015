@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Pixels (180)
+# EasyCTF 2015: Pixels (180)
 
 **Category:** Forensics
 **Points:** 180

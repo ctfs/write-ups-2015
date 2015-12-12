@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Hijacked! (100)
+# EasyCTF 2015: Hijacked! (100)
 
 **Category:** Linux
 **Points:** 

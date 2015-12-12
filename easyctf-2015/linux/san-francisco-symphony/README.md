@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: San Francisco Symphony (75)
+# EasyCTF 2015: San Francisco Symphony (75)
 
 **Category:** Linux
 **Points:** 75

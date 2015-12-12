@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Borkened (400)
+# EasyCTF 2015: Borkened (400)
 
 **Category:** Web
 **Points:** 400

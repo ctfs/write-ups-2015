@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: If Logic (30)
+# EasyCTF 2015: If Logic (30)
 
 **Category:** Programming
 **Points:** 30

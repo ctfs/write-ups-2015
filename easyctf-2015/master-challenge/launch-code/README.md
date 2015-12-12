@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Launch Code (650)
+# EasyCTF 2015: Launch Code (650)
 
 **Category:** Master-Challenge
 **Points:** 650

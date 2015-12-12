@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Black Table (450)
+# EasyCTF 2015: Black Table (450)
 
 **Category:** Cryptography
 **Points:** 450

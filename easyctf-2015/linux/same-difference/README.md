@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Same Difference (125)
+# EasyCTF 2015: Same Difference (125)
 
 **Category:** Linux
 **Points:** 125

@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: 49 Shades of Gray (125)
+# EasyCTF 2015: 49 Shades of Gray (125)
 
 **Category:** Forensics
 **Points:** 125

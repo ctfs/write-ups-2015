@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Corrupted (375)
+# EasyCTF 2015: Corrupted (375)
 
 **Category:** Forensics
 **Points:** 375

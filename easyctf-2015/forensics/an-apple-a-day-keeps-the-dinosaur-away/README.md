@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: An apple a day keeps the dinosaur away? (35)
+# EasyCTF 2015: An apple a day keeps the dinosaur away? (35)
 
 **Category:** Forensics
 **Points:** 35

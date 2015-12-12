@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Wastebin 1 (90)
+# EasyCTF 2015: Wastebin 1 (90)
 
 **Category:** Web
 **Points:** 9

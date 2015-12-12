@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Accelerator (300)
+# EasyCTF 2015: Accelerator (300)
 
 **Category:** Forensics
 **Points:** 300

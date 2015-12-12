@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: All Zob's Fault (350)
+# EasyCTF 2015: All Zob's Fault (350)
 
 **Category:** Cryptography
 **Points:** 350

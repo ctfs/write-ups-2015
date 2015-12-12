@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Yve's Fave Pic (275)
+# EasyCTF 2015: Yve's Fave Pic (275)
 
 **Category:** Cryptography
 **Points:** 275

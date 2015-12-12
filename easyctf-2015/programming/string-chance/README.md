@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: String Change (70)
+# EasyCTF 2015: String Change (70)
 
 **Category:** Programming
 **Points:** 70

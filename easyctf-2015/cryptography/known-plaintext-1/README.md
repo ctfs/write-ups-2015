@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Known Plaintext 1 (300)
+# EasyCTF 2015: Known Plaintext 1 (300)
 
 **Category:** Cryptography
 **Points:** 300

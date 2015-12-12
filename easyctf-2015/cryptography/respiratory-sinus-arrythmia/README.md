@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Respiratory Sinus Arrhythmia (550)
+# EasyCTF 2015: Respiratory Sinus Arrhythmia (550)
 
 **Category:** Cryptography
 **Points:** 550

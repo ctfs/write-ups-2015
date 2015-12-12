@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: XOR (150)
+# EasyCTF 2015: XOR (150)
 
 **Category:** Cryptography
 **Points:** 150

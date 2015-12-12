@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: Misaka Mikoto (50)
+# EasyCTF 2015: Misaka Mikoto (50)
 
 **Category:** Cryptography
 **Points:** 50

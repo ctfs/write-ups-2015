@@ -1,4 +1,4 @@
-# EasyCTF 2015 2015: A Picture is Worth a Thousand Words (100)
+# EasyCTF 2015: A Picture is Worth a Thousand Words (100)
 
 **Category:** Forensics
 **Points:** 100
