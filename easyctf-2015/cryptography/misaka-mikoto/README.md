@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/misaka_mikoto_50.md>
+* <https://johnwig.gitbooks.io/misaka-mikoto/content/>
