@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: corrupted
+# EasyCTF 2015 2015: Corrupted (375)
 
 **Category:** Forensics
-**Points:** 
+**Points:** 375
 **Solves:** 
 **Description:**
 
-> # Corrupted (375)
-> 
-> 
-> I'm not an anime person, but I have weeaboo friends. One of them uses [this](<https://github.com/EasyCTF/easyctf-2015-writeups/files/yuno.jpg)> as her profile pic. Unfortunately, she sent me a corrupted version. Can you find out what she's hiding?
+> I'm not an anime person, but I have weeaboo friends. One of them uses [this](https://github.com/EasyCTF/easyctf-2015-writeups/files/yuno.jpg) as her profile pic. Unfortunately, she sent me a corrupted version. Can you find out what she's hiding?
 > 
 > 
 > Hint: Who is Yuno Gasai? From what I hear, she's a scary yandere.
@@ -21,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/corrupted_375.md>

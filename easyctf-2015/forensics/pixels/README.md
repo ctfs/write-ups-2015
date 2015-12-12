@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: pixels
+# EasyCTF 2015 2015: Pixels (180)
 
 **Category:** Forensics
-**Points:** 
+**Points:** 180
 **Solves:** 
 **Description:**
 
-> # Pixels (180)
-> 
-> 
-> [mystery1](<https://github.com/EasyCTF/easyctf-2015-writeups/files/mystery1.png)> - [mystery2](<https://github.com/EasyCTF/easyctf-2015-writeups/files/mystery2.png)>
+> [mystery1](https://github.com/EasyCTF/easyctf-2015-writeups/files/mystery1.png) - [mystery2](https://github.com/EasyCTF/easyctf-2015-writeups/files/mystery2.png)
 > 
 > 
 > Hint: Did you know you can do math on images?
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/pixels_180.md>

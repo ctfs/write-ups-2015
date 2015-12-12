@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: now-you-see-me-now-you-dont
+# EasyCTF 2015 2015: Now You See Me, Now You Don't (75)
 
 **Category:** Linux
-**Points:** 
+**Points:** 75
 **Solves:** 
 **Description:**
 
-> # Now You See Me, Now You Don't (75)
-> 
-> 
 > Now you see me, now you don't? There's a file in `/problems/elusive`, but I can't seem to find it. Find it and print its contents!
 > 
 > 
@@ -19,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/now_you_see_me%2C_now_you_dont_75.md>

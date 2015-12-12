@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: who-is-this-god
+# EasyCTF 2015 2015: Who is this god? (175)
 
 **Category:** Forensics
-**Points:** 
+**Points:** 175
 **Solves:** 
 **Description:**
 
-> # Who is this god? (175)
-> 
-> 
-> My friend Mich uses this nice [tulip](<https://github.com/EasyCTF/easyctf-2015-writeups/files/tulip.png)> as her profile pic because she likes historical stuff. Did I mention that one of the EasyCTF developers worships her as a god?
+> My friend Mich uses this nice [tulip](https://github.com/EasyCTF/easyctf-2015-writeups/files/tulip.png) as her profile pic because she likes historical stuff. Did I mention that one of the EasyCTF developers worships her as a god?
 > 
 > 
 > Hint: A tulip a day keeps the economy away :)
@@ -21,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/who_is_this_god_175.md>

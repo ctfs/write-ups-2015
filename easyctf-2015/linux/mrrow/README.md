@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: mrrow
+# EasyCTF 2015 2015: Mrrow????? (75)
 
 **Category:** Linux
-**Points:** 
+**Points:** 75
 **Solves:** 
 **Description:**
 
-> # Mrrow????? (75)
-> 
-> 
 > A lonely little text file wants to play a game: `/problems/owner`.
 > 
 > 
@@ -19,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/mrrow_75.md>

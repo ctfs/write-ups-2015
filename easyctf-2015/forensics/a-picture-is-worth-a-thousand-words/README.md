@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: a-picture-is-worth-a-thousand-words
+# EasyCTF 2015 2015: A Picture is Worth a Thousand Words (100)
 
 **Category:** Forensics
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
-> # A Picture is Worth a Thousand Words (100)
-> 
-> 
-> A picture is worth a thousand words. Can you find the (JPEG) picture among a thousand files? Connect to the EasyCTF SSH server and find the files in `/problems/1000words`. The files are also available for download [here](<https://github.com/EasyCTF/easyctf-2015-writeups/files/data.zip).>
+> A picture is worth a thousand words. Can you find the (JPEG) picture among a thousand files? Connect to the EasyCTF SSH server and find the files in `/problems/1000words`. The files are also available for download [here](https://github.com/EasyCTF/easyctf-2015-writeups/files/data.zip).
 > 
 > 
 > Hint: Grep is always your friend.
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/a_picture_is_worth_a_thousand_words_100.md>

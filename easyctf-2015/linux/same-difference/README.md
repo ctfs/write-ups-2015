@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: same-difference
+# EasyCTF 2015 2015: Same Difference (125)
 
 **Category:** Linux
-**Points:** 
+**Points:** 125
 **Solves:** 
 **Description:**
 
-> # Same Difference (125)
-> 
-> 
 > *Solve this problem by connecting to the EasyCTF shell, either in your browser or through some other TTY.*
 > 
 > 
@@ -25,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/same_difference_125.md>

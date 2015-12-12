@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: launch-code
+# EasyCTF 2015 2015: Launch Code (650)
 
 **Category:** Master-Challenge
-**Points:** 
+**Points:** 650
 **Solves:** 
 **Description:**
 
-> # Launch Code (650)
-> 
-> 
 > Recently the NSA has intercepted a program which generates the launch codes for Chinese nuclear weapons.
 > 
 > 
@@ -22,7 +19,7 @@
 > Reverse engineer the launch code generator program, and modify it so that it will work with agent 23102's password instead of agent 5068. Then, using the intercepted password, generate a valid launch code and report it back to us!
 > 
 > 
-> **Intercepted Program:** [LaunchCode.exe](<https://github.com/EasyCTF/easyctf-2015-writeups/files/LaunchCode.exe)>
+> **Intercepted Program:** [LaunchCode.exe](https://github.com/EasyCTF/easyctf-2015-writeups/files/LaunchCode.exe)
 > 
 > 
 > <small>MD5: bd1f54a4fa1f19168303275d6d02ca0f</small>
@@ -40,4 +37,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/master_challenge.md>
