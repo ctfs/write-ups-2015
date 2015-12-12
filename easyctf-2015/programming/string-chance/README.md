@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: string-chance
+# EasyCTF 2015 2015: String Change (70)
 
 **Category:** Programming
-**Points:** 
+**Points:** 70
 **Solves:** 
 **Description:**
 
-> # String Change (70)
-> 
-> 
 > Use the programming interface to complete this task. Given an array of 5 numbers, change every nth character, with n being the value of the first number of the array and the first letter of the string as the 1st character, of a string and move its value up by one (a turns into b, z turns into a). Repeat this for the rest of the numbers of the array and return the changed string. Do this for all the strings. Be careful to keep the original capitalization!
 > 
 > 
@@ -35,4 +32,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/string_change_70.md>

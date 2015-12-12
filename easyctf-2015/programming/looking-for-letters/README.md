@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: looking-for-letters
+# EasyCTF 2015 2015: Looking for Letters (65)
 
 **Category:** Programming
-**Points:** 
+**Points:** 65
 **Solves:** 
 **Description:**
 
-> # Looking for Letters (65)
-> 
-> 
 > Use the programming interface to complete this task.
 > 
 > 
@@ -29,4 +26,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/looking_for_letters_65.md>

@@ -1,16 +1,12 @@
-# EasyCTF 2015 2015: sum-it
+# EasyCTF 2015 2015: Sum It! (30)
 
 **Category:** Programming
 **Points:** 
 **Solves:** 
 **Description:**
 
-> #Sum It! (30)
-> 
-> 
 > Use the programming interface to complete this task. You'll be given a list of numbers.
 > 
->   
 > 
 > Input: A list of numbers, separated by commas.
 > 
@@ -28,4 +24,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/sum_it.md>

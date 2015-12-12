@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: can-you-even
+# EasyCTF 2015 2015: Can You Even??? (40)
 
 **Category:** Programming
-**Points:** 
+**Points:** 40
 **Solves:** 
 **Description:**
 
-> # Can You Even??? (40)
-> 
-> 
 > Use the programming interface to complete this task. You&#39;ll be given a list of numbers.
 > 
 > 
@@ -29,4 +26,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/can_you_even_40.md>

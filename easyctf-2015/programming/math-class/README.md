@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: math-class
+# EasyCTF 2015 2015: Math Class (50)
 
 **Category:** Programming
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
-> # Math Class (50)
-> 
-> 
 > Use the programming interface to complete this task. You&#39;ll be given a math expression, such as `add 1 2` or `subtract 5 3`, where you will perform the operations `1+2` and `5-3`, respectively.
 > 
 > 
@@ -32,4 +29,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/math_class_50.md>

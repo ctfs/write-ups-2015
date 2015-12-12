@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: sort-of-easy
+# EasyCTF 2015 2015: Sort-of Easy (50)
 
 **Category:** Programming
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
-> # Sort-of Easy (50)
-> 
-> 
 > Use the programming interface to complete this task.
 > 
 > 
@@ -29,4 +26,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/sort-of_easy_50.md>

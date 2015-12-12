@@ -1,13 +1,10 @@
-# EasyCTF 2015 2015: oink-oink
+# EasyCTF 2015 2015: Oink Oink (115)
 
 **Category:** Programming
-**Points:** 
+**Points:** 115
 **Solves:** 
 **Description:**
 
-> # Oink Oink (115)
-> 
-> 
 > Use the programming interface to solve this problem.
 > 
 > 
@@ -38,4 +35,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/oink_oink_115.md>

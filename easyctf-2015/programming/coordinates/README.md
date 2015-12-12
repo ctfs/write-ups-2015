@@ -1,14 +1,11 @@
-# EasyCTF 2015 2015: coordinates
+# EasyCTF 2015 2015: Coordinates (150)
 
 **Category:** Programming
-**Points:** 
+**Points:** 150
 **Solves:** 
 **Description:**
 
-> # Coordinates (150)
-> 
-> 
-> We found this [text](<https://github.com/EasyCTF/easyctf-2015-writeups/files/qr.txt)> lying around, but apparently it doesn't do anything. Want to give it a shot?
+> We found this [text](https://github.com/EasyCTF/easyctf-2015-writeups/files/qr.txt) lying around, but apparently it doesn't do anything. Want to give it a shot?
 > 
 > 
 > Hint: Do you like painting?
@@ -20,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/coordinates_150.md>
