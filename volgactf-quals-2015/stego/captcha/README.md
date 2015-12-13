@@ -106,7 +106,7 @@ Looks like we just need to get characters of 65 unique files :).
 Using [this python script](./uniques.py), we first a sample PNG for each unique hash and save it to `uniques.txt`:
 
 ```bash
-+bash-4.3$ python2.7 pyocr.py output/png/ > uniques.txt
++bash-4.3$ python2.7 uniques.py output/png/ > uniques.txt
 ```
 
 After that, we apply `tesseract` with pagesegmode `10` (To treat an image as a single character) on [uniques.txt](./uniques.txt) and save the output to [ocr.txt](./ocr.txt)
