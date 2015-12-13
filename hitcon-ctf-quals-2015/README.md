@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [stego/unreadable](stego/unreadable)
 
 ## External write-ups only
 
@@ -28,7 +28,6 @@
 * [reverse/npc](reverse/npc)
 * [reverse/risky](reverse/risky)
 * [stego/piranha-gun](stego/piranha-gun)
-* [stego/unreadable](stego/unreadable)
 * [web/babyfirst](web/babyfirst)
 * [web/giraffes-coffee](web/giraffes-coffee)
 

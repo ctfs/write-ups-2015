@@ -12,7 +12,13 @@
 
 ## Write-up
 
-(TODO)
+We are given random data. Opening the data with any hexeditor of our choice shows the content both in hexadecimal and ASCII, we see a hidden flag in the ASCII section:
+
+![](./xxd.png)
+
+The final flag is: `hitcon{WE USE XXD INSTEAD OF IDA PRO}`
+
+
 
 ## Other write-ups and resources
 
