@@ -27,7 +27,7 @@ On a closer look, we see that each pixel and its following neighbour differs sli
 
 The difference between the first pixel RGB values and the second is around 6, between the second and fourth 5 etc.
 
-Though it is not entirely obvious, but the authors encoded a binary string in the sign of the difference of the blue values.
+Though it is not entirely obvious, the authors encoded a binary string in the sign of the difference of the blue values.
 
 Every second pixel, we calculate the difference of the blue value to the previous pixel and interpret it as either a 0 (if negative) or 1 (if positive).
 
