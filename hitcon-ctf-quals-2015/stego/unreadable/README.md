@@ -12,7 +12,7 @@
 
 ## Write-up
 
-We are given random data. Opening the data with any hexeditor of our choice shows the content both in hexadecimal and ASCII, we see a hidden flag in the ASCII section:
+We are given random data. Opening the data with any hexeditor of our choice that shows the content both in hexadecimal and ASCII, we see a hidden flag in the ASCII section:
 
 ![](./xxd.png)
 
