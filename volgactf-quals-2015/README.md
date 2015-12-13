@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [stego/captcha](stego/captcha)
 
 ## External write-ups only
 
@@ -25,7 +25,6 @@
 * [recon/find-him](recon/find-him)
 * [recon/yacst](recon/yacst)
 * [reverse/interstellar](reverse/interstellar)
-* [stego/captcha](stego/captcha)
 * [stego/midi](stego/midi)
 * [stego/poem](stego/poem)
 * [stego/strange-text](stego/strange-text)
