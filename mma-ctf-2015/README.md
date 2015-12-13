@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [stego/nogaya-castle-100](stego/nogaya-castle-100)
 
 ## External write-ups only
 
@@ -28,7 +28,6 @@
 * [reverse/simple-hash-200](reverse/simple-hash-200)
 * [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
 * [stego/miyako-350](stego/miyako-350)
-* [stego/nogaya-castle-100](stego/nogaya-castle-100)
 * [web/login-as-admin-1-30](web/login-as-admin-1-30)
 * [web/login-as-admin-2-200](web/login-as-admin-2-200)
 * [web/mortal-magi-agents-300](web/mortal-magi-agents-300)

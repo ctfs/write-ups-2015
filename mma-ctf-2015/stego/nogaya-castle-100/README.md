@@ -8,13 +8,13 @@
 > Get the flag.
 >
 > [problem.png](problem.png-dbaddea0492910076ff7c1b3140edfcaa3132784443bdc504d50e0559efa0463)
->
->
 
 
 ## Write-up
 
-(TODO)
+We are given a PNG that we open with `stegsolve` to find the flag in the RGB plane 0 values:
+
+![](flag.png)
 
 ## Other write-ups and resources
 
