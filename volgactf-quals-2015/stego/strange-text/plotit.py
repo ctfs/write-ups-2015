@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib
 import sys
+from pylab import rcParams
 
 def parsexydata(fdata):
 	keys=[]
@@ -19,14 +21,19 @@ def parsexydata(fdata):
 			xy.append([pre,i,key])
 	return [xy,keys]
 
+#matplotlib.use('Agg')
+rcParams['figure.figsize'] = 8,2
 [xydata, keys] = parsexydata(sys.argv[1])
-px=py=''
-for k in keys:
+for idx, k in enumerate(keys):
+	px=py=''
 	for [x,y,key] in xydata:
 		if key!=k: continue
-		plt.scatter(x,y)
+		x=float(x)+float(k)
+		plt.scatter(x,y, s=1)
 		if px!='':
-			plt.plot([px,x],[py,y],'-o')
+			plt.plot([px,x],[py,y],'-o', markersize=1)
 		px,py=x,y
-	plt.savefig(k+'.png')
-	plt.cla()
+
+plt.axis('equal')
+#plt.tight_layout()
+plt.savefig('result2.png', dpi=200)

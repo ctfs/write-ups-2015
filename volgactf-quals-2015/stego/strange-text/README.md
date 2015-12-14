@@ -30,9 +30,7 @@ Here, `0.09.491787910461426` is a x point `0.491787910461426` with key `09` and 
 
 We can plot each of these points using [matplotlib](http://matplotlib.org/api/pyplot_api.html).
 
-[This python script](./plotit.py) does the job and produces PNGs named after each key: `00.png` to `09.png`.
-
-We can combine every picture into a single big picture using `convert *.png -append result.png`:
+[This python script](./plotit.py) does the job and produces PNGs named after each key: `00.png` to `09.png` as well as the final flag picture:
 
 ![](./result.png)
 
