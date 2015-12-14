@@ -15,4 +15,5 @@
 ## Other write-ups and resources
 
 * <https://pequalsnp-team.github.io/writeups/vigenere1/>
+* <http://hack.dat.kiwi/writeup#Vigenre_2>
 * [French](https://ascopectf.wordpress.com/2015/11/21/writeup-crypto-vigenere-100/)

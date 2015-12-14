@@ -18,3 +18,4 @@
 
 * <http://justpentest.blogspot.in/2015/11/CTF-hack-dat-kiwi-writeups.html>
 * <https://ctftime.org/writeup/2144>
+* <http://hack.dat.kiwi/writeup#SSL_Sniff>

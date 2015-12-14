@@ -21,3 +21,4 @@
 * <http://cafelinux.info/articles/writeups-hack-dat-kiwi-gaychal-80>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/hack.dat.kiwi/gaychal>
 * <https://github.com/JonathanSinger/ctf-solutions/blob/master/hack-dat-kiwi_gaychal.sh>
+* <http://hack.dat.kiwi/writeup#Gaychal>

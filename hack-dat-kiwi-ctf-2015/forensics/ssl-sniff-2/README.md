@@ -22,3 +22,4 @@
 * <https://ctftime.org/writeup/2143>
 * <http://cafelinux.info/articles/writeups-hack-dat-kiwi-ssl-sniff-1-50>
 * <http://edholabs.ga/ctf_writeups/dump.png>
+* <http://hack.dat.kiwi/writeup#SSL_Sniff_2>

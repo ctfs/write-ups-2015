@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://www.i4info.in/2015/11/21/hackdat-mathquiz/>
+* <http://hack.dat.kiwi/writeup#Math_Quiz>

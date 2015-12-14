@@ -56,4 +56,4 @@ Alternative Solution script: [Solution](./stegano.py)
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hack.dat.kiwi/writeup#Simple_Stegano>

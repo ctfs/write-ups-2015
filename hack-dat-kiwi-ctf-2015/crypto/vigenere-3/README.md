@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hack.dat.kiwi/writeup#Vigenre_3>
