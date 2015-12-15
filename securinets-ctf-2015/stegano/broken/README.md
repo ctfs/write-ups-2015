@@ -11,7 +11,13 @@
 
 ## Write-up
 
-(TODO)
+We are given a ''broken'' QR code.
+
+This task is rather easy. All we have to do is invert the picture using `convert -negate Broken.jpg Broken-inv.jpg` and submit the ''broken'' QR code to an [online QR decoder](https://zxing.org/w/decode.jspx).
+
+Though it is broken, it works, since the missing parts are only necessary for aligning the picture.
+
+The flag is `1t_S_s0_cr3atIv3`.
 
 ## Other write-ups and resources
 
