@@ -20,11 +20,6 @@ We extract the `tar.gz` file with `tar xvf Cooper.tar.gz` to get a `PE32` Execut
 Using `binwalk`, we see that it contains a PDF and some Zip archives:
 
 ```bash
-+bash-4.3$ binwalk Cooper.
-
-General Error: Cannot open file : [Errno 2] No such file or directory: 'Cooper.'
-
-Failed to load General module
 +bash-4.3$ binwalk Cooper.exe  | grep -v 'Zlib'
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
@@ -90,7 +85,7 @@ So we turn our heads to the PDF file, `output/pdf/00000000.pdf`.
 When opening this PDF, we are asked to enter a password we don't have. So we use `pdfcrack` with a dictionary-attack (dictionary: rockyou.txt):
 
 ```bash
-+bash-4.3$ pdfcrack -w ~/scripts/words/rockyou.txt output/pdf/00000000.pdf
++bash-4.3$ pdfcrack -w ./rockyou.txt output/pdf/00000000.pdf
 
 PDF version 1.5
 Security Handler: Standard
