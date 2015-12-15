@@ -9,6 +9,7 @@
 * [forensics/document](forensics/document)
 * [stegano/basics](stegano/basics)
 * [stegano/broken](stegano/broken)
+* [stegano/google](stegano/google)
 * [web/cookies](web/cookies)
 
 ## External write-ups only
@@ -18,7 +19,6 @@
 * [forensics/forensics2](forensics/forensics2)
 * [logic/logic1](logic/logic1)
 * [programming/be-genious](programming/be-genious)
-* [stegano/google](stegano/google)
 
 ## Missing write-ups
 
