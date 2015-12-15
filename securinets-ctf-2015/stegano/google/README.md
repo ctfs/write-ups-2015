@@ -11,6 +11,8 @@
 
 ## Write-up
 
+This write-up is loosely based on a writeup by [ipushino](http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-google.html).
+
 We are given a PNG that display the Google Home Page:
 
 ![](./google.png)
@@ -40,7 +42,7 @@ The blue values look like they could be represented in ASCII, so let's do exactl
 pyn5t21ho0
 ```
 
-This is not the correct flag, but by reordering the alph-numerical characters we can get `python2015`, which is the flag!
+This is not the correct flag, but by reordering the alpha-numerical characters we can get `python2015`, which is the flag!
 
 ## Other write-ups and resources
 
