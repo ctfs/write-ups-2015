@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [stegano/cooper](stegano/cooper)
 * [web/facebox](web/facebox)
 
 ## External write-ups only
@@ -23,7 +24,6 @@
 * [reverse/crackme-prime](reverse/crackme-prime)
 * [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/superman](reverse/superman)
-* [stegano/cooper](stegano/cooper)
 * [web/facesec](web/facesec)
 
 ## Missing write-ups
