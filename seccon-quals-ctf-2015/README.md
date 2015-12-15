@@ -8,6 +8,7 @@
 
 ## Completed write-ups
 
+* [stegano/seccon-wars-2015](stegano/seccon-wars-2015)
 * [stegano/steganography-1](stegano/steganography-1)
 * [stegano/steganography-2](stegano/steganography-2)
 * [stegano/steganography-3](stegano/steganography-3)
@@ -28,7 +29,6 @@
 * [exploit/fsb-treewalker](exploit/fsb-treewalker)
 * [exploit/micro-computer-exploit-code-challenge](exploit/micro-computer-exploit-code-challenge)
 * [exploit/syscall-impossible](exploit/syscall-impossible)
-* [stegano/seccon-wars-2015](stegano/seccon-wars-2015)
 * [unknown/4042](unknown/4042)
 * [unknown/command-line-quiz](unknown/command-line-quiz)
 * [unknown/qr-puzzle-nonogram](unknown/qr-puzzle-nonogram)

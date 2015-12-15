@@ -10,7 +10,26 @@
 
 ## Write-up
 
-(TODO)
+This solution is based on several solution by [this writeup](https://hackmd.io/s/VJKXiph4x) and these two: [1](https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/seccon/SecconWars), [2](http://hfukuda.hatenablog.com/entry/2015/12/07/235823).
+
+We are given a youtube video that shows a scrolling yellow text in Japanese on black background in Star-Wars style, a moving title split in tiles that appears after some time and a QR Code in black that is visible as an overlay over the Japanese text.
+
+[Some solutions](https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/seccon/SecconWars) suggest to use `vlc` and apply some sort of filter `Tools -> Preferences -> Show Settings : all -> Vidoe -> enable : scene video filter` to get the desired QR Code.
+
+[Others](http://hfukuda.hatenablog.com/entry/2015/12/07/235823) apply ImageMagick's `mogrify` tool and make use of the `PIL` python library to overlay frames of the video in the form of PNGs to get the flag.
+
+[This writeup](https://hackmd.io/s/VJKXiph4x), however, has the fastest solution. We first split the video into different frames, then overlay these frames using ImageMagicks `convert` tool to get the QR Code!
+
+The step-by-step solution is as follows:
+
+* `ffmpeg -i SECCON\ WARS\ 2015-8SFsln4VyEk.mp4 -f image2 frame%d.jpg` - Convert the video to individual frames in the form of JPGs
+* `convert frame???.jpg -background none -compose lighten -flatten output-1.jpg` - Overlay each frame to get a continues yellow stream of Japanese text to highlight the QR Code
+* Be frustrated that the tiles of the title destroy your overlapping:
+![](./output-1.jpg)
+* Find a frame, since which the white-red tiles do not move over the QR Code anymore, e.g. `frame700.jpg` and move them to a different directory with `for i in {700..2008}; do mv frame$i.jpg new/; done;`
+* After going to the directory with the subset of frames with `cd new/`, try again to get `output-2.jpg`:
+![](./output-2.jpg)
+* Cut the QR Code from the picture, submit it to [an online QR decoder](https://zxing.org/w/decode.jspx) and get the flag: `SECCON{TH3F0RC3AVVAK3N53P7}`
 
 ## Other write-ups and resources
 
