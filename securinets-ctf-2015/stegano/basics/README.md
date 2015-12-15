@@ -11,7 +11,15 @@
 
 ## Write-up
 
-(TODO)
+We are given a PNG file:
+
+![](./steg.png)
+
+Using `stegsolve`, we find the flag in the gray bits panel of the image:
+
+![](./stegsolve.png)
+
+The flag is `L1nux3rr0r`.
 
 ## Other write-ups and resources
 
