@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [stegano/strange-spam-100](stegano/strange-spam-100)
 
 ## External write-ups only
 
@@ -14,7 +14,6 @@
 * [joy/weird-selfie-100](joy/weird-selfie-100)
 * [networks/tricky-authorization-200](networks/tricky-authorization-200)
 * [reverse/school-incident-150](reverse/school-incident-150)
-* [stegano/strange-spam-100](stegano/strange-spam-100)
 * [stegano/tacticus-abilitus-100](stegano/tacticus-abilitus-100)
 * [web/shop-of-goodness-100](web/shop-of-goodness-100)
 * [web/stored-pass-100](web/stored-pass-100)
