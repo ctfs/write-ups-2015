@@ -13,9 +13,9 @@
 
 This write-up is based on a write-up by [ctf-team](https://ctf-team.vulnhub.com/the3jackers-2015-steg100/).
 
-Using the `file` command, we see that we are given JPG.
+Using the `file` command, we see that we are given a JPG.
 
-Neither `binwalk` nor `foremost` detect any additional files hidden in the JPG, so we ppen the JPG with a hexeditor.
+Neither `binwalk` nor `foremost` detect any additional files hidden in the JPG, so we open the JPG with a hexeditor.
 
 We search for the footer signature of the JPG, which is always `FFD9` in hexadecimal and find additional data after the JPG officially ends:
 

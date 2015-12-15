@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* <http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-google.html>
+* <http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-basics.html>
