@@ -11,7 +11,9 @@
 
 ## Write-up
 
-We are given a ''broken'' QR code.
+We are given a ''broken'' QR code:
+
+![](Broken.jpg)
 
 This task is rather easy. All we have to do is invert the picture using `convert -negate Broken.jpg Broken-inv.jpg` and submit the ''broken'' QR code to an [online QR decoder](https://zxing.org/w/decode.jspx).
 
