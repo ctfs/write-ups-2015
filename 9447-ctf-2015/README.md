@@ -1,7 +1,7 @@
 # 9447 CTF 2015 write-ups
 
 * <https://9447.plumbing>
-* [Scoreboard](https://9447.plumbing/scores) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://9447.plumbing/scores) or [local alternative](scoreboard)
 * [Sources for all challenges](https://s3-us-west-2.amazonaws.com/public.files.9447.plumbing/9447ctf2015-release.tar.gz)
 * Participants: 1136
 
