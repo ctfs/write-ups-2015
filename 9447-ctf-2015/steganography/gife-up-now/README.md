@@ -47,7 +47,7 @@ pics
 0 directories, 89 files
 ```
 
-Afterwards we can decode the QR codes in a simple manner with [this python script](./qrdecode.py) that uses a pyhton library named `zbarlight`:
+Afterwards we can decode the QR codes in a simple manner with [this python script](./qrdecode.py) that uses a python library named `zbarlight`:
 
 ```bash
 +bash-4.3$ for i in {0..88}; do python2.7 qrdecode.py pics/target-$i.png; done
@@ -74,9 +74,8 @@ pics/target-87.png None
 pics/target-88.png None
 ```
 
-There are several images that can't be decoded and we see why:
-
-Some images are just plain white frames, such as `target-10.png` and others just overlay parts of previous frames (Please correct if I am wrong) and are missing some rows, such as `target-85.png`:
+There are several images that can't be decoded.
+Some are just plain white frames, such as `target-10.png` and others just overlay parts of previous frames (Please correct if I am wrong) and are missing some rows, such as `target-85.png`:
 
 ![](./target-85.png)
 
