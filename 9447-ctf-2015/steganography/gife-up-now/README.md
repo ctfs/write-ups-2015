@@ -159,10 +159,10 @@ a8bbd848b849292f9e584276fe4db8ad pics/target-87.png
 a8bbd848b849292f9e584276fe4db8ad pics/target-88.png
 ```
 
-The QR Code in `target-0.png` appears for 1 frame, the qr code in `target-1.png` shows for `4` frame. `14` in Tapcode is `D`.
+The QR Code in `target-0.png` appears for 1 frame, the qr code in `target-1.png` shows for `4` frames in total. `14` in Tapcode is `D`.
 Continuing this frame counting method, we get `14 34 44 14 34 34 44 14 34 44 14 54 44`, which is `DOTDOOTDOTDYT`.
 
-One hint in the task description tells us to look at timing and search for a code that uses timing.
+One hint in the task description tells us to look at timing.
 
 ImageMagick can also print the [image time delay (in centi-seconds)](http://www.imagemagick.org/script/escape.php) by specifying a format string in ImageMagick's `identify` command:
 
