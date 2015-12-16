@@ -13,6 +13,7 @@
 * [misc/recon-1](misc/recon-1)
 * [misc/recon-2](misc/recon-2)
 * [steganography/binned](steganography/binned)
+* [steganography/gife-up-now](steganography/gife-up-now)
 * [steganography/imaged](steganography/imaged)
 * [web/premonition](web/premonition)
 * [web/super-turbo-atomic-gif-converter](web/super-turbo-atomic-gif-converter)
@@ -39,7 +40,6 @@
 * [reversing/hello-joe](reversing/hello-joe)
 * [reversing/nobranch](reversing/nobranch)
 * [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
-* [steganography/gife-up-now](steganography/gife-up-now)
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/sanutf8y-check](web/sanutf8y-check)
 
