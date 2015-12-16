@@ -49,5 +49,6 @@ Now we can see the flag in the bottom of our PNG:
 
 ## Other write-ups and resources
 
+* <https://github.com/teamavidya/ctf/tree/master/2015_seccon_quals/steganography2%5Bstego100%5D>
 * [French](http://khack40.info/seccon-ctf-2015-steganography-2/)
 * [Japanese](http://iwasi.hatenablog.jp/entry/2015/12/06/190557)
