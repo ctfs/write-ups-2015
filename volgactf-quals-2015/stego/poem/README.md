@@ -35,7 +35,7 @@ We can use [this script](./parsepdf.py) to (almost) extract the hidden binary:
 FLAG: {size_does_mattej_afxer_dll}
 ```
 
-The script tries to recover the actual flag, which is `{size_does_mattej_afxer_dll}`, by adding missing, hidden bits after each stream - so far it is unknown where they are hidden.
+The script tries to recover the actual flag, which is `{size_does_matter_after_all}`, by adding missing, hidden bits after each stream - so far it is unknown where they are hidden.
 
 ## Other write-ups and resources
 
