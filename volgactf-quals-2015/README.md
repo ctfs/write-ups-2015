@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [stego/captcha](stego/captcha)
+* [stego/poem](stego/poem)
 * [stego/strange-text](stego/strange-text)
 
 ## External write-ups only
@@ -27,7 +28,6 @@
 * [recon/yacst](recon/yacst)
 * [reverse/interstellar](reverse/interstellar)
 * [stego/midi](stego/midi)
-* [stego/poem](stego/poem)
 * [stego/tlsb](stego/tlsb)
 * [web/web2](web/web2)
 
