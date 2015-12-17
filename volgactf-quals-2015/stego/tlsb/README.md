@@ -25,6 +25,7 @@ Also can be read [here](http://www.symbiosysconsulting.com/articles/intro-to-ste
 The title and hints of this task refer to hiding data in the [least significant bit](http://www.lia.deis.unibo.it/Courses/RetiDiCalcolatori/Progetti98/Fortini/lsb.html) by applying a 2x3 matrix embedding to achieve storing 2 `bpp` - bits per pixel.
 
 The hints suggest to read a paper by [Jessica Fridrich](http://ws.binghamton.edu/fridrich/Research/large_payloads-spie.pdf), but the most helpful paper is actually a paper by [Andreas Westfeld](http://www2.htw-dresden.de/~westfeld/publikationen/21370289.pdf).
+The latter paper is reference by the former, which tells us that the hint was to read the references of the former paper by Jessica Fridrich.
 
 In the section `Matrix encoding`, we read following:
 
