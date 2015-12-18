@@ -17,11 +17,11 @@ By running `file 0227597b75da424e4233f8b3c1873446`, we see that we are given a J
 
 ![](./0227597b75da424e4233f8b3c1873446)
 
-Applying any steganography tools, `exiftool` or `binwalk` to it, we can't see anything suspicious hidden inside the JPG.
+Applying `exiftool`, `binwalk` or any steganography tools to it, we can't see anything suspicious hidden inside the JPG.
 
 The QR codes and the transparent QR code background seem to be decoys (red herrings) that we have to ignore.
 
-The solution to this problem are a ''hidden'' base64 code in these tiles:
+The solution to this problem is a ''hidden'' base64 code in these tiles:
 
 ![](tiles.png)
 
@@ -33,6 +33,8 @@ The base64 string is `ZmxhZ3tuIWNldHJ5fQ98=`, which decoded gives us the flag:
 ```
 
 The flag is `flag{n!cetry}`.
+
+PS: The file name is md5(hellobitch). So nice...
 
 ## Other write-ups and resources
 
