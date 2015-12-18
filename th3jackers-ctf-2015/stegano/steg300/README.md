@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://bannsecurity.com/index.php/home/10-ctf-writeups/25-th3jackers-ctf-2015-ultimate-steg>
+* [Persian](http://nevermore.blog.ir/post/th3jackers-2015-CTF-writeup)

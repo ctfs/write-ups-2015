@@ -53,3 +53,4 @@ The flag is `Wouha_Uyou_F0UunD_TH3_FlAag0X_==`.
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/the3jackers-2015-steg100/>
+* [Persian](http://nevermore.blog.ir/post/th3jackers-2015-CTF-writeup)
