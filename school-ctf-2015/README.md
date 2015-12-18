@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [stegano/run-the-image-400](stegano/run-the-image-400)
 * [stegano/strange-spam-100](stegano/strange-spam-100)
 * [stegano/tacticus-abilitus-100](stegano/tacticus-abilitus-100)
 
@@ -33,6 +34,5 @@
 * [networks/misconfiguration-300](networks/misconfiguration-300)
 * [pwn/ssh-jail-500](pwn/ssh-jail-500)
 * [reverse/strange-program-300](reverse/strange-program-300)
-* [stegano/run-the-image-400](stegano/run-the-image-400)
 * [stegano/the-great-thing-200](stegano/the-great-thing-200)
 * [web/junior-pentesting-300](web/junior-pentesting-300)
