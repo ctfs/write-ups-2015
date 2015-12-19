@@ -7,6 +7,7 @@
 
 * [forensic/elysium-ropchain](forensic/elysium-ropchain)
 * [forensic/lost-in-memories](forensic/lost-in-memories)
+* [forensic/zoom-in](forensic/zoom-in)
 * [mobile/iBadMovie-part1](mobile/iBadMovie-part1)
 * [mobile/iBadMovie-part2](mobile/iBadMovie-part2)
 * [network/timetoleak](network/timetoleak)
@@ -34,7 +35,6 @@
 
 * [exploit/mastermind](exploit/mastermind)
 * [exploit/the-firmware](exploit/the-firmware)
-* [forensic/zoom-in](forensic/zoom-in)
 * [web/hacker-idol](web/hacker-idol)
 * [web/jack-the-clicker](web/jack-the-clicker)
 * [web/smell-of-the-lamp](web/smell-of-the-lamp)
