@@ -1,4 +1,4 @@
-# CAMP CTF CTF write-ups
+# CAMP CTF write-ups
 
 * https://campctf.ccc.ac/ 
 * [Scoreboard](https://campctf.ccc.ac/scoreboard/) or [local alternative](score.txt)

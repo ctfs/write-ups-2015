@@ -1,4 +1,4 @@
-# HITCON QUALS CTF CTF write-ups
+# HITCON QUALS CTF write-ups
 
 * <https://ctf2015.hitcon.org/>
 * [Scoreboard](https://ctf2015.hitcon.org/scoreboard.html) or [local alternative](./scoreboard)

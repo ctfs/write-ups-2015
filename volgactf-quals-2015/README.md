@@ -1,4 +1,4 @@
-# VolgaCTF Quals CTF CTF write-ups
+# VolgaCTF Quals CTF write-ups
 
 * <http://2015.volgactf.ru/>
 * [Scoreboard](http://2015.volgactf.ru/scoreboard) or [local alternative](score.txt)

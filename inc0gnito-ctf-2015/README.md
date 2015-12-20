@@ -1,4 +1,4 @@
-# Inc0gnito CTF CTF write-ups
+# Inc0gnito CTF write-ups
 
 * <http://ctf.inc0gnito.com/>
 * [Scoreboard](TODO) or [local alternative](./scoreboard)

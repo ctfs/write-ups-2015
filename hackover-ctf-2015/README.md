@@ -1,4 +1,4 @@
-# Hackover CTF CTF write-ups
+# Hackover CTF write-ups
 
 * <https://ctf.hackover.de>
 * [Scoreboard](https://ctf.hackover.de/ranking) or [local alternative](./scoreboard)
