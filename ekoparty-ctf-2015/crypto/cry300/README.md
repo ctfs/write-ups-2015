@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: VBOX DIE
+# EKOPARTY CTF 2015: VBOX DIE
 
 **Category:** Crypto
 **Points:** 300

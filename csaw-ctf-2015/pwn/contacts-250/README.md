@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: contacts-250
+# CSAW QUALS 2015: contacts-250
 
 **Category:** Pwn
 **Points:** 250

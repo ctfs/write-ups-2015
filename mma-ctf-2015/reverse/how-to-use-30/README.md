@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: how-to-use-30
+# MMM-CTF-2015: how-to-use-30
 
 **Category:** Reverse
 **Points:** 30

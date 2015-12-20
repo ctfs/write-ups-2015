@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Bonsai XSS Revolutions
+# SECCON Quals CTF 2015: Bonsai XSS Revolutions
 
 **Category:** Web/Network
 **Points:** 200

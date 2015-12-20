@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Keep Calm and Save The Queen
+# Haxdump CTF 2015: Keep Calm and Save The Queen
 
 **Category:** Web
 **Points:** 100

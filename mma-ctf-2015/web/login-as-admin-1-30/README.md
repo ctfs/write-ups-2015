@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: login-as-admin-1-30
+# MMM-CTF-2015: login-as-admin-1-30
 
 **Category:** Web
 **Points:** 30

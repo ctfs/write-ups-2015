@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: notekeeping
+# FAUST CTF 2015: notekeeping
 
 **Category:** Notekeeping
 **Points:** 

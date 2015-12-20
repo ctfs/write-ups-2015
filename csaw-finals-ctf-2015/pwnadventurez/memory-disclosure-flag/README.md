@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: memory_disclosure_flag
+# CSAW FINALS CTF 2015: memory_disclosure_flag
 
 **Category:** Pwnadventurez
 **Points:** 500

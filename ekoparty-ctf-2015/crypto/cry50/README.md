@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: SCYTCRYPTO
+# EKOPARTY CTF 2015: SCYTCRYPTO
 
 **Category:** Crypto
 **Points:** 50

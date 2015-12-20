@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: CreditForCredits
+# CSAW FINALS CTF 2015: CreditForCredits
 
 **Category:** Pwnadventurez
 **Points:** 25

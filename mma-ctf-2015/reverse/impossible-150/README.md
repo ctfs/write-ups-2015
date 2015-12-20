@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: impossible-150
+# MMM-CTF-2015: impossible-150
 
 **Category:** Reverse
 **Points:** 150

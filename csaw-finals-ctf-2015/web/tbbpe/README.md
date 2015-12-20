@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: TBBPE
+# CSAW FINALS CTF 2015: TBBPE
 
 **Category:** Web
 **Points:** 400

@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Slogans
+# EKOPARTY CTF 2015: Slogans
 
 **Category:** Trivia
 **Points:** 50

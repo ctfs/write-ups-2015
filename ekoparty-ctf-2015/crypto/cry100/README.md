@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Weird Vigenere
+# EKOPARTY CTF 2015: Weird Vigenere
 
 **Category:** Crypto
 **Points:** 100

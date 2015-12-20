@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: gdps
+# UCSB iCTF 2015: gdps
 
 **Category:** Gdps
 **Points:** 

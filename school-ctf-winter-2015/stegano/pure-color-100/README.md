@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Pure color
+# School CTF Winter 2015: Pure color
 
 **Category:** Stegano
 **Points:** 100

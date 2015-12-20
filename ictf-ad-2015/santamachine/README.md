@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: santamachine
+# UCSB iCTF 2015: santamachine
 
 **Category:** Santamachine
 **Points:** 

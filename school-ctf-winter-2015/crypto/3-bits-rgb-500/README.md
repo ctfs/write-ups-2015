@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: 3 bits RGB
+# School CTF Winter 2015: 3 bits RGB
 
 **Category:** Crypto
 **Points:** 500

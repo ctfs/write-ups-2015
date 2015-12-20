@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Frecuency
+# EKOPARTY CTF 2015: Frecuency
 
 **Category:** Pwnable
 **Points:** 100

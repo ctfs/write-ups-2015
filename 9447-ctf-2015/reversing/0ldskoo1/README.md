@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: 0ldskoo1
+# 9447 CTF 2015: 0ldskoo1
 
 **Category:** Reversing
 **Points:** 180

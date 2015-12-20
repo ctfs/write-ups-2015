@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: sell-your-soul
+# FAUST CTF 2015: sell-your-soul
 
 **Category:** Sell-Your-Soul
 **Points:** 

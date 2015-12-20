@@ -1,4 +1,4 @@
-# STEM CTF 2015 2015: holy-krabby-patty-mermaid-man-50
+# STEM CTF 2015: holy-krabby-patty-mermaid-man-50
 
 **Category:**
 **Points:**

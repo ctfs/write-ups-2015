@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: Fibbed
+# 9447 CTF 2015: Fibbed
 
 **Category:** Crypto
 **Points:** 310

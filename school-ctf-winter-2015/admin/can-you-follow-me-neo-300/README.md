@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Can you follow me, Neo?
+# School CTF Winter 2015: Can you follow me, Neo?
 
 **Category:** Admin
 **Points:** 300

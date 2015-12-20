@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: animewall
+# CSAW FINALS CTF 2015: animewall
 
 **Category:** Web
 **Points:** 420

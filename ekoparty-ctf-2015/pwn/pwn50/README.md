@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Baby pwn
+# EKOPARTY CTF 2015: Baby pwn
 
 **Category:** Pwnable
 **Points:** 50

@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: spell-300
+# MMM-CTF-2015: spell-300
 
 **Category:** Pwn
 **Points:** 300

@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: YWS
+# 9447 CTF 2015: YWS
 
 **Category:** Web
 **Points:** 130

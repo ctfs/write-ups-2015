@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: red_messenger
+# UCSB iCTF 2015: red_messenger
 
 **Category:** Red_Messenger
 **Points:** 

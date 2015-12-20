@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Parallel Comparator
+# School CTF Winter 2015: Parallel Comparator
 
 **Category:** Reverse
 **Points:** 200

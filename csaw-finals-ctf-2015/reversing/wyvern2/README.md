@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: wyvern2
+# CSAW FINALS CTF 2015: wyvern2
 
 **Category:** Reversing
 **Points:** 500

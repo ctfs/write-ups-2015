@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: monkey-see-monkey-do
+# UCSB iCTF 2015: monkey-see-monkey-do
 
 **Category:** Monkey-See-Monkey-Do
 **Points:** 

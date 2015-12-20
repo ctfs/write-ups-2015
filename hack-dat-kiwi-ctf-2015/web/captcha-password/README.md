@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Captcha Password
+# Hack Dat Kiwi CTF 2015: Captcha Password
 
 **Category:** Web
 **Points:** 300

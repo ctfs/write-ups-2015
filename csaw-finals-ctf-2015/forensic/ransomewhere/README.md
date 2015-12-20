@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: ransomewhere
+# CSAW FINALS CTF 2015: ransomewhere
 
 **Category:** Forensic
 **Points:** 300

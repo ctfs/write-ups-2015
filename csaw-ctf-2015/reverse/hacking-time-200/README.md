@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: hacking-time-200
+# CSAW QUALS 2015: hacking-time-200
 
 **Category:** Reversing
 **Points:** 200

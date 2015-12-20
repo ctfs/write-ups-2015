@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: text_file_store
+# UCSB iCTF 2015: text_file_store
 
 **Category:** Text_File_Store
 **Points:** 

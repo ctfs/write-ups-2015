@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: oops
+# Haxdump CTF 2015: oops
 
 **Category:** Forensics
 **Points:** 250

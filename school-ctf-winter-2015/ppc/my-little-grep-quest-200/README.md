@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: My Little Grep Quest
+# School CTF Winter 2015: My Little Grep Quest
 
 **Category:** Ppc
 **Points:** 200

@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Feel like Siberian
+# School CTF Winter 2015: Feel like Siberian
 
 **Category:** Joy
 **Points:** 200

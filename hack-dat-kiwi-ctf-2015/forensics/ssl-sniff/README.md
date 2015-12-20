@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: SSL Sniff
+# Hack Dat Kiwi CTF 2015: SSL Sniff
 
 **Category:** Forensics
 **Points:** 50

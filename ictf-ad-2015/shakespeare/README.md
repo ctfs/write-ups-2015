@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: shakespeare
+# UCSB iCTF 2015: shakespeare
 
 **Category:** Shakespeare
 **Points:** 

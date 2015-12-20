@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: rocket-science-admin-panel-300
+# Defcamp CTF Qualifications 2015: rocket-science-admin-panel-300
 
 **Category:** Web
 **Points:** 300

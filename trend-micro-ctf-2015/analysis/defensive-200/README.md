@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: defensive-200
+# Trend Micro CTF 2015: defensive-200
 
 **Category:** Analysis Defensive
 **Points:** 200

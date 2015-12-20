@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: lawn-care-stimulator-200
+# CSAW QUALS 2015: lawn-care-stimulator-200
 
 **Category:** Web
 **Points:** 200

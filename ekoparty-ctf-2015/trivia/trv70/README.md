@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Banner
+# EKOPARTY CTF 2015: Banner
 
 **Category:** Trivia
 **Points:** 70

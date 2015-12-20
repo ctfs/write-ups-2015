@@ -1,4 +1,4 @@
-# STEM CTF 2015 2015: cyberville-500
+# STEM CTF 2015: cyberville-500
 
 **Category:**
 **Points:**

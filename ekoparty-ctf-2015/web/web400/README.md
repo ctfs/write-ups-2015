@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Rand DOOM
+# EKOPARTY CTF 2015: Rand DOOM
 
 **Category:** Web
 **Points:** 400

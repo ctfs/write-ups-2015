@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: HiddenCave
+# CSAW FINALS CTF 2015: HiddenCave
 
 **Category:** Pwnadventurez
 **Points:** 150

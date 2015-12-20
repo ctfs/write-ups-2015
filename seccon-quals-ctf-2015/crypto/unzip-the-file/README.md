@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Unzip the file
+# SECCON Quals CTF 2015: Unzip the file
 
 **Category:** Crypto
 **Points:** 100

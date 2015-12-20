@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: zer0-day-50
+# CSAW QUALS 2015: zer0-day-50
 
 **Category:** Crypto
 **Points:** 50

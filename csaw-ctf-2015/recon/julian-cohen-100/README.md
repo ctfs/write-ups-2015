@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: julian-cohen-100
+# CSAW QUALS 2015: julian-cohen-100
 
 **Category:** Recon
 **Points:** 100

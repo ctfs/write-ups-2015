@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: randBox
+# 9447 CTF 2015: randBox
 
 **Category:** Crypto
 **Points:** 120

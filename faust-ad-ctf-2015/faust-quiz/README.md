@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: faust-quiz
+# FAUST CTF 2015: faust-quiz
 
 **Category:** Faust-Quiz
 **Points:** 

@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: FHM-Maintenance
+# UCSB iCTF 2015: FHM-Maintenance
 
 **Category:** Fhm-Maintenance
 **Points:** 

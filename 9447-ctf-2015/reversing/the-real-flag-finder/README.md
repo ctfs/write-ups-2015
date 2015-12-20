@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: The *real* flag finder
+# 9447 CTF 2015: The *real* flag finder
 
 **Category:** Reversing
 **Points:** 70

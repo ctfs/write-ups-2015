@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Pass Check
+# EKOPARTY CTF 2015: Pass Check
 
 **Category:** Web
 **Points:** 50

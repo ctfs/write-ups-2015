@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Highly professional
+# School CTF Winter 2015: Highly professional
 
 **Category:** Joy
 **Points:** 100

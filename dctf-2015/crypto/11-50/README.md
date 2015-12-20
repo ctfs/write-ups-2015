@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: 11-50
+# Defcamp CTF Qualifications 2015: 11-50
 
 **Category:** Crypto
 **Points:** 50

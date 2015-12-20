@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Simple Stegano
+# Hack Dat Kiwi CTF 2015: Simple Stegano
 
 **Category:** Stegano
 **Points:** 250

@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: faust_ticket_registration
+# UCSB iCTF 2015: faust_ticket_registration
 
 **Category:** Faust_Ticket_Registration
 **Points:** 

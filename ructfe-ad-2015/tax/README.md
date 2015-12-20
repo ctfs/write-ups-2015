@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: tax
+# RuCTFE 2015: tax
 
 **Category:** Tax
 **Points:** 

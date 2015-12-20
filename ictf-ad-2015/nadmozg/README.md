@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: nadmozg
+# UCSB iCTF 2015: nadmozg
 
 **Category:** Nadmozg
 **Points:** 

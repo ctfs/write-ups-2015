@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Exec dmesg
+# SECCON Quals CTF 2015: Exec dmesg
 
 **Category:** Binary
 **Points:** 300

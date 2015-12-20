@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: emotional-roller-coaster-350
+# Defcamp CTF Qualifications 2015: emotional-roller-coaster-350
 
 **Category:** Misc
 **Points:** 200

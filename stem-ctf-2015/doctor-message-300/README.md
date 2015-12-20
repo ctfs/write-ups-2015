@@ -1,4 +1,4 @@
-# STEM CTF 2015 2015: doctor-message-300
+# STEM CTF 2015: doctor-message-300
 
 **Category:** 
 **Points:** 

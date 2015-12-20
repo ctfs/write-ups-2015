@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Meaningless Text
+# School CTF Winter 2015: Meaningless Text
 
 **Category:** Stegano
 **Points:** 200

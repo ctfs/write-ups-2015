@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Return of the Wieners
+# CSAW FINALS CTF 2015: Return of the Wieners
 
 **Category:** Reversing
 **Points:** 300

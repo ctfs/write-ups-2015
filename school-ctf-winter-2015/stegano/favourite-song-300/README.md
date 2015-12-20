@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Favourite song
+# School CTF Winter 2015: Favourite song
 
 **Category:** Stegano
 **Points:** 300

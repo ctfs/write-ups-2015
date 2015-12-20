@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Decrypt it
+# SECCON Quals CTF 2015: Decrypt it
 
 **Category:** Crypto
 **Points:** 300

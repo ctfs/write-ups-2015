@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: can-you-read-pacifico-400
+# Defcamp CTF Qualifications 2015: can-you-read-pacifico-400
 
 **Category:** Misc
 **Points:**400

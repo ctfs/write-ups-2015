@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: nicklesndimes
+# 9447 CTF 2015: nicklesndimes
 
 **Category:** Web
 **Points:** 200

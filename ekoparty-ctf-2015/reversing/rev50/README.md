@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Patch me
+# EKOPARTY CTF 2015: Patch me
 
 **Category:** Reversing
 **Points:** 50

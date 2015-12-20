@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: poetry
+# UCSB iCTF 2015: poetry
 
 **Category:** Poetry
 **Points:** 

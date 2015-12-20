@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: File Manager
+# EKOPARTY CTF 2015: File Manager
 
 **Category:** Pwnable
 **Points:** 300

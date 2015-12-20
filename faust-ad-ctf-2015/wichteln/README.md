@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: wichteln
+# FAUST CTF 2015: wichteln
 
 **Category:** Wichteln
 **Points:** 

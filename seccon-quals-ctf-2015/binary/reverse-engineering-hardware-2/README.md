@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Reverse-Engineering Hardware 2
+# SECCON Quals CTF 2015: Reverse-Engineering Hardware 2
 
 **Category:** Binary
 **Points:** 500

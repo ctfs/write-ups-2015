@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: bashing
+# FAUST CTF 2015: bashing
 
 **Category:** Bashing
 **Points:** 

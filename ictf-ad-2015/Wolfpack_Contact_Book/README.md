@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: Wolfpack_Contact_Book
+# UCSB iCTF 2015: Wolfpack_Contact_Book
 
 **Category:** Wolfpack_Contact_Book
 **Points:** 

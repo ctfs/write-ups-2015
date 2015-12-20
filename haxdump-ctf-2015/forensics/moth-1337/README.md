@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Moth 1337
+# Haxdump CTF 2015: Moth 1337
 
 **Category:** Forensics
 **Points:** 100

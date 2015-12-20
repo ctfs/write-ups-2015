@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: electro
+# RuCTFE 2015: electro
 
 **Category:** Electro
 **Points:** 

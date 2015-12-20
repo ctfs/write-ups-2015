@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: digital-circuit-250
+# MMM-CTF-2015: digital-circuit-250
 
 **Category:** Reverse
 **Points:** 250

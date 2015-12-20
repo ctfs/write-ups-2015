@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Math Quiz
+# Hack Dat Kiwi CTF 2015: Math Quiz
 
 **Category:** Web
 **Points:** 150

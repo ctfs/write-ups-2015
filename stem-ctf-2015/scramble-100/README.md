@@ -1,4 +1,4 @@
-# STEM CTF 2015 2015: scramble-100
+# STEM CTF 2015: scramble-100
 
 **Category:** 
 **Points:** 

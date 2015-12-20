@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: precision-100
+# CSAW QUALS 2015: precision-100
 
 **Category:** Pwn
 **Points:** 100

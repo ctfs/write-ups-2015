@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: get_flag
+# CSAW FINALS CTF 2015: get_flag
 
 **Category:** Pwnadventurez
 **Points:** 400

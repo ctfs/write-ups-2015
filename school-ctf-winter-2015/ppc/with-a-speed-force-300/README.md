@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: With a Speed Force
+# School CTF Winter 2015: With a Speed Force
 
 **Category:** Ppc
 **Points:** 300

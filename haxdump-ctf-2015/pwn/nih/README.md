@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: NIH
+# Haxdump CTF 2015: NIH
 
 **Category:** Pwn
 **Points:** 150

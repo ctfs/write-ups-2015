@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: warmup-100
+# Defcamp CTF Qualifications 2015: warmup-100
 
 **Category:** Web
 **Points:** 100

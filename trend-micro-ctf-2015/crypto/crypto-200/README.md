@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: crypto-200
+# Trend Micro CTF 2015: crypto-200
 
 **Category:** Crypto
 **Points:** 200

@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: wcaaS
+# UCSB iCTF 2015: wcaaS
 
 **Category:** Wcaas
 **Points:** 

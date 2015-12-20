@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: K_stairs-100
+# CSAW QUALS 2015: K_stairs-100
 
 **Category:** Web
 **Points:** 100

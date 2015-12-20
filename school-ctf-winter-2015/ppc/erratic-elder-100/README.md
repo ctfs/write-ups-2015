@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Erratic Elder
+# School CTF Winter 2015: Erratic Elder
 
 **Category:** Ppc
 **Points:** 100

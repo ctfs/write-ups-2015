@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: things-you-were-not-able-to-see-in-the-past-100
+# Defcamp CTF Qualifications 2015: things-you-were-not-able-to-see-in-the-past-100
 
 **Category:** Crypto
 **Points:** 100

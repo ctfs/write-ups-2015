@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: danklang
+# 9447 CTF 2015: danklang
 
 **Category:** Reversing
 **Points:** 100

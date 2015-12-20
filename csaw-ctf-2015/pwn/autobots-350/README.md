@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: autobots-350
+# CSAW QUALS 2015: autobots-350
 
 **Category:** Pwn
 **Points:** 350

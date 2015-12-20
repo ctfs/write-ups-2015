@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Mandiant
+# CSAW FINALS CTF 2015: Mandiant
 
 **Category:** Forensic
 **Points:** 300

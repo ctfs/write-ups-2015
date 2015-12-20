@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: mol
+# RuCTFE 2015: mol
 
 **Category:** Mol
 **Points:** 

@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: Give Feedback
+# 9447 CTF 2015: Give Feedback
 
 **Category:** Misc
 **Points:** 15

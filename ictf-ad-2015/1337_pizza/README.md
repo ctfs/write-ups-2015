@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: 1337_pizza
+# UCSB iCTF 2015: 1337_pizza
 
 **Category:** 1337_Pizza
 **Points:** 

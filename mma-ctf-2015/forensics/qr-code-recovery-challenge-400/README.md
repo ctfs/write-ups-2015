@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: QR code recovery challenge
+# MMM-CTF-2015: QR code recovery challenge
 
 **Category:**
 **Points:**

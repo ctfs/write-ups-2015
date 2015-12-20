@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: ones_and_zer0s-50
+# CSAW QUALS 2015: ones_and_zer0s-50
 
 **Category:** Crypto
 **Points:** 50

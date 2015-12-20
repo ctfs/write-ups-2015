@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: stream
+# MMM-CTF-2015: stream
 
 **Category:** Forensics
 **Points:** 100

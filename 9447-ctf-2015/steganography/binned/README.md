@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: binned
+# 9447 CTF 2015: binned
 
 **Category:** Steganography
 **Points:** 100

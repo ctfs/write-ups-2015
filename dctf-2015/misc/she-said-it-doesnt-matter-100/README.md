@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: she-said-it-doesnt-matter-100
+# Defcamp CTF Qualifications 2015: she-said-it-doesnt-matter-100
 
 **Category:** Misc
 **Points:** 100

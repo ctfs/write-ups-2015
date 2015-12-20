@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: SVG Viewer
+# EKOPARTY CTF 2015: SVG Viewer
 
 **Category:** Web
 **Points:** 500

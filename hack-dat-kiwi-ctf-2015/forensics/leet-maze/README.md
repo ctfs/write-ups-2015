@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Leet Maze
+# Hack Dat Kiwi CTF 2015: Leet Maze
 
 **Category:** Forensics
 **Points:** 250

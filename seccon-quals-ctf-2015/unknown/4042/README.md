@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: 4042
+# SECCON Quals CTF 2015: 4042
 
 **Category:** Unknown
 **Points:** 100

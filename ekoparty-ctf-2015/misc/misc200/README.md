@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Onion
+# EKOPARTY CTF 2015: Onion
 
 **Category:** Misc
 **Points:** 200

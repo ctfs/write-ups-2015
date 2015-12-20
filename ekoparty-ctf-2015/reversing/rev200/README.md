@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Malware
+# EKOPARTY CTF 2015: Malware
 
 **Category:** Reversing
 **Points:** 200

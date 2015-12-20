@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: rpncalc
+# UCSB iCTF 2015: rpncalc
 
 **Category:** Rpncalc
 **Points:** 

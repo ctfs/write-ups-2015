@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: nasarasa
+# RuCTFE 2015: nasarasa
 
 **Category:** Nasarasa
 **Points:** 

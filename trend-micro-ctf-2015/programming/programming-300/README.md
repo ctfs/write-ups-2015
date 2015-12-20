@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: programming-300
+# Trend Micro CTF 2015: programming-300
 
 **Category:** programming
 **Points:** 300

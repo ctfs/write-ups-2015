@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: blox
+# CSAW FINALS CTF 2015: blox
 
 **Category:** Pwnadventurez
 **Points:** 250

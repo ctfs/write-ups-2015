@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Custom ACL
+# EKOPARTY CTF 2015: Custom ACL
 
 **Category:** Web
 **Points:** 100

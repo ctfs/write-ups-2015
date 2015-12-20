@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: misc-300
+# Trend Micro CTF 2015: misc-300
 
 **Category:** Misc
 **Points:** 300

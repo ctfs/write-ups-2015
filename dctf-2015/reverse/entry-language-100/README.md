@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: entry-language-100
+# Defcamp CTF Qualifications 2015: entry-language-100
 
 **Category:** Reversing
 **Points:**100

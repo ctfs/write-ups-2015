@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Break the key
+# EKOPARTY CTF 2015: Break the key
 
 **Category:** Crypto
 **Points:** 400

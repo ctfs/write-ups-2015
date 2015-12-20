@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Start SECCON CTF
+# SECCON Quals CTF 2015: Start SECCON CTF
 
 **Category:** Exercises
 **Points:** 50

@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Vigenere 4
+# Hack Dat Kiwi CTF 2015: Vigenere 4
 
 **Category:** Crypto
 **Points:** 220

@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: regrettable-ecc-200
+# MMM-CTF-2015: regrettable-ecc-200
 
 **Category:** Crypto
 **Points:** 200

@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: bricks-of-gold-500
+# CSAW QUALS 2015: bricks-of-gold-500
 
 **Category:** Crypto
 **Points:** 500

@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: faust2048
+# FAUST CTF 2015: faust2048
 
 **Category:** Faust2048
 **Points:** 

@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: debugging_madness
+# UCSB iCTF 2015: debugging_madness
 
 **Category:** Debugging_Madness
 **Points:** 

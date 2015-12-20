@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: custom-function-engineering-300
+# Defcamp CTF Qualifications 2015: custom-function-engineering-300
 
 **Category:**
 **Points:**

@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: the-hylian-dude-200
+# Defcamp CTF Qualifications 2015: the-hylian-dude-200
 
 **Category:** Web
 **Points:** 200

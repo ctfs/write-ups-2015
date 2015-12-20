@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: nti
+# Hack Dat Kiwi CTF 2015: nti
 
 **Category:** Experimental
 **Points:** 150

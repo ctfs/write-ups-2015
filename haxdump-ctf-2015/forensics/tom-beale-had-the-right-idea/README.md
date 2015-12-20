@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Tom Beale Had The Right Idea
+# Haxdump CTF 2015: Tom Beale Had The Right Idea
 
 **Category:** Forensics
 **Points:** 150

@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Ugly Bin
+# Hack Dat Kiwi CTF 2015: Ugly Bin
 
 **Category:** Reversing
 **Points:** 180

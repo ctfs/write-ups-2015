@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: Smart Cipher System
+# MMM-CTF-2015: Smart Cipher System
 
 **Category:** Crypto
 **Points:** 10,10,30,40

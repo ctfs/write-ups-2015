@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: XOR Crypter
+# EKOPARTY CTF 2015: XOR Crypter
 
 **Category:** Crypto
 **Points:** 200

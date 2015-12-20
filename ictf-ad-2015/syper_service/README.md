@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: syper_service
+# UCSB iCTF 2015: syper_service
 
 **Category:** Syper_Service
 **Points:** 

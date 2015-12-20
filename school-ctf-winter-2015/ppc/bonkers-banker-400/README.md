@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Bonkers Banker
+# School CTF Winter 2015: Bonkers Banker
 
 **Category:** Ppc
 **Points:** 400

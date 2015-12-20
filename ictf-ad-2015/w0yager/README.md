@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: w0yager
+# UCSB iCTF 2015: w0yager
 
 **Category:** W0Yager
 **Points:** 

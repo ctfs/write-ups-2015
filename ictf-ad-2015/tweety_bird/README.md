@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: tweety_bird
+# UCSB iCTF 2015: tweety_bird
 
 **Category:** Tweety_Bird
 **Points:** 

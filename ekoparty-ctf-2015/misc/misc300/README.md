@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Poltergeist
+# EKOPARTY CTF 2015: Poltergeist
 
 **Category:** Misc
 **Points:** 300

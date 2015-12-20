@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: sanity_check
+# CSAW FINALS CTF 2015: sanity_check
 
 **Category:** Trivia
 **Points:** 100

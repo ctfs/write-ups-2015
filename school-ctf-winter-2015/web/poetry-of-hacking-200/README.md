@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Poetry of hacking
+# School CTF Winter 2015: Poetry of hacking
 
 **Category:** Web
 **Points:** 200

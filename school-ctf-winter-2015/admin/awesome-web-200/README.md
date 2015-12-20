@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Awesome web
+# School CTF Winter 2015: Awesome web
 
 **Category:** Admin
 **Points:** 200

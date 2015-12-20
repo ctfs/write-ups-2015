@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: notesy-100
+# CSAW QUALS 2015: notesy-100
 
 **Category:** Crypto
 **Points:** 100

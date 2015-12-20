@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: money-game-200
+# MMM-CTF-2015: money-game-200
 
 **Category:**
 **Points:**

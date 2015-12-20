@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: ropeman
+# UCSB iCTF 2015: ropeman
 
 **Category:** Ropeman
 **Points:** 

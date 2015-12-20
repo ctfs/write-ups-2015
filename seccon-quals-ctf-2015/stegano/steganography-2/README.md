@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Steganography 2
+# SECCON Quals CTF 2015: Steganography 2
 
 **Category:** Stegano
 **Points:** 100

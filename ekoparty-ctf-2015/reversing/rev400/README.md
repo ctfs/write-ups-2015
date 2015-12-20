@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: HOT
+# EKOPARTY CTF 2015: HOT
 
 **Category:** Reversing
 **Points:** 400

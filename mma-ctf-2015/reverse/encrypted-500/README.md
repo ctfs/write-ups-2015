@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: encrypted-500
+# MMM-CTF-2015: encrypted-500
 
 **Category:** Reverse
 **Points:** 500

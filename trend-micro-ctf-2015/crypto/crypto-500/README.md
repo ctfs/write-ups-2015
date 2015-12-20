@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: crypto-500
+# Trend Micro CTF 2015: crypto-500
 
 **Category:** Crypto
 **Points:** 500

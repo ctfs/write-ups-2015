@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Secret Galaxy
+# School CTF Winter 2015: Secret Galaxy
 
 **Category:** Reverse
 **Points:** 300

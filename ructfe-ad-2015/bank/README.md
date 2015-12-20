@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: bank
+# RuCTFE 2015: bank
 
 **Category:** Bank
 **Points:** 

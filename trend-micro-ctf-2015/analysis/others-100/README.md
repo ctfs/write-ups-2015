@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: others-100
+# Trend Micro CTF 2015: others-100
 
 **Category:** Analysis
 **Points:** 100

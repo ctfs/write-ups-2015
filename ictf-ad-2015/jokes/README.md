@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: jokes
+# UCSB iCTF 2015: jokes
 
 **Category:** Jokes
 **Points:** 

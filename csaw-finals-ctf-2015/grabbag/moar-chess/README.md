@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: MOAR CHESS
+# CSAW FINALS CTF 2015: MOAR CHESS
 
 **Category:** Grabbag
 **Points:** 150

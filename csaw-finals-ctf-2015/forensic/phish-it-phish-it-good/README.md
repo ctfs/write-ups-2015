@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Phish It, Phish It Good
+# CSAW FINALS CTF 2015: Phish It, Phish It Good
 
 **Category:** Forensic
 **Points:** 100

@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Reverse-Engineering Android APK 2
+# SECCON Quals CTF 2015: Reverse-Engineering Android APK 2
 
 **Category:** Unknown
 **Points:** 400

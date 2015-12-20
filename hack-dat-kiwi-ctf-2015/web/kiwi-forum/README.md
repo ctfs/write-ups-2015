@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Kiwi Forum 1
+# Hack Dat Kiwi CTF 2015: Kiwi Forum 1
 
 **Category:** Web
 **Points:** 120

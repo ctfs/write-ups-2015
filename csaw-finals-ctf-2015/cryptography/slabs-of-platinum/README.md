@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Slabs of Platinum
+# CSAW FINALS CTF 2015: Slabs of Platinum
 
 **Category:** Cryptography
 **Points:** 500

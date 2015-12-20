@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: eric-liang-100
+# CSAW QUALS 2015: eric-liang-100
 
 **Category:** Recon
 **Points:** 100

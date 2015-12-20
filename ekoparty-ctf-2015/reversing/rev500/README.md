@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Backdoor OS
+# EKOPARTY CTF 2015: Backdoor OS
 
 **Category:** Reversing
 **Points:** 500

@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Olive
+# EKOPARTY CTF 2015: Olive
 
 **Category:** Misc
 **Points:** 50

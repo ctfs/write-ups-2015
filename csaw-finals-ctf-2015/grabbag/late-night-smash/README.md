@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Late Night Smash
+# CSAW FINALS CTF 2015: Late Night Smash
 
 **Category:** Grabbag
 **Points:** 50

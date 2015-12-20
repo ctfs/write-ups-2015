@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: sharing
+# UCSB iCTF 2015: sharing
 
 **Category:** Sharing
 **Points:** 

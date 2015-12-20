@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: lbs-checker-300
+# Defcamp CTF Qualifications 2015: lbs-checker-300
 
 **Category:** Reversing
 **Points:** 300

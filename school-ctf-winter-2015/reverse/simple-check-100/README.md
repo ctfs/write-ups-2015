@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Simple Check
+# School CTF Winter 2015: Simple Check
 
 **Category:** Reverse
 **Points:** 100

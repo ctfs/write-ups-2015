@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Phone Lock 1
+# Hack Dat Kiwi CTF 2015: Phone Lock 1
 
 **Category:** Web
 **Points:** 50

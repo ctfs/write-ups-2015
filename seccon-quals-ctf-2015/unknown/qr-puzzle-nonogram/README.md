@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: QR puzzle (Nonogram)
+# SECCON Quals CTF 2015: QR puzzle (Nonogram)
 
 **Category:** Unknown
 **Points:** 300

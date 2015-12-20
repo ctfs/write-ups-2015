@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Connect the server
+# SECCON Quals CTF 2015: Connect the server
 
 **Category:** Web/Network
 **Points:** 100

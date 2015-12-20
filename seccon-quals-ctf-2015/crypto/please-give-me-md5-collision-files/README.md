@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Please give me MD5 collision files
+# SECCON Quals CTF 2015: Please give me MD5 collision files
 
 **Category:** Crypto
 **Points:** 400

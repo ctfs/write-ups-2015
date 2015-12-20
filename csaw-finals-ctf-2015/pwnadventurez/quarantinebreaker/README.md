@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: QuarantineBreaker
+# CSAW FINALS CTF 2015: QuarantineBreaker
 
 **Category:** Pwnadventurez
 **Points:** 250

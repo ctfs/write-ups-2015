@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Last Challenge (Thank you for playing)
+# SECCON Quals CTF 2015: Last Challenge (Thank you for playing)
 
 **Category:** Exercises
 **Points:** 50

@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: nogaya-castle-100
+# MMM-CTF-2015: nogaya-castle-100
 
 **Category:** Stego
 **Points:** 100

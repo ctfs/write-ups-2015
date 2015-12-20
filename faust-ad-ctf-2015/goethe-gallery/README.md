@@ -1,4 +1,4 @@
-# FAUST CTF 2015 2015: goethe-gallery
+# FAUST CTF 2015: goethe-gallery
 
 **Category:** Goethe-Gallery
 **Points:** 

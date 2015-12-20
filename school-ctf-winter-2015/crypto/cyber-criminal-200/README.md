@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Cyber criminal
+# School CTF Winter 2015: Cyber criminal
 
 **Category:** Crypto
 **Points:** 200

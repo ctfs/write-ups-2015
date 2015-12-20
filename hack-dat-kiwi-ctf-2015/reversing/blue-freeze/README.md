@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Blue Freeze
+# Hack Dat Kiwi CTF 2015: Blue Freeze
 
 **Category:** Reversing
 **Points:** 250

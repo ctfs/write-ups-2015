@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Dreaming
+# EKOPARTY CTF 2015: Dreaming
 
 **Category:** Reversing
 **Points:** 300

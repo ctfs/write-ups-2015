@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Crazy JSON
+# EKOPARTY CTF 2015: Crazy JSON
 
 **Category:** Web
 **Points:** 300

@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: hanoiFones
+# UCSB iCTF 2015: hanoiFones
 
 **Category:** Hanoifones
 **Points:** 

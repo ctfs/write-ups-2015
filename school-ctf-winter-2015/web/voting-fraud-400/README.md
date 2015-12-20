@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Voting fraud
+# School CTF Winter 2015: Voting fraud
 
 **Category:** Web
 **Points:** 400

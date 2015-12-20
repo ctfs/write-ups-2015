@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: Recon 1
+# 9447 CTF 2015: Recon 1
 
 **Category:** Misc
 **Points:** 140

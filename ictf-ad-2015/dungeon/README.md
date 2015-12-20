@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: dungeon
+# UCSB iCTF 2015: dungeon
 
 **Category:** Dungeon
 **Points:** 

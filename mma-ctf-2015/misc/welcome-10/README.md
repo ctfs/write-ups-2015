@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: welcome-10
+# MMM-CTF-2015: welcome-10
 
 **Category:** Misc
 **Points:** 10

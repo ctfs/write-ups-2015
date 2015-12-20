@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Find the prime numbers
+# SECCON Quals CTF 2015: Find the prime numbers
 
 **Category:** Crypto
 **Points:** 200

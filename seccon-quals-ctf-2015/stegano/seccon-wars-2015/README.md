@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: SECCON WARS 2015
+# SECCON Quals CTF 2015: SECCON WARS 2015
 
 **Category:** Stegano
 **Points:** 100

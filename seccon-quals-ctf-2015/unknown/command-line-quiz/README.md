@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Command-Line Quiz
+# SECCON Quals CTF 2015: Command-Line Quiz
 
 **Category:** Unknown
 **Points:** 100

@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Master of guesswork
+# School CTF Winter 2015: Master of guesswork
 
 **Category:** Crypto
 **Points:** 200

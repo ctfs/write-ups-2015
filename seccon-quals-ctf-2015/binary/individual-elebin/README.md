@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Individual Elebin
+# SECCON Quals CTF 2015: Individual Elebin
 
 **Category:** Binary
 **Points:** 200

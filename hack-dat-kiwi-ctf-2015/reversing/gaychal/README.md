@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Gaychal
+# Hack Dat Kiwi CTF 2015: Gaychal
 
 **Category:** Reversing
 **Points:** 80

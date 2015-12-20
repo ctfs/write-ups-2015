@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: notecxx
+# UCSB iCTF 2015: notecxx
 
 **Category:** Notecxx
 **Points:** 

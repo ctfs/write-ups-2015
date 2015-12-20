@@ -1,4 +1,4 @@
-# Hack Dat Kiwi CTF 2015 2015: Virtual Virtue
+# Hack Dat Kiwi CTF 2015: Virtual Virtue
 
 **Category:** Reversing
 **Points:** 150

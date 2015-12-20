@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: dub-key
+# 9447 CTF 2015: dub-key
 
 **Category:** Crypto
 **Points:** 130

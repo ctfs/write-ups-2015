@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Counter
+# EKOPARTY CTF 2015: Counter
 
 **Category:** Reversing
 **Points:** 100

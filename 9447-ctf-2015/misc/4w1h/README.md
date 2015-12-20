@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: 4w1h
+# 9447 CTF 2015: 4w1h
 
 **Category:** Misc
 **Points:** 100

@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: nobranch
+# 9447 CTF 2015: nobranch
 
 **Category:** Reversing
 **Points:** 330

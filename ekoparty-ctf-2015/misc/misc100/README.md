@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Press it
+# EKOPARTY CTF 2015: Press it
 
 **Category:** Misc
 **Points:** 100

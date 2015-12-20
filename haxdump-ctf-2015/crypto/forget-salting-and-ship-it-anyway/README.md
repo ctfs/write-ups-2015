@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Forget Salting and Ship It Anyway
+# Haxdump CTF 2015: Forget Salting and Ship It Anyway
 
 **Category:** Crypto
 **Points:** 300

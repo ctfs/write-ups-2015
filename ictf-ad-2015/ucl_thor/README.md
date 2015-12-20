@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: ucl_thor
+# UCSB iCTF 2015: ucl_thor
 
 **Category:** Ucl_Thor
 **Points:** 

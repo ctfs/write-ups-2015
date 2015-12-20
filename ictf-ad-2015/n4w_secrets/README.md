@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: n4w_secrets
+# UCSB iCTF 2015: n4w_secrets
 
 **Category:** N4W_Secrets
 **Points:** 

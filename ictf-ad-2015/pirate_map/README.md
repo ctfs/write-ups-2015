@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: pirate_map
+# UCSB iCTF 2015: pirate_map
 
 **Category:** Pirate_Map
 **Points:** 

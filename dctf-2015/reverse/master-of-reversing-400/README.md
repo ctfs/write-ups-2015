@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: master-of-reversing-400
+# Defcamp CTF Qualifications 2015: master-of-reversing-400
 
 **Category:** Reversing
 **Points:** 400

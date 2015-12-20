@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Breadcrumbs
+# Haxdump CTF 2015: Breadcrumbs
 
 **Category:** Forensics
 **Points:** 75

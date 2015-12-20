@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Mr Anderson
+# EKOPARTY CTF 2015: Mr Anderson
 
 **Category:** Trivia
 **Points:** 80

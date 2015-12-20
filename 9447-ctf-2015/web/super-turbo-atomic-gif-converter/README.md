@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: Super Turbo Atomic GIF Converter
+# 9447 CTF 2015: Super Turbo Atomic GIF Converter
 
 **Category:** Web
 **Points:** 180

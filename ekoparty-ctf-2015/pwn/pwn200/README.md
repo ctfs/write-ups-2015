@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: OTaaS
+# EKOPARTY CTF 2015: OTaaS
 
 **Category:** Pwnable
 **Points:** 200

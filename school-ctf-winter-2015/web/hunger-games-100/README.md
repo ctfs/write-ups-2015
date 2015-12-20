@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Hunger games
+# School CTF Winter 2015: Hunger games
 
 **Category:** Web
 **Points:** 100

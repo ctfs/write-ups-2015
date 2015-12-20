@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Sharing is caring
+# EKOPARTY CTF 2015: Sharing is caring
 
 **Category:** Misc
 **Points:** 400

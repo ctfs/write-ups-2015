@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: Pwning a Locked Container (P.L.C)
+# CSAW FINALS CTF 2015: Pwning a Locked Container (P.L.C)
 
 **Category:** Reversing
 **Points:** 400

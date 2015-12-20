@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Newton style
+# School CTF Winter 2015: Newton style
 
 **Category:** Joy
 **Points:** 200

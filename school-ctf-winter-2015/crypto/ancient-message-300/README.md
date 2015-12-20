@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Ancient Message
+# School CTF Winter 2015: Ancient Message
 
 **Category:** Crypto
 **Points:** 300

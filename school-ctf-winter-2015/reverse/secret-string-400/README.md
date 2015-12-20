@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Secret string
+# School CTF Winter 2015: Secret string
 
 **Category:** Reverse
 **Points:** 400

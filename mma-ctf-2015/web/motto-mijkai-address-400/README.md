@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: motto-mijkai-address-400
+# MMM-CTF-2015: motto-mijkai-address-400
 
 **Category:** Web
 **Points:** 100,300

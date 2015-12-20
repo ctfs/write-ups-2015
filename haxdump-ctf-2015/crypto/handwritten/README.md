@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: handwritten
+# Haxdump CTF 2015: handwritten
 
 **Category:** Crypto
 **Points:** 200

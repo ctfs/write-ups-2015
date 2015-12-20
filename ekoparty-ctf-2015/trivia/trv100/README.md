@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: Blocking truck
+# EKOPARTY CTF 2015: Blocking truck
 
 **Category:** Trivia
 **Points:** 100

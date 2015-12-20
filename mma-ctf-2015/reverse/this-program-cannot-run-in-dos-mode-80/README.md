@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: this-program-cannot-run-in-dos-mode-80
+# MMM-CTF-2015: this-program-cannot-run-in-dos-mode-80
 
 **Category:** Reverse
 **Points:** 80

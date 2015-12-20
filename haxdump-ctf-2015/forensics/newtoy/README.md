@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: newtoy
+# Haxdump CTF 2015: newtoy
 
 **Category:** Forensics
 **Points:** 200

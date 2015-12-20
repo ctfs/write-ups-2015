@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: whiter0se-50
+# CSAW QUALS 2015: whiter0se-50
 
 **Category:** Crypto
 **Points:** 50

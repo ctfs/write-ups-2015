@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: uss_pirate_service
+# UCSB iCTF 2015: uss_pirate_service
 
 **Category:** Uss_Pirate_Service
 **Points:** 

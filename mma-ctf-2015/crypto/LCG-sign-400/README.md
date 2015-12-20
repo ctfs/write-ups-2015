@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: LCGsign 
+# MMM-CTF-2015: LCGsign 
 
 **Category:**
 **Points:** 400

@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Lazy cryptanalyst
+# School CTF Winter 2015: Lazy cryptanalyst
 
 **Category:** Crypto
 **Points:** 100

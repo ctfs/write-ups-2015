@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: 1337
+# CSAW FINALS CTF 2015: 1337
 
 **Category:** Grabbag
 **Points:** 150

@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: simple-hash-200
+# MMM-CTF-2015: simple-hash-200
 
 **Category:**
 **Points:**

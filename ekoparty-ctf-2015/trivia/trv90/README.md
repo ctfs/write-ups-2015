@@ -1,4 +1,4 @@
-# EKOPARTY CTF 2015 2015: SSL Attack
+# EKOPARTY CTF 2015: SSL Attack
 
 **Category:** Trivia
 **Points:** 90

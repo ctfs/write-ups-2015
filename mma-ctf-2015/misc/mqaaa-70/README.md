@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: mqaaa-70
+# MMM-CTF-2015: mqaaa-70
 
 **Category:** Misc
 **Points:** 70

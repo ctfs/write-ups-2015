@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: Bl4ckG0ld
+# UCSB iCTF 2015: Bl4ckG0ld
 
 **Category:** Bl4Ckg0Ld
 **Points:** 

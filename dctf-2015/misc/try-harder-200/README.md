@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: try-harder-200
+# Defcamp CTF Qualifications 2015: try-harder-200
 
 **Category:**
 **Points:**

@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Fragment2
+# SECCON Quals CTF 2015: Fragment2
 
 **Category:** Web/Network
 **Points:** 200

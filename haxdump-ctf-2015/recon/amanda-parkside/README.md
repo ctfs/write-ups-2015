@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: Amanda Parkside
+# Haxdump CTF 2015: Amanda Parkside
 
 **Category:** Recon
 **Points:** 100

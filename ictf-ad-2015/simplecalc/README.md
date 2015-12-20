@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: simplecalc
+# UCSB iCTF 2015: simplecalc
 
 **Category:** Simplecalc
 **Points:** 

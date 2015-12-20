@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: hm
+# RuCTFE 2015: hm
 
 **Category:** Hm
 **Points:** 

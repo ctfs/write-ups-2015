@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: GDB Remote Debugging
+# SECCON Quals CTF 2015: GDB Remote Debugging
 
 **Category:** Binary
 **Points:** 200

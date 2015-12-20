@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: killing-as-a-service
+# UCSB iCTF 2015: killing-as-a-service
 
 **Category:** Killing-As-A-Service
 **Points:** 

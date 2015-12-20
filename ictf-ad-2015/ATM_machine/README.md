@@ -1,4 +1,4 @@
-# UCSB iCTF 2015 2015: ATM_machine
+# UCSB iCTF 2015: ATM_machine
 
 **Category:** Atm_Machine
 **Points:** 

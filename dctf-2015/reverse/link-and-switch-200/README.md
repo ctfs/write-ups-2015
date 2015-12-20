@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: link-and-switch-200
+# Defcamp CTF Qualifications 2015: link-and-switch-200
 
 **Category:** Reversing
 **Points:**

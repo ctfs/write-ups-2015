@@ -1,4 +1,4 @@
-# RuCTFE 2015 2015: mig
+# RuCTFE 2015: mig
 
 **Category:** Mig
 **Points:** 

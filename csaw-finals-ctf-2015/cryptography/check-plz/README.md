@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: check-_plz
+# CSAW FINALS CTF 2015: check-_plz
 
 **Category:** Cryptography
 **Points:** 250

@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: QR puzzle (Windows)
+# SECCON Quals CTF 2015: QR puzzle (Windows)
 
 **Category:** Unknown
 **Points:** 200

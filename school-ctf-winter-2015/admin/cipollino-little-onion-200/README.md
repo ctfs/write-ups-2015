@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Cipollino, little onion
+# School CTF Winter 2015: Cipollino, little onion
 
 **Category:** Admin
 **Points:** 200

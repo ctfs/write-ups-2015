@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: no-crypto-200
+# Defcamp CTF Qualifications 2015: no-crypto-200
 
 **Category:** Crypto
 **Points:** 200

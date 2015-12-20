@@ -1,4 +1,4 @@
-# SECCON Quals CTF 2015 2015: Entry form
+# SECCON Quals CTF 2015: Entry form
 
 **Category:** Web/Network
 **Points:** 100

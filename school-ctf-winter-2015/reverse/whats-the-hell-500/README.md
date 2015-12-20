@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: What's the hell?!
+# School CTF Winter 2015: What's the hell?!
 
 **Category:** Reverse
 **Points:** 500

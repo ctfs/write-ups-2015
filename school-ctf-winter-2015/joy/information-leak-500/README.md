@@ -1,4 +1,4 @@
-# School CTF Winter 2015 2015: Information leak
+# School CTF Winter 2015: Information leak
 
 **Category:** Joy
 **Points:** 500

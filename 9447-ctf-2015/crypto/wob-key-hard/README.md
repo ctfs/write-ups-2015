@@ -1,4 +1,4 @@
-# 9447 CTF 2015 2015: wob-key-hard
+# 9447 CTF 2015: wob-key-hard
 
 **Category:** Crypto
 **Points:** 130

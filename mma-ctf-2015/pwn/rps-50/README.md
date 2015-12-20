@@ -1,4 +1,4 @@
-# MMM-CTF-2015 2015: RPS
+# MMM-CTF-2015: RPS
 
 **Category:** Pwn
 **Points:** 50

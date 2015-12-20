@@ -1,4 +1,4 @@
-# Trend Micro CTF 2015 2015: offensive-100
+# Trend Micro CTF 2015: offensive-100
 
 **Category:** Analysis-Offensive
 **Points:** 100

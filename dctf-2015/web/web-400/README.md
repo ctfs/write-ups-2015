@@ -1,4 +1,4 @@
-# Defcamp CTF Qualifications 2015 2015: web-400
+# Defcamp CTF Qualifications 2015: web-400
 
 **Category:** Web
 **Points:** 400

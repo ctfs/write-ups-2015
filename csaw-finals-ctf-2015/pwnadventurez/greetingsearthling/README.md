@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: GreetingsEarthling
+# CSAW FINALS CTF 2015: GreetingsEarthling
 
 **Category:** Pwnadventurez
 **Points:** 25

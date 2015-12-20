@@ -1,4 +1,4 @@
-# CSAW QUALS 2015 2015: wyvern-500
+# CSAW QUALS 2015: wyvern-500
 
 **Category:** Reversing
 **Points:** 500

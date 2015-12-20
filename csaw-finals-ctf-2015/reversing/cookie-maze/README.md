@@ -1,4 +1,4 @@
-# CSAW FINALS CTF 2015 2015: cookie_maze
+# CSAW FINALS CTF 2015: cookie_maze
 
 **Category:** Reversing
 **Points:** 400

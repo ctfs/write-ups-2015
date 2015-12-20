@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: All of them?
+# Haxdump CTF 2015: All of them?
 
 **Category:** Crypto
 **Points:** 50

@@ -1,4 +1,4 @@
-# Haxdump CTF 2015 2015: pwnxy
+# Haxdump CTF 2015: pwnxy
 
 **Category:** Pwn
 **Points:** 300
