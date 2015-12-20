@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [sell-your-soul](sell-your-soul)
 
 ## External write-ups only
 
@@ -18,5 +18,4 @@
 * [faust2048](faust2048)
 * [goethe-gallery](goethe-gallery)
 * [notekeeping](notekeeping)
-* [sell-your-soul](sell-your-soul)
 * [wichteln](wichteln)
