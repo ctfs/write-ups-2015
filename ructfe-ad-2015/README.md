@@ -1,7 +1,7 @@
 # RuCTFE 2015 write-ups
 
 * <https://ructf.org/e/2015/index.html>
-* [Scoreboard](https://ructf.org/e/2015/results.html) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ructf.org/e/2015/results.html) or [local alternative](./scoreboard)
 * [Writeup Slides by the organizer](http://www.slideshare.net/MikhailVyatskov/ructfe-2015-services-writeups)
 
 ## Completed write-ups
