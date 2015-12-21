@@ -1,7 +1,7 @@
 # UCSB iCTF 2015 write-ups
 
 * <https://ictf.cs.ucsb.edu/ictfdata/2015/site/pages/the-2015-ictf.html>
-* [Scoreboard](https://ictf.cs.ucsb.edu/ictfdata/2015/scoreboard/#/scores) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ictf.cs.ucsb.edu/ictfdata/2015/scoreboard/#/scores) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
