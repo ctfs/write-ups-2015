@@ -1,7 +1,7 @@
 # FAUST CTF 2015 write-ups
 
 * <https://www.faustctf.net/>
-* [Scoreboard](https://www.faustctf.net/competition/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://www.faustctf.net/competition/scoreboard/) or [local alternative](./scorebaord)
 
 ## Completed write-ups
 
