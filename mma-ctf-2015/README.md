@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [forensics/splitted-30](forensics/splitted-30)
 * [stego/miyako-350](stego/miyako-350)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
 
@@ -16,7 +17,6 @@
 * [crypto/signer-and-verifier-100](crypto/signer-and-verifier-100)
 * [crypto/smart-cipher-system-90](crypto/smart-cipher-system-90)
 * [forensics/qr-code-recovery-challenge-400](forensics/qr-code-recovery-challenge-400)
-* [forensics/splitted-30](forensics/splitted-30)
 * [forensics/stream-100](forensics/stream-100)
 * [misc/mqaaa-70](misc/mqaaa-70)
 * [misc/pieceofeight-reloaded-100](misc/pieceofeight-reloaded-100)
