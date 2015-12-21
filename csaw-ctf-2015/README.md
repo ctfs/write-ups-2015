@@ -10,6 +10,7 @@
 * [forensics/flash-100](forensics/flash-100)
 * [forensics/keep-calm-and-ctf-100](forensics/keep-calm-and-ctf-100)
 * [forensics/sharpturn-400](forensics/sharpturn-400)
+* [forensics/transfer-100](forensics/transfer-100)
 
 ## External write-ups only
 
@@ -19,7 +20,6 @@
 * [crypto/whiter0se-50](crypto/whiter0se-50)
 * [forensics/airport-200](forensics/airport-200)
 * [forensics/pcapin-150](forensics/pcapin-150)
-* [forensics/transfer-100](forensics/transfer-100)
 * [pwn/autobots-350](pwn/autobots-350)
 * [pwn/contacts-250](pwn/contacts-250)
 * [pwn/ftp-2-300](pwn/ftp-2-300)
