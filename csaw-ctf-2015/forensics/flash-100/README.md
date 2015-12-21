@@ -8,13 +8,24 @@
 > We were able to grab an image of a harddrive. Find out what's on it.
 >
 > [flash_c8429a430278283c0e571baebca3d139.img](https://drive.google.com/file/d/0B_zt1fDAjfM_ZHJkSjdTYThPdmc/view?usp=sharing)
->
->
-
 
 ## Write-up
 
-(TODO)
+We are given an img that we can either mount or view with `FTK Imager`.
+
+However, we can also apply `strings` to the image to get the flag:
+
+```bash
+$ strings flash_c8429a430278283c0e571baebca3d139.img  | igrep flag
+    Like to a vagabond flag upon the stream,
+    Than was his loss, to course your flying flags
+[...]
+against the world in arms; the black flag waved night and day from the
+Over the chair they had thrown a red flag, and to the back of it they
+flag{b3l0w_th3_r4dar}
+```
+
+The flag is `flag{b3l0w_th3_r4dar}`.
 
 ## Other write-ups and resources
 
