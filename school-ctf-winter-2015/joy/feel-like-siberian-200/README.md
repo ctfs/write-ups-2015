@@ -16,7 +16,7 @@
 
 ## Write-up
 
-[writeup.md](./writeup.md)
+<div><h3>Feel like Siberian</h3><p>Use your imagination :)</p></div>
 
 ## Other write-ups and resources
 
