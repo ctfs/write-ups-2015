@@ -8,6 +8,7 @@
 * [crypto/curious](crypto/curious)
 * [crypto/strength](crypto/strength)
 * [forensics/png-uncorrupt](forensics/png-uncorrupt)
+* [forensics/unknown](forensics/unknown)
 * [misc/kolmogorov](misc/kolmogorov)
 * [misc/sanity-check](misc/sanity-check)
 * [pwnable/ebp](pwnable/ebp)
@@ -17,7 +18,6 @@
 
 * [crypto/lazy](crypto/lazy)
 * [crypto/parlor2](crypto/parlor2)
-* [forensics/unknown](forensics/unknown)
 * [misc/eces-revenge2](misc/eces-revenge2)
 * [misc/sawed](misc/sawed)
 * [pwnable/plaiddb](pwnable/plaiddb)
