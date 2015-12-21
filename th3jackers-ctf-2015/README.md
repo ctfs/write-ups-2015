@@ -10,6 +10,7 @@
 * [misc/misc50](misc/misc50)
 * [stegano/steg100](stegano/steg100)
 * [stegano/steg200](stegano/steg200)
+* [stegano/steg300](stegano/steg300)
 * [trivia/trivia150](trivia/trivia150)
 * [trivia/trivia200](trivia/trivia200)
 * [trivia/trivia50](trivia/trivia50)
@@ -20,7 +21,6 @@
 * [crypto/cry200](crypto/cry200)
 * [crypto/cry300](crypto/cry300)
 * [reverse/rev100](reverse/rev100)
-* [stegano/steg300](stegano/steg300)
 
 ## Missing write-ups
 
