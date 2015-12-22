@@ -9,6 +9,8 @@
 
 ## Write-up
 
+This writeup is based on a writeup by [capturetheswag](http://capturetheswag.blogspot.com.au/2015/04/nuit-du-hack-quals-2015-bpythonastic.html).
+
 After extracting the gzipped tar using `tar xvf Bpythonastic.tar.gz`, we get another tar `Bpythonastic.tar` that contains a 1.3GB file named `chall.raw`.
 
 This file seems to be an ELF at first:
