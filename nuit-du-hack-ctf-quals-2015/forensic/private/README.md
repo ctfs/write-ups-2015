@@ -74,6 +74,7 @@ $ tshark -r PrivateChannel.pcap.pcapng -x 'icmp and ip.src==192.168.50.10' | gre
 
 The flag is `S3cr3t4g3nt`!
 
+PS: You can also use `scapy` to print out the identifiers, as done [here](http://geeksspeak.github.io/blog/2015/04/05/ndh-ctf-2015-private-writeup/) and [here](https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-private-100-writeup/).
 
 ## Other write-ups and resources
 
