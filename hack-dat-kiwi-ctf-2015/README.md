@@ -8,6 +8,7 @@
 
 ## Completed write-ups
 
+* [forensics/ssl-sniff](forensics/ssl-sniff)
 * [stegano/simple-stegano](stegano/simple-stegano)
 
 ## External write-ups only
@@ -20,7 +21,6 @@
 * [experimental/nti](experimental/nti)
 * [experimental/pti](experimental/pti)
 * [forensics/leet-maze](forensics/leet-maze)
-* [forensics/ssl-sniff](forensics/ssl-sniff)
 * [forensics/ssl-sniff-2](forensics/ssl-sniff-2)
 * [reversing/blue-freeze](reversing/blue-freeze)
 * [reversing/gaychal](reversing/gaychal)
