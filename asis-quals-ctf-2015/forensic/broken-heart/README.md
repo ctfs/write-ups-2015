@@ -22,7 +22,7 @@ $ file myheart_7cb6daec0c45b566b9584f98642a7123
 myheart_7cb6daec0c45b566b9584f98642a7123: pcap-ng capture file - version 1.0
 ```
 
-Looking at the type of network protocols, we see a bunch of mostly TCP, DNS and HTTP Requests:
+Looking at the type of network protocols used in the transmission, we see a bunch of mostly TCP, DNS and HTTP Requests:
 
 ```bash
 $ tshark -r myheart_7cb6daec0c45b566b9584f98642a7123  | awk '{print $7}' | sort | uniq -c | sort -n
@@ -34,7 +34,7 @@ $ tshark -r myheart_7cb6daec0c45b566b9584f98642a7123  | awk '{print $7}' | sort 
 3044 TCP
 ```
 
-Looking at the HTTP request, we see that a file named `LoiRLUoq` was requested and transmitted in several parts:
+Looking at the HTTP requests, we see that a file named `LoiRLUoq` was requested and transmitted in several parts:
 
 ```bash
 $ tshark -r myheart_7cb6daec0c45b566b9584f98642a7123 'http'
@@ -102,7 +102,7 @@ Content Range: bytes 2001846 2202904 2347916
 Content Range: bytes 2106781 2347915 2347916
 ```
 
-Looks like except the first 13 bytes everything is available.
+Looks like everything - except the first 13 bytes - is available.
 
 First we create a file of size `2347916` using `dd`:
 
@@ -154,7 +154,7 @@ We open the stream using a hexeditor (e.g. `hexedit`) to see that the transmitte
 
 All that's left to do is to insert the missing first 13 bytes (also known as part of a `header`) of our PNG.
 
-We can either look up any [PNG specification](http://www.w3.org/TR/PNG/#5DataRep) or open a valid PNG to know what these first 13 bytes are:
+We can either look up any [PNG specification](http://www.w3.org/TR/PNG/#5DataRep) or open a valid PNG in `hexedit` to know what these first 13 bytes are:
 
 ![](png-header.png)
 
