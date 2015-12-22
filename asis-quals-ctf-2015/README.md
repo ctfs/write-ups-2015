@@ -9,6 +9,7 @@
 * [crypto/falsecrypt](crypto/falsecrypt)
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
+* [forensic/broken-heart](forensic/broken-heart)
 * [forensic/my-ped](forensic/my-ped)
 * [stego/blind](stego/blind)
 * [stego/number-pi](stego/number-pi)
@@ -18,7 +19,6 @@
 ## External write-ups only
 
 * [crypto/cross-check](crypto/cross-check)
-* [forensic/broken-heart](forensic/broken-heart)
 * [forensic/dump](forensic/dump)
 * [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/zrypt](forensic/zrypt)
