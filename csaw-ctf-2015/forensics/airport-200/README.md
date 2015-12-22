@@ -10,7 +10,30 @@
 
 ## Write-up
 
-(TODO)
+This writeup is based on these writeups: [1](http://fadec0d3.blogspot.de/2015/09/csaw-2015-forensics-keep-calm-ctf-flash.html) [2](https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Forensics/airport) and [3](http://toh.necst.it/csaw2015/forensics/Airport/).
+
+We are given four PNG pictures named `1.png` to `4.png` and one JPG named `steghide.jpg`.
+
+The PNGs each show an airport from around the world, the JPG shows us the logo of a steganography tool named `steghide`.
+
+The author used the steghide tool with a password that has to be found.
+
+The password consists of the abbreviation of each airport seen in the PNGs.
+
+To find each airport, we can use image reverse search tools like [tineye](https://www.tineye.com/), [image raider](https://www.imageraider.com/) or [Google images](https://images.google.de/).
+
+The airports are:
+
+* HAV - José Martí International Airport
+* HKG - Hong Kong International Airport
+* LAX - Los Angeles International Airport
+* YYZ - Toronto Pearson International Airport
+
+Concating all abbreviations together, we get the passphrase `HAVHKGLAXYYZ`, which we can use to extract data hidden with `steghide`:
+
+![](steghide.png)
+
+The flag is `flag{iH4t3A1rp0rt5}`.
 
 ## Other write-ups and resources
 
