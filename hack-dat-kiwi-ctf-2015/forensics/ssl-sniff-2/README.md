@@ -14,7 +14,17 @@
 
 ## Write-up
 
-(TODO)
+We are given a tcpdump of SSL encrypted data and a RSA key that should decrypt this conversation.
+
+This is easily done using `wireshark`: `Preferences -> Protocols -> SSL -> Edit RSA keys list`, then input all required information (e.g. key file location, IP etc):
+
+![](./wireshark-sslkey.png)
+
+Afterwards, we can just see the decrypted SSL conversation using `Analyze -> Follow -> SSL Stream`:
+
+![](./wireshark-sslfollow.png)
+
+The flag is `39u7v25n1jxkl123`.
 
 ## Other write-ups and resources
 
