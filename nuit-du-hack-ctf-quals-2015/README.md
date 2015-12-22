@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [forensic/bpythonastic](forensic/bpythonastic)
 * [stegano/cooper](stegano/cooper)
 * [web/facebox](web/facebox)
 
@@ -15,7 +16,6 @@
 * [crypto/weshgrow](crypto/weshgrow)
 * [exploit/secureauth](exploit/secureauth)
 * [exploit/updator](exploit/updator)
-* [forensic/bpythonastic](forensic/bpythonastic)
 * [forensic/pdfception](forensic/pdfception)
 * [forensic/private](forensic/private)
 * [misc/bleep](misc/bleep)
