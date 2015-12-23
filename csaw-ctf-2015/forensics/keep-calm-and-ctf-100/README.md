@@ -16,7 +16,7 @@
 
 We are given a `jpg`:
 
-![](./img.jpb)
+![](./img.jpg)
 
 Applying `exiftool` (or `strings`), we see the flag `h1d1ng_in_4lm0st_pla1n_sigh7` in the `Copyright` exif field:
 
