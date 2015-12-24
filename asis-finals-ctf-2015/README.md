@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensic/big-lie](forensic/big-lie)
 
 ## External write-ups only
 
@@ -15,7 +15,6 @@
 * [crypto/honeywall](crypto/honeywall)
 * [crypto/RSASR](crypto/RSASR)
 * [crypto/simple](crypto/simple)
-* [forensic/big-lie](forensic/big-lie)
 * [forensic/MBTI](forensic/MBTI)
 * [forensic/particles](forensic/particles)
 * [forensic/strange](forensic/strange)
