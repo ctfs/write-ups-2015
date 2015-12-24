@@ -1,3 +1,16 @@
 *.swp
 lsg
 connection
+backdoor-ctf-2015/crypto/rand/index.html
+backdoor-ctf-2015/exploit/noname/agile-garden-1672.herokuapp.com/
+backdoor-ctf-2015/web/jshunt/hack.bckdr.in/
+backdoor-ctf-2015/web/judge/hack.bckdr.in/
+backdoor-ctf-2015/web/medusa/hack.bckdr.in/
+boston-key-party-2015/school-bus/heath-street/.secret31337
+checkreadme.py
+confidence-ctf-teaser-2015/stegano/a-png-tale-200/solve.py
+example-ctf-2015/
+opentoall-ctf-2015/forensics/gone/pack.txz
+opentoall-ctf-2015/forensics/gone/test.png
+opentoall-ctf-2015/misc/math-is-hard/py.py
+pragyan-ctf-2015/crypto/weak_rsa/priv_key.py
