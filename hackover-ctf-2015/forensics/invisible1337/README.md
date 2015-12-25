@@ -27,7 +27,7 @@ This writeup is based on following writeups:
 
 We are given a gziped compressed tar archived, which we decompress using `tar xvf invisible1337-3ad7a81b0f4dbd6c42cf71312031502c.tgz` to get a PNG named `invisible1337.png`.
 
-The picture is of size 1337 bytes and at first glance appears to be a black picture:
+The picture is of size 1337 bytes and at first glance appears to be a blank picture:
 
 ![](./invisible1337.png)
 
@@ -39,9 +39,7 @@ We submit the QR code to an [online qr code decoder](https://zxing.org/w/decode.
 
     murrrmurrrmurrr :3 touch me! touch me! touch me! - .... .. ... / .. ... / -. --- - / - .... . / ..-. .-.. .- --. --..-- / -... ..- - / -.-. --- --- .-.. / --- ..-. / -.-- --- ..- / .- -. -.-- .-- .- -.-- / -.- . . .--. / ... . .- .-. -.-. .... .. -. --.
 
-However, if we submit the morsecode to an online [morse code decoder](https://gc.de/gc/morse/), we get `this_is_not_the_flag,_but_cool_of_you_anyway_keep_searching`.
-
-Seems like a dead-end.
+If we submit the morsecode to an online [morse code decoder](https://gc.de/gc/morse/), we get `this_is_not_the_flag,_but_cool_of_you_anyway_keep_searching` - Seems like a dead-end.
 
 However, the text `touch me! touch me! touch me!` is a hint that the flag is encoded as [Braille ASCII](https://en.wikipedia.org/wiki/Braille_ASCII).
 
