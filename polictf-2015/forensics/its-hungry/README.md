@@ -129,7 +129,7 @@ We are told twice now to just listen to the flac itself - so maybe the code is h
 
 Unfortunately, converting audio to sheet music is a very hard problem, so it has to be done by ear.
 
-To do so, you [one writeup](http://nandynarwhals.org/2015/07/13/polictf-2015-its-hungry-forensics-100/) suggests to use [this 8bit musical sequencer](http://www.pulseboy.com/).
+To do so, [one writeup](http://nandynarwhals.org/2015/07/13/polictf-2015-its-hungry-forensics-100/) suggests to use [this 8bit musical sequencer](http://www.pulseboy.com/).
 
 In the end, you'll get [this note sheet](https://zeta-two.com/assets/other/oldmcdonald_score.pdf) - as described in [this writeup](https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#forensics100-hungry), with the respective notes:
 
@@ -137,7 +137,7 @@ In the end, you'll get [this note sheet](https://zeta-two.com/assets/other/oldmc
 
 The flag is `feeddadeadbeef`.
 
-PS: I can't adjust the frequencies using my sox version, but there is [a patch](http://jdesbonnet.blogspot.de/2014/02/sox-spectrogram-log-frequency-axis-and.html) to adjust the frequency ranges/limit.
+PS: I can't adjust the frequencies limits/ranges using my sox version, but there is [a patch](http://jdesbonnet.blogspot.de/2014/02/sox-spectrogram-log-frequency-axis-and.html) to do so.
 
 ## Other write-ups and resources
 
