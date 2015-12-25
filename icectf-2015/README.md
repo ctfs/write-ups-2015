@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [forensics/document-troubles](forensics/document-troubles)
 * [programming/statistics](programming/statistics)
 
 ## External write-ups only
@@ -28,7 +29,6 @@
 * [cryptography/rsa](cryptography/rsa)
 * [cryptography/rsa3](cryptography/rsa3)
 * [cryptography/sausages](cryptography/sausages)
-* [forensics/document-troubles](forensics/document-troubles)
 * [forensics/husavik](forensics/husavik)
 * [forensics/logoventures](forensics/logoventures)
 * [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
