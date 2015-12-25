@@ -10,6 +10,7 @@
 * [crypto/golden-metal](crypto/golden-metal)
 * [crypto/simple-algorithm](crypto/simple-algorithm)
 * [forensic/broken-heart](forensic/broken-heart)
+* [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/my-ped](forensic/my-ped)
 * [stego/blind](stego/blind)
 * [stego/number-pi](stego/number-pi)
@@ -20,7 +21,6 @@
 
 * [crypto/cross-check](crypto/cross-check)
 * [forensic/dump](forensic/dump)
-* [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/zrypt](forensic/zrypt)
 * [programming/grids](programming/grids)
 * [pwn/math-sequence](pwn/math-sequence)
