@@ -85,7 +85,7 @@ Path = 009.7z Size = 4194304000 Packed Size = 594004 Modified = 2015-04-30 03:46
 Path = 010.7z Size = 4194304000 Packed Size = 594004 Modified = 2015-04-30 03:46:35 Attributes = ....A CRC = ED145EFF Encrypted = - Method = LZMA:24 Block = 9
 ```
 
-Let's extract `013.7z` to find another bomb (I made an alias for the above command, `7zl`:
+Lets extract `013.7z` to find another bomb (I made an alias for the above command, `7zl`):
 
 ```bash
 $ 7zl 013.7z 
