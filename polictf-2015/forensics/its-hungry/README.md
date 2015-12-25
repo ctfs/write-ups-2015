@@ -15,3 +15,6 @@
 
 * <http://nandynarwhals.org/2015/07/13/polictf-2015-its-hungry-forensics-100/> 
 * <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#forensics100-hungry>
+* <https://pequalsnp-team.github.io/writeups/its-hungry/>
+* <http://b0rk.nl/ctf/2015/polictf/its-hungry.html>
+* <http://fadec0d3.blogspot.de/2015/07/polictf-2015-its-hungry-100.html>
