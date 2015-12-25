@@ -4,7 +4,7 @@
 **Points:** 75
 **Description:** 
 
-> We found this <a target='_blank' href='/problem-static/stage3/programming/null/flag.txt'>text file</a> and we were promised that it contained the flag, but we can't find anything. Those lying cheats!
+> We found this [text file](./flag.txt) and we were promised that it contained the flag, but we can't find anything. Those lying cheats!
 
 **Hint:**
 

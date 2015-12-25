@@ -4,7 +4,7 @@
 **Points:** 25
 **Description:** 
 
-> Can you decipher <a target='_blank' href='/problem-static/stage1/crypto/rot13/code.txt'>this secret message</a>?
+> Can you decipher [this secret message](./code.txt)?
 
 **Hint:**
 

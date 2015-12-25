@@ -4,7 +4,7 @@
 **Points:** 65
 **Description:** 
 
-> We found this <a target='_blank' href='/problem-static/stage2/crypto/farm_animals/crypto1.png'>message</a> written in strange symbols, can you read it for us?
+> We found this [message](./crypto1.png) written in strange symbols, can you read it for us?
 
 **Hint:**
 

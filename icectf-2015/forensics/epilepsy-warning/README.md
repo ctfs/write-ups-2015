@@ -4,7 +4,7 @@
 **Points:** 110
 **Description:** 
 
-> It hurts my head to look at this <a target='_blank' href='/problem-static/stage3/forensics/epilepsy_warning/rave.gif'>GIF</a>, just get it away from me...
+> It hurts my head to look at this [GIF](./rave.gif), just get it away from me...
 
 **Hint:**
 
