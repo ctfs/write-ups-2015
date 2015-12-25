@@ -4,7 +4,7 @@
 **Points:** 30
 **Description:** 
 
-> We found this <a target='_blank' href='/problem-static/stage2/forensics/doc_troubles/file.docx'>document</a>, and we think it contains the flag. Can you find it?
+> We found this [document](file.docx), and we think it contains the flag. Can you find it?
 
 **Hint:**
 
