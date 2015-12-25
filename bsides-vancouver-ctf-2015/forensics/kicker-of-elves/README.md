@@ -17,6 +17,7 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/yvrctf/2015/tree/master/kickerofelves>
-* [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
+* <https://neg9.org/news/2015/3/22/kicker-of-elves-solution>
 * <http://captf.com/2015/bsides-vancouver/forensics/kickerofelves/kickerofelves-psifertex-solve.txt>
+* [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
+* <https://github.com/yvrctf/2015/tree/master/kickerofelves>
