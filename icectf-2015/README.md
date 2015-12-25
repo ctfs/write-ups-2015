@@ -8,6 +8,7 @@
 
 * [forensics/document-troubles](forensics/document-troubles)
 * [forensics/logoventures](forensics/logoventures)
+* [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
 * [programming/statistics](programming/statistics)
 
 ## External write-ups only
@@ -31,7 +32,6 @@
 * [cryptography/rsa3](cryptography/rsa3)
 * [cryptography/sausages](cryptography/sausages)
 * [forensics/husavik](forensics/husavik)
-* [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
 * [forensics/mondrian](forensics/mondrian)
 * [forensics/scan-me](forensics/scan-me)
 * [forensics/sharknado](forensics/sharknado)
