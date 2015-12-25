@@ -9,6 +9,7 @@
 * [forensics/document-troubles](forensics/document-troubles)
 * [forensics/logoventures](forensics/logoventures)
 * [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
+* [forensics/ryan-gooseling](forensics/ryan-gooseling)
 * [programming/statistics](programming/statistics)
 
 ## External write-ups only
@@ -62,7 +63,6 @@
 * [cryptography/numb3rs](cryptography/numb3rs)
 * [forensics/alien-contact](forensics/alien-contact)
 * [forensics/epilepsy-warning](forensics/epilepsy-warning)
-* [forensics/ryan-gooseling](forensics/ryan-gooseling)
 * [programming/null](programming/null)
 * [web-exploitation/giffy](web-exploitation/giffy)
 * [web-exploitation/liar](web-exploitation/liar)
