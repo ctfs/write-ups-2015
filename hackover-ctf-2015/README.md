@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensics/invisible1337](forensics/invisible1337)
 
 ## External write-ups only
 
@@ -21,7 +21,6 @@
 * [crypto/radorium](crypto/radorium)
 * [crypto/yodigga](crypto/yodigga)
 * [forensics/alienmessage](forensics/alienmessage)
-* [forensics/invisible1337](forensics/invisible1337)
 * [forensics/meargot](forensics/meargot)
 * [forensics/pinkie-pie](forensics/pinkie-pie)
 * [misc/allyourbase](misc/allyourbase)
