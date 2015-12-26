@@ -7,6 +7,7 @@
 ## Completed write-ups
 
 * [forensics/document-troubles](forensics/document-troubles)
+* [forensics/husavik](forensics/husavik)
 * [forensics/logoventures](forensics/logoventures)
 * [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
 * [forensics/ryan-gooseling](forensics/ryan-gooseling)
@@ -34,7 +35,6 @@
 * [cryptography/rsa](cryptography/rsa)
 * [cryptography/rsa3](cryptography/rsa3)
 * [cryptography/sausages](cryptography/sausages)
-* [forensics/husavik](forensics/husavik)
 * [forensics/mondrian](forensics/mondrian)
 * [miscellaneous/facebook](miscellaneous/facebook)
 * [miscellaneous/not-found](miscellaneous/not-found)
