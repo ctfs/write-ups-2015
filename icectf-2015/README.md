@@ -11,6 +11,7 @@
 * [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
 * [forensics/ryan-gooseling](forensics/ryan-gooseling)
 * [forensics/scan-me](forensics/scan-me)
+* [forensics/sharknado](forensics/sharknado)
 * [programming/statistics](programming/statistics)
 
 ## External write-ups only
@@ -35,7 +36,6 @@
 * [cryptography/sausages](cryptography/sausages)
 * [forensics/husavik](forensics/husavik)
 * [forensics/mondrian](forensics/mondrian)
-* [forensics/sharknado](forensics/sharknado)
 * [miscellaneous/facebook](miscellaneous/facebook)
 * [miscellaneous/not-found](miscellaneous/not-found)
 * [miscellaneous/warm-up](miscellaneous/warm-up)
