@@ -13,6 +13,7 @@
 * [forensic/forensic-3](forensic/forensic-3)
 * [forensic/forensic-4](forensic/forensic-4)
 * [forensic/forensic-5](forensic/forensic-5)
+* [forensic/forensic-6](forensic/forensic-6)
 
 ## External write-ups only
 
@@ -21,7 +22,6 @@
 ## Missing write-ups
 
 * [crypto/crypto-3](crypto/crypto-3)
-* [forensic/forensic-6](forensic/forensic-6)
 * [misc/misc-1](misc/misc-1)
 * [misc/misc-2](misc/misc-2)
 * [reverse/reverse-1](reverse/reverse-1)
