@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [forensic/big-lie](forensic/big-lie)
+* [forensic/particles](forensic/particles)
 
 ## External write-ups only
 
@@ -16,7 +17,6 @@
 * [crypto/RSASR](crypto/RSASR)
 * [crypto/simple](crypto/simple)
 * [forensic/MBTI](forensic/MBTI)
-* [forensic/particles](forensic/particles)
 * [forensic/strange](forensic/strange)
 * [misc/flag-hunter](misc/flag-hunter)
 * [misc/meow-meow](misc/meow-meow)
