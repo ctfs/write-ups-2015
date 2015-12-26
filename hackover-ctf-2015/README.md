@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [forensics/invisible1337](forensics/invisible1337)
+* [forensics/pinkie-pie](forensics/pinkie-pie)
 
 ## External write-ups only
 
@@ -22,7 +23,6 @@
 * [crypto/yodigga](crypto/yodigga)
 * [forensics/alienmessage](forensics/alienmessage)
 * [forensics/meargot](forensics/meargot)
-* [forensics/pinkie-pie](forensics/pinkie-pie)
 * [misc/allyourbase](misc/allyourbase)
 * [misc/ctfbeer](misc/ctfbeer)
 * [misc/dna](misc/dna)
