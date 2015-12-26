@@ -15,7 +15,7 @@ First, we extract the content of the password protected zip:
 
 ```bash
 $ 7z x Forensic-4.zip -p'*7sdj@L[a/xc<Xms02-z=203dl;' -oout
-$ cd cd out/FORENSIC\ SOAL\ 1\ LEVEL\ 2/
+$ cd out/FORENSIC\ SOAL\ 1\ LEVEL\ 2/
 ```
 
 `Wh4Tis1t.png` actually is the base64 encoded representation of a PNG, which we first have to decode and save:
