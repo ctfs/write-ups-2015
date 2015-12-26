@@ -5,13 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensic/mandiant](forensic/mandiant)
 
 ## External write-ups only
 
 * [cryptography/slabs-of-platinum](cryptography/slabs-of-platinum)
 * [exploitation/stringipc](exploitation/stringipc)
-* [forensic/mandiant](forensic/mandiant)
 * [forensic/ransomewhere](forensic/ransomewhere)
 * [pwnadventurez/blox](pwnadventurez/blox)
 * [pwnadventurez/creditforcredits](pwnadventurez/creditforcredits)
