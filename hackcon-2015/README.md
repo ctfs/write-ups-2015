@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
 
 ## External write-ups only
 
@@ -13,7 +13,6 @@
 * [binary/LetsLearnDebugging](binary/LetsLearnDebugging)
 * [crypto/IdLoveToTurnYouOn](crypto/IdLoveToTurnYouOn)
 * [crypto/StealTheDiamond](crypto/StealTheDiamond)
-* [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
 * [misc/FragG](misc/FragG)
 * [misc/NinjaTurtles](misc/NinjaTurtles)
 * [misc/SurpriseModafocka](misc/SurpriseModafocka)
