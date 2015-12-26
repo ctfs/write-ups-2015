@@ -19,7 +19,21 @@
 
 ## Write-up
 
-(TODO)
+We are given a domain name `track.dat.kiwi`, which DNS TXT record we have to read, according to the description.
+
+This can be done using `dig` as the description suggests or `python` with the `dns` module.
+
+The former can be done as the description suggests and the latter like [this writeup suggests](http://edholabs.ga/ctf_writeups/Leet_Maze.txt).
+
+Each TXT record then gives you another domain name, which you have to query for its TXT record again - rinse and repeat.
+
+In the end, all TXT records form some sort of maze of domain names.
+
+Some domain names look like leet speak, such as `G|2IP5/-C]{.dat.kiwi` and you have to "de-leet" it before querying its TXT record.
+
+Finally, the flag (`8410393`) is hidden in one of these TXT records:
+
+    FLAG:"The key is: 8410393"
 
 ## Other write-ups and resources
 
