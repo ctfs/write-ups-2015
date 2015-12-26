@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensic/leaks-suspected](forensic/leaks-suspected)
 
 ## External write-ups only
 
@@ -16,7 +16,6 @@
 * [crypto/Gaebale-in-panic](crypto/Gaebale-in-panic)
 * [crypto/RSA](crypto/RSA)
 * [crypto/WhoAreYou](crypto/WhoAreYou)
-* [forensic/leaks-suspected](forensic/leaks-suspected)
 * [forensic/old_school](forensic/old_school)
 * [forensic/POS](forensic/POS)
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
