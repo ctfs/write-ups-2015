@@ -27,7 +27,7 @@ Extracting  forensics/SYSTEM                                          OK
 All OK
 ```
 
-Both files are from the `Windows Registry` database (see [wiki](https://en.wikipedia.org/wiki/Windows_Registry).
+Both files are from the `Windows Registry` database (see [wiki](https://en.wikipedia.org/wiki/Windows_Registry)).
 
 While `SAM` ([Security Account Manager](https://en.wikipedia.org/wiki/Security_Account_Manager)) contains usernames and passwords, `SYSTEM` also contains a system bootkey to encrypt and decrypt [SAM password hashes](ftp://distro.ibiblio.org/openwall/passwords/pwdump/syskey.txt).
 
@@ -54,12 +54,12 @@ $ samdump2 SAM bootkey > windows-passwd.txt
 
 The passwords are stored in the second hashes row, containing NTLM hashes.
 
-We have several options to crack these hashes - In this writeup I'll choose two - `john`, [Jumbo version](http://www.openwall.com/john/) and [an online hashes database](https://hashkiller.co.uk/ntlm-decrypter.aspx).
+We have several options to crack these hashes - In this writeup I'll choose two - `john`, [Jumbo version](http://www.openwall.com/john/), and [an online hash database](https://hashkiller.co.uk/ntlm-decrypter.aspx).
 
-The former in combination with a wordlist attack using the rockyou wordlist dictionary, we crack three hashes:
+The former in combination with a wordlist attack using the rockyou wordlist dictionary accomplishes to crack three hashes:
 
 ```bash
-$ jjohn --format=NT --wordlist=./rockyou.txt windows-passwd.txt 
+$ john --format=NT --wordlist=./rockyou.txt windows-passwd.txt 
 Loaded 5 password hashes with no different salts (NT [MD4 128/128 X2 SSE2-16])
 Remaining 3 password hashes with no different salts
 Press 'q' or Ctrl-C to abort, almost any other key for status
@@ -68,7 +68,7 @@ Session completed
 
 6 password hashes cracked, 0 left
 
-$ jjohn --show --format=NT windows-passwd.txt                                                                                                                                           
+$ john --show --format=NT windows-passwd.txt                                                                                                                                           
 Administrateur::500:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
 Invit:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
 admin:hahaha:1003:aad3b435b51404eeaad3b435b51404ee:dfac230e99c5e6bb79e25668712d66b9:::
