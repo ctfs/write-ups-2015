@@ -11,11 +11,13 @@
 
 * [forensics/ca-mau](forensics/ca-mau)
 * [forensics/phong-nha-ke-bang](forensics/phong-nha-ke-bang)
+* [forensics/sa-pa](forensics/sa-pa)
 * [reverse/dong-van](reverse/dong-van)
 * [reverse/hue](reverse/hue)
 * [web/can-tho](web/can-tho)
 * [web/ho-chi-minh-city](web/ho-chi-minh-city)
 * [web/mui-ne](web/mui-ne)
+* [web/phu-tho](web/phu-tho)
 
 ## Missing write-ups
 
@@ -23,7 +25,6 @@
 * [cryptography/da-nang](cryptography/da-nang)
 * [cryptography/hoi-an](cryptography/hoi-an)
 * [cryptography/tam-dao](cryptography/tam-dao)
-* [forensics/sa-pa](forensics/sa-pa)
 * [forensics/son-doong](forensics/son-doong)
 * [pwnable/bac-ninh](pwnable/bac-ninh)
 * [pwnable/binh-dinh](pwnable/binh-dinh)
@@ -36,4 +37,3 @@
 * [web/cat-ba](web/cat-ba)
 * [web/nha-trang](web/nha-trang)
 * [web/phu-quoc](web/phu-quoc)
-* [web/phu-tho](web/phu-tho)

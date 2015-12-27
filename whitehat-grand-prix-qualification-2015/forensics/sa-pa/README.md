@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Vietnamese](https://blog.tinduong.pw/whitehat-grandprix-global-challenge/)
