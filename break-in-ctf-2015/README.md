@@ -7,11 +7,12 @@
 
 * [crypto/substitution](crypto/substitution)
 * [forensic/serial_killer](forensic/serial_killer)
+* [forensic/strangelmage](forensic/strangelmage)
 * [misc/heisenberg](misc/heisenberg)
 
 ## External write-ups only
 
-* [forensic/strangelmage](forensic/strangelmage)
+* none yet
 
 ## Missing write-ups
 
