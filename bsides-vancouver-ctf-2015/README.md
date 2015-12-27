@@ -8,13 +8,13 @@
 ## Completed write-ups
 
 * [crypto/ts-sci-nz](crypto/ts-sci-nz)
+* [forensics/kicker-of-elves](forensics/kicker-of-elves)
 * [misc/10-ctf-commandments](misc/10-ctf-commandments)
 
 ## External write-ups only
 
 * [crypto/matasano](crypto/matasano)
 * [forensics/garbage-file](forensics/garbage-file)
-* [forensics/kicker-of-elves](forensics/kicker-of-elves)
 * [ownable/delphi](ownable/delphi)
 * [ownable/glorious-modem](ownable/glorious-modem)
 * [ownable/sushi](ownable/sushi)
