@@ -2,6 +2,7 @@
 
 * <http://ctf.inc0gnito.com/>
 * [Scoreboard](TODO) or [local alternative](./scoreboard)
+* [Some writeups in Korean?](http://inc0gnito.com/?p=508)
 
 ## Completed write-ups
 
@@ -9,6 +10,8 @@
 
 ## External write-ups only
 
+* [forensic/old_school](forensic/old_school)
+* [forensic/POS](forensic/POS)
 * [pwnable/ToDoList](pwnable/ToDoList)
 
 ## Missing write-ups
@@ -16,8 +19,6 @@
 * [crypto/Gaebale-in-panic](crypto/Gaebale-in-panic)
 * [crypto/RSA](crypto/RSA)
 * [crypto/WhoAreYou](crypto/WhoAreYou)
-* [forensic/old_school](forensic/old_school)
-* [forensic/POS](forensic/POS)
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
 * [network/Network-hacking-is-easy](network/Network-hacking-is-easy)
 * [pwnable/Gameland](pwnable/Gameland)

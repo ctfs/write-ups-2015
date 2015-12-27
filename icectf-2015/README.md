@@ -3,6 +3,7 @@
 * [Website](http://icec.tf/)
 * [Scoreboard](scoreboard.json)
 * [Wrap-Up (Icelandic)](https://www.youtube.com/watch?v=gqAoCpUfXaI)
+* [Some Writeups by the organizers](https://github.com/IceCTF/Problems-2015)
 
 ## Completed write-ups
 
@@ -35,6 +36,7 @@
 * [cryptography/rsa](cryptography/rsa)
 * [cryptography/rsa3](cryptography/rsa3)
 * [cryptography/sausages](cryptography/sausages)
+* [forensics/epilepsy-warning](forensics/epilepsy-warning)
 * [forensics/mondrian](forensics/mondrian)
 * [miscellaneous/facebook](miscellaneous/facebook)
 * [miscellaneous/not-found](miscellaneous/not-found)
@@ -62,7 +64,6 @@
 * [cryptography/farm-animals](cryptography/farm-animals)
 * [cryptography/numb3rs](cryptography/numb3rs)
 * [forensics/alien-contact](forensics/alien-contact)
-* [forensics/epilepsy-warning](forensics/epilepsy-warning)
 * [programming/null](programming/null)
 * [web-exploitation/giffy](web-exploitation/giffy)
 * [web-exploitation/liar](web-exploitation/liar)
