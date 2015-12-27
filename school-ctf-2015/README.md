@@ -5,13 +5,13 @@
 
 ## Completed write-ups
 
+* [forensics/hidden-file-200](forensics/hidden-file-200)
 * [stegano/run-the-image-400](stegano/run-the-image-400)
 * [stegano/strange-spam-100](stegano/strange-spam-100)
 * [stegano/tacticus-abilitus-100](stegano/tacticus-abilitus-100)
 
 ## External write-ups only
 
-* [forensics/hidden-file-200](forensics/hidden-file-200)
 * [joy/not-weird-selfie-200](joy/not-weird-selfie-200)
 * [joy/weird-selfie-100](joy/weird-selfie-100)
 * [networks/tricky-authorization-200](networks/tricky-authorization-200)
