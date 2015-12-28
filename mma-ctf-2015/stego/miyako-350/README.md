@@ -31,7 +31,7 @@ Though it is not entirely obvious, the authors encoded a binary string in the si
 
 Every second pixel, we calculate the difference of the blue value to the previous pixel and interpret it as either a 0 (if negative) or 1 (if positive).
 
-The pyhton script [picdiff.py](./picdiff.py) prints the encoded binary string and shows us the resulting picture:
+The python script [picdiff.py](./picdiff.py) prints the encoded binary string and shows us the resulting picture:
 
 ![](./result.png)
 

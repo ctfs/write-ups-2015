@@ -197,7 +197,7 @@ The sixth piece of the puzzle (`TGUtU`) is in the trailing data of `6.jpg`:
 
 ![](./trailing6.png)
 
-Our six puzzle pieces can be permutated to generate the correct flag using [this pyhton script](./permutations.py):
+Our six puzzle pieces can be permutated to generate the correct flag using [this python script](./permutations.py):
 
 ```bash
 $ python2.7 permutations.py

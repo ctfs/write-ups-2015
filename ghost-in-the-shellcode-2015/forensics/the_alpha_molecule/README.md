@@ -18,7 +18,7 @@ We are given a xz compressed tar archive that we decompress with `unxz` and extr
 
 The audio can be rendered with an oscilloscope as seen [in this example](https://www.youtube.com/watch?v=RkJdADVy_Mg).
 
-We can do render the individual frames using [this pyhton script](./oscilloscope.py) to receive several frames as PNGs:
+We can do render the individual frames using [this python script](./oscilloscope.py) to receive several frames as PNGs:
 
 ```bash
 $ python oscilloscope.py
