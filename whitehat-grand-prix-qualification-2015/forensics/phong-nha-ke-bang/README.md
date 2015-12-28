@@ -14,6 +14,12 @@
 
 ## Write-up
 
+This writeup is based on following writeups:
+
+* <https://sugivo.wordpress.com/2015/10/28/whitehat-2015-global-challenge-phong-nha-ke-bang-forensic-200/>
+* [Vietnamese](https://blog.tinduong.pw/whitehat-grandprix-global-challenge/)
+
+
 We are given a pcap (`for200.pcap`) inside a zip that we extract using `7z x for200_3498c3f7c12b934cc58ed892bd96b34a`.
 
 Opening the pcap using `wireshark`, we see a lot of TCP packets.
