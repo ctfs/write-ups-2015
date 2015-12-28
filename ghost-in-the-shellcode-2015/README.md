@@ -11,6 +11,7 @@
 * [crypto/nikoli](crypto/nikoli)
 * [forensics/cloudfs](forensics/cloudfs)
 * [forensics/rubicon](forensics/rubicon)
+* [forensics/the_alpha_molecule](forensics/the_alpha_molecule)
 * [trivia/biggest](trivia/biggest)
 
 ## External write-ups only
@@ -18,7 +19,6 @@
 * [crypto/mtgo](crypto/mtgo)
 * [crypto/vig128](crypto/vig128)
 * [forensics/portal2](forensics/portal2)
-* [forensics/the_alpha_molecule](forensics/the_alpha_molecule)
 * [programming/edgy](programming/edgy)
 * [pwn_adventure/blockys_revenge](pwn_adventure/blockys_revenge)
 * [pwn_adventure/pirates_treasure](pwn_adventure/pirates_treasure)
