@@ -21,5 +21,6 @@
 ## Other write-ups and resources
 
 * <http://wget.pw/posts/32c3-ctf-tinyhosting-web-250>
+* <https://github.com/p4-team/ctf/tree/master/2015-12-27-32c3/tiny_hosting_web_250#eng-version>
 * <http://pastie.org/private/cux8flyorujmupak2g>
 * <http://pastebin.com/mkaAnDf4>
