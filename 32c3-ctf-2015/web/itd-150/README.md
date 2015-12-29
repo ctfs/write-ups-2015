@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <http://pastebin.com/DQXxCM23>
+* <http://pastebin.com/TG3x3Jz9>
