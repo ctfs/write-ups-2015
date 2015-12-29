@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+- [Information about the fileformat and decrypter @https://heinrichs.io/](https://heinrichs.io/)
+- https://github.com/SleepProgger/ctf_stuff/blob/master/32C3/config.bin/crack_config.py
