@@ -234,6 +234,10 @@ Lastly, the PNG contains our flag, `key{03087-08351-27H}`:
 
 ![](./blob.png)
 
+PS: The flag as well as the challenge name are a reference to the movie [Hackers](https://www.youtube.com/watch?v=8wXBe2jTdx4):
+
+The key is the bank account number of Plague's overseas account.
+
 ## Other write-ups and resources
 
 * <https://github.com/yvrctf/2015/tree/master/garbagefile>
