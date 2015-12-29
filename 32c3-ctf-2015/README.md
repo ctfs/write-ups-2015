@@ -9,12 +9,11 @@
 
 ## External write-ups only
 
-* none yet
+* [embedded/hd44780-150](embedded/hd44780-150)
 
 ## Missing write-ups
 
 * [embedded/blobberry-300](embedded/blobberry-300)
-* [embedded/hd44780-150](embedded/hd44780-150)
 * [embedded/nordicbynature-400](embedded/nordicbynature-400)
 * [embedded/traces-200](embedded/traces-200)
 * [forensics/config-bin-150](forensics/config-bin-150)

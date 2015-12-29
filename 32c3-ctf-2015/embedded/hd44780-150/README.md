@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://adarshdinesh.wordpress.com/2015/12/29/embedded-hd44780-32c3-ctf-2015/>
