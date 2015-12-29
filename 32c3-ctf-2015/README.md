@@ -18,6 +18,7 @@
 * [pwn/teufel-200](pwn/teufel-200)
 * [reversing/flash-300](reversing/flash-300)
 * [web/itd-150](web/itd-150)
+* [web/kummerkasten-300](web/kummerkasten-300)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
 ## Missing write-ups
@@ -36,6 +37,5 @@
 * [reversing/ey-or-150](reversing/ey-or-150)
 * [reversing/libdroid-150](reversing/libdroid-150)
 * [reversing/pica-300](reversing/pica-300)
-* [web/kummerkasten-300](web/kummerkasten-300)
 * [web/monkeybase-200](web/monkeybase-200)
 * [web/sequence-hunt-200](web/sequence-hunt-200)
