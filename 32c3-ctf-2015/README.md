@@ -5,13 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [misc/gurke-300](misc/gurke-300)
 
 ## External write-ups only
 
 * [embedded/hd44780-150](embedded/hd44780-150)
 * [forensics/config-bin-150](forensics/config-bin-150)
-* [misc/gurke-300](misc/gurke-300)
 * [pwn/forth-150](pwn/forth-150)
 * [pwn/readme-200](pwn/readme-200)
 * [pwn/teufel-200](pwn/teufel-200)
