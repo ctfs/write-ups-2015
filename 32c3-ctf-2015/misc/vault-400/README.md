@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/stephenR/9fc14888ef2cec7c7b99>
