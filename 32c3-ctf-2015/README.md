@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [embedded/hd44780-150](embedded/hd44780-150)
+* [web/itd-150](web/itd-150)
 
 ## Missing write-ups
 
@@ -35,7 +36,6 @@
 * [reversing/flash-300](reversing/flash-300)
 * [reversing/libdroid-150](reversing/libdroid-150)
 * [reversing/pica-300](reversing/pica-300)
-* [web/itd-150](web/itd-150)
 * [web/kummerkasten-300](web/kummerkasten-300)
 * [web/monkeybase-200](web/monkeybase-200)
 * [web/sequence-hunt-200](web/sequence-hunt-200)
