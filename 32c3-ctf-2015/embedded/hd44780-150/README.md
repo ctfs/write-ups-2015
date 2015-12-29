@@ -16,3 +16,4 @@
 
 * <https://adarshdinesh.wordpress.com/2015/12/29/embedded-hd44780-32c3-ctf-2015/>
 * <http://pastebin.com/UXjk7wSy>
+* <https://github.com/racoons-team/ctf/tree/master/2015-12-27-32c3/HD44780_embedded_150>
