@@ -15,4 +15,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/TactiFail/CTF-Writeups/blob/master/2015/32C3/pwn/forth.md>
+* <http://securityerror.github.io/blog/12292015/forth.html>
 * [Execute a cmd with forth](http://rosettacode.org/wiki/Execute_a_system_command#Forth)
