@@ -50,9 +50,12 @@ After searching for RFCs and protocol specifications, you'll come across [the TF
 * First 2 bytes are an opcode:
 ![](./opcodes.png)
 * The bytes following the opcode depend on the opcode. Important for this task are `RRQ/WRQ`, `ACK` and `DATA`:
-  * `RRQ/WRQ`: ![](./rrq-wrq.png)
-  * `DATA`: ![](./data.png)
-  * `ACK`: ![](./ack.png)
+
+* `RRQ/WRQ`: ![](./rrq-wrq.png)
+
+* `DATA`: ![](./data.png)
+
+* `ACK`: ![](./ack.png)
 
 We extract the TFTP data using either `tshark` or `wireshark`.
 
