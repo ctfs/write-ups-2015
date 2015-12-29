@@ -39,6 +39,10 @@ We can convert these `1065` PNGs into a single GIF for an easier visualization u
 
 ![](./alpha.gif)
 
+Looking at the GIF, we notice letters passing by that spell out a sentence containing the flag, `ARE YOU HAVING OSCILLOFUN FUZYL`.
+
+The flag is `FUZYL`.
+
 ## Other write-ups and resources
 
 * <http://hxp.io/blog/10/Ghost%20in%20the%20Shellcode%202015:%20Forensics%20200%20%22The%20Alpha%20Molecule%22/>
