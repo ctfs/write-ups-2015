@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [embedded/hd44780-150](embedded/hd44780-150)
+* [pwn/forth-150](pwn/forth-150)
 * [web/itd-150](web/itd-150)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
@@ -26,7 +27,6 @@
 * [pwn/bingo-500](pwn/bingo-500)
 * [pwn/cryptmsg-400](pwn/cryptmsg-400)
 * [pwn/docker-250](pwn/docker-250)
-* [pwn/forth-150](pwn/forth-150)
 * [pwn/ranger-400](pwn/ranger-400)
 * [pwn/readme-200](pwn/readme-200)
 * [pwn/sandbox-300](pwn/sandbox-300)

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Execute a cmd with forth](http://rosettacode.org/wiki/Execute_a_system_command#Forth)
