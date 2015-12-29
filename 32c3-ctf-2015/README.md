@@ -11,6 +11,7 @@
 
 * [embedded/hd44780-150](embedded/hd44780-150)
 * [pwn/forth-150](pwn/forth-150)
+* [pwn/teufel-200](pwn/teufel-200)
 * [web/itd-150](web/itd-150)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
@@ -30,7 +31,6 @@
 * [pwn/ranger-400](pwn/ranger-400)
 * [pwn/readme-200](pwn/readme-200)
 * [pwn/sandbox-300](pwn/sandbox-300)
-* [pwn/teufel-200](pwn/teufel-200)
 * [pwn/tree-500](pwn/tree-500)
 * [reversing/carder-500](reversing/carder-500)
 * [reversing/ey-or-150](reversing/ey-or-150)
