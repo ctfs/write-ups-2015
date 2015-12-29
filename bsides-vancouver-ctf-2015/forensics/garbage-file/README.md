@@ -164,7 +164,7 @@ We have a closer look at the file using a hexeditor (e.g. `hexedit`) to see that
 
 ![](./hexedit.png)
 
-In combination with the previous binwalk output, we guess that the first 4 bytes are the `size` of an interesting file and the following 4 bytes are the `offset` to that said file. We also see in out binwalk output that a Zlib file begins at exactly that offset:
+In combination with the previous binwalk output, we guess that the first 4 bytes are the `size` of an interesting file and the following 4 bytes are the `offset` to that said file. We also see in our binwalk output that a Zlib file begins at exactly that offset:
 
 	11895         0x2E77          Zlib compressed data, default compression
 
