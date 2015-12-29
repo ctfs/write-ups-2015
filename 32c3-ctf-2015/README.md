@@ -11,6 +11,7 @@
 
 * [embedded/hd44780-150](embedded/hd44780-150)
 * [web/itd-150](web/itd-150)
+* [web/tinyhosting-250](web/tinyhosting-250)
 
 ## Missing write-ups
 
@@ -39,4 +40,3 @@
 * [web/kummerkasten-300](web/kummerkasten-300)
 * [web/monkeybase-200](web/monkeybase-200)
 * [web/sequence-hunt-200](web/sequence-hunt-200)
-* [web/tinyhosting-250](web/tinyhosting-250)

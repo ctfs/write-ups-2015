@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastie.org/private/cux8flyorujmupak2g>
