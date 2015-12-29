@@ -24,4 +24,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/andihit/ctf-write-ups/blob/master/2015/32c3/kummerkasten.md>
