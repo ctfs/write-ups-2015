@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [embedded/hd44780-150](embedded/hd44780-150)
+* [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/gurke-300](misc/gurke-300)
 * [pwn/forth-150](pwn/forth-150)
 * [pwn/teufel-200](pwn/teufel-200)
@@ -21,7 +22,6 @@
 * [embedded/blobberry-300](embedded/blobberry-300)
 * [embedded/nordicbynature-400](embedded/nordicbynature-400)
 * [embedded/traces-200](embedded/traces-200)
-* [forensics/config-bin-150](forensics/config-bin-150)
 * [forensics/the-300](forensics/the-300)
 * [misc/aes-250](misc/aes-250)
 * [misc/vault-400](misc/vault-400)
