@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/p4-team/ctf/tree/master/2015-12-27-32c3/gurke_misc_300#eng-version>
 * <http://pastebin.com/JikU89uJ>
