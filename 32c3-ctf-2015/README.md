@@ -1,7 +1,8 @@
 # 32C3 CTF 2015 write-ups
 
 * <https://32c3ctf.ccc.ac/>
-* [Scoreboard](https://32c3ctf.ccc.ac/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://32c3ctf.ccc.ac/scoreboard/) or [local alternative](./scoreboard)
+* Number of participants with point > 0: 389
 
 ## Completed write-ups
 
