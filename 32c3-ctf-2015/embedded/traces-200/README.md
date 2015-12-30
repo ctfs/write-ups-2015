@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/raccoons-team/ctf/tree/master/2015-12-27-32c3/traces_embedded_200>
