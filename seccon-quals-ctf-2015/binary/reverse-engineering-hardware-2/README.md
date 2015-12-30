@@ -22,6 +22,7 @@
 
 ## Other write-ups and resources
 
+* <http://blukat29.github.io/2015/12/seccon-ctf-2015-hardware2/>
 * [Japanese](https://github.com/hideyuki/SECCON-2015-Online-CTF-Writeup/tree/master/Reverse-Engineering-Hardware-2)
 * [Japanese](https://hackmd.io/s/EylxpX2Ve)
 * [Japanese](http://d.hatena.ne.jp/waidotto/20151206/1449409523)
