@@ -21,3 +21,4 @@
 * [Japanese](https://hackmd.io/s/4yKSTwi4g)
 * [Japanese](http://amiq11.tumblr.com/post/134657262324/seccon2015-writeup-eeic-advent-calendar-day-6)
 * [Japanese](https://docs.google.com/document/d/1GEdzPOohsiWt8EPojNazlVPuNFZpQ9FOQxb-E7sfzSQ)
+* [GoN (Korean)](http://gon.kaist.ac.kr/?p=943)
