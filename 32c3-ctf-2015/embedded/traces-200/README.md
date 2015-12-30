@@ -2,7 +2,7 @@
 
 **Category:** Embedded
 **Points:** 200
-**Solves:** 16
+**Solves:** 17
 **Description:**
 
 > Could you please decode this for me? KTHXBYE!

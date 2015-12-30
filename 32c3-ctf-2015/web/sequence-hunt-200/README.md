@@ -1,12 +1,10 @@
-# 32C3 CTF 2015 : sequence-hunt-200
+# 32C3 CTF 2015 : Sequence Hunt
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 200
+**Solves:** 19
 **Description:**
 
-> Solves: 18
-> 
 > May we interest you in a little programming exercise?
 > 
 > 

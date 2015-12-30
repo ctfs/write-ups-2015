@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 250
-**Solves:** 6
+**Solves:** 7
 **Description:**
 
 > Extract some flag from ssh://eve@136.243.194.40

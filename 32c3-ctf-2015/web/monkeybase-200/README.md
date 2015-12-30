@@ -1,12 +1,10 @@
-# 32C3 CTF 2015 : monkeybase-200
+# 32C3 CTF 2015 : Monkeybase
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 200
+**Solves:** 26
 **Description:**
 
-> Solves: 24
-> 
 > A group of highly trained monkeys from outer space have been using earthlings technology to communicate ( over the web ). we want to know their secrets and intentions so we infiltrated them. Here's their platform of communication and an invite key:
 > 
 > 

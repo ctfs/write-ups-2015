@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 200
-**Solves:** 30
+**Solves:** 31
 **Description:**
 
 > Can you read the flag?

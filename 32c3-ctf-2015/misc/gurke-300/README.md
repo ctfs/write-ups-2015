@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 300
-**Solves:** 106
+**Solves:** 111
 **Description:**
 
 > Non-standard [gurke](./gurke): <https://32c3ctf.ccc.ac/uploads/gurke> Talk to it via HTTP on <http://136.243.194.43/>.

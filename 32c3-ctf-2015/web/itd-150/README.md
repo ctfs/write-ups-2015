@@ -1,12 +1,10 @@
-# 32C3 CTF 2015 : itd-150
+# 32C3 CTF 2015 : ITD
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 150
+**Solves:** 11
 **Description:**
 
-> Solves: 11
-> 
 > Im Too Damn good at security. You can never beat me. Accept your fate. cross your fingers for this task to not collapse <http://136.243.194.59/>
 
 
