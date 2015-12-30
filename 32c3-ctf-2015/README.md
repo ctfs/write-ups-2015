@@ -5,8 +5,8 @@
 
 ## Completed write-ups
 
-* [misc/gurke-300](misc/gurke-300)
 * [forensics/config-bin-150](forensics/config-bin-150)
+* [misc/gurke-300](misc/gurke-300)
 
 ## External write-ups only
 
