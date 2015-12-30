@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://pastebin.com/Xd8jrhqV>
+* <https://rzhou.org/~ricky/32c3/readme/>
