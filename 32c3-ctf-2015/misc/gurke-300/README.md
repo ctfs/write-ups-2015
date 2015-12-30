@@ -5,7 +5,7 @@
 **Solves:** 106
 **Description:**
 
-> Non-standard [gurke](./gurke): <https://32c3ctf.ccc.ac/uploads/[gurke](./gurke)> Talk to it via HTTP on <http://136.243.194.43/.>
+> Non-standard [gurke](./gurke): <https://32c3ctf.ccc.ac/uploads/gurke> Talk to it via HTTP on <http://136.243.194.43/>.
 
 
 ## Write-up
