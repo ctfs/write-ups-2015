@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blukat29.github.io/2015/12/32c3ctf-blobberry/>
