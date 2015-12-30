@@ -1,0 +1,376 @@
+/**
+    Page layout
+**/
+
+body {
+    background-color: #eaeaea;
+}
+
+.page {
+    background-color: #ffffff;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    max-width: 1100px;
+    padding: 10px 65px 10px 65px;
+}
+
+#footer {
+    background-color: #f8f8f8;
+    font-size: 10px;
+    border-top: 4px solid rgba(234, 234, 234, 1);
+    text-align: center;
+    padding: 10px 65px 10px 65px;
+}
+
+#footer p {
+    padding: 0;
+    margin: 0;
+}
+
+#footer .fade {
+    opacity: 0.20;
+}
+
+#footer .fade:hover {
+    opacity: 1;
+}
+
+/**
+    Header / nav bar
+**/
+
+#header a {
+    text-decoration: none;
+}
+
+#header {
+    text-align: center;
+}
+
+#header-inner {
+    background-color: #f8f8f8;
+    border-bottom: 4px solid rgba(234, 234, 234, 1);
+    max-width: 1100px;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 65px 10px 65px;
+}
+
+#header-logo {
+    float: left;
+}
+
+#header-menu {
+    float: right;
+}
+
+@media (max-width: 800px) {
+    #header-logo {
+        display: none;
+    }
+}
+
+/**Pill overrides**/
+
+#menu-main .active a {
+    color: #ffffff;
+}
+
+#menu-main :not(.active) a:hover, #menu-main :not(.active) form:hover {
+    background-color: rgba(234, 234, 234, 0.75);
+}
+
+#menu-main a, form {
+    padding: 7px 15px;
+    margin: 5px 5px;
+    border-radius: 4px;
+}
+
+#menu-main input {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    color: #428BCA;
+}
+
+#categories-menu a {
+    display: block;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+
+#categories-menu li {
+    border: 1px solid #428bca;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+#categories-menu li.active {
+    background: #428bca;
+}
+
+#categories-menu li.active a {
+    color: #ffffff;
+}
+
+#categories-menu li.disabled {
+    border-color: #b1b1b1;
+}
+
+#categories-menu li.disabled a {
+    color: #b1b1b1;
+}
+
+#categories-menu {
+    overflow: auto;
+}
+
+/**
+    Logo
+**/
+
+#header-logo a {
+    overflow: auto;
+}
+
+#site-logo {
+    display: inline-block;
+}
+
+#site-logo object {
+    width: 36px;
+    height: 36px;
+}
+
+#footer-logo {
+    display: inline-block;
+}
+
+#footer-logo object {
+    width: 24px;
+    height: 24px;
+}
+
+#site-logo-text {
+    color: #000;
+    display: inline-block;
+    font-family: Georgia, Serif;
+    line-height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: top;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    /* Remove the padding we set earlier */
+    .masthead,
+    .marketing,
+    .footer {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+/**
+    Sign in form
+**/
+
+.form-signin {
+    max-width: 1100px;
+    padding: 0 15px 15px 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: 5px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="email"] {
+    margin-bottom: 5px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 5px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.form-signin select {
+    margin-bottom: 5px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+/**
+    Challenges page
+**/
+
+#categories-menu li {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+}
+
+#category-description {
+    padding: 10px 0 0 10px;
+    margin-bottom: 10px;
+}
+
+.category-tab-content {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid rgb(221, 221, 221);
+    border-top: none;
+
+}
+
+.challenge-container {
+    margin-bottom: 20px;
+}
+
+.challenge-container h1 {
+    font-size: 15pt;
+}
+
+.challenge-description {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.challenge-metadata ul {
+    list-style-type: none;
+    padding-left: 25px;
+}
+
+.challenge-metadata ul li span.glyphicon {
+    margin-right: 5px;
+}
+
+.challenge-submit-metadata .glyphicon {
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.challenge-submit-metadata p {
+    margin: 0;
+}
+
+.flag-input {
+    margin-bottom: 10px;
+}
+
+.page-header {
+    padding-bottom: 5px;
+    margin: 10px 0 10px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.no-padding-or-margin {
+    padding:0;
+    margin:0;
+}
+
+.alert h1, h2, h3 {
+    padding:0;
+    margin:0;
+}
+
+.discreet-inline {
+    padding:0;
+    margin:0;
+    display:inline;
+}
+
+.small-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.bbcode_columns {
+    width: 100%;
+}
+
+.bbcode_column {
+    padding: 10px;
+}
+
+/** Score table **/
+.team-table {
+    max-width: 450px;
+}
+
+.team-table .team-name {
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.challenge-table .team-name {
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.glyphicon {
+    opacity: 0.8;
+}
+
+pre {
+    font-size: 8pt;
+    overflow: auto;
+    line-height: 100%;
+}
+
+.inline-pre {
+    display: inline;
+    padding: 2px;
+}
+
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}

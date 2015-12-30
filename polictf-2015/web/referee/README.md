@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-john-the-referee/>
+* <http://www.pwntester.com/blog/2015/07/12/polictf-150/>

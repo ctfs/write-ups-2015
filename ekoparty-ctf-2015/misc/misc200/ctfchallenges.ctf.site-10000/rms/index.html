@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html class="full">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="description" content="EKOPARTY CTF 2015">
+        <meta name="author" content="NULL Life">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/static/css/ctf.css" type="text/css"/>
+        
+        <link rel="shortcut icon" href="/static/img/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        
+        <title>urler</title>
+    </head>
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">
+                <span> </span>
+                &nbsp;&nbsp; URLER
+              </a>
+            </div>
+            
+            
+          </div>
+        </div>
+        
+        <div class="landing-page container">
+        <br><br><br><br>
+<br>
+
+<h3>HOW To Internet</h3>
+
+<p>
+I never connect to web sites from my own machines. I usually fetch web pages from other sites by sending a link to my server that fetches them, much like wget, I use a tor node installed on a Amazon server.
+and then mails them back to me. Can you get the real IP behind the tor node?
+
+</p>
+Submit Links here (http:// only) <br><br> 
+<form role="form" method="post" autocomplete="off" action="/safebox/safe.php/sharelink">        
+URL: <input type=url name="url"> <br>  <br>
+ <div class="g-recaptcha" data-sitekey="6LeXbAsTAAAAAGxGr1KYPtg0gkEgDDgDZQOZx85G"></div>
+     <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en">
+     </script>
+
+<br><br>
+<button formaction="/rms/index.php/sharelink" type="submit" class="btn btn-success">Share</button>
+</form>
+ </div>
+
+
+<script src=/safebox/file.js></script>
+<footer class="footer">
+</footer>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+Challenge
+		Western front is the zone of fighting in western Europe in World War I, in which the German army engaged the armies to its west. A mathematician within Allies accidently intercepted an part of ciphertext: ;AGFAXXGFGDAAFDXDGAFGGDXXF:, which might contain military intelligence. In addition, before intercepting that ciphertext, a letter stolen by our spy also mentioned: ;A zebra could unlock this German twice.: 
+	Please help to find the information within the ciphertext (all in lowercase).
+Hint
+	Hint 1: Have you noticed the cyphertext is formed by limited alphabets?
+	Hint 2: Have you tried ADFGX cipher?
+	Hint 3: When employing ADFGX cipher, polybius Square formed by a 5*5 alphabets matrix is another popular technique you shall take a look, using ;zebra: again when forming the matrix. In this case, alphabet "I" and "J" is exchangeable.

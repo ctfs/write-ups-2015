@@ -1,0 +1,109 @@
+body {
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rebeccapurple;
+  color: white;
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 32pt;
+  text-shadow: 1px 1px 1px;
+}
+
+a {
+  color: white;
+}
+
+#teaser {
+  position: absolute; top: 150px;
+  font-size: large;
+  border: 1px solid white;
+  width: 30%;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#accountinfo {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+}
+
+#accountinfo {
+  display: inline;
+}
+#homeicon{height:20px; width:20px; display:block;} 
+#homeicon{border-radius:25px;background:#333;}
+#homeicon:before, #homeicon:after{content:''; height:3px; width:14px; display:block; background:#fff; border-radius:5px; position:absolute; top:8px; left:3px; transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);}
+#homeicon:after{transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);}
+#accountinfo > a > p {
+ display: inline;
+}
+/* notes container */
+.flex-container {
+  padding: 10px;
+  margin: 0;
+  display: -moz-box;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-image: url(/images/texture.jpg);
+  min-height: 400px;
+}
+
+.flex-item {
+  background:#ffc;
+  padding: 5px;
+  width: 200px;
+  margin: 10px;
+  color: blue;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  min-width: 18%;
+  max-width: 25%;
+  flex-grow: 1
+}
+button {
+  background-color: white;
+  border-radius: 7px;
+  padding: 1px;
+}
+.note-del {
+  background:#ffc;;
+  float: right;
+}
+.note-body {
+  word-break: break-all;
+}
+input {
+  background-color: white;
+  color: black;
+}
+.flex-item:nth-of-type(even) {
+  transform: rotate(2deg);
+}
+.flex-item:nth-of-type(3n) {
+  transform: rotate(-2deg);
+}
+.flex-item:nth-of-type(5n) {
+  transform: rotate(3deg);
+}
+#cookieerror {
+  color: orange;
+  font-weight: bold;
+  
+}
+@font-face {
+  font-family: 'Indie Flower';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Indie Flower'), local('IndieFlower'), url(indie_flower.ttf) format('truetype');
+}
+.hidden {
+  visibility: hidden;
+}

@@ -1,0 +1,42 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>LOGIN</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/signin.css" rel="stylesheet">
+</head>
+<script src="js/jquery-.min.js"></script>
+<body>
+
+<div class="container">
+
+    <form class="form-signin">
+        <h2 class="form-signin-heading">Please Sign In</h2>
+        <label for="inputEmail" class="sr-only">username</label>
+        <input type="text" id="inputName" class="form-control" placeholder="Username" required autofocus>
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <div class="checkbox">
+
+        </div>
+    </form>
+    <input style="max-width: 300px;margin: 0 auto;" type="submit"  class="btn btn-lg btn-primary btn-block" value="Sign in" onclick="inputSubmit()">
+
+</div>
+</body>
+
+</html>
+
+<script>
+    function inputSubmit()
+    {
+        var name = $("#inputName").val();
+        var pass = $("#inputPassword").val();
+        $.post("checkLogin.php",{username:name,password:pass},function (result) {
+            $(".checkbox").html(result);
+        });
+    }
+
+</script>

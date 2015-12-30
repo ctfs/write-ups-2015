@@ -16,8 +16,8 @@
 * [misc/secure-server](misc/secure-server)
 * [misc/tf2](misc/tf2)
 * [reverse/capture-the-bool](reverse/capture-the-bool)
-* [reverse/switchy](reverse/switchy)
 * [reverse/static](reverse/static)
+* [reverse/switchy](reverse/switchy)
 * [trivia/classic](trivia/classic)
 * [trivia/irc](trivia/irc)
 * [trivia/opcode](trivia/opcode)
@@ -30,5 +30,3 @@
 * [reverse/advanced-risque-machine](reverse/advanced-risque-machine)
 
 ## Missing write-ups
-
-* none

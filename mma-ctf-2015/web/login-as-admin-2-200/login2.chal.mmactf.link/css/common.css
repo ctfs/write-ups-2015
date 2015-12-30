@@ -1,0 +1,15 @@
+body {
+  background-color: #f9f9f9;
+  color: #555;
+}
+
+#main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 2em;
+}
+
+#layout {
+  position: relative;
+  padding-left: 0;
+}

@@ -5,21 +5,22 @@
 
 ## Completed write-ups
 
-* [heisenberg](misc/heisenberg)
-* [serial\_killer](forensic/serial_killer)
-* [substitution](crypto/substitution)
+* [crypto/substitution](crypto/substitution)
+* [forensic/serial_killer](forensic/serial_killer)
+* [forensic/strangelmage](forensic/strangelmage)
+* [misc/heisenberg](misc/heisenberg)
 
 ## External write-ups only
 
-* [strangeimage](forensic/strangelmage)
+* none yet
 
 ## Missing write-ups
 
-* [breakingame](reverse/breakingame)
-* [breakit](reverse/breakit)
-* [cheaters](forensic/cheaters)
-* [investigator](forensic/investigator)
-* [jaggipalace](reverse/jaggipalace)
-* [numbero](crypto/numbero)
-* [regcomp](reverse/regcomp)
-* [valentines\_day](forensic/valentines_day)
+* [crypto/numbero](crypto/numbero)
+* [forensic/cheaters](forensic/cheaters)
+* [forensic/investigator](forensic/investigator)
+* [forensic/valentines_day](forensic/valentines_day)
+* [reverse/breakingame](reverse/breakingame)
+* [reverse/breakit](reverse/breakit)
+* [reverse/jaggipalace](reverse/jaggipalace)
+* [reverse/regcomp](reverse/regcomp)

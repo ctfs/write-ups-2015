@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Grading Board</title>
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/cover.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
+</head>
+<body>
+<div class="site-wrapper">
+  <div class="site-wrapper-inner">
+    <div class="cover-container">
+
+      <div class="masthead clearfix">
+        <div class="inner">
+          <h3 class="masthead-brand">Computer Science</h3>
+          <nav>
+            <ul class="nav masthead-nav">
+                            <li class="active"><a href="/index.php?site=default">Home</a></li>
+                            <li ><a href="/index.php?site=panel">Panel</a></li>
+                          </ul>
+          </nav>
+        </div>
+        <div>
+	  <h1 style="font-size: 98px;">Grading Board</h1>
+        </div>
+      </div>
+
+      <div class="inner cover">
+<div>
+<h2>Course status: Full</h2>
+</div>
+<form style="padding: 0px 0px 40px 0px;" class="form-inline" method="POST" action="/">
+  <div class="form-group">
+    <input tupe="text" class="form-control" name="name" placeholder="Find a student" />
+    <input type="hidden" name="action" value="search" />
+  </div>
+  <button type="submit" class="btn btn-default">Search</button>
+</form>
+      </div>
+
+      <div class="mastfoot">
+        <div class="inner">
+          <p>Based on cover template by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

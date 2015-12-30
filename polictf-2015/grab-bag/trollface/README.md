@@ -6,8 +6,10 @@
 **Description:**
 
 > I think something is hidden here, something that may seem useless. ?
-> GPG key: yaxceburkaukvefinneuvUvjueknykfa
-> [http://download.polictf.it/trollface_17b30738bc1e243bd2b01c5e7e30bf0a.tar.gz.gpg](Download)
+
+>> GPG key: yaxceburkaukvefinneuvUvjueknykfa
+
+> [trollface](trollface_17b30738bc1e243bd2b01c5e7e30bf0a.tar.gz.gpg)
 
 ## Write-up
 
@@ -15,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.mheistermann.de/2015/07/12/polictf-2015-trollface-writeup/>

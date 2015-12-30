@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Prof. M. Eista Hax</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://bootswatch.com/cyborg/bootstrap.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style>
+	body {
+		height: 100%;
+		background-image: url("mm.png");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: right bottom;
+	}
+
+	.container {
+		padding-top: 20px;
+	}
+
+	.output {
+		white-space: pre;
+	}
+</style>
+</head>
+<body>
+  <div class="container">
+        <div class="row">
+          <div class="bs-component">
+            <div class="panel panel-default">
+              <div class="panel-heading">Output</div>
+              <div class="panel-body">
+<div class="output"></div>                 </div>
+               </div>
+             </div>
+           </div>
+           <div class="row">
+             <form method="post" enctype="multipart/form-data" class="form-horizontal">
+               <fieldset>
+                  <legend>Login</legend>
+                  <div class="form-group">
+                    <label for="inputEmail" class="col-lg-2 control-label">Email</label>
+                    <div class="col-lg-10">
+                      <input type="text" name="email" class="form-control" id="inputEmail" placeholder="Email">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+                    <div class="col-lg-10">
+                      <input type="password" name="password" class="form-control" id="inputPassword" placeholder="Password">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="col-lg-10 col-lg-offset-2">
+                      <button type="reset" class="btn btn-default">Cancel</button>
+                      <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                  </div>
+               </fieldset>
+             </form>
+           </div>
+           <div class="row">
+             <form method="post" enctype="multipart/form-data" class="form-horizontal">
+               <fieldset>
+                  <legend>Register</legend>
+                  <div class="form-group">
+                    <label for="inputFile" class="col-lg-2 control-label">Public Key (PGP)</label>
+                    <div class="col-lg-10">
+                      <input type="file" name="gpg_file" id="inputFile">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="col-lg-10 col-lg-offset-2">
+                      <button type="reset" class="btn btn-default">Cancel</button>
+                      <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                  </div>
+               </fieldset>
+             </form>
+           </div>
+  </div>
+</body>
+</html>

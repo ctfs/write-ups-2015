@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Vote now!</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="assets/css/soon.css" rel="stylesheet">
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+  </head>
+  <!-- START BODY -->
+  <body class="nomobile">
+
+    <!-- START HEADER -->
+    <section id="header">
+        <div class="container">
+            <header>
+                <!-- HEADLINE -->
+                <h1 data-animated="GoIn"><b>The Language</b> of the minute!</h1>
+            </header>
+            <!-- START TIMER -->
+            <div id="timer" data-animated="FadeIn">
+                <p id="message"></p>
+                <div class="col-lg-8 col-lg-offset-2 vote-container">
+                    <div class="wraper col-lg-3">
+                        <div class="timer_box">
+                            <h1 id="lyapas">0</h1>
+                            <p>LYaPAS</p>
+                        </div>
+                        <button id="lyapas-vote" class="btn btn-vote">Vote</button>
+                    </div>
+                    <div class="wraper col-lg-3">
+                        <div class="timer_box">
+                            <h1 id="go">0</h1>
+                            <p>Go</p>
+                        </div>
+                        <button id="go-vote" class="btn btn-vote">Vote</button>
+                    </div>
+                    <div class="wraper col-lg-3">
+                        <div class="timer_box">
+                            <h1 id="rust">0</h1>
+                            <p>Rust</p>
+                        </div>
+                        <button id="rust-vote" class="btn btn-vote">Vote</button>
+                    </div>
+                    <div class="wraper col-lg-3">
+                        <div class="timer_box">
+                            <h1 id="swift">0</h1>
+                            <p>Swift</p>
+                        </div>
+                        <button id="swift-vote" class="btn btn-vote">Vote</button>
+                    </div>
+                    <input style="display:none" id="vote-ssid" value=eMkGjvEo47qanZCt7aL2Owr5Y8flqqNF >
+                </div>
+            </div>
+            <!-- END TIMER -->
+            <div class="col-lg-4 col-lg-offset-4 mt centered">
+            	<h4 id="msg">LET ME KNOW WHEN YOU LAUNCH</h4>
+				<form class="form-inline" role="form">
+				  <button type="submit" class="btn btn-start" id="start">Start voting</button>
+				</form>            
+			</div>
+            
+        </div>
+        <!-- LAYER OVER THE SLIDER TO MAKE THE WHITE TEXTE READABLE -->
+        <div id="layer"></div>
+        <!-- END LAYER -->
+        <!-- START SLIDER -->
+        <div class="timer" style="visibility: hidden; width: 0%; overflow: hidden;"></div>
+        <!-- END SLIDER -->
+    </section>
+    <!-- END HEADER -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+    <script src="assets/js/soon/plugins.js"></script>
+    <script src="assets/js/soon/custom.js"></script>
+  </body>
+  <!-- END BODY -->
+</html>

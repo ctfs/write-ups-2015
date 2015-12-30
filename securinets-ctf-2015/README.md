@@ -6,19 +6,19 @@
 ## Completed write-ups
 
 * [crack/reverse](crack/reverse)
-* [web/cookies](web/cookies)
 * [forensics/document](forensics/document)
+* [forensics/forensics2](forensics/forensics2)
+* [stegano/basics](stegano/basics)
+* [stegano/broken](stegano/broken)
+* [stegano/google](stegano/google)
+* [web/cookies](web/cookies)
 
 ## External write-ups only
 
 * [crack/crack1](crack/crack1)
 * [crypto/matrix-everywhere](crypto/matrix-everywhere)
-* [forensics/forensics2](forensics/forensics2)
 * [logic/logic1](logic/logic1)
 * [programming/be-genious](programming/be-genious)
-* [stegano/basics](stegano/basics)
-* [stegano/broken](stegano/broken)
-* [stegano/google](stegano/google)
 
 ## Missing write-ups
 

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Equal and equal and equal?</title>
+        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+        <style type="text/css">
+            container {
+                background-color: #666;
+                width: 330px;
+                border: 1px solid black;
+                display: inline-block;
+            }
+            block {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                margin: 5px;
+                background: #ddd;
+                float: right;
+                text-align: center;
+                font-size: 40px;
+            }
+            .press {
+                background: #aaa;
+            }
+            .input {
+                width: 250px; 
+                height: 30px; 
+                border: 1px solid #999999; 
+                padding: 5px;
+                float: left;
+            }
+            .image {
+                padding-left: 10px;
+            }
+        </style>
+    </header>
+    <body>
+        <div>
+            <container id="kb">
+                <block>3</block>
+                <block>2</block>
+                <block>1</block>
+                <block>6</block>
+                <block>5</block>
+                <block>4</block>
+                <block>9</block>
+                <block>8</block>
+                <block>7</block>
+            </container>
+        </div>
+        <br>
+        <input type="password" class="input" id="password" name="password" onkeyup="press()" onkeypress="return event.keyCode != 13;" placeholder="Password">
+        <input type="image" class="image" src="lock.png" value="Go" onclick="check();">
+        <script type="text/javascript">
+            function check() {
+                var data = new FormData();
+                data.append('password', $('#password').val());
+
+                $.ajax({
+                    url: 'index.php',
+                    type: 'POST',
+                    data: data,
+                    contentType: false,
+                    processData: false,
+                    success: function (data) {
+                        if (data == 'wrong') {
+                            play_beep("worse.wav");
+                        } else {
+                            play_beep("yahoo.wav");
+                        }
+                    }
+                });
+            }
+            function getRandomInt(min, max) {
+              return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+            function press() {
+                var key = document.getElementById('kb').getElementsByTagName("*");
+                for (var i = 0; i < 9; i++) {
+                    key[i].className = "";
+                };
+                var i = getRandomInt(0, 8);
+                key[i].className = "press";
+                play_beep("pong.wav");
+            }
+            function play_beep(wav) {
+              var snd = new Audio(wav);
+              snd.play();
+              return false;
+            }
+        </script>
+    </body>
+</html>

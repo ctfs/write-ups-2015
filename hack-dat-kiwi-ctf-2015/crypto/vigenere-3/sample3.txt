@@ -1,0 +1,1097 @@
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 0
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                        T R E A S U R E   H U N T I N G
+ ___________________________________[vb530]___________________________________
+|=============================================================================|
+| PARTY:     Crono 29, Ayla 28, Marle 27                                      |
+|            Frog 27, Robo 26, Lucca 26                                       |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Speed Capsule ------- x2    [_] Hi-Ether ------------- x2    |
+|            [_] Magic Capsule ------- x1    [_] Elixir --------------- x1    |
+|_____________________________________________________________________________|
+|=============================================================================|
+| EQUIPMENT: [_] Magic Ring -------- (AC)    [_] Power Ring --------- (AC)    |
+|            [_] Barrier Ring ------ (AC)    [_] Speed Ring --------- (AC)    |
+|            [_] Blue Plate -------- (AB)    [_] Blue Vest ---------- (AB)    |
+|            [_] Black Plate ------- (AB)    [_] Black Vest --------- (AB)    |
+|            [_] Red Plate --------- (AB)    [_] Red Vest ----------- (AB)    |
+|            [_] White Plate ------- (AB)    [_] White Vest --------- (AB)    |
+|            [_] Swallow ----------- (WP) OR [_] Guardian Helm ------ (AH)    |
+|            [_] Alluring Top ------ (AC)    [_] Workman's Wallet --- (AC)    |
+|            [_] Golden Stud ------- (AC)    [_] Luminous Robe ------ (AB)    |
+|            [_] Acuity Ring ------- (AC)    [_] Golden Earring ----- (AC)    |
+|_____________________________________________________________________________|
+'============================================================================='
+
+ Ok, time to go treasure hunting. There's something that I HAVE to point out
+first though, and that is the fact that we can get UPGRADED TREASURE if we're
+careful enough. There are numerous black treasure chests in 600 AD that are
+also in 1000 AD, and if we refuse to take the treasure from 600 AD, the
+treasure in 1000 AD will be upgraded! Cool, right!?
+
+ Ok, go back to the end of time and head to Truce Canyon, 600 AD. Exit the
+canyon and head to Truce Inn. Go upstairs and you'll find a black box here.
+This box will react to the pendant and ask if you wish to remove the item.
+Select !_NO_! here. Now head to Guardia Forest. In the NE corner is a black
+box that you can open. This one we CANNOT upgrade, so just open if for a
+'Speed Capsule'. Nice. Head up to the castle now and head up the west tower.
+The third room up has a black box, remember? Inspect it and you'll once again
+be asked if you want to remove the item. Again, say !_NO_!. Now head south and
+into the Magic Cave. A little ways into the cave and you'll have another chest
+to open. This one isn't upgradeable, so open it to recieve a 'Magic Ring'.
+After that, head to the Elder's house in Porre. There are TWO chests here that
+you need to refuse to take items from.
+
+ Now we need to head to 1000AD to collect all our loot. Be sure to put Marle
+in your party first. Head back to the end of time and enter the portal for
+Guardia Forest 1000AD. The black chest here can be opened for a 'Power Ring'.
+You'll need to head back to the end of time as the path to the left is blocked
+off. Head back to the end of time and go to Leene Square 1000AD now. Head over
+to the Inn and go upstairs. The chest here will straight out tell you that it
+has been upgraded, giving you a 'Blue Plate'. Now head to the castle and up
+the left tower. The black chest here will have a 'Red Plate' in it. Next walk
+down to Porre and enter the Mayor's Manor. Go upstairs and raid the two black
+boxes here for a 'Black Plate' and a 'White Plate'. Excellent.
+
+ Next, head to Lucca's House, but jump into the Coastal Vortex NEAR her house.
+You'll end up in Heckran's Cave. Head THROUGH it (not up the stairs behind
+you) and you'll eventually come across another black chest. This one is NOT
+upgradeable in the past, so open it for a 'Barrier Ring' and a 'Speed Ring'.
+Two for the price of one! Nice. Now head back and go UP the stairs where you
+started from. You'll be near Medina now. Go up and enter the Forest Ruins.
+Here Crono will use the pendant and reveal a Nu with TWO treasure chests. The
+Nu will offer you ONE of them. The one on the RIGHT is a weapon: the SWALLOW
+(for Crono). The one on the LEFT is a helm, the GUARDIAN HELM. I'd suggest
+taking the Swallow, as we can actually obtain a Guradian Helm later, but the
+Swallow is the only one you can get.
+
+ Now we can go BACK to 600 AD. We can open all of the chests back in time for
+the treasures they have. Go to Truce Inn for a 'Blue Vest', then head to the
+castle's left tower for a 'Red Vest'. Now head over to the Elder's House to
+claim the two black boxes there for a 'White Vest' and a 'Black Vest'.
+
+ Ok, we're almost done. We gotta go get some treasure from the future now.
+Go back to the end of time and enter the Bangor Dome 2300 AD portal. To the
+immediate north is a locked door. Open it and head inside to find an 'Alluring
+Top', a 'Hi-Ether', and a 'Workman's Wallet'. The Alluring Top here is an
+interesting item: it increases the success rate of Ayla's Charm tech! Handy
+indeed. The Workman's Wallet is interesting as well as it turns EXP into GOLD.
+Next head outside and go south to the Trann Dome. There's a sealed door in
+here as well. Open it and head inside where you'll find two chests and a blue
+sparkle on the ground. Get everything here for a 'Magic Capsule', a 'Golden
+Stud' (handy for a magic user), and a 'Hi-Ether'.
+
+ Next head over to Arris Dome. This door is a little harder to get to. Head
+down past the residents into the lower levels of the doom and go to the BIG
+map. In the NE corner of this area is the sealed door. Make your way there and
+enter. There are four chests here with another blue sparkle on the ground.
+Gather them all up for a 'Strength Capsule', a 'Luminous Robe', an 'Elixir',
+an 'Acuity Ring', and a 'Golden Earring. Quite a haul.
+
+ Ok, with all of that out of the way you should have a lot of new items to
+play with. To continue on with the game, head to the next section.
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 1
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                       O B T A I N I N G   F R E E D O M
+ ___________________________________[vb531]___________________________________
+|=============================================================================|
+| PARTY:     Crono 29, Robo 26, Ayla 28                                       |
+|            Frog 27, Marle 28, Lucca 26                                      |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Magic Capsule ------- x1                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| EQUIPMENT: [_] Taban's Suit ------ (AB)                                     |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"Take hold the reins of time, and let all the people of this planet's past and
+future join as one! Then-only then-you just may be able to stop Lavos."
+                                                   -- Belthasar, Guru of Reason
+
+
+ From here, you remember where the Keeper's Dome is? Well, go through the
+Abandoned Sewers E of Arris Dome [LINK:vb511 if you haven't done it yet]. On
+the other side, simply head into Keeper's Dome. Once inside, speak to the
+sleeping Nu and he'll speak some things that won't even make sense. Now go N
+and you'll find another of those black sealed gates. Use the Pendant and go
+through it.
+
+ On the other side, as you move into the room, several blue shiny objects will
+appear on the ground, just like all those Capsules you've found. As you touch
+one, you'll receive info about Belthasar, one of the Gurus of the Kingdom of
+Zeal and about Lavos. After the last piece of info, go inside the black door
+and you'll find a machine.
+
+ Go to the N side of it and a little chat starts. Now try returning to the
+previous room and the Nu will stop you. It tells you how to use the time
+machine, which is called Epoch. When it tells you to hop aboard, do so using
+the seats the Nu was dragging and when you're told to either Take or Get off,
+get off and return to the previous room. In here, you'll see a shining 'Magic
+Capsule'.
+
+ Now take off the Epoch and return to 1000AD. Once we get here, go to Lucca's
+house and speak to Taban to receive 'Taban's Suit'. Now return to the
+Antiquity. Once here, we're just S of the Small Cave, where the time gate is.
+From here, go to the NW corner of the continent and enter...
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 2
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                              T E R R A   C A V E
+ ___________________________________[vb532]___________________________________
+|=============================================================================|
+| PARTY:     Crono 29, Ayla 28, Marle 28                                      |
+|            Frog 27, Robo 26, Lucca 27                                       |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Strength Capsule ---- x1                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #094 Mudbeast              (830 HP)                          |
+|            [_] #185 BOSS: Mud Imp       (1,200 HP)                          |
+|            [_] #186   |-- Blue Mudbeast (5,000 HP)                          |
+|            [_] #187   '-- Red Mudbeast  (5,000 HP)                          |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"The Guru of Life said that young Lord Janus possessed power within him
+exceeding even that of Lady Schala." -- Algetty Elder
+
+
+ As you enter, go N, up the ladder and left to the next area. In this area,
+enter the first door to find the shop. I recommend upgrading all your armor and
+weapons. Use those Colored Plates you got so you can save up some money. Return
+to the previous room, go down 3 sets of ladders and enter the room. You can
+rest here for free, so take advantage of that, then return to the previous
+room, go to the lowest floor, save your game and go right to the next area.
+
+ In this area, check the SE corner to find a shiny 'Strength Capsule'. As you
+go N, 2 new enemies appear, the Mudbeasts. These guys get stronger as you hit
+them. Kill them and proceed N, following the left path. 2 more Mudbeasts are up
+here, so you know the drill. As you go N up the stairs, a little scene
+triggers, as well as a...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #185 - Mud Imp              |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 1,200 | 10 |  354  | 1,000 | Mudbeast Den     |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Pebble Punt                                                   |
+|           | - Sleep Bubble (inflicts Sleep on 1 character + low dmg.)       |
+|           | - Heal (heals all enemies)                                      |
+|    Combos | - Left Charge (medium dmg. against 1 character)                 |
+|           | - Right Charge (medium dmg. against 1 character)                |
+|  Counters | - Cross Charge                                                  |
+|           | - Earthquake                                                    |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Speed Capsule                                                   |
+|-----------------------------.-------.----.-------.-------.------------------|
+| #186 - Blue Mudbeast        |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 5,000 |  8 |  300  |  800  | Mudbeast Den     |
+|      Weak | Fire            '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: Water                    |
+|     Techs | - Charge (low-medium dmg. against 1 character)                  |
+|    Combos | - Left Charge (medium dmg. against 1 character)                 |
+|  Counters | - Cross Charge                                                  |
+|           | - Earthquake                                                    |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Mermaid Helm                                                    |
+|-----------------------------.-------.----.-------.-------.------------------|
+| #187 - Red Mudbeast         |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 5,000 |  8 |  300  |  800  | Mudbeast Den     |
+|      Weak | Water           '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: Fire                     |
+|     Techs | - Charge (low-medium dmg. against 1 character)                  |
+|    Combos | - Right Charge (medium dmg. against 1 character)                |
+|  Counters | - Cross Charge                                                  |
+|           | - Earthquake                                                    |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Elixir                                                          |
+|  Party lv | Crono 29, Ayla 28, Marle 29                                     |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: This fight is... annoying. You have 2 colored beasts and an   |
+ |  Imp. You might think the Imp is just a regular enemy, but you're wrong.  |
+ |  It's nearly impossible to kill it while the colored Mudbeasts are alive  |
+ |  so we need to take care of 'em both, but just like always, let me list   |
+ |  all the attacks these monsters have.                                     |
+ |                                                                           |
+ |   MUD IMP: Sleep Bubble deals around 60 dmg. to 1 character, plus puts    |
+ |  him/her to sleep. Use a Panacea to get rid of it. Pebble Punt deals      |
+ |  around 50 dmg. to 1 character too.                                       |
+ |                                                                           |
+ |   MUDBEASTS: Charge deals around 90 dmg. to 1 character.                  |
+ |                                                                           |
+ |   As for their combos, Left and Right Charge, the Mud Imp rides either    |
+ |  Mudbeast and charges at you, dealing around 110 dmg. to 1 character.     |
+ |  Now too bad. Their counters; Cross Charge is like Crono and Frog's       |
+ |  X-strike, which deals around 130 dmg. to one character.                  |
+ |                                                                           |
+ |   So, with all this, you can see that their attacks don't deal that       |
+ |  great of dmg., but the problem is that they are fast. Really. So fast    |
+ |  its annoying. I recommend you, if you have the tech, to steal Blue       |
+ |  Mudbeast's Mermaid Helm. Nice Head Armor there. So, if you brought a     |
+ |  party of Crono, Lucca and Marle, simply first have Crono/Lucca use Fire  |
+ |  Sword on the Blue Mudbeast over and over until its dead, while you heal  |
+ |  constantly with Marle.                                                   |
+ |                                                                           |
+ |   Once its dead, use Crono/Marle's Ice Sword on the Red Mudbeast. Once 1  |
+ |  is gone, it becomes really easy. Really, there's nothing to worry about. |
+ |  Once the Beasts are gone, just attack the Imp a couple of times until it |
+ |  dies. That's it for this fight. You can also make Marle use Haste on all |
+ |  characters and Lucca use Protect. This will make the fight impossible to |
+ |  lose.                                                                    |
+ |                                                                           |
+ |   If you decided not to bring Lucca, once the Red Mudbeast is gone, just  |
+ |  just Crono/Ayla's Falcon Strike to take care of the Blue Beast.          |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, go up the chain from where the Mud Imp came down from and
+you'll now be at...
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 3
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                         M O U N T A I N   O F   W O E
+ ___________________________________[vb501]___________________________________
+|=============================================================================|
+| PARTY:     Crono 29, Ayla 28, Marle 28                                      |
+|            Frog 27, Robo 26, Lucca 27                                       |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Shield Sphere ------- x2    [_] Barrier Sphere ------- x3    |
+|            [_] Lapis --------------- x2    [_] Hi-Ether ------------- x2    |
+|            [_] Shelter ------------- x1    [_] Magic Capsule -------- x1    |
+|_____________________________________________________________________________|
+|=============================================================================|
+| EQUIPMENT: [_] Platinum Helm ----- (AH)    [_] Platinum Vest ------ (AB)    |
+|            [_] Time Hat ---------- (AH)                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| KEY ITEMS: [_] Ruby Knife                                                   |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #095 Rubble               (515 HP)                           |
+|            [_] #096 Bomber Bird          (250 HP)                           |
+|            [_] #097 Stone Imp            (300 HP)                           |
+|            [_] #098 Gargoyle             (260 HP)                           |
+|            [_] #099 Death Lily           (250 HP)                           |
+|            [_] #188 BOSS: Giga Gaia    (9,500 HP)                           |
+|            [_] #189   |-- Defense Arm  (2,000 HP)                           |
+|            [_] #190   '-- Attack Arm   (2,000 HP)                           |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"The Guru of Life is trapped in there." -- Marle
+
+
+ Ok, from where we start, you'll see an enemy right in front of you. That's
+called a Rubble. These enemies don't attack, but use Omnilock, which locks down
+your items and techs, so you have to kill it with physical attacks only. It
+gives you 100 TP and 1,000 XP if you kill it. Here's the catch though: its
+evade is so high that you'll miss most of the time. This is a great place to
+learn some techs for those party members that you don't use that much.
+
+ Anyway, kill it and go N. You'll fight a new enemy, the Bomber Bird. Nothing
+to worry about. Go to the N most part and go W across the metal chain. Kill the
+Rubble here and go S and left to find a lone chest with 'Platinum Helm'. Return
+to the entrance and go W across the chain. Go N up here until you reach the
+next area.
+
+ In this new area, go W and kill the Rubble. Now go E from the entrance, kill
+the new enemy, the Gargoyle. Go N, save your game, use a Shelter if you need to
+and continue on N. N of the Save point you'll find a fork. Go E across the
+chain, kill the Rubble here, and open the chests to find 'Platinum Vest' and
+'Shield Sphere'.
+
+ Return and go W this time. Go all the way W (along the path, you'll see a
+little sloppy path going up on the S side of the screen) and try to get the
+chest only to be ambushed. Kill'em all and nab that 'Barrier Sphere'. Now go up
+that sloppy path I told you, go around it and when you go up a second sloppy
+path, before going E like you're supposed to, take a look at the N side to find
+a chest with 'Lapis'.
+
+ Now cross the chain on the right and follow the path while killing all the
+enemies until you go down a chain. Once you cross this chain, go right to find
+a chest with 'Barrier Sphere'. Now go E across the chain to the next area.
+Here, go N to find a chest with 'Lapis'. You'll also encounter the most
+annoying enemy so far, the Death Lily. These can confuse you with their Miasma
+attack, which is so not cool.
+
+ Kill 'em using techs and after the fight, go E across the chain and in this
+little island, go N and S to find 'Barrier Sphere' and 'Hi-Ether' in 2 chests.
+Return to where the Death Lilys were and go N across the chain. Keep on going
+N, kill the Rubble when you get to it and go up the sloppy path on the right,
+just a little S of the Rubble.
+
+ Go S and you'll find some more Death Lilys. Mmm... anyway, you'll find 2
+chests behind 'em with 'Shelter' and 'Shield Sphere'. Now go N and go E across
+the chain. You'll get into another fight, so win and use the Save point to the
+N and Shelter yourself, then go N to the next area. In here, go up the path and
+open the chest to find a 'Time Hat' then go E. On the other side of the chain,
+open the chest to find 'Hi-Ether', nab the 'Magic Capsule' on the SE corner and
+go N across the rather large chain.
+
+ On this next screen, heal up your party and check out the large chunk of ice
+to trigger a little scene and a...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #188 - Giga Gaia            |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 9,500 | 30 | 3,000 | 3,000 | Mountain of Woe  |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Arm Restoration (restores both arms to full health)           |
+|  Counters | ---                                                             |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Speed Capsule                                                   |
+|-----------------------------.-------.----.-------.-------.------------------|
+| #189 - Defense Arm          |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 2,000 | -- |  ---  |  ---  | Mountain of Woe  |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Water Surge (hits one character with low water dmg.)          |
+|           | - Restore Head (restores 250HP to the head)                     |
+|    Combos | - Doublehand Blaster (mid fire dmg. to all characters)          |
+|           | - Dark Plasma (low shadow dmg. to all characters)               |
+|  Counters | ---                                                             |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | ---                                                             |
+|-----------------------------.-------.----.-------.-------.------------------|
+| #190 - Attack Arm           |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 2,000 | -- |  ---  |  ---  | Mountain of Woe  |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Arm Attack (halves HP of one character)                       |
+|           | - Gaia Magnade (low fire dmg. to all characters)                |
+|    Combos | - Doublehand Blaster (mid fire dmg. to all characters)          |
+|           | - Dark Plasma (low shadow dmg. to all characters)               |
+|  Counters | ---                                                             |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | ---                                                             |
+|  Party lv | Crono 32, Ayla 31, Marle 31                                     |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Ok, Giga Gaia isn't hard at all. You can defeat it without    |
+ |  any trouble. Let me start out with the attacks:                          |
+ |                                                                           |
+ | GIGA GAIA: His Arm Restoration just "revives" both arms. Pffft.           |
+ |                                                                           |
+ | DEFENSE ARM: Restore Head heals 250 HP to the head, which is not much.    |
+ |              Water Surge hits one character for 50-100 water dmg.         |
+ |                                                                           |
+ | ATTACK ARM: Arm Attack halves any characters HP.                          |
+ |             Gaia Mangade hits all characters for 50-100 fire dmg.         |
+ |                                                                           |
+ | COMBOS: Dark Plasma deals around 100 shadow dmg. to all characters.       |
+ |         Doublehand Blaster deals 100-200 fire dmg. to all characters.     |
+ |                                                                           |
+ |   Right off the bat, the battle starts with Giga Gaia using both combos,  |
+ |  Doublehand Blaster and Dark Plasma. This should deal around 350+ dmg.    |
+ |  to all 3 characters. Man oh man. If you got Marle in the team, use an    |
+ |  Aura Whirl or 2 and you're good to go. After this first round, start     |
+ |  using Crono and Ayla's Falcon Strike on both arms.                       |
+ |                                                                           |
+ |   This deals over 1,000 dmg. to both hands, so use 2 of these and the     |
+ |  arms are gone for a little bit. Now we can focus on the head. I really   |
+ |  like to use Iceberg Toss (Marle and Ayla). This deals around 1,500 dmg.  |
+ |  to the head alone, which is totally awesome. You can probably knock 2 of |
+ |  these. After the Arm Restoration, they have less dmg., so they'll go     |
+ |  down with only 1 Falcon Strike.                                          |
+ |                                                                           |
+ |   Keep on using this tactic. If it starts to get annoying those combos,   |
+ |  have Marle heal all characters, use Haste on 'em all and take it down    |
+ |  very fast.                                                               |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, you'll see who the Guru of Life is... and the Mountain of Woe
+will float into nothingness. We'll now be back at the Terra Cave. Schala and
+Janus make their appearance here once again. Love their theme. After the scene
+and we regain control, speak to Melchior and CT's awesome theme will start.
+You'll also obtain the 'Ruby Knife'.
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 4
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                             Z E A L   P A L A C E
+ ___________________________________[vb534]___________________________________
+|=============================================================================|
+| PARTY:     Crono 32, Ayla 31, Marle 31                                      |
+|            Frog 31, Robo 30, Lucca 29                                       |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #191 BOSS: Dalton    (3,500 HP)                              |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"Nooooo! I can't be beaten now! Not with eternal life just within my grasp!"
+                                                                      -- Dalton
+
+
+ Exit Terra Cave and head over to Kajar. In here, we can now buy weapons and
+armor from the Nu in the center of the main room. When you speak to him, say
+that the pendant you have isn't Schalas. Now, buy a Heavy Hand for Robo, a
+Smiter's Blade for Frog, a Platinum Helm for whoever needs it and a Platinum
+Vest to whoever needs it (remember that it's better to use those colored plates
+we got instead of these Platinum Vests.)
+
+ Now, also restock your item supply, nab some Shelters, leave Kajar and head
+over to the Zeal Palace. Once in here, head directly N into the next room. Save
+your game, use a Shelter if needed and go N to the next room to trigger a scene
+and a fight...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #191 - Dalton               |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 9,500 | 30 | 1,000 | 2,500 | Zeal Palace      |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Iron Sphere (halves HP of one character)                      |
+|  Counters | - Burrrp! (medium dmg. to all characters)                       |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Ambrosia                                                        |
+|  Party lv | Crono 32, Ayla 31, Marle 31                                     |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Ok, so let me point out his only attack, Iron Sphere. You     |
+ |  remember what this does? Yep, it halves the character's HP that's hit    |
+ |  with it. Nothing to worry about. I recommend you attacking Dalton with   |
+ |  Crono's Frenzy and Ayla's strongest tech while Marle heals whoever is    |
+ |  hit by the Iron Sphere. Why is this you ask?                             |
+ |                                                                           |
+ |   Well, it's impossible to die from the Iron Sphere attack because if     |
+ |  you reach 1 HP, it will deal 0 dmg. What is going to "probably" kill     |
+ |  you is the Burrrp! counter, which he does only when you defeat him. So   |
+ |  make sure you keep your HP above 150 and you're good to go.              |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, Dalton flees one more time and leaves behind what looks like
+a Gate. Use it to get to the newly place...
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 5
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                            O C E A N   P A L A C E
+ ___________________________________[vb535]___________________________________
+|=============================================================================|
+| PARTY:     Crono 33, Ayla 31, Marle 31                                      |
+|            Frog 31, Robo 30, Lucca 30                                       |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Magic Capsule ------- x1    [_] Elixir --------------- x1    |
+|_____________________________________________________________________________|
+|=============================================================================|
+| EQUIPMENT: [_] Aeonian Helm ------ (AH)    [_] Aeonian Suit ------- (AB)    |
+|            [_] Empyrean Blade ---- (WP)    [_] Rune Blade --------- (WP)    |
+|            [_] Shockwave --------- (WP)    [_] Sonic Bow ---------- (WP)    |
+|            [_] Kaiser Arm -------- (WP)    [_] Demonslayer -------- (WP)    |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #100 Djinn                   (450 HP)                        |
+|            [_] #101 Ghul                    (450 HP)                        |
+|            [_] #102 Zealot Mage             (480 HP)                        |
+|            [_] #103 Scouter                 (300 HP)[Weak: Light]           |
+|            [_] #104 Red Scouter             (300 HP)[Weak: Shadow, Fire]    |
+|            [_] #105 Blue Scouter            (300 HP)[Weak: Water]           |
+|            [_] #106 Monk                    (666 HP)                        |
+|            [_] #107 Warrior                 (666 HP)                        |
+|            [_] #184 BOSS: Golem Sisters   (7,000 HP)                        |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"Ungh... I won't... I won't be beaten! I endured the darkness alone... for the
+ sole purpose of defeating you!" -- Magus
+
+
+ Once down here, save your game and speak to Mune (hi Greg! =D). He disappears
+and a scene with Schala and Queen Zeal triggers. Now go S into the next room
+and in this room note that there are 8 doors total. There are also 2 chests
+near the center of the room which contain 'Rune Blade' and 'Aeonian Suit'. I
+won't give you directions on how to get to the doors since it's pretty easy,
+but let me tell you that the NE and E doors are connected, as well as the NW
+and W doors.
+
+ First enter the NE door and step on the blue switch inside. This will trigger
+a battle with a Djinn and a Ghul. Attack and defeat the Ghul first, since it
+protects the Djinn against dmg. Annoying I know. Now exit to the SE and fight
+the Red Scouters and Zealot Mage. Now open the chest to find 'Aeonian Helm'.
+Now leave the room to the W to return to the main room.
+
+ Now enter the NW room, step on the blue switch and fight another Djinn/Ghul
+duo. Go S, kill the Zealot Mage and Blue Scouters and open the chest to find
+'Empyrean Blade'. Go E to return to the main room, then enter the SW room. Open
+the chest in here to find 'Shockwave'. Now go S, and as you cross the door, go
+W across the ledge on the outer side of the fire pit all around and enter the
+little hidden room to find a chest with 'Demonslayer' (you have to press
+against the SE wall!). Now return to the entrance, go S, kill the enemies and
+grab 'Sonic Bow' from the S chest.
+
+ Now go E from here across the bridge and step on the blue switch. Go E and
+grab 'Kaiser Arm' from the N chest. Return to the main room and follow the S
+door to the next area. A new enemy appears here, the Monk. Not hard at all...
+alone...
+
+   <vin> What could that mean? You'll see when you encounter 2 of 'em.
+
+ Now go W down the stairs (don't even bother going S) and at the bottom, you'll
+have to fight some Monks and some Zealot Mages. The Monk's Combo Counter is
+annoying as all f***, so you'll have to deal with it. Now go S to find some
+more stairs, with some Monks going up and down. Depending on how many of 'em
+you hit is the number of 'em you'll fight. Just use Techs that hit all
+characters, like Luminaire, Tail Spin and Ice/Fire II.
+
+ Continue on going down the stairs and down here you'll find some Monks running
+around. If you touch one, you'll have to fight them. Also, the upper statue
+spits fire, dealing 20 dmg. per hit I believe. Continue on down the stairs and
+now you'll fight some more Monks. Now go S, speak to Masa (hey, that's me! =D).
+After the little fight, go S to the next area, fight the Djinn/Ghul duo and
+save your game.
+
+ Heal up and go S to reach the elevator. In here, you'll get in some fights
+with some Zealot Mages and some Scouters. Once it's over, examine the left
+shinny orb to make the elevator go down. You'll be engaged in a series of
+battles, so make sure to stay healed at the end of the battles. When you reach
+the bottom, go N into the door to the next room...
+
+   <vin> When you're at the bottom, you can examine the right shinny orb to
+   go back up to the top (enter the N room and immediately go back to the
+   elevator). If you do so, once at the top check the left side to find a
+   shinny 'Magic Capsule'. The downfall is that you'll have to run down the
+   stairs fighting all those Monk battles at the stairs and all the enemies
+   you encountered on the elevator. The choice is yours.
+
+ Either way, when you're in the room with fire/lava, check both the right and
+left rooms and fight the enemies in here. Examine the wall behind 'em and then
+stand on the blue switch in the main room. A path opens in middle of the fire,
+so cross it, pick up the 'Elixir" in the chest, Shelter yourself, save your
+game, prepare yourself and enter the next room to find Dalton. After a scene,
+you'll trigger a...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #184 - Golem Sisters        |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 7,000 | 35 | 1,000 | 2,000 | Ocean Palace     |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Iron Sphere (halves HP of one character)                      |
+|           | - Electrify (medium-high lightning dmg. to all)                 |
+|           | - Dark Ray (medium-high shadow dmg. to all)                     |
+|           | - Ice (medium ice dmg. to one character)                        |
+|           | - Water II (medium-high water dmg. to all)                      |
+|           | - Flame (medium fire dmg. to one character)                     |
+|           | - Fire II (medium-high fire dmg. to all)                        |
+|           | - Energy Spheres (medium-high dmg. to one character)            |
+|  Counters | - Bluuurp! (medium dmg. to all)                                 |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Magic Capsule                                                   |
+|  Party lv | Crono 36, Ayla 34, Lucca 33                                     |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Ok, given that the Golem itself is hard, tossing 2 at you in  |
+ |  the same battle is insane. Luckily there's an easy way to get around     |
+ |  this. This is bringing a party of Crono, Ayla and Lucca. I'm only        |
+ |  bringing Ayla to steal those Magic Capsules. Oh boy.                     |
+ |                                                                           |
+ |   Just like Bkstunt explained in the first battle against one of these,   |
+ |  the Golems only use those Techs if you use certain Tech on them, think   |
+ |  of them as counter attacks. Anyway, it's really easy to get around this  |
+ |  fight and here's how to (seriously thanks to Seferaga for this strat):   |
+ |                                                                           |
+ |   You need a certain piece of Body Equipment to make this work, so equip  |
+ |  these:                                                                   |
+ |                                                                           |
+ |   CRONO: Red Plate                                                        |
+ |    AYLA: Red Vest/Ruby Vest                                               |
+ |   LUCCA: Taban's Vest                                                     |
+ |                                                                           |
+ |   Why equip these? Well, at the start of the battle, the Golem Sisters    |
+ |  will attack with Iron Sphere. Oh boy. Quickly after this, use Lucca's    |
+ |  Hypnowave to put 'em both so sleep. Nice, now we hae all the time in the |
+ |  world. Completely heal up and start spamming Fire Sword/II on 1 Golem.   |
+ |  This will make it counter with Fire II or Flame.                         |
+ |                                                                           |
+ |   Since your characters have protective gear against Fire, it'll be       |
+ |  dealing around 60 dmg. to 'em, while the one with the Red Plate will be  |
+ |  healed. Pretty easy. If you get seriously dmgd., use Hypnowave once      |
+ |  again, heal up and keep on spamming Fire Sword/II. That's it. Pretty     |
+ |  simple, huh? Yeah, I know. The first time I fought this battle in the    |
+ |  SNES version, it was a nightmare.                                        |
+ |                                                                           |
+ |   Oh, and remember that the Golem counters with Bluuurp! when they die,   |
+ |  so make sure to keep your HP up above 100.                               |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, the scene with Dalton continues. Continue forward, speak with
+the funny Nu and continue forward to find Schala, Zeal and the Mammon Machine.
+Then you'll be in a fight with...
+
+ Lavos, yeah, ain't even putting a strategy table, since you'll be dead in the
+first 3 seconds, haha. Yeah, the scene continues and... oh man, something
+really sad happens.
+
+   <vin> Can't spoil it, sorry. ='(
+
+   <bk> What a defining moment!
+
+ After the really long scene, you'll be at a hut. Only the 2 party members that
+were with you. Where's Crono? Now this was unexpected. Now make up your party
+and leave the hut. At the World Map, enter the upper hut and you'll find a Nu
+here, which sells whatever washes ashore. He only have items available at the
+moment, so restock if needed.
+
+ Now return to the World Map and enter the Village Commons, just in the woods
+next to the huts. Go to the N most side and speak to the Elder. Watch the scene
+and after some more unexpected events, you'll be at...
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 6
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                               B L A C K B I R D
+ ___________________________________[vb536]___________________________________
+|=============================================================================|
+| PARTY:     Ayla 35, Frog 34, Robo 33                                        |
+|            Marle 35, Lucca 33                                               |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Magic Capsule ------- x1                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #108 Daltonite               (150 HP)                        |
+|            [_] #109 Byte                    (192 HP)                        |
+|            [_] #110 Turret                  (700 HP)                        |
+|            [_] #193 BOSS: Golem Overlord (15,000 HP)                        |
+|            [_] #194 BOSS: King Dalton     (2,800 HP)                        |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"Find Crono! Crono alive! Ayla know!" -- Ayla
+
+
+ When you regain control aboard the Blackbird, go up the ladder and you'll be
+outside. Wow, we're so high up. Return inside and now check the NW corner,
+right next to the ladder to find a vent, just where one of your characters
+looked at. Here's a little ASCII that I drew of the upper area, just so you
+don't get lost at all.
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+              . .______________________    _
+              |_______   ____________  |  |F|
+                      | |            | |__| |
+ __________.C.        | |            |______|
+|  ________  |________| |_____. ._
+| |        |__________   _________|
+| |                   | |
+| |                   | |                         When I indicate in the
+| |             ______| |___________.E.          paragraphs below a capital
+| |            |  ____   _____________|          letter, like "B" ie, it means
+| |            | |    | |                        go to those stairs where the
+| |            | |    | |                        letter is.
+| |___. .      | |____| |____________________
+|_______|      |___________________________  |
+                                           | |
+                                           | |
+           _____________________           | |
+          |  _________   _______           | |
+          | |         | |                  | |
+          | |         | |                  | |
+       ___| |         | |____________.A.___| |
+      |_____|         |  ____________________|
+                      | |
+                      | |
+        .B.___________| |__________. .
+        |_____________   ____________|
+                      | |
+                      | |
+   .D.________________| |_______________
+   |__________________   _______________|
+                      | |
+                      | |
+                      |_|
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Ok, so this is the ASCII. When you enter the ducts, you'll be in "A". After
+the little scene (note that you can press the a button to see down below), go
+to "B" and you'll have to fight some Daltonites, which are easy. Once you kill
+them, open the chest to find equipment for some of your characters. Nice.
+Return up to the ducts and now go to point "C". Open the chest to find yet more
+equipment for your characters...
+
+   <vin> I dunno if the equipment you get for your characters is random (and
+   with random I mean random character). I'd appreciate it if someone could
+   let me know.
+
+ Kill the Daltonite if you want, return to the ducts and go to "D". You'll be
+in the hallway. Go right a little bit, kill the Byte patrolling and go N across
+the belt. On the other side, go left and enter the room. Kill the 3 Daltonites
+and open the chest to find your money...
+
+   <vin> Once again, I dunno if the location is random.
+
+   <bk> It was there for both of us, anyways...
+
+ Now to N up the left side of the room and up here, go to the E and enter the
+door guarded by some Daltonites. Kill the Byte in here and open the chest to
+find more equipment. Return to the previous room and go N. Kill the Daltonites
+and enter the room. Go left in this room and enter the door. Kill the enemies
+and you'll receive your inventory.
+
+ Return to the previous room, go right and enter the door. Go up the ladder to
+be at "E". Go to point F to find a hidden 'Magic Capsule'. Return to point "E",
+leave the room and enter the room where you got your inventory. You'll be
+outside the Blackbird, on a wing. You'll find another enemy here, the Turret.
+Remember the Rubble enemy at the Mountain of Woe? The one that gave you a ton
+of TP and XP? Well, this enemy is just like it, except this one attacks.
+
+ Destroy all the Turrets that are here and go to the left side of the wing to
+trigger a little scene and a...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #193 - Golem Overlord       |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 15,000| 40 | 2,500 | 2,000 | Blackbird        |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Grand Destruction                                             |
+|           | - Escape                                                        |
+|  Counters | ---                                                             |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | ---                                                             |
+|  Party lv | Ayla 37, Frog 35, Robo 35                                       |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Ok, the Golem Overlord... isn't even worth putting these 2-3  |
+ |  KBs just for him, but oh well. He does... nothing. He just starts        |
+ |  counting backwards and at the end, he'll run away. If you want that TP,  |
+ |  XP and Gold, use your strongest Techs to defeat it.                      |
+ |                                                                           |
+ +===========================================================================+
+
+ Now, watch the scene where the Aero-Dalton Imperial... er, I mean the Epoch
+can now fly. Neat-O! You'll now be in a fight with...
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #194 - King Dalton          |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 2,800 | 40 | 2,500 | 2,000 | Blackbird        |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Gale Slash (low dmg. against one character)                   |
+|           | - Energy Spheres (medium-high dmg. to one character)            |
+|           | - Burst Sphere (medium-high dmg. to one character)              |
+|  Counters | - Iron Sphere (halves HP of one character)                      |
+|           | - Lightning II (medium-high fire dmg. to all)                   |
+|           | - Ice II (medium-high fire dmg. to all)                         |
+|           | - Fire II (medium-high fire dmg. to all)                        |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Ambrosia                                                        |
+|  Party lv | Ayla 37, Frog 35, Robo 35                                       |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Ok, Dalton once again is pathetic. Don't even bother trying   |
+ |  XD. Just attack him with your strongest Techs and he'll go down in 3-4   |
+ |  turns.                                                                   |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, watch the ensuing scenes. Wow, the Epoch is powerful! You
+will be taken down to the world below, by the surviving village.
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 7
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                                A   C H A N C E
+ ___________________________________[vb537]___________________________________
+|=============================================================================|
+| PARTY:     Ayla 37, Frog 35, Robo 35                                        |
+|            Marle 36, Lucca 35                                               |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ITEMS:     [_] Magic Capsule ------- x1                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| KEY ITEMS: [_] Chrono Trigger              [_] Doppel Doll                  |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #195 OPTIONAL BOSS: Magus  (6,666 HP)                        |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"The Chrono Trigger represents potential. Results require action." -- Gaspar
+
+
+   <bk> I'm going to be guiding you guys now!
+
+ Now that we are down here again, head up to the North Cape. Up here you'll
+now see a blue light (that wasn't here before). Examine it and you'll run into
+none other than Magus!
+
+ Magus will reflect on what has happened, leading to some cool scenes showing
+exactly what happened to him as a young boy. Read the text and in the end, as
+the dark winds begin to blow again, he'll ask you a VERY IMPORTANT QUESTION:
+
+
+      "You wish to fight me?"
+
+
+ Now, it's entirely up to you, but I wouldn't be doing my job as a guide
+writer if I didn't point out this to you:
+
+ o If you CHOOSE NOT to fight him, you can obtain Magus as a PLAYABLE
+   CHARACTER. Simply say "No" when asked the question above. Then just
+   skip the boss table below. Personally, this is the best action.
+
+ o If you CHOOSE to fight him, you'll face him in a boss battle, shown
+   below. He's not hard, and will also drop Schala's Amulet upon defeat.
+
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #195 - Magus                |   HP  | TP |   XP  |  Gold | Location: 12k BC |
+|-----------------------------| 6,666 | 50 | 3000  |  4000 | North Cape       |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Scythe (low dmg. to one character)                            |
+|           | - Lightning II (medium lightning dmg. to all characters)        |
+|           | - Ice II (medium ice dmg. to all characters)                    |
+|           | - Fire II (medium fire dmg. to all characters)                  |
+|   Counter | - Lightning II (medium lightning dmg. to all characters)        |
+|           | - Ice II (medium ice dmg. to all characters)                    |
+|           | - Fire II (medium fire dmg. to all characters)                  |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | Megalixir                                                       |
+|  Party lv | Frog 36 (Or a party w/o Frog).                                  |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: The first thing to note about this fight is that if you have  |
+ |  Frog in your party, you will be fighting Magus with him alone! If not,   |
+ |  you'll have a party of three other people. You should also know that     |
+ |  THIS Magus is MUCH easier than the Magus you've fought before, so just   |
+ |  using Frog alone isn't even hard...                                      |
+ |                                                                           |
+ |   Ok, if using Frog, equip the Red or Light plate, as Ice II won't really |
+ |  hurt you at all. Now you can just string together Masamune criticals or  |
+ |  use your strongest tech. Just be sure to use Cure II whenever you get    |
+ |  low on health. If you're using three other party members, equip the      |
+ |  blue/red/light plates and just use your strongest techs to take Magus    |
+ |  down, as he's not much of a challenge.                                   |
+ |                                                                           |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight (or after recruiting your once arc-nemesis), you'll learn
+that you should talk to Gaspar, the Guru of Time. Well, we KNOW who that is,
+right (you should, after seeing the scenes not long ago). So, what we need to
+do now is go to the Epoch and head to the End of Time.
+
+ First, go into the hut with the Nu. Surely you noticed the blinking light
+that was there before, right? Well, the Nu is blocking the capsule here.
+After digging online, I found out that the Nu actually WALKS AWAY if you wait
+for awhile. Try going in, waiting for 15 seconds on the left-hand side, and
+seeing if he leaves. If he doesn't, leave and try again. It took me four
+tries, but I got a 'Magic Capsule' for my trouble. Oh, you can also take
+Magus to the village commons to re-unite him with his cat for awhile! Hehe..
+After all that, enter the Epoch.
+
+ You'll see a scene of the Ocean Palace rising. It will than cause two vortexs
+to appear in 65M BC and in 600 AD. These areas are the "Lost Sanctum", new
+areas in the DS version of Chrono Trigger. If you wish to pursue them now
+check out the section of the guide reserved for it.
+
+ Anyway, after all of that, go to the End of Time and talk to Gaspar. He'll
+still play the "Old Man" card and upon hearing what happened to Crono he will
+play a tune for him. Try to leave and he'll call you over again. He'll then
+give you the 'Chrono Trigger', a time egg that has the POTENTIAL to bring
+Crono back. He'll tell you to see the "one who crafted your Wings of Time"
+who can show us the way.
+
+ After that, head to 1000AD. As bad timing as it may seem, we want to go visit
+Crono's house. If you're like me, you have a CRONO DOLL sitting in Crono's
+room. If you don't, you can easily obtain one by going to the Millenial Fair
+and playing the 40 SILVER POINT game in the TENT OF HORRORS (refrence section
+2 in our walkthrough to see what I mean). Either way, you'll get the key item
+'Doppel Doll'.
+
+ Good, after that jump in the Epoch and head to 2300AD. We want to go talk
+to Belthasar, who is in Keeper's Dome. Once inside, you can examine the first
+screen here if you wish, which will let you change the Epoch's name if you
+ever wanted to. Head to the back to talk to the Nu harboring Belthasar's
+rational though. It will tell you that Death Peak harbors a power capable of
+restoring the slain to life. Since we have the doll, he will then tell us it
+is time to go retrieve it (Death Peak is the mountain nearby, just in case
+you didn't know/forgot).
+
+ Belthasar will execute a program now, which sends three "entities" onto Death
+Peak which will help you out. He will then ask you to shut the Nu down, as it
+has completed its final objective. We may as well. Shut him off, go outside,
+and let's begin our ascent up the ominous Death Peak.
+
+--=======------=======----=-=----===-----===-----------====----=-------===-----
+==-------======-------====-=-====---=====---===========----====-=======---=====
+
+                                 A R E A   3 8
+             _,-^¯\_}\________________,-.________________/{_/¯`-._
+             ¯`-._/¯}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\{¯\_,-^¯
+                              D E A T H   P E A K
+ ___________________________________[vb538]___________________________________
+|=============================================================================|
+| PARTY:     Ayla 37, Frog 35, Robo 35                                        |
+|            Marle 36, Lucca 35, Magus 37                                     |
+|_____________________________________________________________________________|
+|=============================================================================|
+| EQUIPMENT: [_] Magic Ring -------- (AC)    [_] Barrier Ring ------- (AC)    |
+|            [_] Gigaton Arm ------- (WP)    [_] Brave Sword -------- (WP)    |
+|            [_] Hadean Sickle ----- (WP)    [_] Yaksha Blade ------- (WP)    |
+|            [_] Dark Helm --------- (AH)    [_] Memory Cap --------- (AH)    |
+|_____________________________________________________________________________|
+|=============================================================================|
+| ENEMIES:   [_] #071 Blood Yolk                  (500 HP)                    |
+|            [_] #072 Macabre                     (582 HP)                    |
+|            [_] #196 BOSS: Lavos Spawn (Mouth) (4,000 HP)                    |
+|            [_] #197 BOSS: Lavos Spawn (Shell)(10,000 HP)                    |
+|_____________________________________________________________________________|
+'============================================================================='
+
+"It was all for naught. In the end we couldn't do anything." - Magus
+
+
+ Head up the mountain. If you remember from our brief visit earlier, the winds
+here blow you away within seconds of entering the area. However, now one of
+Belthasar's entities here will change into a tree, allowing us to walk behind
+it when the wind blows. There are two trees in this first area you need to
+hide behind before moving up to a new screen.
+
+ Head to the left and you'll meet a new enemy called a blood yolk. They can
+chomp you for quite a bit of damage (and they absorb HP), but they are hardly
+a threat. Defeat them and head to the left to find a chest with a 'Magic
+Ring'. Go back right a bit and climb up the cliff. Slide down the path to the
+right, fight some more blood yolk, then climb up the next clift and head to
+the new screen to the right.
+
+ You'll meet a new enemy here called a Macabre. Defeat it and you'll see a
+path heading up and a path heading down. Go down and you'll find a SAVE POINT
+(save) as well as a chest to the right with a 'Barrier Ring'. Now go back to
+the fork and head UP, entering the cave. Go in a little bit to see.. what is
+that, a Lavos Clone! Gah!!!
+
+.-----------------------------.-------.----.-------.-------.------------------.
+| #196 - Lavos Spawn (Mouth)  |   HP  | TP |   XP  |  Gold | Location: 2300AD |
+|-----------------------------| 4,000 |120 |   747 |   500 | Death Peak       |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: ---                      |
+|     Techs | - Miasma (low dmg, chance to confuse)                           |
+|           | - Lavos Breath (low dmg, chance to sleep)                       |
+|           | - Blanket Bomb (low medium dmg. to an area)                     |
+|           | - Lavos Spawn Needles (medium dmg. to all characters)           |
+|  Counters | ---                                                             |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | Elixir                                                          |
+|     Charm | Elixir                                                          |
+|-----------------------------.-------.----.-------.-------.------------------|
+| #197 - Lavos Spawn (Shell)  |   HP  | TP |   XP  |  Gold | Location: 2300AD |
+|-----------------------------|10,000 | -- |  ---  |  ---  | Death Peak       |
+|      Weak | ---             '-------'----|-------'-------'------------------|
+|    Absorb | ---                          ' Immune: EVERYTHING               |
+|     Techs | ---                                                             |
+|  Counters | - Lavos Spawn Needles (medium dmg. to all characters)           |
+|-----------|-----------------------------------------------------------------|
+| Item Drop | ---                                                             |
+|     Charm | ---                                                             |
+|  Party lv | Magus 37, Ayla 37, Frog 35                                      |
+\=============================================================================/
+ |                                                                           |
+ |   Strategy: Well, time to take this spawn of Lavos down. First of all,    |
+ |  there are TWO targetable enemies here: the MOUTH and the SHELL. DO NOT   |
+ |  EVER ATTACK THE SHELL. Seriously, there's no point, once you kill the    |
+ |  MOUTH, the fight is over anyways.                                        |
+ |                                                                           |
+ |   The fight will start off with the LAVOS SPAWN NEEDLES attack, which is  |
+ |  it's most potent attack for sure. Have Frog cure everyone in one go,     |
+ |  then attack the mouth. Ayla's Triple Kick is awesome. Just have Frog     |
+ |  ready to mass-heal or throw out a panacea (in case it sleeps or confuses |
+ |  anyone) and you'll win easily.                                           |
+ |                                                                           |
+ +===========================================================================+
+
+ After the fight, grab the chest on the right for a 'Gigaton Arm'. Head up
+through the norther door outside and you'll fight three macabres. Follow the
+path back into the cave and grab the next chest for a 'Brave Sword'. There
+are some blood yolks in the area. Head through the south door afterwards.
+Out here you can inspect the blue light on the upper right to open a path
+down below!
+
+ Head back (you'll have to re-fight your way back) to the save point and heal
+up. Now take the newly-made path that you just opened up. You'll find a lone
+blood yolk in here (WTF?!), so take it out and open the nearby chest for a
+'Hadean Sickle'. Head upwards now to see a... oh boy, another one...
+
+ No need for another boss box, this guy is exactly the same as the last one.
+
+ Once you defeat him, head west. You'll find the second entity out here. He
+will tell you that the path ahead is slick and icy. Basically, you'll be
+sliding while you try to navigate the path. If you DO fall, you'll be back
+at the save point from earlier. It's pretty much a SINE Wave game, and you
+can do it easily with a tad bit of practice.
+
+ Past that trap you'll see a cliff with a TON of blood yolk's rolling down.
+Yikes! Dodge past them to open the chest on the left for a 'Yaksha Blade'.
+Head downwards now, following the path the blood yolks are taking. Note that
+if you TOUCH any of them, you'll fight all of them on the screen. Head south
+to get to a familiar screen, then take the exit to the left.
+
+ Here you'll find the THIRD entity, who merely says "Push the shell. Climb
+the shell."... Ok... Follow the path until you see a chance to go UP or climb
+DOWNWARDS. Climb down first where you'll find a chest with a 'Dark Helm' in
+it. There's also a save point here you can use if you want to. After that,
+head up and you'll face a familiar foe!
+
+ No need for another boss box, this guy is exactly the same as the last two.
+
+ After the battle, the spawn will LEAVE his shell behind. Huh, who knows why
+this spawn left its shell behind. Now PUSH the shell to the right and upwards,
+then get in front of it and press A to have the party climb it. Now that you
+are up higher, check the right side to find a 'Memory Cap' in a chest.
+
+ Head upwards and watch the many scenes. Once you regain control, go examine
+the stone-like Crono to spare him of his fate. After you're done watch the
+rest of the scenes and you'll end up at the End of Time with a bigger party!

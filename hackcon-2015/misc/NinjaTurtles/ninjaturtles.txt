@@ -1,0 +1,1471 @@
+Turn left by 90 degrees
+Go forward 50 spaces
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 50 spaces
+
+Go forward 210 spaces
+Go back 210 spaces
+Turn right by 90 degrees
+Go forward 120 spaces
+
+Turn right by 10 degrees
+Go forward 200 spaces
+Turn right by 150 degrees
+Go forward 200 spaces
+Go back 100 spaces
+Turn right by 120 degrees
+Go forward 50 spaces
+
+Turn left by 90 degrees
+Go forward 50 spaces
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn left by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 1 spaces
+Turn right by 1 degrees
+Go forward 50 spaces
+
+Go forward 100 spaces
+Go back 200 spaces
+Go forward 100 spaces
+Turn right by 90 degrees
+Go forward 100 spaces
+Turn right by 90 degrees
+Go forward 100 spaces
+Go back 200 spaces
+
+Can you digest the message?

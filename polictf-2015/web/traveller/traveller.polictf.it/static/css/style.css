@@ -1,0 +1,76 @@
+body {
+  background-color: rgb(0,0,0);
+}
+
+.custom-content {
+  background-color: rgb(255,255,255);
+  /*margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 15px;*/
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-logo {
+	height: 50px;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 80px;
+    height: 80px;
+}
+
+.navbar-brand-logo {
+	height: 50px;
+	line-height: 50px;
+	vertical-align: middle;
+}
+
+.navbar-brand-logo img {
+	vertical-align: baseline;
+}
+
+.margintb30 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 250px;
+  overflow: hidden;
+}
+
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 250px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: -20%;
+  left: 0;
+  min-width: 100%;
+}
+
+.sidebar {
+  background-color: rgb(0,0,0);
+  /*height: 100%*/
+}
+
+.white {
+  color: rgb(255,255,255);
+}
+
+.sponsor img {
+  width: 100%;
+  margin-top: 20px;
+}

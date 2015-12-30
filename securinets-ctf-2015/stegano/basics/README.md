@@ -11,8 +11,16 @@
 
 ## Write-up
 
-(TODO)
+We are given a PNG file:
+
+![](./steg.png)
+
+Using `stegsolve`, we find the flag in the gray bits panel of the image:
+
+![](./stegsolve.png)
+
+The flag is `L1nux3rr0r`.
 
 ## Other write-ups and resources
 
-* <http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-google.html>
+* <http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-basics.html>

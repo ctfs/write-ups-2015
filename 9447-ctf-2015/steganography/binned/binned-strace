@@ -1,0 +1,65 @@
+execve("./binned", ["./binned"], [/* 74 vars */]) = 0
+brk(0)                                  = 0x2384000
+access("/etc/ld.so.nohwcap", F_OK)      = -1 ENOENT (No such file or directory)
+mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7fdd99ff4000
+access("/etc/ld.so.preload", R_OK)      = -1 ENOENT (No such file or directory)
+open("/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+fstat(3, {st_mode=S_IFREG|0644, st_size=89077, ...}) = 0
+mmap(NULL, 89077, PROT_READ, MAP_PRIVATE, 3, 0) = 0x7fdd99fde000
+close(3)                                = 0
+access("/etc/ld.so.nohwcap", F_OK)      = -1 ENOENT (No such file or directory)
+open("/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\320\37\2\0\0\0\0\0"..., 832) = 832
+fstat(3, {st_mode=S_IFREG|0755, st_size=1845024, ...}) = 0
+mmap(NULL, 3953344, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7fdd99a0e000
+mprotect(0x7fdd99bca000, 2093056, PROT_NONE) = 0
+mmap(0x7fdd99dc9000, 24576, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1bb000) = 0x7fdd99dc9000
+mmap(0x7fdd99dcf000, 17088, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7fdd99dcf000
+close(3)                                = 0
+mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7fdd99fdd000
+mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7fdd99fdb000
+arch_prctl(ARCH_SET_FS, 0x7fdd99fdb740) = 0
+mprotect(0x7fdd99dc9000, 16384, PROT_READ) = 0
+mprotect(0x601000, 4096, PROT_READ)     = 0
+mprotect(0x7fdd99ff6000, 4096, PROT_READ) = 0
+munmap(0x7fdd99fde000, 89077)           = 0
+socket(PF_INET, SOCK_STREAM, IPPROTO_IP) = 3
+fstat(1, {st_mode=S_IFREG|0644, st_size=1736, ...}) = 0
+mmap(NULL, 4096, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7fdd99ff3000
+fork()                                  = 2307
+getpeername(3, 0x7fff05114240, [16])    = -1 ENOTCONN (Transport endpoint is not connected)
+getpeername(3, 0x7fff05114240, [16])    = -1 ENOTCONN (Transport endpoint is not connected)
+getsockopt(3, SOL_SOCKET, SO_ERROR, [0], [4]) = 0
+setfsgid(3)                             = 1000
+shmdt(0x7fff0511418c)                   = -1 EINVAL (Invalid argument)
+getgid()                                = 1000
+getsockname(3, {sa_family=AF_INET, sin_port=htons(0), sin_addr=inet_addr("0.0.0.0")}, [16]) = 0
+sysinfo({uptime=277, loads=[12224, 10176, 4672] totalram=1042296832, freeram=111128576, sharedram=0, bufferram=16175104} totalswap=1071640576, freeswap=1071616000, procs=337}) = 0
+geteuid()                               = 1000
+umask(01)                               = 02
+shutdown(3, SHUT_WR)                    = -1 ENOTCONN (Transport endpoint is not connected)
+setresuid(1000, 1000, 1000)             = 0
+rmdir("10")                             = -1 ENOENT (No such file or directory)
+umask(01)                               = 01
+ftruncate(3, 1000)                      = -1 EINVAL (Invalid argument)
+getpgid(0x903)                          = 2303
+umask(01)                               = 01
+shmdt(0x7fff0511418c)                   = -1 EINVAL (Invalid argument)
+getpeername(3, 0x7fff05114240, [16])    = -1 ENOTCONN (Transport endpoint is not connected)
+bind(3, {sa_family=AF_INET, sin_port=htons(8888), sin_addr=inet_addr("8.8.8.8")}, 85017000) = -1 EINVAL (Invalid argument)
+bind(3, {sa_family=AF_INET, sin_port=htons(8888), sin_addr=inet_addr("8.8.8.8")}, 85017000) = -1 EINVAL (Invalid argument)
+setuid(2303)                            = -1 EPERM (Operation not permitted)
+getdents(3, 0x7fff05114250, 1)          = -1 ENOTDIR (Not a directory)
+syslog(SYSLOG_ACTION_READ, 0x7fff05114270, 100) = -1 EPERM (Operation not permitted)
+umask(01)                               = 01
+shmdt(0x7fff0511418c)                   = -1 EINVAL (Invalid argument)
+shutdown(3, SHUT_RDWR)                  = -1 ENOTCONN (Transport endpoint is not connected)
+times({tms_utime=0, tms_stime=0, tms_cutime=0, tms_cstime=0}) = 1717984591
+msgsnd(1, {0, "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0000 >\0\0\0\0"}, 32, IPC_NOWAIT) = -1 EINVAL (Invalid argument)
+capget(NULL, NULL)                      = -1 EFAULT (Bad address)
+write(1, "Begin working out flag...\nFlag w"..., 43Begin working out flag...
+Flag worked out!
+) = 43
+exit_group(0)                           = ?
++++ exited with 0 +++
+Begin working out flag...

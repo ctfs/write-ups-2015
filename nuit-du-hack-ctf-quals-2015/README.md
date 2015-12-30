@@ -1,29 +1,29 @@
 # Nuit du Hack Quals CTF write-ups
 
 * <http://quals.nuitduhack.com/>
-* [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 
+* [forensic/bpythonastic](forensic/bpythonastic)
+* [forensic/private](forensic/private)
+* [stegano/cooper](stegano/cooper)
 * [web/facebox](web/facebox)
 
 ## External write-ups only
 
 * [crypto/game-of-life](crypto/game-of-life)
 * [crypto/weshgrow](crypto/weshgrow)
-* [exploit/updator](exploit/updator)
 * [exploit/secureauth](exploit/secureauth)
-* [forensic/bpythonastic](forensic/bpythonastic)
+* [exploit/updator](exploit/updator)
 * [forensic/pdfception](forensic/pdfception)
-* [forensic/private](forensic/private)
 * [misc/bleep](misc/bleep)
 * [misc/raptor](misc/raptor)
 * [reverse/clark-kent](reverse/clark-kent)
-* [reverse/superman](reverse/superman)
-* [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/crackme-prime](reverse/crackme-prime)
-* [stegano/cooper](stegano/cooper)
+* [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
+* [reverse/superman](reverse/superman)
 * [web/facesec](web/facesec)
 
 ## Missing write-ups

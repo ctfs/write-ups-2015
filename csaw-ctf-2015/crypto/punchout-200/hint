@@ -1,0 +1,80 @@
+2015-09-20 13:30:32	@RyanWithZombies	okay
+2015-09-20 13:30:40	@RyanWithZombies	the way this is going to work is you each get 1 question
+2015-09-20 13:30:43	@RyanWithZombies	publicly
+2015-09-20 13:30:51	@RyanWithZombies	but I also can refuse to answer
+2015-09-20 13:31:04	@RyanWithZombies	invisibility goes first
+2015-09-20 13:31:06	+bew	so no "whats the flag???"
+2015-09-20 13:31:06	+bew	:p
+2015-09-20 13:31:28	@RyanWithZombies	you can try to ask that
+2015-09-20 13:31:30	@ColdHeat	ok hi what is needed
+2015-09-20 13:31:43	@RyanWithZombies	ColdHeat: we're doing a hint q&a real quick
+2015-09-20 13:31:50	@ColdHeat	hello
+2015-09-20 13:32:13	+invisibility	gosh. pressure. okay. How can I be sure I am translating from the hex in the 1,2, and 3 files ebcdic correctly? it doesn't come out as readable characters for me.
+2015-09-20 13:32:30	@RyanWithZombies	The files are actually encrypted also
+2015-09-20 13:32:41	@RyanWithZombies	you have to use cryptanalysis to solve them
+2015-09-20 13:32:45	+_aegis_	yeah I feel like "This is actually encrypted" means "not just ebcdic"
+2015-09-20 13:32:47	+_aegis_	:P
+2015-09-20 13:32:51	@RyanWithZombies	okay, next question goes to _aegis_ 
+2015-09-20 13:32:56	@RyanWithZombies	:P
+2015-09-20 13:33:10	+bew	what is the crypto system used???
+2015-09-20 13:33:11	+bew	:p
+2015-09-20 13:33:25	+noproto	meme hints always welcome
+2015-09-20 13:34:06	@RyanWithZombies	_aegis_: tick tock
+2015-09-20 13:34:10	@RyanWithZombies	bew is on deck
+2015-09-20 13:34:30	+bew	what is the cypto system used???
+2015-09-20 13:34:42	+_aegis_	I don't think you're getting a hint past "you have to use cryptanalysis to solve them" there
+2015-09-20 13:34:54	+bew	yeah
+2015-09-20 13:34:57	@RyanWithZombies	_aegis_: do you have a question?
+2015-09-20 13:34:57	+bew	its a try
+2015-09-20 13:34:59	+bew	:p
+2015-09-20 13:35:00	@RyanWithZombies	we're going in order!
+2015-09-20 13:35:07	@quend	pick me
+2015-09-20 13:35:13	@RyanWithZombies	okay quend
+2015-09-20 13:35:14	@crowell	RyanWithZombies: you're mad with power
+2015-09-20 13:35:23	@RyanWithZombies	what's your question about punchout?
+2015-09-20 13:35:30	@quend	ok
+2015-09-20 13:35:31	+_aegis_	you just chose system/360 for the file format, crypto used is much older?
+2015-09-20 13:35:33	@quend	whats a punchcard
+2015-09-20 13:35:39	@quend	did you use those in college
+2015-09-20 13:35:43	@ColdHeat	how many punches does it take to get to the flag for punchout?
+2015-09-20 13:35:47	+_aegis_	because shannon was doing crypto in the 40s but des didn't show up until 70s
+2015-09-20 13:35:52	@quend	ColdHeat at least half
+2015-09-20 13:35:57	@RyanWithZombies	_aegis_: yes! at least 80 years older!
+2015-09-20 13:36:03	@ColdHeat	thank you
+2015-09-20 13:36:09	@ColdHeat	i have flag now
+2015-09-20 13:36:15	@RyanWithZombies	quend: we had altair8800s in college
+2015-09-20 13:36:23	@quend	wow
+2015-09-20 13:36:25	@RyanWithZombies	bew: you're up!
+2015-09-20 13:36:28	+_aegis_	my buddy at work has an altair 8800 clone
+2015-09-20 13:36:31	@ColdHeat	RyanWithZombies went to college with the hobos
+2015-09-20 13:36:35	@ColdHeat	they were his mentors
+2015-09-20 13:36:44	@ColdHeat	he learned to hack from the streets
+2015-09-20 13:36:45	+bew	Im out of qs
+2015-09-20 13:36:46	+bew	:p
+2015-09-20 13:36:48	@RyanWithZombies	Michigan doesn't ahve hobos, winter drives them away
+2015-09-20 13:36:57	@RyanWithZombies	bew: which question do you want me to answer then?
+2015-09-20 13:37:00	+_aegis_	bew: ask why there are three files
+2015-09-20 13:37:09	+bew	why are there 3 files???
+2015-09-20 13:37:11	@ColdHeat	so even more impressive
+2015-09-20 13:37:14	@ColdHeat	not only did you find the hobos
+2015-09-20 13:37:15	@RyanWithZombies	there are 3 messages!
+2015-09-20 13:37:17	@ColdHeat	you trained with them
+2015-09-20 13:37:21	@RyanWithZombies	deeepy: you're up
+2015-09-20 13:37:27	@RyanWithZombies	deeepy: what's your question?
+2015-09-20 13:37:33	@RyanWithZombies	oh, the 3rd message is the good one btw
+2015-09-20 13:37:41	+_aegis_	"who is eric"
+2015-09-20 13:37:54	@RyanWithZombies	Eric exists. I met him on Friday.
+2015-09-20 13:38:02	@fatalbit	a state of mind is also an acceptable answer
+2015-09-20 13:38:14	+bew	lol
+2015-09-20 13:38:23	+_aegis_	does eric have memes?
+2015-09-20 13:38:34	@crowell	_aegis_: maybe he knows dwn's meme
+2015-09-20 13:38:35	@RyanWithZombies	https://twitter.com/HockeyInJune/status/644941864454475777 could this be a hint for eric recon?
+2015-09-20 13:38:35	+deeepy	uhh :P
+2015-09-20 13:38:36	@RyanWithZombies	probably not
+2015-09-20 13:38:38	@crowell	i"ve never met eric
+2015-09-20 13:38:40	@RyanWithZombies	but maybe!
+2015-09-20 13:38:57	+deeepy	RyanWithZombies: which century is the cryptosystem from? :P
+2015-09-20 13:39:11	@fatalbit	i think that is one of the only avaliable pictures of me on the internet
+2015-09-20 13:39:14	@fatalbit	and its not even a good one
+2015-09-20 13:39:20	@RyanWithZombies	deeepy: 19th and later reinvented in the 20th!
+2015-09-20 13:39:32	@RyanWithZombies	okay q&a over

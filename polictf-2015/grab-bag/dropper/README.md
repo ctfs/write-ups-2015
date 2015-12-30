@@ -6,7 +6,8 @@
 **Description:**
 
 > I am afraid John is in trouble. I feel he needs help but I can't find any message from him. John does not need a port to communicate.
-> dropper.polictf.it
+
+>> dropper.polictf.it
 
 ## Write-up
 
@@ -14,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/polictf-2015-john-the-dropper/>
+* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#grabbag100-john-the-dropper>

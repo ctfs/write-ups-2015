@@ -1,0 +1,23 @@
+# 32C3 CTF 2015 : PICA
+
+**Category:** Reversing
+**Points:** 300
+**Solves:** 14
+**Description:**
+
+> PICACHUUUUUUUUU!!!1!
+> 
+> 
+> If you switch to VTY2, you can log in as root without a password.
+> 
+> 
+> Note: Please use the supplied qemu. I'm not sure if everything works if you use a different version. The qemu was compiled under Ubuntu 14.04.
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

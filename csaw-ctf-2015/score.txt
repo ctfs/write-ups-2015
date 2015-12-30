@@ -1,0 +1,1368 @@
+Place	Team	Bracket	Country	Score
+1	PPP87	Other	United States	6860
+2	Shellphish Sashimi	Graduate	United States	6860
+3	1064CBread	Undergraduate	United States	6860
+4	Lab RATs	Industry Professional	United States	6860
+5	Dragon Sector	Other	Poland	6860
+6	Mammon Machine	Industry Professional	United States	6860
+7	DCIETS	Undergraduate Stacked	Canada	6860
+8	RPISEC	Undergraduate Stacked	United States	6860
+9	Tasteless	Other	Vatican City	6660
+10	K17	Undergraduate	Australia	6660
+11	!SpamAndHex	Undergraduate Stacked	Hungary	6660
+12	FluxFingers	Undergraduate Stacked	Germany	6510
+13	Neg9	Industry Professional	United States	6360
+14	vulscryptos	Other	Japan	5860
+15	PPP1	Undergraduate	United States	5810
+16	Shellphish Nigiri	Undergraduate Stacked	United States	5810
+17	0x0	Undergraduate	Japan	5710
+18	dcua	Undergraduate	Canada	5710
+19	l4w.io	Undergraduate	Vietnam	5710
+20	0x8F	Industry Professional	United Kingdom	5660
+21	StratumAuhuur	Other	Germany	5610
+22	More Smoked Leet Chicken	Industry Professional	Russia	5590
+23	TheRealSamurai	Industry Professional	United States	5560
+24	BalalaikaCr3w	Other	Russia	5560
+25	BitsForEveryone	Undergraduate Stacked	United States	5460
+26	Bushwhackers	Undergraduate Stacked	Russia	5310
+27	khack40	Undergraduate Stacked	France	5310
+28	9447	Graduate	Australia	5260
+29	dodododo	Undergraduate	Japan	5110
+30	217	Undergraduate Stacked	Taiwan	5110
+31	MMA	Undergraduate	Japan	5110
+32	EpsilonDelta	Other	Japan	5110
+33	Snatch The Root	Other	Poland	5060
+34	HacknamStyle	Undergraduate Stacked	Belgium	5060
+35	0ops	Undergraduate	China	4910
+36	0xbadf00d	Industry Professional	United Kingdom	4860
+37	H4x0rPsch0rr	Undergraduate Stacked	Germany	4810
+38	PwnThyBytes	Graduate	Romania	4710
+39	BambooFox	Graduate	Taiwan	4710
+40	The Cat is #1!!	Other	North Korea	4710
+41	GoatskiN	Undergraduate	South Korea	4660
+42	KITCTF	Undergraduate Stacked	Germany	4660
+43	RDot.Org	Other	Russia	4610
+44	"monads"	Industry Professional	United States	4560
+45	BabyPhD	Other	Vietnam	4510
+46	RPISEC2	Undergraduate Stacked	United States	4510
+47	SUSlo.PAS	Undergraduate	Russia	4460
+48	blue-lotus	Undergraduate Stacked	China	4410
+49	p4	Undergraduate Stacked	Poland	4160
+50	BatmansKitchen	Undergraduate Stacked	United States	4110
+51	CyKor	Undergraduate	South Korea	4110
+52	Knightsec	Undergraduate	United States	4110
+53	NYUSEC	Undergraduate	United States	4060
+54	PPP3	Undergraduate	United States	3960
+55	hugeh0ge	High School	Japan	3910
+56	bi0s	Undergraduate	India	3910
+57	jmp-esp	Undergraduate Stacked	United States	3810
+58	Insight-labs	Other	United States	3810
+59	uiuctf	Undergraduate	United States	3810
+60	Play4Fun	Industry Professional	United States	3760
+61	Amber Chamber	Industry Professional	Poland	3760
+62	BambooFox_DSNS	Undergraduate	Taiwan	3710
+63	******	Undergraduate	China	3610
+64	0daysober	Industry Professional	Mongolia	3610
+65	asciioverflow	Undergraduate Stacked	United States	3610
+66	WCSC	Undergraduate Stacked	United States	3560
+67	Delusions of Grandeur	Undergraduate Stacked	United States	3560
+68	Vim Appreciation Society	Other	United States	3560
+69	Spiderz	Other	Morocco	3510
+70	PLUS	Undergraduate	South Korea	3410
+71	pollypocket	Undergraduate	France	3410
+72	Kroot	Undergraduate	South Korea	3360
+73	katagaitai	Other	Japan	3310
+74	cMc	Undergraduate	United States	3200
+75	Guardian	Undergraduate	South Korea	3160
+76	_yonghwi_	Undergraduate	South Korea	3160
+77	smoke leet everyday	Other	Netherlands	3160
+78	anemone	Undergraduate Stacked	South Korea	3150
+79	vorpal	Undergraduate	United States	3110
+80	Hanoiati	Undergraduate Stacked	Italy	3060
+81	hst.tw	Other	Taiwan	3060
+82	cyberkastike	Other	Finland	3010
+83	Shadow Cats	Industry Professional	United States	3010
+84	Honeypot	Undergraduate Stacked	Russia	3010
+85	th3jackers	High School	Algeria	3010
+86	Sigma	Undergraduate Stacked	China	3000
+87	oo at xx 4	Graduate	Taiwan	2950
+88	HakiPwn	Undergraduate	Vietnam	2910
+89	Northwest Beer Drinkers	Other	Canada	2860
+90	Glimpses of Grandeur	Industry Professional	United States	2860
+91	dtuhax	Graduate	Denmark	2860
+92	BS Labs	Other	United States	2860
+93	HackingForSoju	Industry Professional	Sweden	2750
+94	Darkside	High School	United States	2710
+95	0x51da	Undergraduate	Vietnam	2710
+96	huihui	Graduate	China	2700
+97	SIGIT	Undergraduate Stacked	United States	2700
+98	DebugTeam	Undergraduate Stacked	Poland	2660
+99	GyaRaDos	Undergraduate	South Korea	2610
+100	RandomsCTFTeam	Other	United States	2610
+101	whitehatters-uk	Other	United Kingdom	2560
+102	segfault	Industry Professional	India	2550
+103	ufologists	High School	Russia	2510
+104	BigGasWarship	Undergraduate Stacked	United States	2510
+105	penthackon	Undergraduate Stacked	Romania	2510
+106	Free the Mallocs	Other	United States	2510
+107	SomeRandomName	Other	Canada	2500
+108	On est pas contents	Undergraduate	Switzerland	2450
+109	CSG	Undergraduate	United States	2410
+110	STT	Undergraduate Stacked	Portugal	2410
+111	UNDEFINED BEHAVIOUR	Other	United Kingdom	2410
+112	iridescent	High School	United States	2410
+113	tinker^or^die	Other	Canada	2390
+114	PPP67	Undergraduate	United States	2360
+115	opentosome	Undergraduate Stacked	United States	2350
+116	Uber Hackin	Undergraduate Stacked	Canada	2350
+117	VTCSec	Undergraduate Stacked	United States	2310
+118	PhoenixForce	Other	India	2310
+119	UCCS_CSC	Undergraduate	United States	2310
+120	wasamusume	Undergraduate	Japan	2280
+121	_try	Undergraduate Stacked	Egypt	2250
+122	default_	Industry Professional	United States	2210
+123	H3	Undergraduate Stacked	United States	2210
+124	Capture The Swag	Other	Australia	2210
+125	du1iqvw	Graduate	Czech Republic	2210
+126	Bitnuts	Industry Professional	Netherlands	2210
+127	JohnDoe	Other	Ukraine	2210
+128	TheGoonies	Industry Professional	Brazil	2210
+129	Vegan Zombies	Industry Professional	United States	2210
+130	r00ts	Other	Morocco	2210
+131	tuat_mcc	Undergraduate	Japan	2150
+132	No Internet Access	Undergraduate	India	2110
+133	Cyber Slugs	Undergraduate Stacked	United States	2110
+134	Team AFK	Undergraduate	United States	2110
+135	All4Hacks	Industry Professional	Poland	2110
+136	Robot Mafia	Industry Professional	United States	2110
+137	ram	Graduate	United States	2100
+138	Bah Humbug	Industry Professional	United States	2010
+139	n0l3ptr	Undergraduate Stacked	United States	2010
+140	negainoido	Graduate	Japan	2010
+141	f60	Industry Professional	United States	2010
+142	Little Small Balls	Other	Poland	2010
+143	hacking school 101	Other	Seychelles	2000
+144	SWIFT	Undergraduate Stacked	United States	1960
+145	2nit	Undergraduate	South Korea	1950
+146	mage	Other	Japan	1950
+147	hex(11391431)	Industry Professional	United States	1930
+148	b01lers	Undergraduate Stacked	United States	1910
+149	ECX Inc.	Undergraduate	United States	1910
+150	Supersonic Slugs	Graduate	United Arab Emirates	1910
+151	c21h30o2	Undergraduate	Russia	1910
+152	G04tzZZ	Other	Burkina Faso	1910
+153	nullify	Undergraduate Stacked	United States	1910
+154	Eindbazen	Other	Netherlands	1900
+155	SiBears	Undergraduate	Russia	1900
+156	parfait	Industry Professional	South Korea	1900
+157	NeSE	Graduate	China	1860
+158	securimag	Graduate	France	1860
+159	sherl0ck	Undergraduate	Taiwan	1860
+160	psuje	Other	Poland	1860
+161	PPP4	Undergraduate	United States	1810
+162	pwnffman	Undergraduate	Taiwan	1810
+163	ISITDTU	Undergraduate	Vietnam	1810
+164	ByteBandits	Undergraduate	India	1810
+165	ATRG	Other	United States	1810
+166	The IMPs	Industry Professional	United States	1810
+167	Invulnerable	Undergraduate	Russia	1810
+168	Squareroots	Undergraduate Stacked	Germany	1800
+169	Lights Out	Undergraduate	Russia	1770
+170	mjkoo	Industry Professional	United States	1760
+171	Nandy Narwhals	Undergraduate	Singapore	1760
+172	UMBC Cyber Dawgs	Undergraduate	United States	1710
+173	Without Proper Instruction	Undergraduate	United States	1710
+174	Fast Affine Projection	Undergraduate	Indonesia	1710
+175	balsn	Undergraduate	Taiwan	1710
+176	[pWn]	Undergraduate Stacked	Turkey	1710
+177	madhaxers	Other	Japan	1700
+178	PepperoniParty	Other	United States	1700
+179	M.I.S.T	Undergraduate	Germany	1690
+180	NULL Life	Other	Peru	1660
+181	w0pr	Other	Spain	1660
+182	blah	Other	France	1660
+183	slugjin	Other	South Korea	1650
+184	EpicTeam	Undergraduate	Russia	1610
+185	SUCSS	Undergraduate Stacked	United Kingdom	1610
+186	Dystopian Narwhals	Undergraduate	Singapore	1610
+187	UTSA Cyber	Undergraduate Stacked	United States	1610
+188	_TMIH_	Undergraduate	Canada	1600
+189	GeeksSpeak	Other	Iran	1600
+190	vulnhub-ctf	Other	United Kingdom	1600
+191	SwissMadeSecurity	Undergraduate Stacked	Switzerland	1600
+192	ThunderClap	Graduate	Russia	1590
+193	__math	Graduate	Japan	1580
+194	The Letters	Other	Germany	1580
+195	dekhi	Graduate	Vietnam	1570
+196	webster	Industry Professional	United States	1550
+197	Whitepatch	Industry Professional	United States	1510
+198	noraneco	Other	Japan	1510
+199	DFIRWL	Industry Professional	United States	1510
+200	PolyHack	Undergraduate	Canada	1510
+201	Hackademics	Undergraduate Stacked	Germany	1510
+202	snake	Other	China	1510
+203	Mary's Inflammable Banana Hammock	Undergraduate	United States	1510
+204	TKOX	Graduate	Vietnam	1510
+205	Mr. Lee's Greater Hong Kong Deliverators	Undergraduate Stacked	United States	1510
+206	GCN-31337	Industry Professional	United States	1500
+207	I Like Trains	Undergraduate Stacked	Poland	1500
+208	e2.8a.95	Other	Poland	1500
+209	Bono_iPad	Other	Japan	1460
+210	NUSGreyHats	Undergraduate	Singapore	1460
+211	noname	Graduate	United States	1410
+212	Kernel Sanders	Undergraduate	United States	1410
+213	MachetePwns	Industry Professional	Mexico	1410
+214	Team Nullspace	Other	United States	1410
+215	forx	Undergraduate	United States	1410
+216	YOKARO-MON	Industry Professional	Japan	1410
+217	UCCU	High School	Taiwan	1410
+218	Destructive Voice	Undergraduate	Russia	1410
+219	torikabuto	Industry Professional	Japan	1410
+220	unionfind	Undergraduate	Japan	1410
+221	Alpackers	Other	United States	1410
+222	HeXA	Undergraduate	South Korea	1410
+223	We Don't Script	Industry Professional	United States	1410
+224	dqi	Undergraduate	Netherlands	1410
+225	SpartanSecurity	Undergraduate	United States	1410
+226	0x90r00t	Undergraduate Stacked	France	1410
+227	Wortels	High School	Netherlands	1410
+228	Strings *.*	Undergraduate	Australia	1410
+229	Team31	Undergraduate	Russia	1400
+230	ALLES!	Other	United States	1390
+231	TSG	Undergraduate	Japan	1380
+232	ckm	Other	Taiwan	1360
+233	I	Undergraduate	Russia	1350
+234	PenTuts	Undergraduate	Vietnam	1310
+235	SHARK	Other	China	1310
+236	castoconiglio	Undergraduate Stacked	Italy	1310
+237	cRUcible	Undergraduate	Iceland	1310
+238	WildHaggis	Graduate	United Kingdom	1310
+239	PKTeam	Other	Spain	1310
+240	xmen	Industry Professional	United States	1310
+241	vubar	Undergraduate	Netherlands	1310
+242	Texas A&M Cyber Security	Undergraduate	United States	1310
+243	Bulletproof	Undergraduate	Australia	1310
+244	omakase	High School	Japan	1310
+245	Behrend	Undergraduate	United States	1310
+246	BUILDS	Undergraduate Stacked	United States	1310
+247	Hackstangs	Undergraduate	Canada	1310
+248	Undocumented	Undergraduate	United States	1310
+249	Team Kevin	Undergraduate	Australia	1300
+250	Gin Vlad	Undergraduate	Vietnam	1300
+251	Peterpen	Other	Russia	1300
+252	7HxzZ	Undergraduate	United States	1290
+253	Owl	Other	United States	1290
+254	jfhs	Graduate	Czech Republic	1250
+255	SGFk	Undergraduate	Russia	1240
+256	Colonel 0x20	Graduate	United States	1240
+257	HIGLOG	Undergraduate	Norway	1210
+258	attackerspace	Other	United States	1210
+259	Aquors	High School	United States	1210
+260	Some Assembly Required	Undergraduate	United States	1210
+261	OpenToAll	Other	United States	1210
+262	BioHazard	Other	Morocco	1210
+263	PHS Absol	High School	United States	1210
+264	KSUCDC	Undergraduate Stacked	United States	1210
+265	yHack	Undergraduate	United States	1210
+266	Pseudoers	High School	United States	1210
+267	PlayFair2k15	Undergraduate	United Arab Emirates	1210
+268	ASIS	Graduate	Iran	1210
+269	APT_Won't_Let_Me_Be	Industry Professional	United States	1210
+270	Hacking Alpacas	Industry Professional	United States	1210
+271	Magic-Hat	Undergraduate	Russia	1210
+272	tr1gg3r3d	Undergraduate Stacked	United States	1210
+273	Ministry_Of_Silly_Hacks	Industry Professional	Belgium	1210
+274	TenDollar	Other	South Korea	1210
+275	brucel33t	Industry Professional	Canada	1210
+276	Follow the Sun	Graduate	Japan	1210
+277	KMA	High School	Vietnam	1210
+278	PPP2	Undergraduate	United States	1210
+279	CCSF_HACKERS	Undergraduate Stacked	United States	1210
+280	Defcon	High School	United States	1210
+281	CTF-infinit	Other	Japan	1210
+282	Zoom	Undergraduate	United States	1210
+283	ampulex	Industry Professional	Australia	1210
+284	AuphishYellow	High School	United States	1210
+285	BroCTF	Other	United States	1210
+286	Zenk-Security	Undergraduate	France	1200
+287	superflip	Industry Professional	Japan	1200
+288	Colorado State University - Hashdump	Undergraduate	United States	1200
+289	GayBearTerritory	Industry Professional	United States	1200
+290	graypanda	Other	Singapore	1200
+291	okudo3	Other	Japan	1200
+292	S0l0B0Y	Undergraduate	United States	1180
+293	Roll Tide	Undergraduate	United States	1150
+294	Eaters	Industry Professional	France	1150
+295	3x3cu74bl35	Industry Professional	United Kingdom	1150
+296	REU	Other	Ukraine	1150
+297	captchaflag	Industry Professional	United States	1150
+298	Betz	Undergraduate	United States	1110
+299	sudo !!	Undergraduate	United States	1110
+300	DC351	Industry Professional	Portugal	1110
+301	Anomalous Materials	High School	United States	1110
+302	HoT	Other	United States	1110
+303	CASPER	Undergraduate	South Korea	1110
+304	HTP	Undergraduate	Australia	1110
+305	!TMIB	Industry Professional	Australia	1110
+306	Bombe	Undergraduate	United States	1110
+307	k-5	Undergraduate	Russia	1110
+308	MSU-CTF	Undergraduate Stacked	United States	1110
+309	hacksoc	Undergraduate	United Kingdom	1110
+310	73@M7	Undergraduate Stacked	Japan	1110
+311	$7UNF15K	Graduate	Netherlands	1110
+312	in/s/ane	High School	United States	1110
+313	kin	Undergraduate	United States	1110
+314	Church of 0x41414141	Industry Professional	Poland	1110
+315	ECRL	Other	Bulgaria	1110
+316	ids-team	Other	Japan	1110
+317	#freethegeese	High School	United States	1110
+318	LostGeneration	Graduate	Kazakhstan	1110
+319	backzogtum	Other	Germany	1100
+320	In Google We Trust	Undergraduate Stacked	United States	1100
+321	M-x Butterfly	Undergraduate Stacked	United States	1090
+322	12358	Other	China	1090
+323	UOSec	Undergraduate	United States	1090
+324	fistful_of_bits	Other	United States	1090
+325	CERT-IS	Graduate	South Korea	1060
+326	Swehack	Other	Sweden	1060
+327	ForgotTeamPasswd	Industry Professional	Canada	1040
+328	BXB	Undergraduate	China	1030
+329	hackunamatata	Industry Professional	United Kingdom	1010
+330	Security Daemons	Undergraduate	United States	1010
+331	lcmafia	Undergraduate Stacked	United States	1010
+332	FoxHound	Undergraduate	United States	1010
+333	testteampleaseignore	Undergraduate	Australia	1010
+334	pktkosakuin	Other	Japan	1010
+335	Wolves Under Fire	Industry Professional	United States	1010
+336	Ba Sing Sec	Industry Professional	United States	1010
+337	V@lent!n3	Graduate	Thailand	1010
+338	PhilosoR0Pters	Industry Professional	United States	1010
+339	Qubit	Undergraduate	United States	1010
+340	1up	Other	Mongolia	1010
+341	Grim Fandangos	Undergraduate Stacked	United States	1010
+342	Delaware Linux Users Group	Undergraduate Stacked	United States	1010
+343	yeee	Undergraduate	Australia	1010
+344	Sparkhound	Industry Professional	United States	1010
+345	takaki	Other	Japan	1010
+346	Twackers	Graduate	Netherlands	1010
+347	ITB	Undergraduate	Ireland	1010
+348	DATATECH	Undergraduate	Tunisia	1010
+349	ivanhack	Undergraduate	United States	1010
+350	Binary Vikings	Other	Norway	1010
+351	Mustard Squad	Industry Professional	United States	1010
+352	koba	Undergraduate	Japan	1010
+353	UVB-76	Industry Professional	Brazil	1010
+354	CSC_RO	Undergraduate Stacked	Romania	1010
+355	Jimmy Jam and the Hoagies	Undergraduate	United States	1010
+356	Team Name	Undergraduate	United States	1010
+357	NIS	Other	Japan	1010
+358	CTF-BR Team	Other	Brazil	1010
+359	jambon	Other	Switzerland	1000
+360	Gallitos	Undergraduate	United States	1000
+361	********	Graduate	Japan	1000
+362	CLGT	Other	Vietnam	1000
+363	The Cowardly Cows	Other	Ireland	1000
+364	Codernate	Other	Indonesia	1000
+365	koaidien	Other	United States	1000
+366	mau5	Undergraduate	Mongolia	1000
+367	N15RA	Undergraduate	Taiwan	1000
+368	oppai	Other	Japan	1000
+369	JukeAndJizz	Undergraduate	United States	990
+370	Hexpresso	Undergraduate	France	990
+371	soko	Other	Japan	980
+372	froggy	Industry Professional	United States	960
+373	skye	Undergraduate	China	960
+374	c6h0st	Undergraduate	Vietnam	950
+375	JustForKicsk	Other	United States	940
+376	findingnano	Undergraduate	United States	910
+377	Taquito	Industry Professional	United States	910
+378	B4ckdoors	Undergraduate	Morocco	910
+379	Lamb's Hacking Flock	Undergraduate	United States	910
+380	BreastMilk	Undergraduate	United States	910
+381	zer0w1re	Undergraduate	United States	910
+382	NorseR@g3	Undergraduate	United States	910
+383	SingleMalt	Industry Professional	United States	910
+384	MilWestA	High School	United States	910
+385	UNH Wildhatz	Undergraduate	United States	910
+386	zj9s.0kami	Undergraduate	China	910
+387	DankMemeLabs	Undergraduate Stacked	United States	910
+388	Mogul	Industry Professional	Mongolia	910
+389	Brhino	Industry Professional	United States	910
+390	AFKBTW	Graduate	Taiwan	910
+391	HJHSH	High School	South Korea	910
+392	flack3r	Undergraduate	South Korea	910
+393	The DHARMA Initiative	Other	Spain	910
+394	jughead	Industry Professional	Russia	910
+395	Polyhack_FR	Undergraduate Stacked	France	910
+396	Brutewoorse	Undergraduate Stacked	Germany	910
+397	Curiosity	Undergraduate	Russia	910
+398	LeetZeppelin	Undergraduate	Russia	910
+399	OPT	Other	China	910
+400	r3b00+	Industry Professional	India	910
+401	Sentry	Undergraduate	United States	910
+402	Ezalor	Industry Professional	United Kingdom	910
+403	GameOfPWNZ	Undergraduate	United States	910
+404	yutopp	Undergraduate	Japan	910
+405	Koibasta	High School	Russia	900
+406	bcs	Other	Vietnam	900
+407	Tactical Failure	Other	United States	900
+408	Hypnosec	Undergraduate Stacked	Australia	900
+409	UnhandledException	Industry Professional	United States	900
+410	UMaine CyberSec	Undergraduate	United States	900
+411	Bazinga!	Undergraduate	Australia	900
+412	Bad Subnet Mask	Industry Professional	United States	900
+413	together_two	Undergraduate	United States	900
+414	SWINBURNE	Undergraduate	Australia	900
+415	GTFI	Undergraduate	United States	900
+416	r00ters	Industry Professional	Italy	900
+417	You can't do that as a ghost.	Other	United States	900
+418	whusec	Undergraduate	China	890
+419	Little Bobby Droptables	Industry Professional	United States	890
+420	Archive	Industry Professional	United States	880
+421	dank_gillyweed	Industry Professional	United States	880
+422	magnum	Graduate	Israel	880
+423	KA-FU-	Other	Japan	880
+424	FAUST	Undergraduate Stacked	Germany	870
+425	uberstrike	Industry Professional	United Kingdom	860
+426	KKBOX	Other	Taiwan	860
+427	R1tz	Other	Taiwan	860
+428	Zer0 Access	Undergraduate Stacked	United States	860
+429	Jaeger Team	Other	United Kingdom	850
+430	an empty fridge	Other	Poland	830
+431	GoBack	Other	Algeria	830
+432	IcePiratesv6	Industry Professional	United States	810
+433	AGUAPANELA	Industry Professional	Colombia	810
+434	DAFTHACK	Industry Professional	United States	810
+435	Masterpieces of Manflesh	Industry Professional	United States	810
+436	Zero Wing	Industry Professional	United States	810
+437	Vanguard	Undergraduate	United States	810
+438	BrainPal	Other	United States	810
+439	techniNinjas	Undergraduate	Australia	810
+440	fluttershy	Graduate	United States	810
+441	ACMEPharm	Industry Professional	United States	810
+442	JustLookingForElbowGrease	Undergraduate	Canada	810
+443	girav	Undergraduate	Russia	810
+444	NobodySpecial	Other	United States	810
+445	do9dark	Undergraduate	United States	810
+446	TheKillingTime	Industry Professional	United States	810
+447	co-84	Graduate	Japan	810
+448	RIT Cyber Tigers	Undergraduate	United States	810
+449	Los Chupacabras	Undergraduate	United States	810
+450	Ping-Pwn3d	Undergraduate Stacked	Mexico	810
+451	Cl0wn	Industry Professional	United States	810
+452	Pr0_p0wn	Industry Professional	United States	810
+453	SpicyInTheMiddle	Undergraduate	United States	810
+454	Wildnet Cats	Undergraduate	United States	810
+455	heks	Undergraduate Stacked	Netherlands	810
+456	mr brobot	Undergraduate Stacked	United States	810
+457	RDHS Cyberhawks 2	High School	United States	810
+458	RDHS CyberHawks 1	High School	United States	810
+459	metjam	Undergraduate	Japan	800
+460	cardinalSins	Other	Singapore	800
+461	KCT	Undergraduate	Vietnam	800
+462	hunter2	Industry Professional	United Kingdom	800
+463	Hackoholics	Undergraduate	Switzerland	800
+464	Wh0 D4t?	Undergraduate	Canada	800
+465	Avishkats	High School	United States	800
+466	omw2syg	Undergraduate	Ukraine	800
+467	Vita Brits and Chill	Graduate	Australia	800
+468	KimIlSung Computer Univ	Undergraduate	North Korea	800
+469	Glidermed	Other	Colombia	800
+470	c633	Undergraduate	Vietnam	800
+471	SDK	Undergraduate	China	800
+472	RooterX	Undergraduate	Russia	800
+473	Ashley Madison	Industry Professional	United States	800
+474	DFCI	Undergraduate	Indonesia	800
+475	FKT	Undergraduate	Vietnam	800
+476	Paranoids	Other	Netherlands	800
+477	GoFigor	Graduate	United States	800
+478	Hotfix Fridays	Other	United States	800
+479	catsec	Undergraduate	South Korea	790
+480	Spirit	Undergraduate	China	790
+481	DokuDempa	Industry Professional	Japan	790
+482	PoisonedBYTES	Other	Tunisia	780
+483	m1z0r3	Undergraduate	Japan	780
+484	Mad Hatters	Undergraduate	United States	780
+485	Wiremask	Undergraduate	France	770
+486	MAVISANG	Undergraduate	Indonesia	760
+487	decrement++	Undergraduate	Japan	760
+488	madhendl	Undergraduate	Austria	760
+489	SanXore	High School	Morocco	750
+490	tsun	Undergraduate	Japan	750
+491	Noobs1337	Undergraduate	Indonesia	750
+492	AdopteUnMec	Other	France	750
+493	linux	High School	United States	750
+494	Pwnladin	Undergraduate Stacked	Thailand	730
+495	doublegoat	Industry Professional	United States	730
+496	m	Industry Professional	United States	720
+497	despair	Industry Professional	Russia	720
+498	Cybercrime Cats	Undergraduate	United States	710
+499	Steam Locomotive	High School	United States	710
+500	discoNunu	Undergraduate	United States	710
+501	Re:Coded	High School	United States	710
+502	White Hat Eagles	Undergraduate	United States	710
+503	ARGOS	Undergraduate Stacked	South Korea	710
+504	LittleBobbyTables	Undergraduate	United States	710
+505	Tailored Access Operations	Undergraduate Stacked	United States	710
+506	HackCat	High School	South Korea	710
+507	CARDiac Arrest	Undergraduate	United States	710
+508	hacking__	Undergraduate	South Korea	710
+509	huding	Undergraduate	Taiwan	710
+510	Algorithmic Armadillos	Undergraduate Stacked	United States	710
+511	evandrix	Graduate	Singapore	710
+512	HackInTN	Graduate	France	710
+513	Y-CERT	Undergraduate	South Korea	710
+514	Winning Like Webster	Undergraduate	United States	710
+515	Team Panda Security	Other	Indonesia	710
+516	Kingsguard	Other	United States	710
+517	BelumAdaNama	Undergraduate	Indonesia	710
+518	Joan and Johns of arc	Undergraduate	United States	710
+519	vimvaders	Other	Italy	710
+520	The_Cracken	Undergraduate	United States	710
+521	RnD	Other	United States	710
+522	Sawadeeka	High School	Singapore	710
+523	turducken	Undergraduate	United States	710
+524	rav3n	Other	United States	710
+525	The_ph0enixes	Undergraduate Stacked	United States	710
+526	gnu-e-ducks	Undergraduate	United States	710
+527	Get Schwifty	Undergraduate	United States	710
+528	TheRandom	Undergraduate	Canada	710
+529	jedi_hacker	Other	United States	710
+530	cmj	Other	Taiwan	700
+531	CSIT531	Undergraduate	Russia	700
+532	IUTTeam	Undergraduate	Iran	700
+533	f0xtr0t	Undergraduate	India	700
+534	me&others	Graduate	United States	700
+535	Layer8	Undergraduate	United States	700
+536	moonbase	Undergraduate	United States	700
+537	Vanlang	Undergraduate	United States	700
+538	0xdeadbeef Jerky	Industry Professional	United States	700
+539	CyberEagles	Undergraduate Stacked	United States	700
+540	Viper	Undergraduate	China	700
+541	WhySec	Undergraduate	China	700
+542	Torkku	Undergraduate	Finland	700
+543	bl4de	Other	Poland	700
+544	cat flag	Undergraduate	Japan	700
+545	un_known	High School	Vietnam	700
+546	bl4nk	Undergraduate	United States	700
+547	PlankanBoys	Undergraduate Stacked	Sweden	700
+548	INCONCEIVABLE	Other	United States	700
+549	Brogrammers	Other	United States	700
+550	EJC2.0	Undergraduate Stacked	United States	690
+551	LDD	Undergraduate	Australia	690
+552	pwndevils	Undergraduate Stacked	United States	690
+553	Team RAMROD	Other	United States	690
+554	Possibly Bob Dole	Industry Professional	United States	690
+555	Zolmeister	Undergraduate	United States	680
+556	Hacklions	Undergraduate	United States	680
+557	Rekenber	Undergraduate	France	680
+558	31337team	Industry Professional	Egypt	680
+559	Mess with the best, die like the rest	Industry Professional	United States	680
+560	zxcvzxcv	Undergraduate	United States	670
+561	0x22	Undergraduate	India	660
+562	Crimson Agents	Industry Professional	United States	660
+563	Kidnos	Other	Taiwan	660
+564	IDK IDC	Industry Professional	United States	660
+565	Lucky Turtle Kittens	Graduate	United States	660
+566	Flags & Dragons	High School	United States	660
+567	R0-Crew	Undergraduate	Ukraine	650
+568	Hardc0de	Undergraduate	Russia	650
+569	TripleD	Other	United States	650
+570	IS	Undergraduate	Netherlands	650
+571	yakinikyu	Undergraduate	South Korea	650
+572	keva	Undergraduate	Russia	650
+573	g0tiu5a	Undergraduate	Japan	650
+574	crump2015	Undergraduate	Sweden	650
+575	Wingshot	Undergraduate	United States	650
+576	hj	Industry Professional	United States	640
+577	Raise	Undergraduate	China	640
+578	Pandora	Undergraduate	Thailand	630
+579	Max Nitro	Industry Professional	United States	620
+580	Snakes	High School	Canada	610
+581	Husketeers	Undergraduate Stacked	United States	610
+582	Swat2015	Undergraduate	United States	610
+583	The Best Team	High School	United States	610
+584	Supar Security	Undergraduate	United States	610
+585	Team ' or 1=1 --	Other	United States	610
+586	CryptoCracka	Industry Professional	United States	610
+587	SUU Cyber Defense Competitions Club	Undergraduate	United States	610
+588	chubby_bunnies_anonymous3456	Undergraduate	United States	610
+589	I-Keeper	Undergraduate	South Korea	610
+590	Team TopSec	Industry Professional	Canada	610
+591	linksxea	Other	United States	610
+592	D@rkSmiley's	Graduate	India	610
+593	sisters	Undergraduate	Japan	610
+594	0x3c700000	Undergraduate Stacked	United States	610
+595	Wook squad	Other	United States	610
+596	kerber0s	Graduate	Mongolia	610
+597	K4L-31	Industry Professional	United States	610
+598	others	Other	Singapore	610
+599	Hawks	Other	Poland	610
+600	teamname	Undergraduate	Russia	610
+601	Dam flud la dusmani	Undergraduate	Romania	610
+602	masqueraders	Graduate	India	610
+603	deaDLock	Graduate	India	610
+604	CCQK	High School	United States	610
+605	BlowHole	Undergraduate	United States	610
+606	NYUPolyFaculty	Undergraduate Stacked	United States	610
+607	hAIXer	Other	Germany	610
+608	PPP5	Undergraduate	United States	600
+609	just a boy	Undergraduate	United States	600
+610	efiens	Undergraduate	Vietnam	600
+611	jmp2the718	Industry Professional	United States	600
+612	Execut3	Graduate	Iran	600
+613	Preplanning	Other	United States	600
+614	condor	Graduate	United States	600
+615	National Swag Agency	Undergraduate	United States	600
+616	The Eh Team	Industry Professional	United States	600
+617	SuperBadTaco	Graduate	United States	600
+618	security_through_obscurity_ftw	High School	United States	600
+619	kangzumin	Other	Vietnam	600
+620	Lala	Graduate	Vietnam	600
+621	g0blin	Industry Professional	United Kingdom	600
+622	UB Net Defense	Undergraduate Stacked	United States	600
+623	cls	Other	Japan	600
+624	xbaby123	Undergraduate	Vietnam	600
+625	One True Abi	High School	United States	590
+626	zako	Undergraduate	Japan	590
+627	pox	Graduate	Italy	590
+628	Bob Lowblaw's Law Blog	Industry Professional	United States	590
+629	forceful_entry	Graduate	United States	590
+630	tylerthetiger	Industry Professional	United States	590
+631	Echinus	Graduate	United States	590
+632	Jani	Undergraduate	Turkey	590
+633	tryinharder	Other	New Zealand	590
+634	itesti	High School	China	590
+635	Legion	Other	United States	590
+636	hSociety	Industry Professional	Australia	590
+637	SunplaceSolutions	Undergraduate	Argentina	590
+638	JBTteam	High School	Indonesia	590
+639	chkn&ROFLs	Undergraduate	United States	590
+640	Hakazit	Industry Professional	United States	580
+641	L0ser	Other	United Kingdom	580
+642	R41d3r5	Other	Denmark	580
+643	Pundementals	Undergraduate	United States	580
+644	0x80	Undergraduate	United States	570
+645	Algo	Undergraduate	United States	570
+646	SavageSec	Industry Professional	United States	570
+647	Team EP	Industry Professional	United States	570
+648	cho_ru_ru	Graduate	Japan	570
+649	Skynet Enthusiasts	Other	United States	560
+650	Fire throwing rhino riders	Undergraduate	United States	560
+651	Team EBC	Industry Professional	United States	560
+652	virus69	High School	Tunisia	560
+653	0xDEFACED	Undergraduate	Norway	560
+654	noshellcode	Other	Canada	560
+655	nikukyu	Other	Japan	550
+656	CSI Oryza	Undergraduate	Indonesia	550
+657	:p	High School	United States	550
+658	r3load	Undergraduate	India	550
+659	hackdumb	Undergraduate Stacked	France	550
+660	Belgians Waffle	Undergraduate	United States	550
+661	Grumpy Unicorn	Industry Professional	Malaysia	550
+662	Sausage	Undergraduate	South Korea	550
+663	can_	Undergraduate	Belgium	550
+664	h0b0	High School	Abkhazia	550
+665	0utl4st	High School	Vietnam	550
+666	HunterL	Undergraduate	Singapore	550
+667	CaramelMacchiato	Other	Germany	550
+668	cecungUK	Graduate	Indonesia	550
+669	m3si	Industry Professional	Mexico	540
+670	hax4fun	Graduate	United States	540
+671	Try Harder	Undergraduate Stacked	United States	540
+672	Bouliers du son	Undergraduate	France	540
+673	Cybrosis	Undergraduate	Ukraine	540
+674	l0wlym3	Industry Professional	United Kingdom	540
+675	SIGILL	Undergraduate	United States	520
+676	slashershot	Undergraduate	Singapore	520
+677	kzk	Other	Japan	520
+678	HeaderEnrichment	Industry Professional	United States	520
+679	computersaysNah	Other	United States	510
+680	:(){ :|:& };:	Undergraduate	United States	510
+681	AuburnUni	Undergraduate	United States	510
+682	GMUCYSE	Undergraduate	United States	510
+683	isrosi	Undergraduate	China	510
+684	TeamZAP	Industry Professional	Japan	510
+685	s/losing/winning/	Undergraduate	United States	510
+686	dpnz	Other	Thailand	510
+687	TLIS	Undergraduate	Vietnam	510
+688	Fr0g_Fl4g	Undergraduate	China	510
+689	Razzle's Pie Club	Graduate	United States	510
+690	Something Panda	Industry Professional	United States	510
+691	FOXDIE	Undergraduate	United States	510
+692	Flaming Pandas	High School	United States	510
+693	Tontons Fl4ggeurs	Undergraduate	France	510
+694	dekoboko	Undergraduate	United States	510
+695	Dystopian Knights	Undergraduate	Singapore	500
+696	DadsWhoHack	Other	United States	500
+697	Vito	Undergraduate	United States	500
+698	Some Team	Undergraduate	United States	500
+699	dcnt	Industry Professional	United States	500
+700	m-k-S	Undergraduate	United States	500
+701	Ultra Team	High School	Sudan	500
+702	koibasta1	Undergraduate	Russia	500
+703	Knight_riders	Graduate	India	500
+704	cheravally	Graduate	India	500
+705	Bread	Other	Australia	500
+706	IPFactory	Other	Japan	500
+707	null_black	Graduate	United States	500
+708	DreamSea	Other	United States	500
+709	ming	Undergraduate	United States	500
+710	Flight of the Bisons	Undergraduate Stacked	United States	500
+711	thrustfault	Undergraduate	United States	500
+712	chuck14	Other	Japan	500
+713	Shenanigans	Other	United States	500
+714	groke	Undergraduate	Russia	500
+715	ayuyu	Undergraduate	Australia	500
+716	Coffee with Jason	Other	United States	500
+717	BlackSheep	Undergraduate	China	500
+718	phant0m	High School	Indonesia	500
+719	xkcd	Industry Professional	Australia	500
+720	tyrannicalintegral	Other	United States	500
+721	garuda1337	High School	Indonesia	490
+722	FlippedDirtyBits	Graduate	United States	490
+723	Omega	High School	United States	490
+724	IGGGorg	Undergraduate	Japan	490
+725	WiltedSpinach	Graduate	United States	490
+726	AutoBits	Industry Professional	United States	490
+727	WEDEMBOYZ	High School	Australia	490
+728	CU Razor	Undergraduate	United States	490
+729	Beaverstrike	Other	United States	490
+730	JFH	Undergraduate	Hungary	490
+731	TheH4ckerKnownAs4CHAN	Undergraduate	United States	490
+732	LightSideNightmareGroup	High School	United States	480
+733	Spectrix	Undergraduate	Tunisia	480
+734	bucsec	Undergraduate	United States	480
+735	MDE Never Dies	Undergraduate	Australia	480
+736	frathack	Undergraduate	United States	480
+737	OurLordAndSaviorGaben	High School	United States	480
+738	Fragrant Vagrant	Industry Professional	United States	480
+739	NOP	High School	United States	470
+740	TakeUsFly	Other	China	470
+741	Nikaea	Undergraduate	China	460
+742	Rang3rs	Undergraduate Stacked	United States	460
+743	5unKn0wn	High School	South Korea	460
+744	nulltester	Undergraduate Stacked	United States	460
+745	abcd	Undergraduate	United States	460
+746	Qu3s7	High School	Taiwan	460
+747	deerFour	High School	United States	460
+748	pwndrunk	Other	United States	460
+749	801Labs	Other	United States	460
+750	0x6d61	Undergraduate	United States	450
+751	marc suxxxxx	Industry Professional	United States	450
+752	NCC(post-internet)	Undergraduate	Japan	450
+753	Niels	Undergraduate	Netherlands	450
+754	Restricted	Undergraduate	Vietnam	450
+755	NeOLux-C1Ph3r	Other	France	450
+756	tomori	Undergraduate	Japan	450
+757	hidd3n	High School	Iran	450
+758	Hammer of the Sheeple	Industry Professional	United States	450
+759	Krew	Undergraduate	United States	450
+760	The Refreshers	High School	United States	450
+761	Hacker Narwhal	Undergraduate	United States	450
+762	0xb0b0	Undergraduate	Vietnam	450
+763	uMassD Stacked	Undergraduate Stacked	United States	450
+764	noobteam	Undergraduate	United States	450
+765	KernelPanic	Undergraduate	Russia	450
+766	Spoderkick	Undergraduate	France	450
+767	wight	Undergraduate	Japan	450
+768	rentjong	Other	Indonesia	450
+769	b1n4ry4rms	Other	Kazakhstan	450
+770	Search Flag Agency	Undergraduate	Russia	450
+771	the B team	Industry Professional	United States	440
+772	Bottom of the Bottle	Other	Canada	440
+773	team rorschach	Industry Professional	United States	440
+774	greenteam	Industry Professional	New Zealand	440
+775	MIREA	Undergraduate Stacked	Russia	440
+776	YorkshireAirlines	Other	United Kingdom	440
+777	jmashi2	Graduate	Japan	440
+778	SecurityScrubs	Other	United States	430
+779	P4P	Other	United States	430
+780	chobe	Undergraduate	United States	430
+781	One Trick Pwny	Other	United States	430
+782	Party Goblin	Industry Professional	United States	430
+783	Ca12nage	Industry Professional	United States	430
+784	Korma Chameleon	Industry Professional	United Kingdom	430
+785	Helix=True	High School	United States	430
+786	f0zz13	Graduate	United States	420
+787	ST1TCH	High School	United States	420
+788	Who There	Graduate	Norway	420
+789	marche	Undergraduate	Bahamas	420
+790	Yamagi.com	Industry Professional	Japan	420
+791	D00med	Graduate	United States	410
+792	wynnywynn	Undergraduate	Malaysia	410
+793	htaccess	Undergraduate	India	410
+794	cesi0_	Industry Professional	United States	410
+795	ChallengeAccepted	Industry Professional	United States	400
+796	tawon	Other	Indonesia	400
+797	CTFNovice	Undergraduate	Indonesia	400
+798	B4rFox	Undergraduate	Russia	400
+799	Bob Ross Army	Other	Sweden	400
+800	Efialtis	Industry Professional	Cyprus	400
+801	Crimson Steel	Undergraduate	United States	400
+802	usedoils	Industry Professional	Canada	400
+803	GoneSledding	Industry Professional	United States	400
+804	ascent	Undergraduate Stacked	Indonesia	400
+805	D0r43m0n	Undergraduate	Vietnam	400
+806	burningcodes	Undergraduate	China	400
+807	hsuan	Undergraduate	Taiwan	400
+808	Dartz010	Graduate	United States	390
+809	SpaceMama	Undergraduate	United States	390
+810	snow_folks	Other	United States	390
+811	small-blue	Undergraduate	United States	390
+812	YoRoxx	Undergraduate	India	390
+813	0xDEADBEEF	Undergraduate	United States	390
+814	TEAM_TBD	Industry Professional	United States	390
+815	Blue-Whale	Undergraduate	China	390
+816	rmrf	Other	Vietnam	390
+817	Steampunkers	High School	Poland	390
+818	The Entire PHP.net Security Team	High School	United States	390
+819	Film The Police	Industry Professional	United States	380
+820	franklesby	Undergraduate	United States	380
+821	z3it_0r	Undergraduate	Oman	380
+822	Sepp Forcher CC	Other	Austria	380
+823	Muffins	Undergraduate	United States	380
+824	sbpoaxm	Other	United States	380
+825	totom	Other	Japan	370
+826	1337egy	Graduate	Egypt	370
+827	Wolf Pack	Other	France	370
+828	yl33t	Undergraduate	Canada	360
+829	Goober	Undergraduate	United States	360
+830	nope	Undergraduate	United States	360
+831	longzenvo	High School	Vietnam	360
+832	s111	Other	Iran	360
+833	ctrl.alt.elite	Industry Professional	United States	360
+834	Trash Skype Group	Undergraduate	United States	360
+835	Digital Fight Club	Industry Professional	United States	350
+836	vampire	Graduate	China	350
+837	D.I.S.C	Undergraduate	Australia	350
+838	Team Name Team	Undergraduate	Australia	350
+839	yoghurt	Undergraduate	South Korea	350
+840	naavinm	Other	Malaysia	350
+841	nganggur kawe	Undergraduate	United States	350
+842	NSA_Soc_Team	Undergraduate Stacked	United Kingdom	350
+843	(^_^)	Other	United States	350
+844	Kurawa In Disorder	Undergraduate	Indonesia	350
+845	grayteam	Industry Professional	United States	350
+846	Karezma	Undergraduate	Egypt	350
+847	HackITGuys	Graduate	Norway	350
+848	KrAm0s	Industry Professional	Poland	350
+849	zonda	Undergraduate	Taiwan	350
+850	Serenity	Other	United States	350
+851	ZJGSU-yiduanhash	Undergraduate	China	350
+852	Temp123	Graduate	Taiwan	350
+853	g0dcoder	Graduate	South Korea	350
+854	Quitters	Industry Professional	Netherlands	350
+855	MEPHI_Students	Undergraduate	Russia	350
+856	Hotfix City	Other	United States	350
+857	Mr.X	Industry Professional	France	350
+858	Icenine	Industry Professional	United States	350
+859	gLANDos	Other	France	350
+860	Team Action Kaktus	Undergraduate	United States	340
+861	matterpreter	Industry Professional	United States	340
+862	JusticeEX	Other	United States	340
+863	Team42	High School	Sweden	340
+864	gooligans	Industry Professional	Canada	340
+865	cytopico	Undergraduate	India	340
+866	mictlan	High School	Mexico	340
+867	thel0be	Other	United States	340
+868	Odin's Beard	Industry Professional	United States	330
+869	fleek	Other	United States	330
+870	Karan	High School	United States	330
+871	LL3H5	Other	United States	330
+872	TryingAgain	Industry Professional	United States	330
+873	Agga	Undergraduate	India	330
+874	Jaxx	Undergraduate	Australia	330
+875	One Man Band	Undergraduate	United States	330
+876	Sugitime	Other	United States	330
+877	subtracer	Industry Professional	United States	330
+878	BSOD	Industry Professional	United States	320
+879	WurmCraft	High School	United States	320
+880	newbuy_tw	Graduate	Taiwan	320
+881	area0x41	Undergraduate	Samoa	320
+882	DELCTF	Graduate	Germany	320
+883	Sloth Krew	Other	Trinidad and Tobago	320
+884	woniu	Undergraduate	China	320
+885	djulbars	Graduate	Ukraine	320
+886	Gnawihs	Other	France	310
+887	Winter Springs	High School	United States	310
+888	exhr	Undergraduate	United States	310
+889	Apprentice56	Other	France	310
+890	/g/	Undergraduate	Germany	310
+891	CyberHighlander	Undergraduate	United States	310
+892	Remember the Goat	Graduate	United States	310
+893	carmen	Industry Professional	United States	310
+894	zzzzzzzz	Other	United States	310
+895	Mr.mups	Undergraduate	United States	310
+896	JnJHAHA	Undergraduate	Malaysia	310
+897	Alphateam	Undergraduate	Indonesia	310
+898	KKKas	Other	Poland	300
+899	IchigoMilk	Undergraduate	Japan	300
+900	bDc	Other	United States	300
+901	Hoam	Undergraduate	South Korea	300
+902	cnss_lc4t	Undergraduate	China	300
+903	neglect	Undergraduate	Japan	300
+904	black beard	Undergraduate	Tunisia	300
+905	stupid	High School	China	300
+906	SEQM@S	Graduate	Japan	300
+907	bibou	Other	France	300
+908	SeaTeaSea	Industry Professional	United States	300
+909	GatewayDudes	Industry Professional	United Kingdom	300
+910	n0p	Other	Japan	300
+911	se4quake	Industry Professional	Portugal	300
+912	not0a0dog	Undergraduate	United States	300
+913	AttackIs	Other	Indonesia	300
+914	Severus	Undergraduate	United States	300
+915	CryptoPixie	Graduate	United States	300
+916	Cyber Defense Team SDSU	Undergraduate	United States	300
+917	#infosec	Industry Professional	Ireland	300
+918	Can't_Sudo_Touch_This	Undergraduate	Belgium	300
+919	1in9mu	Industry Professional	Japan	300
+920	Jailmate Residence	Undergraduate	Australia	300
+921	Y3Rp	Other	Japan	300
+922	bender	Undergraduate	Ukraine	300
+923	Sola	Undergraduate	United States	300
+924	Bad Subnet Mask	Industry Professional	United States	300
+925	tyage	Undergraduate	Japan	300
+926	Naco	Industry Professional	United States	300
+927	FatihSec	Graduate	Turkey	300
+928	404	Graduate	Japan	300
+929	dm	Other	United States	300
+930	theropfather	Undergraduate	United Kingdom	290
+931	THG	Industry Professional	Spain	290
+932	Cherry Creek Zero	High School	United States	290
+933	Ni4osi	High School	Russia	290
+934	just_thangs	Industry Professional	United States	290
+935	1010010101	Other	Malaysia	290
+936	HotDiggityDogs	Undergraduate	United States	290
+937	E.Nygma	Graduate	United States	280
+938	Curious Tentacle	Undergraduate	China	280
+939	Shyue	High School	United States	270
+940	Hypothetical Andover Cool Kids	Undergraduate	United States	270
+941	2333	Other	China	260
+942	0x00000000 0x00060053	Undergraduate	Canada	260
+943	jumanji	Other	Iran	260
+944	Don't Blink	Other	United States	260
+945	SMU	Undergraduate	United States	260
+946	LUCIUS	Undergraduate	Vietnam	260
+947	rtmc	Industry Professional	Sweden	260
+948	dwigtsr00t	Industry Professional	United States	260
+949	ClevCode Rising	Industry Professional	Sweden	260
+950	Gallopsled	Undergraduate Stacked	Denmark	260
+951	wagiro	Industry Professional	Andorra	250
+952	TrailerParkBoiz	Undergraduate	United States	250
+953	CCA Compsci	High School	United States	250
+954	AAAA	Undergraduate	United States	250
+955	nonameHDT	High School	Vietnam	250
+956	C4Curious	Undergraduate	India	250
+957	ITFoxTeam	Graduate	Russia	250
+958	sandatindo	Other	Indonesia	250
+959	p119ybird	Other	Vietnam	250
+960	Aleuto	Undergraduate	Malaysia	250
+961	LegalSpies	Undergraduate	Russia	250
+962	CaffeineSec	High School	Argentina	250
+963	WolfyMaster	Undergraduate	United States	250
+964	Korean Jesus	High School	United States	250
+965	Ahmed Mkadem	Undergraduate	Tunisia	250
+966	CEC	Other	United States	250
+967	Shoeless	Undergraduate	United States	250
+968	UF-Org	Other	Japan	250
+969	x-chan	Industry Professional	Japan	250
+970	RT	Other	South Korea	250
+971	pr0v3rbs	Undergraduate	South Korea	250
+972	himanokay	Other	China	250
+973	Practice	Undergraduate Stacked	India	250
+974	decaf54	Graduate	United States	250
+975	labRats	Industry Professional	United States	240
+976	seven	Other	Croatia	240
+977	Summary	Undergraduate	Russia	240
+978	pop.pop.ret	Undergraduate	United States	240
+979	spiderm	Other	Taiwan	240
+980	Bumbuu	Undergraduate	United States	230
+981	Jesuit Security	Undergraduate	United States	230
+982	Pixel	Other	United States	230
+983	colors	Industry Professional	United States	230
+984	KrAmOs	Industry Professional	Poland	230
+985	Charles_Yang	Other	Taiwan	230
+986	Nicolai	Undergraduate	Denmark	230
+987	Synyster	High School	United States	230
+988	Ziria	Graduate	Greece	230
+989	Tard1s	Industry Professional	United States	230
+990	CatsInBags	High School	United States	220
+991	root	Other	Japan	220
+992	bibo	Other	Vietnam	220
+993	SolarCat	Industry Professional	United States	220
+994	digital4n6s	Graduate	India	220
+995	<>	Undergraduate	United States	220
+996	newstar	Industry Professional	United States	220
+997	okashi.tabehoudai	Other	Japan	220
+998	BSUIR	Undergraduate	Belarus	220
+999	hl	Undergraduate Stacked	Russia	220
+1000	testTeam1	Undergraduate	United States	220
+1001	sforzando	Undergraduate	Thailand	220
+1002	oida	Undergraduate	Germany	220
+1003	GreyBell	Undergraduate	Vietnam	210
+1004	DayZero Cyber	Undergraduate	United States	210
+1005	TwentyKnives	Industry Professional	United States	210
+1006	Wellesley High School	High School	United States	210
+1007	bluedream	Industry Professional	United States	210
+1008	bob_ross_fan_club	Undergraduate	United States	210
+1009	EniGmA	Undergraduate	United Arab Emirates	210
+1010	LX0	Graduate	Canada	210
+1011	RegalEagle	High School	United States	210
+1012	Abso1952	Undergraduate Stacked	Germany	210
+1013	#fal7Q	Undergraduate	United States	200
+1014	Steamboat	Undergraduate	United States	200
+1015	The C-Team	Undergraduate	United States	200
+1016	s4ever-x	Other	United States	200
+1017	Karalus	Industry Professional	United States	200
+1018	Army of One	Graduate	United States	200
+1019	Niemand	Undergraduate	Argentina	200
+1020	PaPe Team	High School	Indonesia	200
+1021	0xEBFE	Undergraduate	Finland	200
+1022	jimp	Undergraduate	United States	200
+1023	stuff	Industry Professional	United States	200
+1024	ngedaftar	Undergraduate	Indonesia	200
+1025	manitu	Other	Germany	200
+1026	!nfos3c-n00b$	Other	India	200
+1027	drod0	Undergraduate	United States	200
+1028	TheKillerBees	Industry Professional	Netherlands	200
+1029	LulzSec	Undergraduate	Russia	200
+1030	KNUSEC	High School	South Korea	200
+1031	WWW	Undergraduate	United States	200
+1032	SooLFaa	High School	Russia	200
+1033	ajaja	Graduate	Japan	200
+1034	BobbysBrother	Other	United Kingdom	200
+1035	Gh0stC4t	Undergraduate	Vietnam	200
+1036	Team F5	Graduate	India	200
+1037	AssazziN	Undergraduate	Thailand	200
+1038	gabe_k	Undergraduate	United States	200
+1039	Team Carter	Undergraduate	United States	200
+1040	infidels	Other	United States	200
+1041	dalbo	Undergraduate	Russia	200
+1042	ID	Graduate	United Kingdom	200
+1043	khanta	Graduate	United States	200
+1044	kingcan007	Undergraduate	Vietnam	200
+1045	AvgCabbage	Undergraduate	United States	200
+1046	Millburn Hackers	High School	United States	200
+1047	nubian	Undergraduate	United States	200
+1048	has_NOTHING_todo	Undergraduate	Taiwan	200
+1049	thepcn3rd	Other	United States	200
+1050	rEvEr	Undergraduate	Vietnam	200
+1051	garu	High School	Barbados	200
+1052	thangdn.sf	Industry Professional	Vietnam	200
+1053	dicks mcgee	Undergraduate	United States	200
+1054	tuuuna	Other	United States	200
+1055	sinkingstepz	Undergraduate	United States	200
+1056	nisec	Other	China	190
+1057	biffsquad	Undergraduate	United States	190
+1058	CAMSDestroyer	High School	United States	180
+1059	What is CTF	High School	United States	180
+1060	OneManTeam	Industry Professional	Russia	180
+1061	Yozik	Other	Russia	180
+1062	Tunisian Whitehats Security	High School	Tunisia	170
+1063	The Elder	High School	United States	170
+1064	tomato	Graduate	South Korea	170
+1065	2mr	Other	Iran	170
+1066	team830192	Other	United States	160
+1067	passw0rd	High School	Haiti	160
+1068	0w1s	Undergraduate	United States	160
+1069	Phantom Wolf	Industry Professional	United States	160
+1070	SRegan	Undergraduate	United States	150
+1071	BeginBazen	Undergraduate	Netherlands	150
+1072	stest	Undergraduate	United States	150
+1073	Deathnode	Undergraduate	United States	150
+1074	56573035646d52486247316c55543039	High School	United States	150
+1075	Meatball Raffle	Industry Professional	Australia	150
+1076	hhhqqq	Other	China	150
+1077	r3b00t	Undergraduate	United States	150
+1078	Cybercenturion	Undergraduate	India	150
+1079	testing22	Undergraduate	Russia	150
+1080	YamraJ	Industry Professional	India	150
+1081	PwnStar	Undergraduate	South Korea	150
+1082	BattalGazi	Undergraduate	Turkey	150
+1083	#117	Undergraduate	India	150
+1084	Program Ninjaz	Industry Professional	United Kingdom	150
+1085	hackbyr0k	Undergraduate	South Korea	150
+1086	EyeOnSecurity	Undergraduate	United States	150
+1087	Xteam	Undergraduate	Romania	150
+1088	Round table	Industry Professional	United States	150
+1089	Spooky Ghosts	Undergraduate Stacked	United States	150
+1090	RAM-128Mb	Undergraduate	Vietnam	150
+1091	SocietyMen	Industry Professional	United States	150
+1092	Tk.	Graduate	Vietnam	150
+1093	Nothing	Undergraduate	United States	150
+1094	Hell.zip	Undergraduate	Russia	150
+1095	M-0-C	Other	Algeria	150
+1096	rm /bin/rm	Graduate	India	150
+1097	EverTokki	High School	United Arab Emirates	140
+1098	The Council	High School	United States	140
+1099	5q	Other	China	140
+1100	No Direction	Industry Professional	Canada	140
+1101	SuperAwesomeTeam	Industry Professional	United States	140
+1102	Ekaterina	Undergraduate	Russia	140
+1103	HellsResort	High School	Russia	140
+1104	Team Openfire	Undergraduate	India	140
+1105	North Korea Best Korea	Industry Professional	North Korea	140
+1106	Seals	Industry Professional	United States	140
+1107	gg	Undergraduate	Taiwan	140
+1108	BlackVelt	Industry Professional	South Korea	140
+1109	JMU CDC	Undergraduate	United States	130
+1110	chzplz	Other	United States	130
+1111	UofK	Undergraduate	Sudan	130
+1112	Zurix2sexy	High School	United States	130
+1113	UCEFKH	Undergraduate	Morocco	130
+1114	Dixie_Flatline	Undergraduate	United States	130
+1115	Three kids	High School	United States	130
+1116	LoH	Industry Professional	United Kingdom	130
+1117	K50Y	Undergraduate	Taiwan	130
+1118	itsecurityco	Undergraduate	Colombia	130
+1119	computersaysno	Undergraduate	Abkhazia	130
+1120	rubes	Other	United States	130
+1121	ClubPSUTI	High School	Russia	130
+1122	timagusiki	Undergraduate	Poland	130
+1123	Debug_2.00	Undergraduate	India	130
+1124	catbug	Undergraduate	United States	130
+1125	RC3	Undergraduate	United States	130
+1126	paraxor	Industry Professional	United States	130
+1127	JOOOOOOZE	Industry Professional	United States	130
+1128	Inventio	Undergraduate Stacked	Russia	130
+1129	michiko	Industry Professional	South Korea	120
+1130	st1ckybit	Graduate	United States	120
+1131	RedLee	Industry Professional	United States	120
+1132	Team ThunderSmash	Undergraduate Stacked	United States	120
+1133	jmpebx	Industry Professional	Singapore	120
+1134	GA_CTF	Undergraduate	Vietnam	120
+1135	picnic	Graduate	United States	120
+1136	noregister	Other	United States	120
+1137	MrCat	Industry Professional	Algeria	120
+1138	0xda7aba5e	Undergraduate	United States	120
+1139	1230617	High School	South Korea	120
+1140	mokepon	Undergraduate	United States	110
+1141	Unit3	Undergraduate	United States	110
+1142	mlp	Undergraduate Stacked	United States	110
+1143	stand alone	Other	United States	110
+1144	nightangel	Undergraduate	India	110
+1145	dragonjar-vende-humo	Undergraduate	Colombia	110
+1146	untitle58ca	Undergraduate	Vietnam	110
+1147	RyanWithZombies	Undergraduate	United States	110
+1148	Register	Undergraduate	United States	110
+1149	Nightingale	Graduate	Iran	110
+1150	Zeebras	Undergraduate	United States	110
+1151	team5	Industry Professional	Austria	110
+1152	mood	Industry Professional	United States	100
+1153	Gl0wz	Industry Professional	United States	100
+1154	warl0rd	Undergraduate	Canada	100
+1155	odinsoftv	Undergraduate	United States	100
+1156	bobbyluig	High School	United States	100
+1157	longerteamname	Undergraduate	United States	100
+1158	mznlab	Industry Professional	United States	100
+1159	team bob	Industry Professional	United States	100
+1160	10bps	Undergraduate	Taiwan	100
+1161	Rinne	Undergraduate	Vietnam	100
+1162	crackatoa	Graduate	Indonesia	100
+1163	buddh4	Undergraduate	Vietnam	100
+1164	Tanakaxa	Other	Japan	100
+1165	F001	Other	China	100
+1166	room201	High School	United States	100
+1167	lolnoobs	Graduate	Canada	100
+1168	[DATA EXPUNGED]	Graduate	Taiwan	100
+1169	Tomatosalada	Undergraduate	Japan	100
+1170	give job pls	Undergraduate	Australia	100
+1171	DiGIMON	Undergraduate	Thailand	100
+1172	Pwn_Squad	Graduate	United States	100
+1173	w3luv_c00kiz	Undergraduate	United States	100
+1174	Vijilan	Undergraduate	United States	100
+1175	TeamAyy	Undergraduate	United Kingdom	100
+1176	testit	Undergraduate	China	100
+1177	norio001	Other	Japan	100
+1178	LeaveRet	Other	North Korea	100
+1179	Flaming Trolls	Industry Professional	Poland	100
+1180	Xtatic	Undergraduate	Israel	100
+1181	TraiOi	High School	Vietnam	100
+1182	NISRA	Industry Professional	Taiwan	100
+1183	ALD	Undergraduate	United States	100
+1184	Entr0pia	Undergraduate	Russia	100
+1185	odebuuuu	Other	Congo	100
+1186	'"><script>confirm(1)</script>	Undergraduate	United States	100
+1187	2B	Undergraduate	United States	100
+1188	boat	Other	United States	100
+1189	Solo	Industry Professional	United States	100
+1190	0x101	Undergraduate	India	100
+1191	Healer	Graduate	South Korea	100
+1192	Nathan	Industry Professional	Canada	100
+1193	HSECTF	Undergraduate	United States	100
+1194	fruitjuice	Undergraduate	United Kingdom	100
+1195	big_tits_funs	Undergraduate	United States	100
+1196	test09	Undergraduate	Algeria	100
+1197	TEN	Industry Professional	Russia	100
+1198	derpderpderp	Undergraduate Stacked	United States	100
+1199	fucknotesy	Undergraduate	United States	100
+1200	enter witty team name here	Undergraduate	United Kingdom	100
+1201	bryancfoo	High School	United States	100
+1202	notesytest	Other	United States	100
+1203	undertale	Undergraduate	United States	100
+1204	SectorK	Undergraduate	South Korea	100
+1205	zeropixel	Undergraduate	United States	100
+1206	nooelec	Other	United States	100
+1207	Loststar	Undergraduate	Spain	100
+1208	sendy	Graduate	Japan	100
+1209	lmred	Undergraduate	United States	100
+1210	mutepig	Undergraduate	United States	100
+1211	garytan	Undergraduate	United States	100
+1212	qwerty-	Undergraduate	United States	100
+1213	<script>alert('asd');</script>	Undergraduate	United States	100
+1214	white-shark	Undergraduate	China	90
+1215	splarcit	Other	United States	80
+1216	BoHaHa	Other	United States	70
+1217	jncb	Undergraduate	China	70
+1218	turtle	Undergraduate	Japan	70
+1219	noobs1996	Undergraduate	India	70
+1220	Razzmatazz Wolves	High School	United States	60
+1221	Time	Graduate	United States	60
+1222	Bronze5 JP	Undergraduate	Japan	60
+1223	Kash k	Undergraduate	United States	60
+1224	Infamous SYN	Other	Australia	60
+1225	Team Solo	Undergraduate	United States	60
+1226	ch3rry	Other	South Korea	60
+1227	Team Hibuki	Graduate	United States	60
+1228	191015	Other	Australia	60
+1229	keywee	Other	South Korea	60
+1230	PeanutButterPancakes: The Revenge	Undergraduate Stacked	United States	60
+1231	Hackstars	Undergraduate	Canada	50
+1232	hedgehog	Undergraduate	Japan	50
+1233	gfsu_csir_15	Graduate	India	50
+1234	7511	Undergraduate	Australia	50
+1235	UNM NEST	Undergraduate Stacked	United States	50
+1236	tresp	Undergraduate	Japan	50
+1237	AuxTeam	Undergraduate	Sierra Leone	50
+1238	Asi	Industry Professional	France	50
+1239	Seppho	Undergraduate	Italy	50
+1240	ansghgusdlcjeksgksek	High School	South Korea	50
+1241	shellshocker	Undergraduate	Romania	50
+1242	helloworld	Undergraduate	China	50
+1243	Blair notgoingtobewinningthiscompetitionteam	High School	United States	50
+1244	ttt404	Other	Japan	50
+1245	UET_Anonymos	Graduate	Vietnam	50
+1246	Wildcat	Undergraduate	Singapore	50
+1247	ninjastrike	Undergraduate	United States	50
+1248	As	Undergraduate	Saudi Arabia	50
+1249	arsenal	Undergraduate	United States	50
+1250	Choking Hazard	High School	United States	50
+1251	gzaros	Industry Professional	Morocco	50
+1252	TeamOWC	Other	United States	50
+1253	STMH	Graduate	United States	50
+1254	kdj2438	Other	South Korea	50
+1255	sftp	High School	United States	50
+1256	Sex_Panther	Undergraduate	United States	50
+1257	NewBee	Undergraduate	United States	50
+1258	MMK	Industry Professional	Iran	50
+1259	4ido10n	High School	United States	50
+1260	walkingcoder	Undergraduate	Vietnam	50
+1261	VoidHackRoot	Graduate	Poland	50
+1262	rmza7	Undergraduate	United States	50
+1263	Lone Warrior	Graduate	United States	50
+1264	Skltn	Undergraduate	United States	50
+1265	Team Toboggan	Undergraduate	United States	50
+1266	BCCHack	High School	United States	50
+1267	FlyingSolo	Undergraduate	Australia	40
+1268	divot	Undergraduate	Australia	40
+1269	Aurora Borealis	Graduate	United States	40
+1270	v1d	Industry Professional	United States	40
+1271	drsl	Undergraduate Stacked	United States	40
+1272	t00l4me	Industry Professional	Canada	40
+1273	A800	Undergraduate	United States	40
+1274	OneEyedJack	Other	United States	40
+1275	alien	Graduate	Indonesia	40
+1276	notme	Undergraduate	United States	40
+1277	Grunge	Industry Professional	United States	30
+1278	ThatOneGuy	Industry Professional	United States	30
+1279	Haxorz	Undergraduate	United States	30
+1280	Jimmy^	Other	United States	30
+1281	underground authority	Graduate	United States	30
+1282	ArrBas	Other	United States	30
+1283	didadida	Other	United Kingdom	30
+1284	ERSA	Other	India	30
+1285	kwondewoo	Other	South Korea	30
+1286	Cyan0genic	Undergraduate	United Kingdom	30
+1287	M0nst3rZ	Other	South Korea	30
+1288	mxy54453@pooae.com	High School	Congo (Brazzaville)	30
+1289	h3x	Undergraduate	United States	30
+1290	EchoTeam	Graduate	France	30
+1291	HH	Undergraduate	United States	30
+1292	ArtBlair	High School	United States	30
+1293	Tacos	Other	United States	30
+1294	raptr	Other	United States	30
+1295	fembots	Undergraduate	United States	30
+1296	Java Programmers	Industry Professional	Poland	30
+1297	Pipes	Undergraduate	United States	20
+1298	Ctl-Alt-Delite	High School	United States	20
+1299	Buffer Overflow	Graduate	United States	20
+1300	AppleJacked	Undergraduate	United States	20
+1301	DW3b	Other	Singapore	20
+1302	hydroacoustic	Industry Professional	Canada	20
+1303	onlyseesee	Undergraduate	China	20
+1304	Babu1n0$	Undergraduate	Norway	20
+1305	4fun	Industry Professional	Taiwan	20
+1306	VT Solo	Graduate	United States	20
+1307	Wabzaishouyin	High School	China	20
+1308	ComTruise	Other	United States	20
+1309	takawo	Other	Japan	20
+1310	mopsled	Graduate	United States	20
+1311	Maverick Hackers	Undergraduate	India	20
+1312	Shielder	Other	Italy	20
+1313	PSUTI team	Undergraduate	Russia	20
+1314	Tosha	Undergraduate	Russia	20
+1315	wolf	Industry Professional	Australia	20
+1316	r2s	Undergraduate	India	20
+1317	onenoobarmy	Other	Japan	20
+1318	S4b0t	Other	United States	20
+1319	cauchy	Graduate	Norway	20
+1320	FundaoHUE	Undergraduate	United States	20
+1321	Team TuDix	Other	United States	20
+1322	Wut	Graduate	United States	20
+1323	zero	Undergraduate	United States	20
+1324	bash	High School	South Korea	20
+1325	siftal	Undergraduate	United States	20
+1326	Pwny Express	Undergraduate	United States	20
+1327	zid	Undergraduate	United Kingdom	20
+1328	TheFloorIsJava	Undergraduate	United States	20
+1329	makenbank	Undergraduate	United States	10
+1330	asdf	Undergraduate	United States	10
+1331	Team143	Undergraduate	Turkey	10
+1332	Mr. Underhill	Undergraduate	United States	10
+1333	sergeybelove	Industry Professional	United States	10
+1334	Higyigma	Undergraduate	United States	10
+1335	Txorx	Graduate	South Korea	10
+1336	glennb	Industry Professional	United States	10
+1337	Tequila	Undergraduate	Mexico	10
+1338	BananaTree	Graduate	China	10
+1339	Skyner	Undergraduate	China	10
+1340	starkrafz0r	Undergraduate	United States	10
+1341	SLO	Undergraduate	South Korea	10
+1342	pidge	Undergraduate	United States	10
+1343	skelor	High School	United States	10
+1344	ravi123	Graduate	United States	10
+1345	CPlusPython	Undergraduate	United States	10
+1346	Dumbledore	Undergraduate	China	10
+1347	Mashiro	High School	China	10
+1348	WeiYu	Undergraduate	Taiwan	10
+1349	Gowabby	Other	China	10
+1350	cheese	Undergraduate	The Gambia	10
+1351	Tehurn	Other	United States	10
+1352	ohai	Industry Professional	United States	10
+1353	qhrdoury'"()&%<acx><ScRiPt >prompt(948412)</ScRiPt>	Undergraduate	United States	10
+1354	meme	Other	Germany	10
+1355	S1ZE	Undergraduate	Russia	10
+1356	d0t	High School	Argentina	10
+1357	pop_pop_ret	Other	United States	10
+1358	PINK PANDAS	Undergraduate	United States	10
+1359	PhotogenicKielbasy	Undergraduate	United States	10
+1360	singi	Other	Somalia	10
+1361	the other jeffrey lebowskis	Industry Professional	United States	10
+1362	ShipsSink	Undergraduate	United States	10
+1363	afczys	High School	China	10
+1364	latekake	Undergraduate	United States	10
+1365	fite me 1v1	High School	United States	10
+1366	the_team_above_us_cheated	Undergraduate	United States	10
+1367	sweg_munny_wolvez	High School	United States	10

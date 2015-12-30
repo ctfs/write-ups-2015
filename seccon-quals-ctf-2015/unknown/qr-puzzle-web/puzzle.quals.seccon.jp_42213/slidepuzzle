@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Decode the QR code</title>
+<script type=text/javascript>
+<!--
+var space = 43;
+
+function clicked(img) {
+    var number = parseInt(img.name);
+    var neighbors = [ number+1, number-1, number+10, number-10 ];
+    for (var i = 0; i < neighbors.length; i++) {
+        var neighbor = neighbors[i];
+        if (neighbor != space)
+            continue;
+        var images = document.images;
+        for (var index = 0; index < images.length; index++) {
+            var target = images[index];
+            if (target.name != String(neighbor))
+                continue;
+            var src = img.src;
+            img.src = target.src;
+            target.src = src;
+            space = number;
+            break;
+        }
+    }
+}
+// -->
+</script>
+</head>
+<body>
+No. 1 of 50
+<br>
+Level: Easy
+<p/>
+<img src='http://puzzle.quals.seccon.jp:10011/img/02f82f830e5e13c190fc919f9385d9bdc57e541c992b7f.png>' name='11' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10012/img/8c715feda12bc7e2ab6dfbe4542ebadee244da26171145.png>' name='12' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10013/img/13402149fbb324f207ae6181bf97ac125d414523881440.png>' name='13' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10014/img/702c6d2565ff9448b65f7e3d5dcc4558c74c262eeb194d.png>' name='14' onclick=clicked(this)><br><img src='http://puzzle.quals.seccon.jp:10021/img/ee002fa13504d2594c2a8a84bd79556bce22b840757723.png>' name='21' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10022/img/b4a6b0a758df918213dcabab793affbedd35e2572f6034.png>' name='22' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10023/img/4eceb490036964dd458e126289b306d2eed618b4d583d7.png>' name='23' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10024/img/1d91db346c5b6056b5d4c74c671b3026f6d34bb18686d2.png>' name='24' onclick=clicked(this)><br><img src='http://puzzle.quals.seccon.jp:10031/img/ecce88dcf9b536a15a5b37886ceb3cd191b8bada77edb9.png>' name='31' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10032/img/bb7ae1c2215c8f265ed77589622402a004caeda8209fcb.png>' name='32' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10033/img/a756a9d0fc213b88424d8f1a65e67d2f37c1f1a33c94c0.png>' name='33' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10034/img/263824e7b2b68b8c2f12891c8e1d58e59358703abd0d59.png>' name='34' onclick=clicked(this)><br><img src='http://puzzle.quals.seccon.jp:10041/img/8f3fc1a3f5df792248310633731d8a276c8fd9ed14da8e.png>' name='41' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10042/img/159504105b15c9104d21f44b8cb9fba2d26043028e3561.png>' name='42' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10043/img/7207d5a03602c998667c8dbe2ce589221fd424b6e981d5.png>' name='43' onclick=clicked(this)><img src='http://puzzle.quals.seccon.jp:10044/img/f0a246d744e177ae5802145e2677cc4828d8a6ba6b8dd9.png>' name='44' onclick=clicked(this)><br>
+<p/>
+<form action="b91b518b69f8065cc5646d4501848f87c04def2f22184c" method="POST">
+Decode: <input type="text" name="text" size="33">
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>

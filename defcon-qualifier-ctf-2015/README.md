@@ -1,13 +1,13 @@
 # DEF CON Qualifier CTF write-ups
 
 * <https://2015.legitbs.net/>
-* [Scoreboard](https://2015.legitbs.net/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://2015.legitbs.net/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
 * [babys-first/babyecho](babys-first/babyecho)
-* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 * [pwnable/fuckup](pwnable/fuckup)
+* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 
 ## External write-ups only
 

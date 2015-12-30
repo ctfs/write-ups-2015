@@ -115,3 +115,4 @@ The flag is `flag{have_a_wonderful_starcrafts}`.
 * <http://www.securifera.com/blog/2015/04/23/plaidctf-2015-png-uncorrupt/>
 * <https://mattscodecave.com/posts/plaidctf-2015---corrupt-png>
 * <https://13c5.wordpress.com/2015/04/20/plaidctf-2015-png-uncorrupt/>
+* <https://towerofhanoi.github.io/plaidctf2015/forensics/PNG_Uncorrupt/>

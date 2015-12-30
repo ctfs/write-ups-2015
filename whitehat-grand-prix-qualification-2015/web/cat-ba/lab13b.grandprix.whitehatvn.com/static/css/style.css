@@ -1,0 +1,39 @@
+.img_{
+    width: 275px;
+    height: 200px;
+}
+.img__{
+    height: 430px;
+}
+.name-picture{
+    margin-top: 5px;
+    display: inline-block;
+}
+.item{
+    float: left;
+    margin-right:10px;
+    margin-bottom: 15px;
+}
+.comment-message{
+
+    /*height: 500px;*/
+}
+textarea {
+    resize: none;
+}
+.comment-message{
+    margin-top: 10px;
+}
+.comment-message div{
+    margin-bottom: 20px;
+}
+#content-comment-area{
+    height: 320px;
+    overflow: scroll;
+}
+/*.active{*/
+    /*background-color: #0c4b33;*/
+/*}*/
+/*.fist-item{*/
+    /*margin-left:0px;*/
+/*}*/

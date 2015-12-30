@@ -1,0 +1,67 @@
+<html lang="en" ng-app="StudentApp">
+
+<head>
+<meta name="viewport" content="initial-scale=1" />
+<link rel="stylesheet" href="./index.css">
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0-rc1/angular-material.min.css">
+</head>
+
+<body layout="column" ng-controller="AppController as vm" class="mobile">
+<md-toolbar layout="row">
+	<div class="md-toolbar-tools">
+		<h1>Student query</h1>
+	</div>
+</md-toolbar>
+<div layout="row" flex>
+	<div layout="column" flex id="content">
+		<md-content layout="column" flex class="md-padding">
+			<h2>Enter your query</h2>
+			<md-input-container>
+				<label>Field</label>
+				<md-select ng-model="vm.field">
+					<md-option ng-repeat="field in vm.fields" ng-value="field">{{field.name}}</md-option>
+				</md-select>
+			</md-input-container>
+			<md-input-container>
+				<label>Comparison</label>
+				<md-select ng-model="vm.comp" ng-disabled="!vm.getComp(vm.field).length">
+					<md-option ng-repeat="comp in vm.getComp(vm.field)" ng-value="comp">{{comp.name}}</md-option>
+				</md-select>
+			</md-input-container>
+			<md-input-container>
+				<label>Value</label>
+				<input ng-model="vm.value">
+			</md-input-container>
+			<md-list>
+				<md-subheader class="md-no-sticky">{{vm.results.length}} Results</md-subheader>
+					<md-list-item class="md-3-line" ng-repeat="res in vm.results">
+						<div class="md-list-item-text" layout="column">
+							<h3>{{ res[0] + ' ' + res[1] }}</h3>
+							<h4>Score: {{ res[2] }}</h4>
+							<p>Class: {{ res[4] }}</p>
+						</div>
+
+						<md-divider ></md-divider>
+					</md-list-item>
+				</md-subheader>
+			</md-list>
+		</md-content>
+		<div class="md-actions" layout="row">
+			<div flex></div>
+			<div>
+				<md-button class="primary" ng-click="vm.submit()">Submit</md-button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Angular Material Dependencies -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-animate.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-aria.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0-rc1/angular-material.min.js"></script>
+<script src="./index.js"></script>
+</body>
+
+</html>

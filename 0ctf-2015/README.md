@@ -1,7 +1,7 @@
 # 0CTF 2015 Quals CTF write-ups
 
 * <https://ctf.0ops.sjtu.cn/>
-* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](scoreboard)
 * [Number of solves per task](http://dl.0ops.net/count.txt) or [local alternative](count.txt)
 * [Given hints and notes](hints)
 
@@ -17,8 +17,8 @@
 * [crypto/rsa-quine](crypto/rsa-quine)
 * [crypto/satbeginner](crypto/satbeginner)
 * [exploit/0ops-app](exploit/0ops-app)
-* [exploit/freenote](exploit/freenote)
 * [exploit/flaggenerator](exploit/flaggenerator)
+* [exploit/freenote](exploit/freenote)
 * [exploit/login](exploit/login)
 * [exploit/vbs](exploit/vbs)
 * [misc/babypolyquine](misc/babypolyquine)

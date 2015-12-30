@@ -50,3 +50,4 @@ DrgnS{MyHardWorkByTheseWordsGuardedPleaseDontStealMasterCryptoProgrammer}
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CONFIDENCE_TEASER/crypto/machacking>
+* <https://b01lers.net/challenges/CONFidence%20Teaser%202015/mac%20hacking/49/>

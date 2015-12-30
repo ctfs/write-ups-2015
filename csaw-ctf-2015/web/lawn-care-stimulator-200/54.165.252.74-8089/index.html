@@ -1,0 +1,52 @@
+<html>
+<head>
+    <title>Lawn Care Simulator 2015</title>
+    <script src='js/md5.js' type='text/javascript'></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> 
+    <script src="js/grass.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script>
+        function init(){
+            document.getElementById('login_form').onsubmit = function() {
+                var pass_field = document.getElementById('password'); 
+                pass_field.value = CryptoJS.MD5(pass_field.value).toString(CryptoJS.enc.Hex);
+        };
+        $.ajax('.git/refs/heads/master').done(function(version){$('#version').html('Version: ' +  version.substring (0,6))});
+        initGrass();
+    }
+    </script>
+</head>
+<body onload="init()">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Lawn Care Simulator 2015</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form id='login_form' action='premium.php' method='post' class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" required name='username' placeholder="username" class="form-control">
+            </div>
+            <div class="form-group">
+              <input id='password' type="password" required name='password' placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in for premium content!</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container" style='margin-top: 25px'>
+      <br/> 
+      <canvas id='grass' width=600 height=600 style="margin: auto;display: block"></canvas>  
+      <button type="button" class="btn btn-success btn-block" onclick='grow()' style='margin-top: 25px'>GROW!</button> 
+      <hr>
+      <footer>
+        <p>&copy; 2014 &nbsp | &nbsp <a href='sign_up.php'> Sign Up For Lawn Care Simulator Premium</a> | &nbsp <a href='jobs.html'>Careers</a>&nbsp</p>
+        <p id='version' style='float: left; color: gray'></p>
+      </footer>
+    </div> <!-- /container -->
+</body>
+</html>
