@@ -20,3 +20,4 @@
 * <http://lokalhost.pl/ctf/codegate2015/book.py>
 * <https://gist.github.com/eboda/1f5a8b2e29afaf0a9df1>
 * <http://l4w.io/files/CTFs/codegate2015/bookstore.py>
+* [GoN (Korean)](http://gon.kaist.ac.kr/?p=858)

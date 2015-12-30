@@ -23,3 +23,4 @@
 * <https://ctf-team.vulnhub.com/codegate-2015-guesspw/>
 * <https://github.com/pwning/public-writeup/blob/master/codegate2015/trick100-guesspw/writeup.md>
 * [Korean](http://cd80.tistory.com/64)
+* [GoN (Korean)](http://gon.kaist.ac.kr/?p=829)
