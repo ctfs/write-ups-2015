@@ -15,5 +15,6 @@
 ## Other write-ups and resources
 
 * <https://adarshdinesh.wordpress.com/2015/12/29/embedded-hd44780-32c3-ctf-2015/>
-* <http://pastebin.com/UXjk7wSy>
+* <https://github.com/p4-team/ctf/tree/master/2015-12-27-32c3/hd44780_embedded_150#eng-version>
 * <https://github.com/racoons-team/ctf/tree/master/2015-12-27-32c3/HD44780_embedded_150>
+* <http://pastebin.com/UXjk7wSy>

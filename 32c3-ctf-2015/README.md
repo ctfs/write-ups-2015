@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [embedded/hd44780-150](embedded/hd44780-150)
+* [embedded/traces-200](embedded/traces-200)
 * [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/vault-400](misc/vault-400)
 * [pwn/docker-250](pwn/docker-250)
@@ -25,7 +26,6 @@
 
 * [embedded/blobberry-300](embedded/blobberry-300)
 * [embedded/nordicbynature-400](embedded/nordicbynature-400)
-* [embedded/traces-200](embedded/traces-200)
 * [forensics/the-300](forensics/the-300)
 * [misc/aes-250](misc/aes-250)
 * [pwn/bingo-500](pwn/bingo-500)
