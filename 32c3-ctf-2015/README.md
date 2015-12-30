@@ -6,13 +6,13 @@
 ## Completed write-ups
 
 * [misc/gurke-300](misc/gurke-300)
+* [forensics/config-bin-150](forensics/config-bin-150)
 
 ## External write-ups only
 
 * [embedded/blobberry-300](embedded/blobberry-300)
 * [embedded/hd44780-150](embedded/hd44780-150)
 * [embedded/traces-200](embedded/traces-200)
-* [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/vault-400](misc/vault-400)
 * [pwn/cryptmsg-400](pwn/cryptmsg-400)
 * [pwn/docker-250](pwn/docker-250)
