@@ -69,4 +69,5 @@ The complete exploit:
 * <https://github.com/p4-team/ctf/tree/master/2015-12-27-32c3/gurke_misc_300#eng-version>
 * <http://blukat29.github.io/2015/12/32c3ctf-gurke/>
 * <https://github.com/krx/CTF-Writeups/tree/master/32C3%202015/misc300%20-%20gurke>
+* <http://nopat.ch/2015/12/29/32c3ctf-misc-gurke/>
 * <http://pastebin.com/JikU89uJ>
