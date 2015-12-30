@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://rzhou.org/~ricky/32c3/sandbox/>
+* [GoN (Korean)](http://gon.kaist.ac.kr/?cat=47)
