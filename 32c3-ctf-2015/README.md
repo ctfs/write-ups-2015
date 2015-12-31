@@ -8,6 +8,7 @@
 
 * [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/gurke-300](misc/gurke-300)
+* [web/kummerkasten-300](web/kummerkasten-300)
 
 ## External write-ups only
 
@@ -26,7 +27,6 @@
 * [reversing/ey-or-150](reversing/ey-or-150)
 * [reversing/flash-300](reversing/flash-300)
 * [web/itd-150](web/itd-150)
-* [web/kummerkasten-300](web/kummerkasten-300)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
 ## Missing write-ups
