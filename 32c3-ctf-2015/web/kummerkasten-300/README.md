@@ -306,3 +306,4 @@ As the task was saying that the format of the flag is not of the standard form I
 ## Other write-ups and resources
 
 * <https://github.com/andihit/ctf-write-ups/blob/master/2015/32c3/kummerkasten.md>
+* <http://breaking.into.systems/2015/12/29/32c3ctf-kummerkasten-writeup/>
