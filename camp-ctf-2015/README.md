@@ -5,11 +5,11 @@
 
 ## Completed write-ups
 
+* [forensics/APT-incident-response-400](forensics/APT-incident-response-400)
 * [pwn/bitterman-300](pwn/bitterman-300)
 
 ## External write-ups only
 
-* [forensics/APT-incident-response-400](forensics/APT-incident-response-400)
 * [pwn/hacker_level-200](pwn/hacker_level-200)
 * [pwn/ropcalc-225](pwn/ropcalc-225)
 * [pwn/secret_file-150](pwn/secret_file-150)
