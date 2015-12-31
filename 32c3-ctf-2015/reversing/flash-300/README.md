@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
+* <http://nusgreyhats.org/write-ups/32C3-CTF-Flash-(Reversing-300)/>
 * <http://pastebin.com/xrUrAZHY>

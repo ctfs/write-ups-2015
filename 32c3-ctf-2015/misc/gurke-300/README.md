@@ -72,5 +72,5 @@ The complete exploit:
 * <http://nopat.ch/2015/12/29/32c3ctf-misc-gurke/>
 * <http://katc.hateblo.jp/entry/2015/12/30/154329>
 * <https://irq5.io/2015/12/30/32c3-ctf-write-up-gurke/>
-* <http://pastebin.com/JikU89uJ>
 * <http://nandynarwhals.org/2015/12/31/32c3ctf-gurke-misc-300/>
+* <http://pastebin.com/JikU89uJ>
