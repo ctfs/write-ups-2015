@@ -302,8 +302,6 @@ The bot was apparently down for a while but then I saw a callback in the termina
 
 As the task was saying that the format of the flag is not of the standard form I concatenated the token with the password and it went through.
 
-> Read the manual if unsure, post comment(s) if unclear.
-
 
 ## Other write-ups and resources
 
