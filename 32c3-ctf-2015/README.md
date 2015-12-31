@@ -1,12 +1,14 @@
 # 32C3 CTF 2015 write-ups
 
 * <https://32c3ctf.ccc.ac/>
-* [Scoreboard](https://32c3ctf.ccc.ac/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://32c3ctf.ccc.ac/scoreboard/) or [local alternative](./scoreboard)
+* Number of participants with point > 0: 389
 
 ## Completed write-ups
 
-* [misc/gurke-300](misc/gurke-300)
 * [forensics/config-bin-150](forensics/config-bin-150)
+* [misc/gurke-300](misc/gurke-300)
+* [web/kummerkasten-300](web/kummerkasten-300)
 
 ## External write-ups only
 
@@ -25,7 +27,6 @@
 * [reversing/ey-or-150](reversing/ey-or-150)
 * [reversing/flash-300](reversing/flash-300)
 * [web/itd-150](web/itd-150)
-* [web/kummerkasten-300](web/kummerkasten-300)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
 ## Missing write-ups

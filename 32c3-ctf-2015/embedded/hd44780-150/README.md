@@ -2,7 +2,7 @@
 
 **Category:** Embedded
 **Points:** 150
-**Solves:** 38
+**Solves:** 40
 **Description:**
 
 > The logic states of the GPIOs have been recorded Figure out the displayed message. You're gonna need this here

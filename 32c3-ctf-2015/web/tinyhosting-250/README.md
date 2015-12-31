@@ -1,13 +1,10 @@
-# 32C3 CTF 2015 : tinyhosting-250
+# 32C3 CTF 2015 : TinyHosting
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 250
+**Solves:** 71
 **Description:**
 
-> 
-> Solves: 71
-> 
 > A new file hosting service for very small files. could you pwn it?
 > 
 > 

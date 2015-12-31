@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 300
-**Solves:** 48
+**Solves:** 49
 **Description:**
 
 > This firmware image is secured against manipulation using RSA and MD5. Can you still get around that protection?

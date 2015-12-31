@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 150
-**Solves:** 29
+**Solves:** 30
 **Description:**
 
 > This binary contains a flag, extract it!
