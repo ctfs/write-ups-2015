@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://yous.be/2015/12/30/32c3-ctf-2015-libdroid-write-up/>
