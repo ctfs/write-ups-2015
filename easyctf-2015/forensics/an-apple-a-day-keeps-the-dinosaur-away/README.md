@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> Oh look, it's a perfectly innocent picture of an [apple](https://github.com/EasyCTF/easyctf-2015-writeups/files/apple.jpg). Nothing to see here!
+> Oh look, it's a perfectly innocent picture of an [apple](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/apple.jpg). Nothing to see here!
 > 
 > 
 > Hint: Apples are suspicious. Don't trust apples. They always have something to hide . . .

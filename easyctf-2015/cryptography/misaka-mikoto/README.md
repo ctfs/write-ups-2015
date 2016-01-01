@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> My friends like anime way too much . . . they decided that to give me an encoded [message](https://github.com/EasyCTF/easyctf-2015-writeups/files/message.txt), but I can't solve it because I'm not a weeb!
+> My friends like anime way too much . . . they decided that to give me an encoded [message](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/message.txt), but I can't solve it because I'm not a weeb!
 > 
 > 
 > Hint: railguns are cool

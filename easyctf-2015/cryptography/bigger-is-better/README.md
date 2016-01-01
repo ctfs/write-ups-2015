@@ -8,7 +8,7 @@
 > The larger the primes, the stronger the RSA cryptosystem is, right?
 > 
 > 
-> [Data](https://github.com/EasyCTF/easyctf-2015-writeups/files/biggerisbetter.txt).
+> [Data](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/biggerisbetter.txt).
 
 
 ## Write-up

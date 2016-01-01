@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> How good are you at reading Python? Put your Python skills to the test by finding the password that passes this check: [obfuscated.py](https://github.com/EasyCTF/easyctf-2015-writeups/files/obfuscated.py)
+> How good are you at reading Python? Put your Python skills to the test by finding the password that passes this check: [obfuscated.py](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/obfuscated.py)
 > 
 > 
 > Note: `easyctf{}` formatting is not required for this problem.

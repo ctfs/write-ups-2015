@@ -11,7 +11,7 @@
 > \#000000 to \#F5F5F5... there's one shade missing! Find the hex value of the missing shade. Pound sign optional.
 > 
 > 
-> [Image](https://github.com/EasyCTF/easyctf-2015-writeups/files/shades.png)
+> [Image](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/shades.png)
 > 
 > 
 > Hint: How can we tell which color is which?

@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> Welcome to [Small Hole Sciences](https://github.com/EasyCTF/easyctf-2015-writeups/files/cave-johnson.txt).
+> Welcome to [Small Hole Sciences](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/cave-johnson.txt).
 > 
 > 
 > (Since all of their budget was spent on moon rocks, they were only able to afford an old-fashioned Vigenere Cipher.)

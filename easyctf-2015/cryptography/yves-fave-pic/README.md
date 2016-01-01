@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> @chaosagent doesn't like people seeing pictures of his face. So naturally, here's a [picture](https://github.com/EasyCTF/easyctf-2015-writeups/files/smile.jpg) of his face. Have fun :)
+> @chaosagent doesn't like people seeing pictures of his face. So naturally, here's a [picture](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/smile.jpg) of his face. Have fun :)
 > 
 > 
 > Hint: Note: This is a VERY rare occurrence. @chaosagent NEVER smiles. Make note of it. Oh, wait, you wanted a hint? Fine. You need some programming to solve this efficiently.

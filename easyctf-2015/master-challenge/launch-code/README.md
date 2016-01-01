@@ -19,7 +19,7 @@
 > Reverse engineer the launch code generator program, and modify it so that it will work with agent 23102's password instead of agent 5068. Then, using the intercepted password, generate a valid launch code and report it back to us!
 > 
 > 
-> **Intercepted Program:** [LaunchCode.exe](https://github.com/EasyCTF/easyctf-2015-writeups/files/LaunchCode.exe)
+> **Intercepted Program:** [LaunchCode.exe](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/LaunchCode.exe)
 > 
 > 
 > <small>MD5: bd1f54a4fa1f19168303275d6d02ca0f</small>

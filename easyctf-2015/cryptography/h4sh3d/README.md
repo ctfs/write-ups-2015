@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> We discovered that Varsos's server uses a fairly insecure hash function to check passwords. The hashed password is `c9b5af9864efa933`, and the hashing function can be found [here](https://github.com/EasyCTF/easyctf-2015-writeups/files/hash1.py).
+> We discovered that Varsos's server uses a fairly insecure hash function to check passwords. The hashed password is `c9b5af9864efa933`, and the hashing function can be found [here](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/hash1.py).
 > 
 > 
 > Hint: Seems like working backwards will be a pain. Is there any easier way?

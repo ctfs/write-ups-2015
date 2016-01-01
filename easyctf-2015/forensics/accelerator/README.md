@@ -5,7 +5,7 @@
 **Solves:** 
 **Description:**
 
-> Hey, do you want to learn more about Steganography? Cool, read [this](https://github.com/EasyCTF/easyctf-2015-writeups/files/steg.pdf) article. Just friendly learning. We're not hiding ANYTHING \*nervous laugh\*
+> Hey, do you want to learn more about Steganography? Cool, read [this](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/steg.pdf) article. Just friendly learning. We're not hiding ANYTHING \*nervous laugh\*
 > 
 > 
 > Hint: Yeah chaosagent likes Accelerator blah blah blah
