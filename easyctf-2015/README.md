@@ -9,6 +9,7 @@
 ## Completed write-ups
 
 * [forensics/49-shades-of-gray](forensics/49-shades-of-gray)
+* [forensics/a-picture-is-worth-a-thousand-words](forensics/a-picture-is-worth-a-thousand-words)
 
 ## External write-ups only
 
@@ -32,7 +33,6 @@
 * [cryptography/xor](cryptography/xor)
 * [cryptography/yves-fave-pic](cryptography/yves-fave-pic)
 * [cryptography/zobs-password](cryptography/zobs-password)
-* [forensics/a-picture-is-worth-a-thousand-words](forensics/a-picture-is-worth-a-thousand-words)
 * [forensics/accelerator](forensics/accelerator)
 * [forensics/an-apple-a-day-keeps-the-dinosaur-away](forensics/an-apple-a-day-keeps-the-dinosaur-away)
 * [forensics/corrupted](forensics/corrupted)
