@@ -13,7 +13,18 @@
 
 ## Write-up
 
-(TODO)
+We are given a picture of an apple:
+
+![](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/apple.jpg)
+
+Applying `strings` on the file in combination with a `grep` for `easyctf` yields the flag:
+
+```bash
+$ strings -a apple.jpg | grep 'easyctf'
+   the flag is easyctf{w0w_much_appl3s}
+```
+
+The flag is `easyctf{w0w_much_appl3s}`.
 
 ## Other write-ups and resources
 
