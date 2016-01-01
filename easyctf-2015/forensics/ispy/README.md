@@ -13,7 +13,23 @@
 
 ## Write-up
 
-(TODO)
+We get a pcap traffic dump that we analyze using `wireshark` to see several HTTP and TCP packets.
+
+First, we have a look at the TCP stream `Analyze->Follow->TCP Stream`:
+
+![](./tcp-stream.png)
+
+Looks like some pictures (see the `.PNG` in the content and `Content-Type` in the request headers) have been uploaded.
+
+Therefore, we then export all objects transmitted (`File->Export Objects->HTTP->Save all`):
+
+![](./export-objects.png)
+
+One of these pictures yields the flag, `{pcap_fun!??}`:
+
+![](Drawing.jpg)
+
+
 
 ## Other write-ups and resources
 
