@@ -12,6 +12,7 @@
 * [forensics/a-picture-is-worth-a-thousand-words](forensics/a-picture-is-worth-a-thousand-words)
 * [forensics/an-apple-a-day-keeps-the-dinosaur-away](forensics/an-apple-a-day-keeps-the-dinosaur-away)
 * [forensics/ispy](forensics/ispy)
+* [forensics/liar](forensics/liar)
 
 ## External write-ups only
 
@@ -37,7 +38,6 @@
 * [cryptography/zobs-password](cryptography/zobs-password)
 * [forensics/accelerator](forensics/accelerator)
 * [forensics/corrupted](forensics/corrupted)
-* [forensics/liar](forensics/liar)
 * [forensics/lolteam](forensics/lolteam)
 * [forensics/pixels](forensics/pixels)
 * [forensics/repetitive-strain-injury](forensics/repetitive-strain-injury)
