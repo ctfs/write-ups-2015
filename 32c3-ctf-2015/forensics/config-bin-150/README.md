@@ -72,4 +72,5 @@ After removing that evil `/n` in there we are able to base64 decode it and get t
 
 * <https://github.com/SleepProgger/ctf_stuff/blob/master/32C3/config.bin/crack_config.py>
 * <https://irq5.io/2015/12/30/32c3-ctf-write-up-config-bin/>
+* <http://pastebin.com/uTt4C2kF> [Log](http://pastebin.com/ekpHrgPt)
 * [Information about the fileformat and decrypter @https://heinrichs.io/](https://heinrichs.io/207)

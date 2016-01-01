@@ -20,5 +20,5 @@
 
 ## Other write-ups and resources
 
-* <http://blog.includesecurity.com/2015/11/NordicSemi-ARM-SoC-Firmware-dumping-technique.html>
 * <https://tasteless.eu/post/2015/12/32c3ctf-emb400/>
+* <http://blog.includesecurity.com/2015/11/NordicSemi-ARM-SoC-Firmware-dumping-technique.html>
