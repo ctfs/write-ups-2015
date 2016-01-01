@@ -18,5 +18,6 @@
 * <http://securityerror.github.io/blog/12292015/forth.html>
 * <https://nuc13us.wordpress.com/2015/12/30/32c3-ctf-writeup-forth-150/>
 * <http://nopat.ch/2015/12/30/32c3ctf-pwn-forth/>
-* [Execute a cmd with forth](http://rosettacode.org/wiki/Execute_a_system_command#Forth)
 * <http://nandynarwhals.org/2015/12/30/32c3ctf-forth-pwn-150/>
+* <https://github.com/p4-team/ctf/blob/master/2015-12-27-32c3/forth_pwn_150/README.md#eng-version>
+* [Execute a cmd with forth](http://rosettacode.org/wiki/Execute_a_system_command#Forth)
