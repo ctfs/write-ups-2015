@@ -17,5 +17,6 @@
 
 ## Other write-ups and resources
 
-* <http://pastebin.com/XAM9xfYU>
 * <http://nandynarwhals.org/2015/12/31/32c3ctf-teufel-pwn-200/>
+* <http://v0ids3curity.blogspot.in/search/label/32C3%20CTF?m=0>
+* <http://pastebin.com/XAM9xfYU>

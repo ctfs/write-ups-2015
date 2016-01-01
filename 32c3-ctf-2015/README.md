@@ -14,6 +14,7 @@
 
 * [embedded/blobberry-300](embedded/blobberry-300)
 * [embedded/hd44780-150](embedded/hd44780-150)
+* [embedded/nordicbynature-400](embedded/nordicbynature-400)
 * [embedded/traces-200](embedded/traces-200)
 * [misc/vault-400](misc/vault-400)
 * [pwn/cryptmsg-400](pwn/cryptmsg-400)
@@ -32,7 +33,6 @@
 
 ## Missing write-ups
 
-* [embedded/nordicbynature-400](embedded/nordicbynature-400)
 * [forensics/the-300](forensics/the-300)
 * [misc/aes-250](misc/aes-250)
 * [pwn/bingo-500](pwn/bingo-500)
