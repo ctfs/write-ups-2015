@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/IceCTF/Problems-2015/blob/master/stage4/forensics/alien_contact/solution.md>
