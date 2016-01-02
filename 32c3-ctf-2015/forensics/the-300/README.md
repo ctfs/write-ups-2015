@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://tasteless.eu/post/2015/12/32c3ctf-for300/>
