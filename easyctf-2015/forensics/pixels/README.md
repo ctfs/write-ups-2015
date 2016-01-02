@@ -29,7 +29,7 @@ We can do that using [ImageMagicks `compose`](http://www.imagemagick.org/Usage/c
 Turns out, we need to use the `difference` operator:
 
 ```bash
-$ convert mystery1.png mystery2.png -compose minus -composite -colorspace Gray new.png 
+$ convert mystery1.png mystery2.png -compose difference -composite -colorspace Gray new.png 
 ```
 
 `new.png`:
