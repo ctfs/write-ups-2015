@@ -12,6 +12,7 @@
 * [forensic/broken-heart](forensic/broken-heart)
 * [forensic/keka-bomb](forensic/keka-bomb)
 * [forensic/my-ped](forensic/my-ped)
+* [forensic/zrypt](forensic/zrypt)
 * [stego/blind](stego/blind)
 * [stego/number-pi](stego/number-pi)
 * [trivia/survey](trivia/survey)
@@ -21,7 +22,6 @@
 
 * [crypto/cross-check](crypto/cross-check)
 * [forensic/dump](forensic/dump)
-* [forensic/zrypt](forensic/zrypt)
 * [programming/grids](programming/grids)
 * [pwn/math-sequence](pwn/math-sequence)
 * [pwn/saw-this-1](pwn/saw-this-1)
