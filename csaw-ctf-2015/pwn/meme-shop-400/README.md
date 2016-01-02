@@ -23,3 +23,4 @@
 
 * <https://github.com/numinit/CTF/blob/master/CSAW-2015/memeshop.md>
 * <http://bitsforeveryone.blogspot.com/2015/09/writeup-csaw-2015-exploitation-400.html>
+* <https://kitctf.de/writeups/csaw-2015/memeshop/>
