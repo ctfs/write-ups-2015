@@ -9,6 +9,7 @@
 * [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/gurke-300](misc/gurke-300)
 * [web/kummerkasten-300](web/kummerkasten-300)
+* [web/sequence-hunt-200](web/sequence-hunt-200)
 
 ## External write-ups only
 
@@ -39,4 +40,3 @@
 * [reversing/carder-500](reversing/carder-500)
 * [reversing/pica-300](reversing/pica-300)
 * [web/monkeybase-200](web/monkeybase-200)
-* [web/sequence-hunt-200](web/sequence-hunt-200)
