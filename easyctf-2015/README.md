@@ -14,6 +14,7 @@
 * [forensics/ispy](forensics/ispy)
 * [forensics/liar](forensics/liar)
 * [forensics/lolteam](forensics/lolteam)
+* [forensics/pixels](forensics/pixels)
 
 ## External write-ups only
 
@@ -39,7 +40,6 @@
 * [cryptography/zobs-password](cryptography/zobs-password)
 * [forensics/accelerator](forensics/accelerator)
 * [forensics/corrupted](forensics/corrupted)
-* [forensics/pixels](forensics/pixels)
 * [forensics/repetitive-strain-injury](forensics/repetitive-strain-injury)
 * [forensics/rest-in-pepperoni-pizzas](forensics/rest-in-pepperoni-pizzas)
 * [forensics/sayonara](forensics/sayonara)
