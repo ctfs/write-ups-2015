@@ -12,7 +12,13 @@
 
 ## Write-up
 
-(TODO)
+We are given a pcap traffic dump that we open with `wireshark` to see some HTTP and TCP packets.
+
+By following the TCP stream (`Analyze->Follow->TCP Stream`), we see that the traffic captured a HTTP POST request to `2014.easyctf.com/api/account/update`.
+
+It contains teamname, school name, password and password confirmation entries - the password contains the flag, `flag{no,_lolteam_is_not_an_admin_account}`:
+
+![](./wireshark.png)
 
 ## Other write-ups and resources
 

@@ -1,4 +1,5 @@
 *.swp
+*.bak
 lsg
 connection
 backdoor-ctf-2015/crypto/rand/index.html
