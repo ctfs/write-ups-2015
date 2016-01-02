@@ -74,4 +74,5 @@ The complete exploit:
 * <https://irq5.io/2015/12/30/32c3-ctf-write-up-gurke/>
 * <http://nandynarwhals.org/2015/12/31/32c3ctf-gurke-misc-300/>
 * <http://v0ids3curity.blogspot.in/2015/12/32c3-ctf-misc-300-gurke.html?m=0>
+* [Japanese](http://blog.objc.jp/?p=2294)
 * <http://pastebin.com/JikU89uJ>

@@ -14,6 +14,7 @@
 
 ## Other write-ups and resources
 
+* [Japanese](http://blog.objc.jp/?p=2294)
 * <http://pastebin.com/DQXxCM23>
 * <http://pastebin.com/TG3x3Jz9>
 * <http://pastebin.com/8XfDu51x>

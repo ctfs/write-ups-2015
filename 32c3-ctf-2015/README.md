@@ -30,6 +30,7 @@
 * [reversing/flash-300](reversing/flash-300)
 * [reversing/libdroid-150](reversing/libdroid-150)
 * [web/itd-150](web/itd-150)
+* [web/monkeybase-200](web/monkeybase-200)
 * [web/tinyhosting-250](web/tinyhosting-250)
 
 ## Missing write-ups
@@ -39,4 +40,3 @@
 * [pwn/bingo-500](pwn/bingo-500)
 * [reversing/carder-500](reversing/carder-500)
 * [reversing/pica-300](reversing/pica-300)
-* [web/monkeybase-200](web/monkeybase-200)

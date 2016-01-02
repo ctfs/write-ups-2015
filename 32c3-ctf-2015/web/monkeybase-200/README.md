@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* <http://blog.objc.jp/?p=2294>
+* [Japanese](http://blog.objc.jp/?p=2294)
