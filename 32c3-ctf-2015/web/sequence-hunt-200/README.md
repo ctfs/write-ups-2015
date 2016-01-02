@@ -149,8 +149,8 @@ Third `77`
 [4, 12, 80, 80, 80]: 1.4834677696228027
 ```
 
-And so on, until we got to all the params and the flag `[4, 12, 77, 98, 35]`
-http://136.243.194.36:18888/check?val0=4&val1=12&val2=77&val3=98&val4=35
+And so on, until we got to all the params and the [flag](http://136.243.194.36:18888/check?val0=4&val1=12&val2=77&val3=98&val4=35) `[4, 12, 77, 98, 35]`
+
 ```
 $ curl 'http://136.243.194.36:18888/check?val0=4&val1=12&val2=77&val3=98&val4=35'
 you are 37.120.106.140
