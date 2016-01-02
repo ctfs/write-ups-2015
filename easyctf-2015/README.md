@@ -16,6 +16,7 @@
 * [forensics/lolteam](forensics/lolteam)
 * [forensics/pixels](forensics/pixels)
 * [forensics/rest-in-pepperoni-pizzas](forensics/rest-in-pepperoni-pizzas)
+* [forensics/who-is-this-god](forensics/who-is-this-god)
 
 ## External write-ups only
 
@@ -43,7 +44,6 @@
 * [forensics/corrupted](forensics/corrupted)
 * [forensics/repetitive-strain-injury](forensics/repetitive-strain-injury)
 * [forensics/sayonara](forensics/sayonara)
-* [forensics/who-is-this-god](forensics/who-is-this-god)
 * [linux/hijacked](linux/hijacked)
 * [linux/mrrow](linux/mrrow)
 * [linux/now-you-see-me-now-you-dont](linux/now-you-see-me-now-you-dont)
