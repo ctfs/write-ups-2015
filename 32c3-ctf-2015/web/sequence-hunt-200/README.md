@@ -67,7 +67,7 @@ To better understand what happens, here's a sample node js code. (run with `$ no
 var http = require('http');
 var url = require('url');
 
-// even loop blocking sleep
+// event loop blocking sleep
 function sleep(s) {
   var e = new Date().getTime() + s;
   while (new Date().getTime() <= e) {;}
