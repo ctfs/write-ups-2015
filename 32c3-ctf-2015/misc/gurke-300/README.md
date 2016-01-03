@@ -76,3 +76,4 @@ The complete exploit:
 * <http://v0ids3curity.blogspot.in/2015/12/32c3-ctf-misc-300-gurke.html?m=0>
 * [Japanese](http://blog.objc.jp/?p=2294)
 * <http://pastebin.com/JikU89uJ>
+* <http://pastebin.com/VUkfxYyP>
