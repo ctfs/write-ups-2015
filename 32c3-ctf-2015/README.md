@@ -28,7 +28,6 @@
 * [pwn/sandbox-300](pwn/sandbox-300)
 * [pwn/teufel-200](pwn/teufel-200)
 * [pwn/tree-500](pwn/tree-500)
-* [reversing/carder-500](reversing/carder-500)
 * [reversing/ey-or-150](reversing/ey-or-150)
 * [reversing/flash-300](reversing/flash-300)
 * [reversing/libdroid-150](reversing/libdroid-150)
@@ -40,3 +39,4 @@
 ## Missing write-ups
 
 * [misc/aes-250](misc/aes-250)
+* [reversing/carder-500](reversing/carder-500)
