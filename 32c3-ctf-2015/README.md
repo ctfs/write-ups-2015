@@ -19,6 +19,7 @@
 * [embedded/traces-200](embedded/traces-200)
 * [forensics/the-300](forensics/the-300)
 * [misc/vault-400](misc/vault-400)
+* [pwn/bingo-500](pwn/bingo-500)
 * [pwn/cryptmsg-400](pwn/cryptmsg-400)
 * [pwn/docker-250](pwn/docker-250)
 * [pwn/forth-150](pwn/forth-150)
@@ -38,5 +39,4 @@
 ## Missing write-ups
 
 * [misc/aes-250](misc/aes-250)
-* [pwn/bingo-500](pwn/bingo-500)
 * [reversing/carder-500](reversing/carder-500)

@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit by the challenge author](http://shells.aachen.ccc.de/~spq/bingo_exploit.tar.gz)
