@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://blog.l4ys.tw/2016/01/32c3-ctf-pica/)
