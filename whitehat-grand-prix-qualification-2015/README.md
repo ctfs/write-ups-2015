@@ -5,12 +5,12 @@
 
 ## Completed write-ups
 
+* [forensics/ca-mau](forensics/ca-mau)
 * [forensics/phong-nha-ke-bang](forensics/phong-nha-ke-bang)
 * [forensics/sa-pa](forensics/sa-pa)
 
 ## External write-ups only
 
-* [forensics/ca-mau](forensics/ca-mau)
 * [reverse/dong-van](reverse/dong-van)
 * [reverse/hue](reverse/hue)
 * [web/can-tho](web/can-tho)
