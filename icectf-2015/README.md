@@ -8,6 +8,7 @@
 ## Completed write-ups
 
 * [forensics/document-troubles](forensics/document-troubles)
+* [forensics/epilepsy-warning](forensics/epilepsy-warning)
 * [forensics/husavik](forensics/husavik)
 * [forensics/logoventures](forensics/logoventures)
 * [forensics/logoventures-2-reloaded](forensics/logoventures-2-reloaded)
@@ -37,7 +38,6 @@
 * [cryptography/rsa3](cryptography/rsa3)
 * [cryptography/sausages](cryptography/sausages)
 * [forensics/alien-contact](forensics/alien-contact)
-* [forensics/epilepsy-warning](forensics/epilepsy-warning)
 * [forensics/mondrian](forensics/mondrian)
 * [miscellaneous/facebook](miscellaneous/facebook)
 * [miscellaneous/not-found](miscellaneous/not-found)
