@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Sourcecode and eepron random data](http://shells.aachen.ccc.de/~spq/carder_infos.tar.gz)
