@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Patch against qemu to add the custom device](http://shells.aachen.ccc.de/~spq/0001-challenge-device-added-and-chip-which-has-this.patch.gz)
