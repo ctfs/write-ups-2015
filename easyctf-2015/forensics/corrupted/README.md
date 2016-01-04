@@ -64,7 +64,7 @@ total 264
 -rw-r--r--  1 xxx  xxx   6234 Jan  4 09:06 10931434_890605537650928_5977686544027780096_n.jpg
 ```
 
-Of the downloaded versions, only one, `5WzbbhtpMkQ.jpg`, has the same size (`6851`) as the corrupted version:
+Out of the downloaded versions only one, `5WzbbhtpMkQ.jpg`, has the same size (`6851`) as the corrupted version:
 
 ![](./5WzbbhtpMkQ.jpg)
 
@@ -109,7 +109,7 @@ $ diff <(xxd yuno.jpg) <(xxd yunos/5WzbbhtpMkQ.jpg)
 We print out their differences using [this python script](bytediff.py):
 
 ```bash
-p2 bytediff.py yuno.jpg 5WzbbhtpMkQ.jpg 
+$ python2.7 bytediff.py yuno.jpg 5WzbbhtpMkQ.jpg 
 0000[...]0000
 0110010101100001011100110111100101100011011101000110011001111011011110010111010101101110011011110110111100110000011011110110111101101111011011110110111101101111011011110110111101101111011011110110111101101111001100000110111101111101
 0000[...]0000
