@@ -68,7 +68,7 @@ Out of the downloaded versions only one, `5WzbbhtpMkQ.jpg`, has the same size (`
 
 ![](./5WzbbhtpMkQ.jpg)
 
-We print out their differences first with `xxd` to see that a stream of bytes have been modified:
+We print out their differences first with `xxd` to see that a stream of bytes has been modified:
 
 ```bash
 $ diff <(xxd yuno.jpg) <(xxd yunos/5WzbbhtpMkQ.jpg)
