@@ -42,6 +42,6 @@ The user adam owns the flag and there is a setuid binary `dockerrun`, which just
 
 ## Other write-ups and resources
 
-* <http://ebfe.dk/2016/01/04/pwning-docker/>
 * <https://kitctf.de/writeups/32c3ctf/docker/>
+* <http://ebfe.dk/2016/01/04/pwning-docker/>
 * <https://gist.github.com/stephenR/5d0987531e2b3ab3a730>
