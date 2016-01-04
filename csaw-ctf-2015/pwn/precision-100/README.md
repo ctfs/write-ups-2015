@@ -25,3 +25,4 @@
 * <http://kikisctf.blogspot.hr/2015/09/csaw-2015-quals-exploitable-100.html>
 * <http://blog.isis.poly.edu/2015/09/28/csaw-ctf-precision.html>
 * <https://github.com/ByteBandits/writeups/blob/master/csaw-quals-2015/pwn/precision/sudhackar/README.md>
+* <https://www.youtube.com/watch?v=0TWlW5MBnKE>
