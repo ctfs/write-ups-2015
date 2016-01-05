@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [pwn/prng-service](pwn/prng-service)
 
 ## External write-ups only
 
@@ -19,7 +19,6 @@
 * [misc/the-picture-challenge](misc/the-picture-challenge)
 * [pwn/echoes](pwn/echoes)
 * [pwn/login](pwn/login)
-* [pwn/prng-service](pwn/prng-service)
 * [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
 * [rev/decode-it](rev/decode-it)
 * [rev/ekogift](rev/ekogift)
