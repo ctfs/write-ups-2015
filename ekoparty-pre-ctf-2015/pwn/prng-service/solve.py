@@ -1,5 +1,4 @@
 from pwn import *
-import binascii
 H,P='challs.ctf.site',20003
 H,P='localhost',6666
 r = remote(H,P)
