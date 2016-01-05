@@ -19,9 +19,7 @@ This writeup is based on following writeups:
 * <https://0x90r00t.com/2015/09/20/ekoparty-pre-ctf-2015-pwn25-prng-service/>
 * <https://github.com/ByteBandits/writeups/blob/master/ekoparty-pre-ctf-2015/pwn/prng-service/chaitan94/README.md>
 
-We are given a zip that contains a single C source code file:
-
-![](./pwn25.c)
+We are given a zip that contains a [single C source code file](./pwn25.c).
 
 We can see the following:
 
