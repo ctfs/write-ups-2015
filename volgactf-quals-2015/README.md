@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [pwn/database](pwn/database)
 * [stego/captcha](stego/captcha)
 * [stego/poem](stego/poem)
 * [stego/strange-text](stego/strange-text)
@@ -23,7 +24,6 @@
 * [joy/world-art](joy/world-art)
 * [ppc/mathproblem](ppc/mathproblem)
 * [pwn/bash](pwn/bash)
-* [pwn/database](pwn/database)
 * [pwn/my-little-pwnie](pwn/my-little-pwnie)
 * [recon/find-him](recon/find-him)
 * [recon/yacst](recon/yacst)
