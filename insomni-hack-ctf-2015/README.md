@@ -19,7 +19,6 @@
 * [exploit/jurassic-sparc](exploit/jurassic-sparc)
 * [exploit/sh1tty](exploit/sh1tty)
 * [exploit/smtpwn](exploit/smtpwn)
-* [exploit/sql-inject-flow](exploit/sql-inject-flow)
 * [hardware/1-2-3-4](hardware/1-2-3-4)
 * [mobile/insomnidroid-part1](mobile/insomnidroid-part1)
 * [mobile/insomnidroid-part2](mobile/insomnidroid-part2)
@@ -34,6 +33,7 @@
 ## Missing write-ups
 
 * [exploit/mastermind](exploit/mastermind)
+* [exploit/sql-inject-flow](exploit/sql-inject-flow)
 * [exploit/the-firmware](exploit/the-firmware)
 * [web/hacker-idol](web/hacker-idol)
 * [web/jack-the-clicker](web/jack-the-clicker)
