@@ -20,4 +20,5 @@
 * <http://nandynarwhals.org/2015/12/31/32c3ctf-teufel-pwn-200/>
 * <http://v0ids3curity.blogspot.in/search/label/32C3%20CTF?m=0>
 * <https://www.youtube.com/watch?v=wDosab_Y4Hs>
+* <http://ebfe.dk/ctf/2016/01/06/32c3-teufel/>
 * <http://pastebin.com/XAM9xfYU>
