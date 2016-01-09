@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://yous.be/2015/12/30/32c3-ctf-2015-libdroid-write-up/>
+* <http://blog.squareroots.de/en/2016/01/32c3-ctf-android-reverse-engineering-libdroid/>
