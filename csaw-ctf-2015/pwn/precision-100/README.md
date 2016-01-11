@@ -104,6 +104,8 @@ To get a shell, we have to do following steps:
 * Find or craft shellcode that works for `__isoc99_scanf` - e.g. `pwntool`'s [`shellcraft.i386.linux.sh()`](http://pwntools.readthedocs.org/en/latest/shellcraft/i386.html#pwnlib.shellcraft.i386.linux.sh) won't work, since it contains a `0xb`, which is a whitecharacter and triggers `__isoc99_scanf` to stop reading!
 * Find the right offset to get control over `EIP` and overwrite it with the leaked stack address (in our case the address of our buffer)
 
+NOTE: To craft the shellcode, I pasted the hex representation of my shellcode (`xxd -p in` , then copy only the shellcode part) to [ODA](https://www.onlinedisassembler.com/odaweb/) and searched for needed opcodes and instructions in the given binary using `radare2`.
+
 [This python code](./solve.py) does the job:
 
 ```bash
