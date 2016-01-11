@@ -12,6 +12,7 @@
 * [forensics/keep-calm-and-ctf-100](forensics/keep-calm-and-ctf-100)
 * [forensics/sharpturn-400](forensics/sharpturn-400)
 * [forensics/transfer-100](forensics/transfer-100)
+* [pwn/precision-100](pwn/precision-100)
 
 ## External write-ups only
 
@@ -24,7 +25,6 @@
 * [pwn/contacts-250](pwn/contacts-250)
 * [pwn/ftp-2-300](pwn/ftp-2-300)
 * [pwn/meme-shop-400](pwn/meme-shop-400)
-* [pwn/precision-100](pwn/precision-100)
 * [recon/alexander-taylor-100](recon/alexander-taylor-100)
 * [recon/eric-liang-100](recon/eric-liang-100)
 * [recon/julian-cohen-100](recon/julian-cohen-100)
