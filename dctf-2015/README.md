@@ -5,13 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [exploit/password-encrypting-tool-100](exploit/password-encrypting-tool-100)
 
 ## External write-ups only
 
 * [crypto/11-50](crypto/11-50)
 * [crypto/no-crypto-200](crypto/no-crypto-200)
-* [exploit/password-encrypting-tool-100](exploit/password-encrypting-tool-100)
 * [exploit/such-exploit-much-random-300](exploit/such-exploit-much-random-300)
 * [misc/emotional-roller-coaster-350](misc/emotional-roller-coaster-350)
 * [misc/she-said-it-doesnt-matter-100](misc/she-said-it-doesnt-matter-100)
