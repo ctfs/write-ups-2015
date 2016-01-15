@@ -7,6 +7,7 @@
 
 ## Completed write-ups
 
+* [binary-exploitation/what](binary-exploitation/what)
 * [forensics/document-troubles](forensics/document-troubles)
 * [forensics/epilepsy-warning](forensics/epilepsy-warning)
 * [forensics/husavik](forensics/husavik)
@@ -28,7 +29,6 @@
 * [binary-exploitation/shocked](binary-exploitation/shocked)
 * [binary-exploitation/simple](binary-exploitation/simple)
 * [binary-exploitation/supernote](binary-exploitation/supernote)
-* [binary-exploitation/what](binary-exploitation/what)
 * [cryptography/2x0r](cryptography/2x0r)
 * [cryptography/agents](cryptography/agents)
 * [cryptography/entropy](cryptography/entropy)
