@@ -24,8 +24,12 @@
 * <http://capturetheswag.blogspot.com.au/2015/03/vancouver-bsides-2015-sushi-pwnable.html>
 * <https://ctf-team.vulnhub.com/bsides-vancouver-2015-sushi/>
 * <http://barrebas.github.io/blog/2015/03/18/bsides-vancouver-ctf-sushi/>
+* <https://akshayswebspace.wordpress.com/tag/writeup/>
+* <http://www.tuicool.com/articles/uieaeaq>
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2015/03/b-sides-vancouver-2015.html)
 * [Japanese 2](http://charo-it.hatenablog.jp/entry/2015/03/18/234404)
+* [Korean?](http://revers3r.tistory.com/27)
 * [Korean](http://s0ngsari.tistory.com/entry/yvrctfPwnable-100)
 * <http://captf.com/2015/bsides-vancouver/ownable/sushi-psifertex-solve.py>
 * <https://gist.github.com/emyei/248ccf0aa4b773aa17a7>
+* <http://smleenull.tistory.com/521>

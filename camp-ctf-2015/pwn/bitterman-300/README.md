@@ -86,3 +86,4 @@ CAMP15_a786be6aca70bfd19b6af86133991f80
 
 * <https://ctf-team.vulnhub.com/campctf-2015-bitterman/> 
 * <https://github.com/thebarbershopper/ctf-writeups/tree/master/campctf-2015/bitterman-pwn-400>
+* [Chinese](http://www.cnhackmy.com/hacked/CTF/2015/09/12/00001675.html)

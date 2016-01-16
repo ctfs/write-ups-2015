@@ -17,4 +17,7 @@
 
 ## Other write-ups and resources
 
-* <http://blog.tinduong.pw/asis-quals-2015-saw-this-writeup/>
+* <http://blog.tinduong.pw/asis-quals-2015-saw-this-writeup/> (Down?)
+* <http://bruce30262.logdown.com/posts/277024-asis-ctf-2015-quals-saw-this-1>
+* [Japanese](http://www.cnhackmy.com/hacked/CTF/2015/09/12/00001679.html)
+* [Polish](http://forum.4programmers.net/Spolecznosc/252274-writeup_asis_ctf_2015)

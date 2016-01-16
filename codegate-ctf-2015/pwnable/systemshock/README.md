@@ -18,4 +18,7 @@
 * <https://github.com/pwning/public-writeup/blob/master/codegate2015/pwn200-systemshock/writeup.md>
 * <https://rzhou.org/~ricky/codegate2015_quals/systemshock/sol.txt>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CODEGATE/pwnable/systemshock>
+* <http://capturetheswag.blogspot.de/2015/03/codegate-2015-system-shock-pwnable.html>
 * [Korean](http://cd80.tistory.com/64)
+* [Korean](http://err0rless313.tistory.com/entry/CODEGATE-2015-JUNIOR-SYSTEMSHOCK)
+* [Korean](http://yum3.tistory.com/18)

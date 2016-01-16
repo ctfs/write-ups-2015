@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://www.whitehatters.academy/rctf-2015-pwn-200/>
+* [Chinese](http://blog.albertchang.cn/wp-content/uploads/2015/11/Nu1L_RCTF_Writeup.pdf)
