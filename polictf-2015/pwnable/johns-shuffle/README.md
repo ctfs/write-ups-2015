@@ -272,4 +272,5 @@ r.interactive()
 
 * <https://ctf-team.vulnhub.com/polictf-2015-johns-shuffle/>
 * <https://github.com/thebarbershopper/ctf-writeups/tree/master/polictf-2015/johns-shuffle>
-
+* <http://akiym.hateblo.jp/entry/2015/07/12/192517>
+* <http://www.heishou.com.cn/simple/?t187838.html>

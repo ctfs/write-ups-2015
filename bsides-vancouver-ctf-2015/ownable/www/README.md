@@ -22,3 +22,4 @@
 * [Japanese 2](http://charo-it.hatenablog.jp/entry/2015/03/18/234404)
 * <http://captf.com/2015/bsides-vancouver/ownable/www-psifertex-solve.py>
 * <https://gist.github.com/emyei/5e3c9d0a32c0aa0d3899>
+* [Korean](http://smleenull.tistory.com/522)

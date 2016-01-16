@@ -21,3 +21,7 @@
 * <http://geeksspeak.github.io/blog/2015/09/21/csaw-2015-pwn250-contacts/>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/pwn/contacts>
 * <http://blog.isis.poly.edu/2015/09/28/csaw-ctf-contacts.html>
+* <http://v0ids3curity.blogspot.de/2015/09/csaw-ctf-exploitables250-contacts.html>
+* [French](https://github.com/t00sh/tosh-codes/blob/master/content/CTF/csaw_preq2015_exploit250.md)
+* [Korean](http://trich.im/?p=74)
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/23/144438)

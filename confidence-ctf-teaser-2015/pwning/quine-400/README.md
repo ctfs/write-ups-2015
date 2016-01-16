@@ -149,4 +149,4 @@ The full exploit is also in the repo with a traffic log. Enjoy.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/g05u/990cc267c0ea1455e39a>

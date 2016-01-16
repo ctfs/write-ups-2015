@@ -23,3 +23,5 @@
 * <https://github.com/thebarbershopper/ctf-writeups/tree/master/polictf-2015/johns-library>
 * <http://www.bannsecurity.com/index.php/home/10-ctf-writeups/11-polictf-2015-john-s-library>
 * <http://blog.morganz.me/blog/2015/07/15/polictf-2015-pwnable150-johns-library-writeup/>
+* <https://bamboofox.torchpad.com/Write-ups/PoliCTF/johns-library>
+* <https://gist.github.com/hhc0null/9de4301e197e8ed06259#file-johns_library_exploit-py>

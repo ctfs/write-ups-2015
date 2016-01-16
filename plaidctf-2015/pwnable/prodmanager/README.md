@@ -21,5 +21,6 @@
 
 ## Other write-ups and resources
 
+* <http://ww9210.cn/2015/04/20/plaid-ctf-writeup-ebp-clifford-prodmanager/>
 * [solution] (https://gist.github.com/anonymous/c9de6b5d3e20ea80dc27) from crowell
 * <http://pastebin.com/Zc5s75jq>

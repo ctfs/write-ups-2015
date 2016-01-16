@@ -14,6 +14,6 @@
 
 ## Other write-ups and resources
 
+* <http://vulph.com/2015/09/27/defcon-hackercalc-writeup.html>
 * [Exploit](http://pastebin.com/2ynEtVwh)
 * <http://secgroup.dais.unive.it/2015/05/19/defcon-ctf-2015-hackercalc-exploit>
-* <http://vulph.com/2015/09/27/defcon-hackercalc-writeup.html>
