@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/blob/master/hitcon2015/pwn175-matrix/writeup.md>
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/10/26/005554)

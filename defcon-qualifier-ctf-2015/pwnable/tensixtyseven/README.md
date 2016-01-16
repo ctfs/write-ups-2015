@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <http://pastebin.com/nU26i7aj>
+* <http://skidpaste.org/UasGApIf.txt> (down)

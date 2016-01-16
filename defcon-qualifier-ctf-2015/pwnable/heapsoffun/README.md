@@ -18,6 +18,7 @@
 
 ## Other write-ups and resources
 
+* [sophia.re](http://sophia.re/defconquals2015_heapsoffun_writeup.html) (Down, go to root page - some JS loading stuff)
+* [French](http://blog.scrt.ch/2015/05/24/defcon-2015-resolution-heapsoffun/)
 * <http://lokalhost.pl/ctf/defcon2015/heap.py>
 * <http://pastebin.com/N8JNkiUL>
-* [sophia.re](http://sophia.re/defconquals2015_heapsoffun_writeup.html)

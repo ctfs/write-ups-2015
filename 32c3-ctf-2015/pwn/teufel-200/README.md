@@ -21,4 +21,5 @@
 * <http://v0ids3curity.blogspot.in/search/label/32C3%20CTF?m=0>
 * <https://www.youtube.com/watch?v=wDosab_Y4Hs>
 * <http://ebfe.dk/ctf/2016/01/06/32c3-teufel/>
+* [Japanese](http://solorab.net/blog/2016/01/02/32c3-ctf-teufel/)
 * <http://pastebin.com/XAM9xfYU>

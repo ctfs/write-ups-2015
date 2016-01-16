@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* <http://pastebin.com/raw.php?i=6DybHQT8>
+* <http://pastebin.com/6DybHQT8>

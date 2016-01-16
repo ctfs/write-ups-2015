@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/campctf-2015-shell/> 
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/08/18/153828)

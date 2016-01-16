@@ -13,5 +13,5 @@
 
 ## Other write-ups and resources
 
-* <https://www.bpak.org/blog/2015/03/bkpctf-2015-quincy-adams-kspace-write-up/>
+* <https://www.bpak.org/blog/2015/03/bkpctf-2015-quincy-adams-kspace-write-up/> (down)
 * <https://rzhou.org/~ricky/bkpctf2015/zenhv>

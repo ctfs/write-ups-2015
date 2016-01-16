@@ -18,3 +18,4 @@
 * <https://github.com/pwning/public-writeup/blob/master/bkp2015/pwn300-kendall/writeup.md>
 * <https://gist.github.com/ancat/a2649d080dbfcdbe42b8>
 * [How the challenge was designed](http://mweissbacher.com/blog/2015/03/01/boston-key-party-2015-kendall-challenge-superfish/)
+* [Chinese](http://www.secpulse.com/archives/5013.html)
