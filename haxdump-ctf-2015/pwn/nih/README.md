@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * <https://haxdump.com/static/pwn150.txt>
+* <https://b01lers.net/challenges/Haxdump%202015/NIH/35/>

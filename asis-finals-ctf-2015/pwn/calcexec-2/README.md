@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* https://kt.pe/blog/2015/10/asis-2015-finals-calcexe-2/
+* <https://kt.pe/blog/2015/10/asis-2015-finals-calcexe-2/>
+* <https://www.mma.club.uec.ac.jp/tokyowesterns/Writeup/ASIS%20CTF%20Final%202015>

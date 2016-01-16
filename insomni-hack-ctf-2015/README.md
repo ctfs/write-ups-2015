@@ -2,6 +2,7 @@
 * March 20, 2015 - <http://insomnihack.ch>
 * [Scoreboard](http://blog.scrt.ch/2015/03/24/insomnihack-finals-ctf-results/) or [here](scoreboard.txt)
 * [Number of solves per task](solves.txt)
+* [Some files by the challenge authors?](https://github.com/Insomnihack/Insomnihack-2015)
 
 ## Completed write-ups
 

@@ -36,3 +36,6 @@
 * <http://capturetheswag.blogspot.com.au/2015/04/plaidctf-qttpd-pwnable-part-1-200-point.html>
 * <https://neg9.org/news/2015/5/10/plaidctf-2015-qttpd-part-1-pwnable-200-writeup>
 * <http://lokalhost.pl/ctf/pctf2015_qhttp2.txt>
+* <http://coldwaterq.com/2015/05/08/qttpd-Part-One.html>
+* <https://github.com/kitctf/writeups-plaidctf15/blob/master/qttp1/writeup.txt>
+* <https://ctf.rip/plaidctf-qttpd-pwnable-part-1-200-poin/>
