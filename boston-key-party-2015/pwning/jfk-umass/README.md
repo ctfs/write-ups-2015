@@ -14,6 +14,6 @@
 ## Other write-ups and resources
 
 * [Writeup by tasteless](http://tasteless.eu/2015/03/boston-key-party-2015-jfkumass/)
-* <https://rzhou.org/~ricky/bkpctf2015/jfk/>
 * [Writeup by Neg9](https://neg9.org/news/2015/3/2/bpk2015-jfk-umass-pwning-300-writeup)
+* <https://rzhou.org/~ricky/bkpctf2015/jfk/>
 * <https://github.com/kitctf/writeups/tree/master/bkp2015/jfk>

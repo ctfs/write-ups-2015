@@ -13,6 +13,6 @@
 
 ## Other write-ups and resources
 
+* <https://mivehind.net/2015/03/06/bkpctf-2015/>
 * <http://pastebin.com/SYcrZp7y>
 * <http://pastebin.com/efCH07Ni>
-* <http://mivehind.net/page/view-page-slug/14/bkpctf-2014>

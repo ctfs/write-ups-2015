@@ -2,6 +2,7 @@
 
 * <http://compete.sctf.io/>
 * [Scoreboard](http://compete.sctf.io/scoreboard.php)
+* [Flags](https://compete.sctf.io/2015q1/solutions.php)
 
 ## Completed write-ups
 

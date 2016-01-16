@@ -53,3 +53,12 @@ Also there is a filter that terminates the session if anything os related is sen
 
 * <http://www.mrt-prodz.com/blog/view/2015/07/polictf-2015---hanoi-as-a-service-50pts-writeup>
 * <https://ctf-team.vulnhub.com/polictf-2015-hanoi-as-a-service/>
+* <https://github.com/professormahi/CTF/blob/master/polictf-2015/Pwnable/HAAS/README.md>
+* <http://b0rk.nl/ctf/2015/polictf/hanoi-as-a-service.html>
+* <http://afnom.net/2015/07/12/HAAS.html>
+* <http://nandynarwhals.org/2015/07/12/polictf-2015-hanoi-as-a-service-pwnable-50/> (down)
+* <http://pequalsnp-team.github.io/writeups/hanoi/>
+* <https://0x90r00t.com/2015/07/13/polictf-2015-pwn50-hanoi-as-a-service-write-up/>
+* <http://fadec0d3.blogspot.de/2015/07/polictf-2015-hanoi-as-service-50.html>
+* <http://fritzfs.blogspot.de/2015/07/writeup-haas-hanoi-as-service-polictf.html>
+* <http://pastebin.com/0bnQ4V5g>

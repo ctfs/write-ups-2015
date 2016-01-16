@@ -17,5 +17,5 @@
 
 ## Other write-ups and resources
 
-* <https://rzhou.org/~ricky/32c3/cryptmsg/>
 * <https://pony7.fr/ctf:public:32c3:cryptmsg>
+* <https://rzhou.org/~ricky/32c3/cryptmsg/>

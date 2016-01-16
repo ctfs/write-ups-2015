@@ -17,3 +17,6 @@
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-echoes/>
 * <https://www.whitehatters.academy/pwn200-ret2libc/>
+* <https://www.securifera.com/blog/2015/09/23/ekoparty-pre-ctf-echoes/>
+* [Spanish](http://rmolina.co/2015/09/prectf-ekoparty-2015.html)
+* <http://daehee87.tistory.com/m/post/516>

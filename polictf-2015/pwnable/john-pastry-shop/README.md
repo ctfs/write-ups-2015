@@ -19,4 +19,7 @@
 ## Other write-ups and resources
 
 * <http://nandynarwhals.org/2015/07/13/polictf-2015-john-pastry-shop-pwnable-100/>
-* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#pwnable100-john-pastry-shop>
+* <https://zeta-two.com/ctf/2015/07/14/polictf-writeup.html#pwnable100-john-pastry-shop> or <https://github.com/ZetaTwo/zetatwocom/blob/master/_posts/ctf/2015-07-14-polictf-writeup.md>
+* <http://b0rk.nl/ctf/2015/polictf/john-pastry-shop.html>
+* <http://blog.atx.name/polictf2015/#john-pastry-shop>
+* <https://groups.google.com/a/skullspace.ca/forum/#!topic/ctf/RqbQnbJF5aQ>
