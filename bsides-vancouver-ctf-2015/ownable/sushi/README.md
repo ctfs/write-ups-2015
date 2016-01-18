@@ -126,7 +126,7 @@ gdb-peda$ x/2wx $rsp
 
 We see that a Segmentation fault happened at the `ret` instruction of our main function. `rsp` points at the next address that `rip` has to jump to, which is (64 bit == 8 bytes address) `0x4242424243434343` (Hope I got the order right).
 
-You can also just load the binary in `gdb-peda`, run it, provide it with the payload string `AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARBPARBPBBBBCCCC` and see what our stack at the end (last 2 instructions) of the main function:
+You can also just load the binary in `gdb-peda`, run it, provide it with the payload string `AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARBPARBPBBBBCCCC` and see the status of our stack at the end of the main function (last 2 instructions):
 
 ```bash
 $ gdb ./sushi-a6cbcb6858835fbc6d0b397d50541198cb4f98c8 
