@@ -26,3 +26,4 @@
 ## Other write-ups and resources
 
 * [Sourcecode and eepron random data](http://shells.aachen.ccc.de/~spq/carder_infos.tar.gz)
+* [http://mitega.github.io/write-ups/32C3_CTF/carder/](http://mitega.github.io/write-ups/32C3_CTF/carder/) (spanish and english write-up)
