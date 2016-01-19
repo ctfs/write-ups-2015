@@ -7,6 +7,7 @@
 
 * [pwn/login](pwn/login)
 * [pwn/prng-service](pwn/prng-service)
+* [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
 
 ## External write-ups only
 
@@ -19,7 +20,6 @@
 * [misc/reversing-psychology](misc/reversing-psychology)
 * [misc/the-picture-challenge](misc/the-picture-challenge)
 * [pwn/echoes](pwn/echoes)
-* [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
 * [rev/decode-it](rev/decode-it)
 * [rev/ekogift](rev/ekogift)
 * [rev/mov](rev/mov)
