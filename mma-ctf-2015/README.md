@@ -7,6 +7,7 @@
 
 * [forensics/splitted-30](forensics/splitted-30)
 * [forensics/stream-100](forensics/stream-100)
+* [pwn/rps-50](pwn/rps-50)
 * [stego/miyako-350](stego/miyako-350)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
 
@@ -23,7 +24,6 @@
 * [ppc/i-150](ppc/i-150)
 * [ppc/pattern-lock-60](ppc/pattern-lock-60)
 * [ppc/perfect-matching-200](ppc/perfect-matching-200)
-* [pwn/rps-50](pwn/rps-50)
 * [reverse/how-to-use-30](reverse/how-to-use-30)
 * [reverse/impossible-150](reverse/impossible-150)
 * [reverse/simple-hash-200](reverse/simple-hash-200)
