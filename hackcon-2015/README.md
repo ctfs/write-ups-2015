@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [forensics/WatchMeSurfTheInternet](forensics/WatchMeSurfTheInternet)
+* [pwnage/DidYouMean](pwnage/DidYouMean)
 
 ## External write-ups only
 
@@ -16,7 +17,6 @@
 * [misc/FragG](misc/FragG)
 * [misc/NinjaTurtles](misc/NinjaTurtles)
 * [misc/SurpriseModafocka](misc/SurpriseModafocka)
-* [pwnage/DidYouMean](pwnage/DidYouMean)
 * [pwnage/MakingLoveToBugs](pwnage/MakingLoveToBugs)
 * [pwnage/Pythonista](pwnage/Pythonista)
 * [web/DoctorDoctor](web/DoctorDoctor)
