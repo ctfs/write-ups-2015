@@ -8,6 +8,7 @@
 * [crypto/bad_apple](crypto/bad_apple)
 * [crypto/pudel](crypto/pudel)
 * [crypto/turbo](crypto/turbo)
+* [pwn/c0unter](pwn/c0unter)
 * [pwn/greeter](pwn/greeter)
 
 ## External write-ups only
@@ -15,7 +16,6 @@
 * [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/sanity_check](misc/sanity_check)
-* [pwn/c0unter](pwn/c0unter)
 * [rev/whitebox_crypto](rev/whitebox_crypto)
 * [web/neocities](web/neocities)
 
