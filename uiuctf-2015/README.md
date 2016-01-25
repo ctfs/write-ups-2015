@@ -8,10 +8,10 @@
 
 * [network/ovaltine](network/ovaltine)
 * [network/sniffthis](network/sniffthis)
+* [pwn/unoriginal](pwn/unoriginal)
 
 ## External write-ups only
 
-* [pwn/unoriginal](pwn/unoriginal)
 * [stego/qr](stego/qr)
 * [web/hype](web/hype)
 
