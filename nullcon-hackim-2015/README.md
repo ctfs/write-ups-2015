@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [crypto-1](crypto-1)
+* [crypto-2](crypto-2)
 * [exploit-1](exploit-1)
 * [forensics-4](forensics-4)
 * [programming-2](programming-2)
@@ -38,7 +39,6 @@
 
 ## Missing write-ups
 
-* [crypto-2](crypto-2)
 * [crypto-3](crypto-3)
 * [crypto-4](crypto-4)
 * [crypto-5](crypto-5)
