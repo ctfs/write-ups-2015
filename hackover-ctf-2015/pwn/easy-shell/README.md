@@ -30,3 +30,6 @@
 ## Other write-ups and resources
 
 * <https://github.com/ByteBandits/writeups/blob/master/hackover-ctf-2015/pwn/easy-shell/sudhackar/README.md>
+* <https://f00l.de/blog/hackover-ctf-2015-easy-shell/>
+* <http://www.leakedin.com/2015/10/18/shellcode-291/>
+* <http://pastebin.com/SWyyaXwn>
