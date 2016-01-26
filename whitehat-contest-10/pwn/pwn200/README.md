@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/whitehat-ctf-2015-pwn200/>
+* <http://pastebin.com/MEJP4ir7>
