@@ -14,6 +14,10 @@
 
 ## Other write-ups and resources
 
+* <http://idabook.com/ctf/boxxy_writeup.txt>
 * <http://pastebin.com/0SNq6yvR#>
 * <http://pastebin.com/j3vHGYA3>
-* <http://idabook.com/ctf/boxxy_writeup.txt>
+* <http://pastebin.com/pfVxdg1z>
+* <https://gist.github.com/kokjo/e2c61cdbe81e2c359d9a>
+* <http://lokalhost.pl/x/boxy.py>
+* <https://www.snip2code.com/Snippet/305065/Solution-of-boxxy-from-GITS2015>
