@@ -12,7 +12,36 @@
 
 ## Write-up
 
-(TODO)
+First thing we'll notice is that the distribution of the numbers is very uneven:
+
+1: 261  
+2: 202  
+3: 66  
+4: 31  
+5: 4  
+6: 19  
+7: 1  
+8: 0  
+9: 0
+
+We can see that small numbers occur way more often than large ones. This hints that the message uses [run-length encoding](https://en.wikipedia.org/wiki/Run-length_encoding), most likely encoding the binary represantation of an string. As all ASCII chars begin with a 0, we know that we should start by zeros. Every number of the message corresponds to the number of repetitions of 0 or 1.
+
+Sample python code:
+```python
+import sys
+input = "113132...1"
+
+c = 0
+for i in range(len(input)):
+    sys.stdout.write(str(c) * int(input[i]))
+    c = 1 - c
+```
+
+When the output is interpreted in ASCII, we get the resulting message:
+>Dear Bob,  
+>Our codeword may have been compromised by Eve, so please note and use the new code: 4674107e353af23dec1e471415bbd923.  
+>Thanks,  
+>Alice  
 
 ## Other write-ups and resources
 
