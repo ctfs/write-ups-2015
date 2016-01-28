@@ -24,3 +24,4 @@
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CSAWCTF/reversing/ftp>
 * <http://capturetheswag.blogspot.com.au/2015/09/csaw-2015-quals-ftp-re300-challenge.html>
 * <https://b01lers.net/challenges/CSAW%202015/FTP/69/>
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_quals_2015/re300_ftp_sploit.py>

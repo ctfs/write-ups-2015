@@ -25,6 +25,7 @@
 * [pwn/contacts-250](pwn/contacts-250)
 * [pwn/ftp-2-300](pwn/ftp-2-300)
 * [pwn/meme-shop-400](pwn/meme-shop-400)
+* [pwn/rhinoxorus-500](pwn/rhinoxorus-500)
 * [recon/alexander-taylor-100](recon/alexander-taylor-100)
 * [recon/eric-liang-100](recon/eric-liang-100)
 * [recon/julian-cohen-100](recon/julian-cohen-100)
@@ -44,5 +45,3 @@
 * [web/weebdate-500](web/weebdate-500)
 
 ## Missing write-ups
-
-* [pwn/rhinoxorus-500](pwn/rhinoxorus-500)

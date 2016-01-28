@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_quals_2015/pwn500_rhinoxorous_sploit.py>

@@ -25,3 +25,4 @@
 * [French](https://github.com/t00sh/tosh-codes/blob/master/content/CTF/csaw_preq2015_exploit250.md)
 * [Korean](http://trich.im/?p=74)
 * [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/23/144438)
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_quals_2015/pwn250_contacts_sploit.py>
