@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/aweinstock314/aweinstock-ctf-writeups/blob/master/csaw_finals_2015/trivia100_sanitycheck/trivia100_sanitycheck_exploit.py>

@@ -10,6 +10,8 @@
 ## External write-ups only
 
 * [cryptography/slabs-of-platinum](cryptography/slabs-of-platinum)
+* [exploitation/boombox](exploitation/boombox)
+* [exploitation/hipster](exploitation/hipster)
 * [exploitation/stringipc](exploitation/stringipc)
 * [forensic/ransomewhere](forensic/ransomewhere)
 * [pwnadventurez/blox](pwnadventurez/blox)
@@ -19,12 +21,11 @@
 * [pwnadventurez/hiddencave](pwnadventurez/hiddencave)
 * [pwnadventurez/memory-disclosure-flag](pwnadventurez/memory-disclosure-flag)
 * [pwnadventurez/quarantinebreaker](pwnadventurez/quarantinebreaker)
+* [trivia/sanity-check](trivia/sanity-check)
 
 ## Missing write-ups
 
 * [cryptography/check-plz](cryptography/check-plz)
-* [exploitation/boombox](exploitation/boombox)
-* [exploitation/hipster](exploitation/hipster)
 * [forensic/phish-it-phish-it-good](forensic/phish-it-phish-it-good)
 * [grabbag/1337](grabbag/1337)
 * [grabbag/late-night-smash](grabbag/late-night-smash)
@@ -33,6 +34,5 @@
 * [reversing/pwning-a-locked-container-plc](reversing/pwning-a-locked-container-plc)
 * [reversing/return-of-the-wieners](reversing/return-of-the-wieners)
 * [reversing/wyvern2](reversing/wyvern2)
-* [trivia/sanity-check](trivia/sanity-check)
 * [web/animewall](web/animewall)
 * [web/tbbpe](web/tbbpe)
