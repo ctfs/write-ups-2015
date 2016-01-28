@@ -8,6 +8,7 @@
 ## Completed write-ups
 
 * [exploitation/calcpop](exploitation/calcpop)
+* [exploitation/cards](exploitation/cards)
 * [misc/get-help](misc/get-help)
 * [misc/give-feedback](misc/give-feedback)
 * [misc/recon-1](misc/recon-1)
@@ -28,7 +29,6 @@
 * [crypto/wob-key-hard](crypto/wob-key-hard)
 * [exploitation/bws](exploitation/bws)
 * [exploitation/calpop-reloaded](exploitation/calpop-reloaded)
-* [exploitation/cards](exploitation/cards)
 * [exploitation/redos](exploitation/redos)
 * [exploitation/search-engine](exploitation/search-engine)
 * [exploitation/wtfos](exploitation/wtfos)
