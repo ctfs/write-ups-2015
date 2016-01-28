@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/blob/master/hitcon2015/pwn200-blinkroot/writeup.md>
+* <https://kt.pe/blog/2015/10/hitcon-2015-quals-blinkroot/>

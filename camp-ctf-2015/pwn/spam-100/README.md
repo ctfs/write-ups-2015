@@ -18,4 +18,8 @@
 
 ## Other write-ups and resources
 
+* <https://github.com/vito-lbs/cccctf/tree/master/spam>
+* <https://pacmans.army/?p=290>
+* <http://blog.whatever.io/2015/08/18/campctf-spam100-pwn/>
 * [Russian](http://reu.org.ua/camp-ctf-2015-spam.html) 
+* [Chinese](http://sol.logdown.com/posts/2015/08/14/campctf-2015-pwn-spam)

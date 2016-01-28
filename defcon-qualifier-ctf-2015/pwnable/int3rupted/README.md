@@ -17,3 +17,4 @@
 * <http://radare.today/solving-int3rupted-from-defcon-2015-qualifier-with-r2/>
 * <http://lokalhost.pl/ctf/defcon2015/int3.py>
 * <https://gist.github.com/zachriggle/72a36becca0650a766ba>
+* <https://github.com/scwuaptx/CTF/blob/master/2015-writeup/defcon/interupt.py>
