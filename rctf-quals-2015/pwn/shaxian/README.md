@@ -17,4 +17,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://ww9210.cn/2015/11/18/rctf-pwn400-shaxian-writeup/)
+* [Chinese](http://bobao.360.cn/ctf/detail/155.html)
+* <http://bigtang.org/2015/11/17/RCTF-2015-Quals-pwn400/>
+* <http://pastebin.com/GPtxi3yG>
