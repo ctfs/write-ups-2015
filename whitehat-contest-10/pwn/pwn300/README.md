@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/peternguyen93/f2e5cd0685dbd3849010>
