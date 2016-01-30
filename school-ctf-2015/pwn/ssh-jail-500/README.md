@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://blog.lionbug.pw/ctf/school-ctf-spring-writeup/)
