@@ -17,4 +17,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.albertchang.cn/wp-content/uploads/2015/11/Nu1L_RCTF_Writeup.pdf>
+* <http://pastebin.com/dykTGSJN>
+* <http://pastebin.com/GPtxi3yG>
