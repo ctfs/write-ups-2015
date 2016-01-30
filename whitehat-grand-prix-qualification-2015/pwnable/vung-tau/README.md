@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/peternguyen93/c4dda7ef5dd7cb549a2f>

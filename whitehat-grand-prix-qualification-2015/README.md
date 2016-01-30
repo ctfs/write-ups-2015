@@ -11,6 +11,7 @@
 
 ## External write-ups only
 
+* [pwnable/vung-tau](pwnable/vung-tau)
 * [reverse/dong-van](reverse/dong-van)
 * [reverse/hue](reverse/hue)
 * [web/can-tho](web/can-tho)
@@ -28,7 +29,6 @@
 * [pwnable/bac-ninh](pwnable/bac-ninh)
 * [pwnable/binh-dinh](pwnable/binh-dinh)
 * [pwnable/da-lat](pwnable/da-lat)
-* [pwnable/vung-tau](pwnable/vung-tau)
 * [reverse/ha-long](reverse/ha-long)
 * [reverse/ha-noi](reverse/ha-noi)
 * [reverse/my-son](reverse/my-son)
