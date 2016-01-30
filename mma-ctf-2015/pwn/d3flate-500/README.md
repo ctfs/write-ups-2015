@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pizza.abusers.eu/ctf/mmactf-2015/d3flate/>
+* <http://pastebin.com/DDUG2iJT>

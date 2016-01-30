@@ -24,6 +24,7 @@
 * [ppc/i-150](ppc/i-150)
 * [ppc/pattern-lock-60](ppc/pattern-lock-60)
 * [ppc/perfect-matching-200](ppc/perfect-matching-200)
+* [pwn/d3flate-500](pwn/d3flate-500)
 * [pwn/spell-300](pwn/spell-300)
 * [reverse/how-to-use-30](reverse/how-to-use-30)
 * [reverse/impossible-150](reverse/impossible-150)
@@ -38,7 +39,6 @@
 
 * [misc/welcome-10](misc/welcome-10)
 * [ppc/alphabet-programming-200](ppc/alphabet-programming-200)
-* [pwn/d3flate-500](pwn/d3flate-500)
 * [reverse/digital-circuit-250](reverse/digital-circuit-250)
 * [reverse/encrypted-500](reverse/encrypted-500)
 * [reverse/money-game-200](reverse/money-game-200)
