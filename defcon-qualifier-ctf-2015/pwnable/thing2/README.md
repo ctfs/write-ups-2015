@@ -20,4 +20,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/j5z6uzM8>
+* <http://pastebin.com/wpxQ7VDg>
