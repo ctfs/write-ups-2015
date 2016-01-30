@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://barrebas.github.io/blog/2015/08/18/camp-ctf-dkm/>
+* <http://daehee87.tistory.com/525>
