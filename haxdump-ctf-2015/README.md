@@ -19,9 +19,9 @@
 * [forensics/oops](forensics/oops)
 * [forensics/tom-beale-had-the-right-idea](forensics/tom-beale-had-the-right-idea)
 * [pwn/nih](pwn/nih)
+* [pwn/pwnxy](pwn/pwnxy)
 * [recon/amanda-parkside](recon/amanda-parkside)
 
 ## Missing write-ups
 
-* [pwn/pwnxy](pwn/pwnxy)
 * [web/keep-calm-and-save-the-queen](web/keep-calm-and-save-the-queen)

@@ -23,4 +23,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/Haxdump%202015/Pwnxy/34/>
+* <https://gist.github.com/NickStephens/cf97f47c0df712269db6>
