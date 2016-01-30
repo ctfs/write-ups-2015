@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://bobao.360.cn/ctf/learning/155.html)
