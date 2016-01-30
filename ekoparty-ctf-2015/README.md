@@ -14,6 +14,7 @@
 ## External write-ups only
 
 * [crypto/cry100](crypto/cry100)
+* [pwn/pwn100](pwn/pwn100)
 * [pwn/pwn50](pwn/pwn50)
 * [reversing/rev200](reversing/rev200)
 * [reversing/rev50](reversing/rev50)
@@ -26,7 +27,6 @@
 * [misc/misc200](misc/misc200)
 * [misc/misc400](misc/misc400)
 * [misc/misc50](misc/misc50)
-* [pwn/pwn100](pwn/pwn100)
 * [pwn/pwn200](pwn/pwn200)
 * [pwn/pwn300](pwn/pwn300)
 * [reversing/rev100](reversing/rev100)
