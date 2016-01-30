@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/campctf-2015-bitterman/>
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/08/18/153828)
+* [Japanese](http://www.cnhackmy.com/hacked/CTF/2015/09/12/00001675.html)
