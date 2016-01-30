@@ -18,4 +18,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)
+* <http://pastebin.com/yQpNAdwu>
+* <http://pastebin.com/MnVDNXk8>
