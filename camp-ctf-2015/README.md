@@ -9,6 +9,7 @@
 * [pwn/bitterman-300](pwn/bitterman-300)
 * [pwn/hacker_level-200](pwn/hacker_level-200)
 * [pwn/secret_file-150](pwn/secret_file-150)
+* [pwn/spam-100](pwn/spam-100)
 
 ## External write-ups only
 
@@ -16,7 +17,6 @@
 * [pwn/phobos-300](pwn/phobos-300)
 * [pwn/ropcalc-225](pwn/ropcalc-225)
 * [pwn/shell-300](pwn/shell-300)
-* [pwn/spam-100](pwn/spam-100)
 * [reversing/keycheck-200](reversing/keycheck-200)
 * [web/trolol-150](web/trolol-150)
 * [web/websocket-75](web/websocket-75)
