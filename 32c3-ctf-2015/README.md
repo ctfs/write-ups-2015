@@ -9,6 +9,7 @@
 * [forensics/config-bin-150](forensics/config-bin-150)
 * [misc/gurke-300](misc/gurke-300)
 * [pwn/forth-150](pwn/forth-150)
+* [pwn/readme-200](pwn/readme-200)
 * [web/kummerkasten-300](web/kummerkasten-300)
 * [web/sequence-hunt-200](web/sequence-hunt-200)
 
@@ -25,7 +26,6 @@
 * [pwn/cryptmsg-400](pwn/cryptmsg-400)
 * [pwn/docker-250](pwn/docker-250)
 * [pwn/ranger-400](pwn/ranger-400)
-* [pwn/readme-200](pwn/readme-200)
 * [pwn/sandbox-300](pwn/sandbox-300)
 * [pwn/teufel-200](pwn/teufel-200)
 * [pwn/tree-500](pwn/tree-500)
