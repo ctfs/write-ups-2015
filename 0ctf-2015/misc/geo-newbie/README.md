@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Connecting to the service, we see that we have to determine [Alpha-2 Codes](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) of given Countries in the first level `Level 0` as seen in the [connection log](connection).
 
 Doing that 20 times, we get to level `Level 1`, in which we have to determine Alpha-2 Codes of different cities, tourist attractions and companies.

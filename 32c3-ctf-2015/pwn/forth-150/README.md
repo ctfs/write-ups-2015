@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Connecting to the services with `nc` yields some important information about what type of service we are dealing with:
 
 ```bash

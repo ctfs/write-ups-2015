@@ -39,6 +39,8 @@ request count on your IOLoop: 1
 
 ## Write-up
 
+by [grnd](https://github.com/grnd)
+
 We got the following urls 
 - http://136.243.194.36:18888/ - shows us the info (above)
 - http://136.243.194.36:18888/check - lets us submit 5 values

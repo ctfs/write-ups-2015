@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [SleepProgger](https://github.com/SleepProgger)
+
 After a quick hexdump we might realize that the first 4 bytes are looking pretty much like a magic header.
 
     hexdump -C config.bin | head

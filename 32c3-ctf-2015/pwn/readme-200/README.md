@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <http://nandynarwhals.org/2015/12/31/32c3ctf-readme-pwn200/> (Common understanding)

@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [m1ghtym0](https://github.com/m1ghtym0)
+
 "It's not a standard gurke" is quite accurate.
 First it creates a flag object, which contains the flag in the "flag" attribute.
 Then it establishes a syscall-filter which is quite restrictive.

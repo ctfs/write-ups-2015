@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [0xBADCA7](https://github.com/0xBADCA7)
+
 Strangely, this 32c3 CTF task weighted 300 points (while *ITD* was "only" 150) however it was a ~~simple~~ straightforward XSS. You're given a page like this: ![](http://i.imgur.com/7vUobWP.png)
 
 *Your team* is nearly arbitrary (just a basic filter) and the injectable field is the message itself. It is possible to inject `<script src="yourstuff.js"></script>` right away. Clearly, there's a bot reading all the messages so the first thing right off the bat I did was to hook in [BeEF](http://beefproject.com/). The bot appeared in the logs shortly and then disconnected. I wasn't really disappointed as the original page already contained jQuery code so coding payloads would be a cakewalk.
