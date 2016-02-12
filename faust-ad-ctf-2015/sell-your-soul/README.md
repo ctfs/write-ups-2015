@@ -8,6 +8,9 @@
 
 
 ## Write-up
+
+by [fluxchief](https://github.com/fluxchief)
+
 The first step was obviously figuring out, what was going on, so we had two POIs, the jobserver and the buildroot.tar.
 
 ### Jobserver
