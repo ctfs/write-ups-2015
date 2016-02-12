@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a PNG that we open with `stegsolve` to find the flag in the RGB plane 0 values:
 
 ![](flag.png)

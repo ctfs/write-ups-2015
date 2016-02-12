@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://0x90r00t.com/2015/09/07/mma-2015-forensics-stream-write-up/>

@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * [b01lers](https://b01lers.net/challenges/MMA%20CTF%202015/RPS%20%28rock%20paper%20scissors%29/58/) (Common understanding)

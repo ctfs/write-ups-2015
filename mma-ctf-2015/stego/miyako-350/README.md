@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [khack40](http://khack40.info/mma-ctf-2015-miyako-stega-write-up/).
 
 We are given a PNG and print the pixels using [pixels.py](./pixels.py).
