@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [ichung](https://github.com/ichung) and [mathiasbynens](https://github.com/mathiasbynens)
+
 <http://ynos.teaser.insomnihack.ch/> presents a login screen. Some random guesses reveal we can log in using the username `admin` with password `admin`. Now we can browse artists, films, and directors. Clicking any of those links triggers an Ajax request to `/INSO.RPC` with some JSON-formatted data:
 
 ```bash
