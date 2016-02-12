@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [stypr](https://github.com/stypr)
+
 First of all, there is a LFI vulnerability in a GET parameter by testing parameters in the `index.php`.
 As you analyze the mode parameter, you can see that the code executes in the form of `include(null_filter($var).".php");`.
 

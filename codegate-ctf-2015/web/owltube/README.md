@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [stypr](https://github.com/stypr)
+
 The database seemed to be truncated every 15 minutes or so, and you can find out that the 'admin' username is taken whenever the database gets truncated.
 
 The best possible case could be to try a sql injection based on the functionality of mongodb and python.

@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [0xddaa](https://github.com/0xddaa)
+
 The problem is a game that called **sokoban**. lol  
 After we pass the 0 ~ 5 levels, we will enter a menu and choose the game mode.  
 
