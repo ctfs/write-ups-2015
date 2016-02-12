@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given an img that we can either mount or view with `FTK Imager`.
 
 However, we can also apply `strings` to the image to get the flag:

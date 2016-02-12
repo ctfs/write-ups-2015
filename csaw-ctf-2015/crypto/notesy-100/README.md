@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [x0w1](https://github.com/x0w1)
+
 It's a simple substitution cypher. Since we have nothing to decrypt or encrypt, I decided to extract the key (encrypt the alphabet) and submit it as the flag, and it worked.
 
 The flag:

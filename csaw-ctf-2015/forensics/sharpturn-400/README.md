@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [PLWagner](https://github.com/PLWagner)
+
 The git repo was crushed because of a material glitch. So the file sharp.cpp had some wrong inputs in it. To find the flag, start with:
 
 ```bash

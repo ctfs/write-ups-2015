@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a pcap that we open with `wireshark`:
 
 ![](./wireshark.png)

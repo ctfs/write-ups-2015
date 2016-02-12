@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is loosely based on following writeups:
 
 * <https://ctf-team.vulnhub.com/csaw-quals-2015-precision/>

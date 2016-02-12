@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on these writeups: [1](http://fadec0d3.blogspot.de/2015/09/csaw-2015-forensics-keep-calm-ctf-flash.html) [2](https://github.com/Alpackers/CTF-Writeups/tree/master/2015/CSAW-CTF/Forensics/airport) and [3](http://toh.necst.it/csaw2015/forensics/Airport/).
 
 We are given four PNG pictures named `1.png` to `4.png` and one JPG named `steghide.jpg`.

@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [x0w1](https://github.com/x0w1)
+
 It looks like a base64 encoded string with '\n' (two printable characters) instead of new lines. Simple one-liner
 
 ```bash
