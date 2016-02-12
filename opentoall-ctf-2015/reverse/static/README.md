@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [0x2Adr1](https://github.com/0x2Adr1) and Brehret N
+
 We are given a Windows PE32 binary.
 
 We open IDA and look for interesting strings.

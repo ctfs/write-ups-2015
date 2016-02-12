@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [c0riolis](https://github.com/c0riolis)
+
 This challenge was in 3 steps:
 * Compute a sum
 * Solve an equation

@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [Eriner](https://github.com/Eriner) and Brehret N
+
 This challenge revolves around finding an encrypted apk, and then decrypting it to get the flag. The first place many people likely checked was in the app folder, located at `mnt/android-4.4-r2/data/app`.
 The app found here is titled: `net.opentoall.flag.flag-1.apk`. This app is a red herring, and upon opening the app, it shows a picture of a red fish and says "I'm here to distract you".
 This app was to be ignored, and had no useful information. It wasn't the encrypted app the challenge described.

@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a pcapNG capture file with a bunch of UDP and TCP traffic.
 
 When searching the file for usual keywords using `strings`, we see something interesting whilst `grep`ing looking for `password`:

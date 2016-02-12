@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 After finding nothing particular with `strings`, we open the file with a Hexeditor, `hexedit`, and look for something valuable.
 
 We are lucky and find the flag by searching <kbd>/</kbd> for `{`:

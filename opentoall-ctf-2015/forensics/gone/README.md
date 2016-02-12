@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [c0riolis](https://github.com/c0riolis)
+
 We are given a bzip2 file. Let's extract it first.
 
 ```bash

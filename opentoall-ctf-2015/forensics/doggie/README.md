@@ -16,6 +16,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a dog PNG picture.
 
 Running `pngcheck` on the picture reveals that it is not a PNG, however:

@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture of a play with several notes.
 
 Googling `Bach crypto` leads us to the Wikipedia entry for [Musical Cryptograms](http://en.wikipedia.org/wiki/Musical_cryptogram).

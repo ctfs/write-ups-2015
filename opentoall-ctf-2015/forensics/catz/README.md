@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [c0riolis](https://github.com/c0riolis)
+
 In this challenge we are given a bzip2 file. After extracting it, we get an ext4 filesystem.
 
 ```bash

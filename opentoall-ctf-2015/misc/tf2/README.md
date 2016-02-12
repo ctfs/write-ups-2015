@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We search for Eriner and OpenToAll and find [his Steam profile](http://steamcommunity.com/id/eriner) on [a personal website of his](http://givemesecurity.info/about/).
 
 After that, we have a look at [his inventory](http://steamcommunity.com/id/Eriner/inventory/), especially his TF2 inventory, and search for the keyword `flag`.

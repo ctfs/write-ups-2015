@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The answer and flag is `E9`.
 
 ## Other write-ups and resources

@@ -16,6 +16,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 When running `nmap -p0-65535 -T5 104.131.124.226`, wee see that there are two public services running:
 
 ```bash

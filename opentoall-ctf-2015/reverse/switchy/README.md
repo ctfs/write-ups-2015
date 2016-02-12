@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [c0riolis](https://github.com/c0riolis) and Brehret N
+
 Opening the binary in IDA, we can see 3 particular assembly parts in the `main` function:
 
 * The red one which is the prologue. Basically it saves the frame pointer, changes the stack pointer and allocates some space for the function.

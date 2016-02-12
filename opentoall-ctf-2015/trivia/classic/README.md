@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym) and Brehret N
+
 The answer and flag is `the`.
 It's a reference to the 1995 film "Hackers" (https://www.youtube.com/watch?v=drJWxMLrpE0).
 

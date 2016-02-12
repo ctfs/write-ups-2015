@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [Eriner](https://github.com/Eriner) and [polym](https://github.com/abpolym)
+
 On IRC while connected to Freenode, execute `/ctcp Eriner version`
 > `CTCP query to Eriner: VERSION`
 > `CTCP reply from Eriner: VERSION WeeChat is the best IRC client`
