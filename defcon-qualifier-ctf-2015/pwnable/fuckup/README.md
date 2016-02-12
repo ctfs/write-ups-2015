@@ -14,7 +14,7 @@
 
 ## Write-up
 
-Writeup by epochfail.
+by [epochfail](https://github.com/epochfailctf) and [wm4?](https://github.com/wm4)
 
 TLDR: break underlying PRNG without using z3.
 

@@ -16,6 +16,8 @@
 
 ## Write-up
 
+by [gbarboza](https://github.com/gbarboza)
+
 *From Plaid Parliament of Pwning*
 
 This problem was a simple bootstrap-themed web app. The landing page had a form to create an account. Upon creating an account and logging in we were shown a page that had a countdown timer and a button [much like reddit's The Button subreddit](http://www.reddit.com/r/thebutton). Additionally there was a page that showed the names of users that had managed to click the button and a page that allowed for changing our user's displayed name.

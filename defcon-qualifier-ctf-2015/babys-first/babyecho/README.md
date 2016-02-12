@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [boogy](https://github.com/boogy)
+
 _This write-up is made by boogy of the on_est_pas_contents CTF team._
 
 The binary is 32bit and striped:
