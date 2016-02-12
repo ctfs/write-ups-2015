@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a password protected zip that we extract using `7z x Forensic-5.zip -p'P3nYimP4n94NG+_::{127.0.0.1}' -oout`.
 
 Two files are extracted - another password encrypted zip, `Koala.zip`, and an ASCII file `passwd.txt`, which just contains `SHA256 : BINARY`.

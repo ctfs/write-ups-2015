@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 First, we extract the content of the password protected zip:
 
 ```bash

@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [unicornsasfuel](https://github.com/unicornsasfuel)
+
 The hint suggests that the ciphertexts are related. Ciphertext #1 is very clearly just backwards, giving us the text:
 ```
 "Beware the ARPANET, my son; The bits that byte,"

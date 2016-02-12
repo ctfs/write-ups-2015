@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a password-protected zip and extract it given the given password.
 
 Out comes another encrypted zip file `ke0n9.zip` and a picture `cewe.jpg`.

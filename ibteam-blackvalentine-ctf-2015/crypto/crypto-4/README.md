@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a sequence of dancing figures as ciphertext:
 
 ![](dancing.png)

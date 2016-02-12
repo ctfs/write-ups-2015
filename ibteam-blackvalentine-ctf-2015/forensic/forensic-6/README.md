@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given [a pdf](./get.pdf) that contains nothing much:
 
 ![](./get.pdf)

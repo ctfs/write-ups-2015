@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a password-protected zip, which we can unpack using the provided password `B4JAkL4uT1bUk0t4J4kaRT4`.
 
 This yields a picture `wallpaper.jpg` and yet another password-protected zip `clue.zip`.

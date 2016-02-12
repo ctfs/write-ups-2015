@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [unicornsasfuel](https://github.com/unicornsasfuel)
+
 The ciphertext:
 
 ```
