@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a gzip compressed tar archive that we uncompress with `tar xvf pinkie-pie-f005c9e9e585a3968c82c7f0df821802.tgz` to find a png that only shows pink.
 
 Applying `stegsolve` with a random colour map yields a hidden flag:
