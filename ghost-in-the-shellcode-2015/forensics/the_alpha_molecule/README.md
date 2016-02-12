@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups and resources:
 
 * <http://hxp.io/blog/10/Ghost%20in%20the%20Shellcode%202015:%20Forensics%20200%20%22The%20Alpha%20Molecule%22/>

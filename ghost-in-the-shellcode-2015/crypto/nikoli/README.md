@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The archive contains two files [ciphertext.txt](ciphertext.txt) and [sudoku\_challenge.png](sudoku_challenge.png).
 
 Solving the given sudoku with any online sudoku solver results in this [solution](solution).

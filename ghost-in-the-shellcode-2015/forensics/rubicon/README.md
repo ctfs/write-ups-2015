@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Exracting the given xz compressed file, we receive one file, `rubicon`:
 ```
 $ file rubicon

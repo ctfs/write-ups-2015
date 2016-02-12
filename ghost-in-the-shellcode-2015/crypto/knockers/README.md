@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [miton](https://github.com/miton)
+
 The service implements a form of [port knocking](http://en.wikipedia.org/wiki/Port_knocking). We are given a token that when provided to the service will allow our IP address to access certain ports on the server. However, it only allows us to access port 80 where there is a web server that taunts us and says the real goods are on port 7175. 
 
 ```

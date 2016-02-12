@@ -8,7 +8,7 @@
 
 ## Write-up
 
-Writeup by boogy
+by [boogy](https://github.com/boogy)
 
 The file we were given if a pcapng file. To be able to read'it with scapy we need to convert it to pcap. The easiest way is to use tcpdump as so:
 
@@ -66,6 +66,8 @@ $ key{WhyWouldYouEverUseThis}
 So the flag is: **key{WhyWouldYouEverUseThis}**
 
 ## Alternate Writeup
+
+by [reap-](https://github.com/reap-)
 
 **forensics/CloudFS** - Ghost in the shell code 2015
 
