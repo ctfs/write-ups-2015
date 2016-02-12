@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://ctf-team.vulnhub.com/eko-party-pre-ctf-2015-login/>
