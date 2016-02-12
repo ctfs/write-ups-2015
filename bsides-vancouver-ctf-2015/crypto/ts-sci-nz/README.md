@@ -114,6 +114,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Please read the writeup by the CTF organisers/task author [here](https://github.com/yvrctf/2015/tree/master/ts-sci-nz). This writeup is based on the original writeup.
 
 In this task, we had to notice that these supposed MD5 hashes do have a certain pattern (number and letter pairs) and that this is a [keypad](http://dialabc.com/motion/keypads.html) cipher using the Australian keypad as key.

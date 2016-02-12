@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given an ELF:
 
 ```bash
