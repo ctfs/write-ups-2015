@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [krx](https://github.com/krx/CTF-Writeups/tree/master/CSAW%2015%20Finals/for300%20-%20Mandiant).
 
 We are given a PDF that contains an EmbeddedFile object stream, see [7.11.4 of the official PDF specification by Adobe](http://www.adobe.com/content/dam/Adobe/en/devnet/acrobat/pdfs/PDF32000_2008.pdf).
