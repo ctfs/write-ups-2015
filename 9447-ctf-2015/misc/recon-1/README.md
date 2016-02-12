@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [allfro](https://github.com/allfro)
+
 1. Inspecting the log reveals two IP addresses `37.139.17.15` and `192.241.254.77`. 
 2. `192.241.254.77` resolves to `www.williestoleyour.pw`. 
 3. Opening your web browser and navigating to `http://www.williestoleyour.pw` reveals an email address in the body of the website: `info@williestoleyour.pw`. 

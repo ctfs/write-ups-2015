@@ -12,7 +12,9 @@
 
 ## Write-up
 
-After extrating the file using `tar xvf <binned>`, we have a look at what kind of file we are dealing with using `file`:
+by [polym](https://github.com/abpolym)
+
+After extracting the file using `tar xvf <binned>`, we have a look at what kind of file we are dealing with using `file`:
 
 	+bash-4.3$ file binned
 	binned: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, not stripped

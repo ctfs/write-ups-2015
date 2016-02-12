@@ -22,6 +22,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on two writeups. One by [PPP](https://github.com/pwning/public-writeup/tree/master/9447ctf2015/steg170-gife-up-now) and one by [sophia.re](http://www.sophia.re/94472015_gifeupnow_writeup.html).
 
 We are given a gif that displays several QR codes in succession:

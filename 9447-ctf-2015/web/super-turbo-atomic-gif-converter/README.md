@@ -20,6 +20,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 When I started working on the challenge, the source was already released and we were
 give the hint that the flag is in `/home/ctf/flag.txt`. 
 

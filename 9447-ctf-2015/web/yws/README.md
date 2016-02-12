@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 We poked around a lot at this challenge. Tried several different inputs and URLs. Only
 later we realized that we could have looked at the binary of [BWS](/9447-ctf-2015/exploitation/bws)
 We realized that there was something funky going on regarding the filtering of the

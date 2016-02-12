@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [stefan2904](https://github.com/stefan2904)
+
 After looking at the provided PNG file with the Hex Editor of our choice, we spotted the sequence *9447*, indicating the start of a flag. Furthermore, we noticed flag-like ascii-characters close to the headers of *IDAT* chunks. (To be precise: the flag-parts were the CRC checksum of the *IDAT* chunks.)
 
 ```

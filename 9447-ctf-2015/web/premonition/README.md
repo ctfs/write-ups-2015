@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 We got an angular.js app that fetches data via a REST API. We identified the following
 valid URLs. 
 ```

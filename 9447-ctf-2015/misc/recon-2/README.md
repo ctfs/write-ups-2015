@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [allfro](https://github.com/allfro)
+
 1. An `nslookup` reveals that `http://dynamiclock.pw` is sitting behind CloudFlare.
 2. At the bottom of the page there is a "Contact Me" form that allows you to fill in your email address, name, and a comment.
 3. By filling in the form successfully with a valid email address you should receive an email confirmation from the server itself.
