@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 First, we extract the gzip-compressed archive using `tar xzvf SerialKillerInvestigation.tar.gz` and see that it contains a home directory of the user `berch`:
 
 ```bash

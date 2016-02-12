@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The first thing we do is googling "'Yañez Sepulveda' cipher" to get the below mentioned Origin of the cipher we have to use.
 
 After understanding what the substitute key is, we use [this code](cocaine.py) to substitute the ciphertext letters with the key letters and print out all possible combinations (since numbers and letters share the same cipher keys).

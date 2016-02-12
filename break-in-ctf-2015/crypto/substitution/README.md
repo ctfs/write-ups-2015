@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 As the description hints, we need to substitute letters with a substitute cipher.
 
 Using these tools ([1](http://www.richkni.co.uk/php/crypta/freq.php), [2](http://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html), [3](http://www.counton.org/explorer/codebreaking/frequency-analysis.php), [4]()), we can conduct a frequency analysis:

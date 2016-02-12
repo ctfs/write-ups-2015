@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a JPG:
 
 ![](./stego_200.jpeg)
