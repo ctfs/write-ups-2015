@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [tomvangoethem](https://github.com/tomvangoethem)
+
 _This write-up is made by the [HacknamStyle](https://www.hacknamstyle.net/) CTF team._
 
 The first thing to figure out in this challenge, was that the website was running on the "production" server (hence the `prod` in the hostname). This then lead to discovering the development server (`.facebox.challs.nuitduhack.com/`), which contained a `.git/` folder.

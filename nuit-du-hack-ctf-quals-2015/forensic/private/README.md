@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is loosely based on [this writeup](https://hexpresso.wordpress.com/2015/04/05/quals_ndh-2k15-private-100-writeup/).
 
 We are given a gzipped tar archive that we extract using `tar xvf Private.tar.fz` to find a pcap-ng capture file named `PrivateChannel.pcap.pcapng`.

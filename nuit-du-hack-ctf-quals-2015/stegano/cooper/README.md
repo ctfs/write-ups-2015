@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on [this writeup](http://ipushino.blogspot.de/2015/04/ndh-ctf-2015-cooper.html).
 
 We extract the `tar.gz` file with `tar xvf Cooper.tar.gz` to get a `PE32` Executable named Cooper.exe.
