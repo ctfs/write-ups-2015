@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a very good writeup by [vimvaders](http://vimvaders.github.io/hackcon2015/2015/08/20/watch-me-surf-the-internet.html).
 
 We are given a gzip compressed pcap that we first uncompress using `gunzip spying.pcapng.gz`.

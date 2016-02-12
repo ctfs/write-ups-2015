@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <http://vimvaders.github.io/hackcon2015/2015/08/20/did-you-mean.html>
