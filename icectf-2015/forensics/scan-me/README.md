@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a snipped QR code:
 
 ![](./qr.jpg)

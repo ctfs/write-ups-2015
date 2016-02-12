@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [Nodraak](https://github.com/Nodraak)
+
 A attempt to connect to the serveur with `nc vuln2015.icec.tf 9000` output something like the following :
 
 ```bash

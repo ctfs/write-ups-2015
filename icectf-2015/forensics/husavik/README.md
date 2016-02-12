@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given an Android Application, which we can decompile using a combination of `apktool` and `jadx`.
 
 After decompilation, we find several files inside the root directory:

@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a file with a `.docx` file extension.
 
 However, in reality, it actually is a zip file, which contains a file named `flag.txt` that contains our flag:

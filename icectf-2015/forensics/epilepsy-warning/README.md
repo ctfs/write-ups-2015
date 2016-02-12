@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://github.com/IceCTF/Problems-2015/blob/master/stage3/forensics/epilepsy_warning/solution.md>

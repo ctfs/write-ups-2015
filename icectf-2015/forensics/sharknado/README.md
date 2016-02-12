@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a pcap traffic dump.
 The description hints that we should login into <http://web2015.icec.tf/sharknado> using credentials that we have to search for in the given pcap.
 
