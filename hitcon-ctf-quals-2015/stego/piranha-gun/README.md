@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [Nandy Narwhals](http://nandynarwhals.org/2015/10/19/hitcon-2015-qualifiers-piranha-gun-stego/).
 
 Connecting to the server, we get a shell as root.
