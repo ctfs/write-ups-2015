@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [ezliang](https://github.com/ezliang)
+
 This pwnable is pretty simple, it seems to be a tower of hanoi solver. 
 >```bash
 >$ nc haas.polictf.it 80

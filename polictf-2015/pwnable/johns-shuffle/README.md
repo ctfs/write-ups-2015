@@ -11,7 +11,10 @@
 > [http://download.polictf.it/johns-shuffle_ebee3fc8684b5802b681ade5dd06623f.tar.gz.gpg](Download)
 
 ## Write-up
-Runnning file on johns-shuffle:
+
+by [ezliang](https://github.com/ezliang)
+
+Running file on johns-shuffle:
 >```bash
 > $ file johns-shuffle
 > johns-shuffle: ELF 32-bit LSB  executable, Intel 80386, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=8a7ccb88d6259fdf5b193f17dc4d8183ada66b64, not stripped
@@ -143,6 +146,8 @@ _flag{rand0mizing_things_with_l0ve}_
 
 ## Another solution
 
+by [ctfhacker](https://github.com/ctfhacker)
+
 ```
 >>> from pwn import *
 >>> elf = ELF('johns-shuffle')
@@ -232,6 +237,9 @@ while True:
 ```
 
 ## Yet another solution
+
+by [kokjo](https://github.com/kokjo)
+
 The first solution unshuffles the got.plt and the second is a probabilistic attack relying on 2 got.plt entries(read and system) being untouched. Both these exploits are trying to deal with the shuffling, but a much simpler solution can be achieved by remebering what a plt entry looks like:
 
 ```
