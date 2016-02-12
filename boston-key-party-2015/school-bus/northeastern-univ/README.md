@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [oyearunpal](https://github.com/oyearunpal) and [polym](https://github.com/abpolym)
+
 If we look at the given [php file](./52.10.107.64\:8003/index.txt) we see that the author compares the `password` with the contents of `$flag` using `strcmp`:
 
 ```php

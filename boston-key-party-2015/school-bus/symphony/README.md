@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [oyearunpal](https://github.com/oyearunpal) and [polym](https://github.com/abpolym)
+
 Given the [php source code](./52.10.107.64\:8002/index.txt), we see that we need an input that is less than 3 chars and get beyond `is_numeric`.
 
 The solution to this problem is using float numbers, e.g. `http://52.10.107.64:8002/?password=1e3`.

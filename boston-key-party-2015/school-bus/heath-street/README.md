@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Using `file`, wee see that we are given an ext4 image:
 
 ```bash

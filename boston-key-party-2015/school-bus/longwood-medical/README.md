@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [tomvangoethem](https://github.com/tomvangoethem)
+
 The anti-SQL-Injection check is implemented by checking whether the values of `$_GET['name']` and `$_GET['password']` are alpha-numerical.
 Usually, this would be sufficient, but in this case [the SQL query](https://github.com/ctfs/write-ups-2015/blob/ddbc91270893ac39adbd5640a3f82e005875d2d0/boston-key-party-2015/school-bus/longwood-medical/52.10.107.64:8005/index.txt#L17) does not surround quotes around the user-supplied values. This means that when a numerical value is entered, a textual value is compared to the numerical one, causing an implicit cast.
 A cast from string to integer will result in `0` when the string does not start with numerical values (which seemed to be the case both for `$name` and `$password` in this challenge).

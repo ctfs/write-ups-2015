@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [MrVaughan](https://github.com/MrVaughan)
+
 To solve this problem you first need to perform some reconaissance on identifying the type and strcuture of the punch cards. 
 
 Some googling revealed this handy tool that was probably used to generate this challenge

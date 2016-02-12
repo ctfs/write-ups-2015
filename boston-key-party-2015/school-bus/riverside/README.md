@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [aSmig](https://github.com/aSmig)
+
 We start with a pcap-ng capture file containing USB traffic.  Let's take a look.
 
 ```

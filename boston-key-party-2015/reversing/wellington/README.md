@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is similar and somewhat based on [this remote writeup](https://github.com/noobdoesre/write-ups/tree/master/boston-key-party-2015/wellington).
 
 After finding out that we are given an ELF file, We first use `strings` and `grep` to find suspicious strings:

@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [0xddaa](https://github.com/0xddaa)
+
 The problem is a game about transcation of 0days.  
 We can enter the password and cheat the game, but it's useless.   
 The game print the message:  

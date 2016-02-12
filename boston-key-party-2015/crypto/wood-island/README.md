@@ -9,7 +9,7 @@
 
 ## Write-up
 
-Writeup by epochfail.
+by [epochfail](https://github.com/epochfailctf)
 
 The task was to forge an ElGamal signature of a fixed string, given a collection of signatures. We are also provided with the prime, `p`, and generator element `g`: the public parameters of an ElGamal signing system.
 
@@ -75,7 +75,9 @@ The full signature is thus:
 {"s": 3014878633137287394124127653489873288159630923151976475367110860665823037637967007108548419033983397235634088548630635608460601426846110437988798187839907543732012712339535128402199579515311964117424119775352438560229969973347567270238554852248811372675535769778593411780705689239120513635405191218285465254686432764036553625872828345641530781048387734401408069865444002089832141092673760743216330502251238391118869141618294878380090970580806911379005579922080899099717770415409502899325918107535114908790355754386169519151299225168135323147286722969796080575358595404216685633122420151399732715276797035035494161809, "r": 125, "m": "There is no need to be upset"}
 ```
 
-## Alternative write-up by @mrexcessive
+## Alternative write-up
+
+by [mrexcessive](https://github.com/mrexcessive)
 
 There also was an exploitable bug in the server code, it didn't check the contents of the hash sufficiently - sneaking in an extra key/value pair meant that the elgamal_verify() could be used with one of the supplied triplets.
 

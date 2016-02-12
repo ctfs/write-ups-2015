@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [tomvangoethem](https://github.com/tomvangoethem)
+
 Just submit `party` as a flag.
 
 ## Other write-ups and resources
