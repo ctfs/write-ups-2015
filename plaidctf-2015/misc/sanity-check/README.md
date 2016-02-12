@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [nobbd](https://github.com/nobbd)
+
 ### Sanity Check - Do you have internet?
 
 This challenge was awarded with a single point and was the easiest challenge in this ctf.

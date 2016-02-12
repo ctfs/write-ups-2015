@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [ezliang](https://github.com/ezliang) and [polym](https://github.com/abpolym)
+
 Completed --> [ebp.md](ebp.md)
 
 ### Additional Information to ebp.md

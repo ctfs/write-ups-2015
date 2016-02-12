@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a file that contains formatted data:
 
 ```bash

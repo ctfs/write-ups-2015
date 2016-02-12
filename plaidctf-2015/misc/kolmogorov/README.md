@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [jorenverspeurt](https://github.com/jorenverspeurt)
+
 The bunch of gibberish in the assignment is a program in the code golf-centric programming language Pyth. It translates to Python, that's probably where the pet snake in the name comes from.
 
 The code below is what the (patched! there's a bug in the run-length encoding code, a single line is indented wrongly, I hope it'll be fixed by the time you read this) interpreter for Pyth translates the terse code to:

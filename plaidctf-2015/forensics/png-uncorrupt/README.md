@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a corrupted PNG and check it's state using `pngcheck`:
 
 ```bash

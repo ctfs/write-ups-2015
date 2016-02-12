@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [xarsman](https://github.com/xarsman)
+
 _This write-up is made by Xarsman of the [HacknamStyle](https://www.hacknamstyle.net/) CTF team._
 
 We are given a file which contained a list of tuples `{N : e : c}`. This seems like a common [RSA](http://en.wikipedia.org/wiki/RSA_%28cryptosystem%29) encryption and we get the public key `{N,e} = {modulus, exponent}` and `{c} = {ciphertext}`. If you aren't familiar with the [RSA cryptosystem](http://en.wikipedia.org/wiki/RSA_%28cryptosystem%29) I suggest you read up on wikipedia first before continuing this write-up.

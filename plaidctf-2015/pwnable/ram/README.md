@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [geoff-addepar](https://github.com/geoff-addepar)
+
 First, let's break down what the supplied python file does. Here is the first relevant section:
 
 ```python
