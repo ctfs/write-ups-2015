@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [cryptax](https://github.com/cryptax)
+
 This was a very easy challenge that most participants solved. We were being
 asked to vote for the best hacking movie - selecting one movie from a
 dropdown list. It seems that all votes end up with the output "Seriously?!

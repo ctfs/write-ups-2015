@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [cryptax](https://github.com/cryptax)
+
 We are given a zip file which contains an iOS application and 'a copy of folders on the device' (iExplorer path):
 
 ```

@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [bcyrill](https://github.com/bcyrill)
+
 The web application in this challenge allows us to rate and follow our favorite hacker.
 
 When we follow a hacker we note that a cookie containing a serialized PHP object is set. As the source code of the appliction is also available we have a quick look at the correspondig part in the update.php script.

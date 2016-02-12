@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [antoinet](https://github.com/antoinet)
+
 The pcap file contains 22 packets of IP/ICMP traffic in which host
 10.13.37.206 is ping'ed. The host selectively replies to echo requests.
 The echo requests have varying TTL values in the domain of printable

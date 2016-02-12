@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [fbonzon](https://github.com/fbonzon)
+
 We are given this image:
 
 <img src="zoomIn_3a3f6e35934021eca75b0abde70333a6.jpg" width="512" />

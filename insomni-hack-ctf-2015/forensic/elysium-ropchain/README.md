@@ -17,6 +17,8 @@ This task has also been proposed in Sthack CTF 2015.
 
 ## Write-up
 
+by [0xf4b](https://github.com/0xf4b)
+
 We’re given a `TAR.GZ` archive containing the following files:
 
 ```

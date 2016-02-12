@@ -14,6 +14,8 @@
 
 ## Write-Up
 
+by [cryptax](https://github.com/cryptax)
+
 This one provides a memory image
 (WIN-DEA2KM5I93L-20150318-151408_e93e1b0d01e0b5c4d5985254e94b958e.7z, 303MB)
 and tells us the flag is composed of 2 parts, one in the memory image, and

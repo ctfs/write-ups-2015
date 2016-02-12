@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [cryptax](https://github.com/cryptax)
+
 We don't much more except there's something else to find. So, this time we have a look at the iOS application. The .ipa format is a Zip file, that we unzip. 
 In the application, we notice a file 'Blackhat.mp4'. That startles me, especially because the file does not appear to be a valid video:
 
