@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a zip containing several files with random names such as `yVtcAVSqX31NBNEf` or `xFchwoeIko36ZmTU`.
 
 The first thing to do is call the `file` command on each to find out what kind of files we are dealing with:

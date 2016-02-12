@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture of an apple:
 
 ![](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/apple.jpg)

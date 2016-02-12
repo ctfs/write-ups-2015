@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on following write-ups:
 
 * <https://github.com/ztaylor54/CTF/blob/master/EasyCTF%202015/pepperoni_pizza.md>

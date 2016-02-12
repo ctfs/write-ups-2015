@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/liar_50.md>

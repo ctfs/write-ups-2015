@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We get a pcap traffic dump that we analyze using `wireshark` to see several HTTP and TCP packets.
 
 First, we have a look at the TCP stream `Analyze->Follow->TCP Stream`:

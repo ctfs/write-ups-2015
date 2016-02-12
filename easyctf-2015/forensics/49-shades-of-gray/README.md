@@ -19,6 +19,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeup links:
 
 * <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/49_shades_of_gray_125.md>

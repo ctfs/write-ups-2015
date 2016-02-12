@@ -18,6 +18,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is loosely based on following write-ups:
 
 * <https://github.com/C2TF/writeups/tree/master/2015/easyctf/sayonara>

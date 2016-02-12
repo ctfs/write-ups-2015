@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture of a tulip:
 
 ![](https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/files/tulip.png)

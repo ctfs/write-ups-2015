@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on following write-ups:
 
 * <https://github.com/DavidJacobson/EasyCTF-2015-writeup/blob/master/crypto.md#pixels---180-pts>

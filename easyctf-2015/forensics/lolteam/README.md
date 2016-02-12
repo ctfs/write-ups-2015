@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a pcap traffic dump that we open with `wireshark` to see some HTTP and TCP packets.
 
 By following the TCP stream (`Analyze->Follow->TCP Stream`), we see that the traffic captured a HTTP POST request to `2014.easyctf.com/api/account/update`.

@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on following write-ups:
 
 * <https://github.com/EasyCTF/easyctf-2015-writeups/blob/master/corrupted_375.md>
