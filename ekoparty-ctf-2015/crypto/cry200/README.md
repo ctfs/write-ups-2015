@@ -13,6 +13,9 @@
 
 
 ## Write-up
+
+by [elliptic-shiho](https://github.com/elliptic-shiho)
+
 Summary: Breaking XOR(-Right)-Shift
 
 The "cryptor" is using XOR(-Right)-Shift.

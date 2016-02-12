@@ -11,6 +11,9 @@
 
 
 ## Write-up
+
+by [elliptic-shiho](https://github.com/elliptic-shiho)
+
 I got a mysterious text file. I guessed that is key scan code... Bingo!
 
 decode by hand using this: http://www.computer-engineering.org/ps2keyboard/scancodes1.html

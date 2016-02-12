@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by Fernando Muñoz
+
 The challenge included a video file inside the ZIP.
 
 This video file was generated using [Tempest for Windows](https://cryptome.org/2015/09/tempest-test-for-windows.htm) and it plays the Mario Bross theme.
