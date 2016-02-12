@@ -21,6 +21,8 @@
 
 ## Write-up
 
+by [derlaft](https://github.com/derlaft)
+
 Let's see what do we have here. Client generates an assymetric keypair ([Box NaCl](http://nacl.cr.yp.to/box.html) is used) and sends an encrypted and signed message to a server:
 
       req = my_sk.public_key.encode() + bytes([command]) + box.encrypt(data.encode('utf8'), nonce)

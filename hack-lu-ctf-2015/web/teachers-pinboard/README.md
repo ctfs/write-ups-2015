@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [agix](https://github.com/agix)
+
 The application seems to be almost client side only. Login and registration are on the same form and you can login with the "admin" username.
 
 It gives you access to new notes that you can modify and which would be stored in your localStorage with a PBKDF2 derived key of your password.
