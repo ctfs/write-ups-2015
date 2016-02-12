@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [ctfhacker](https://github.com/ctfhacker)
+
 # Bitterman
 
 ## Recon

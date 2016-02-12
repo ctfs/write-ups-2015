@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 * <https://nuc13us.wordpress.com/2015/08/16/secret_file-150-cscamp-ctf-2015/>  (Common understanding)
 * <https://ctf-team.vulnhub.com/campctf-2015-secret-file/> (Detailed understanding)
 * [Russian](http://reu.org.ua/camp-ctf-2015-secret-file.html) (IDA Decompiled Source, CTX struct)

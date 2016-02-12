@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://github.com/vito-lbs/cccctf/tree/master/spam>

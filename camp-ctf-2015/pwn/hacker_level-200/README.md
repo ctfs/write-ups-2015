@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://ctf-team.vulnhub.com/campctf-2015-hacker-level/> 
