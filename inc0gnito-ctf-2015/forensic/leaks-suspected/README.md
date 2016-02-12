@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a broken pcap, which we can't read with `tshark` or `wireshark`.
 
 Applying `strings` on the data blob, we find some ftp transmission messages:
