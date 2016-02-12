@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [gb1035](https://github.com/gb1035)
+
 ##Overview
 When you run
 ~ nc hack.bckdr.in 8010

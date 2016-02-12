@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We see in the github repo that there are [several commits](https://github.com/backdoor-ctf/TIM/commits/master), each having an ASCII character commit message of length 2 up until the last commit, which just says `Adds flag`.
 
 After joining the commit messages to one, beginning at the oldest commit, we see a hint:

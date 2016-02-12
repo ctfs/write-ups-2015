@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are told to download a big file (2.0T according to `wget https://lhc-cdn.herokuapp.com/data.txt`) and that we receive the flag in the middle of the big file.
 
 The solution is not to download the whole file but to begin at a specific offset using e.g. the ranges option of `curl`:

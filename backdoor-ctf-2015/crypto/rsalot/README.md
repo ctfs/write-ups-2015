@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given 100 public keys with the names `1.pem`-`100.pem`, as well as a `flag.enc` that contains our base64 encoded ciphertext.
 
 After understanding what RSA does, e.g. with [this nice quick overview](http://doctrina.org/How-RSA-Works-With-Examples.html) containing all basic mathematical concepts needed to understand RSA as well as an explaination of RSA by example.
