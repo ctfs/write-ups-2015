@@ -94,6 +94,8 @@
 
 ## Write-up
 
+by [vvvverre](https://github.com/vvvverre)
+
 This problem introduces us some basic knowledge about Quantum Computing. The Quantum State Transformations is a traditional application. And we know Bob needs to use different decoding operator depending on the value of the bits he received from Alice. Consider the expansion formula with the quantum gates substituted with the help of [wikipedia](http://en.wikipedia.org/wiki/Quantum_gate):
 ```
    (H * I * I)(Cnot * I)(|t⟩*|s0⟩)

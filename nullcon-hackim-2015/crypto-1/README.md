@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 If you had chemistry in school, you'll notice quickly that each two characters represent chemical symbols for different chemical elements out of the periodic table, e.g. `Ta` means `Tantalum`.
 
 Each atom of a chemical element also has a [unique count](http://en.wikipedia.org/wiki/Atomic_number) of protons, e.g. `Ta` has the atomic number `73`.

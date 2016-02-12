@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [jagotu](https://github.com/jagotu)
+
 First thing we'll notice is that the distribution of the numbers is very uneven:
 
 1: 261  

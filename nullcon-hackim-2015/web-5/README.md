@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [pyrocat101](https://github.com/pyrocat101)
+
 Notice that captcha uses the fixed font family and characters are upper- and lower-case letters
 at fixed location. So the idea is to crop letters and label them for use. Whenever we get a
 new captcha, crop out the letters, and compare those letters against our labelled ones.
