@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [HoLyVieR](https://github.com/HoLyVieR)
+
 ### Explanation
 
 To do this challenge, we had to understand how HMAC works. HMAC is constructed using the following formula and the hash function used in the challenge was `md5`:

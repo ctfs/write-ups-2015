@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Note: This writeup is based on [This Writeup](http://mail.pri-vate.net/tmp/writeup-CONFidence_DS_CTF_2015-200stegano-A_PNG_Tale.txt).
 
 We are given a 800x800 PNG picture that seemingly contains no hidden information on first sight:

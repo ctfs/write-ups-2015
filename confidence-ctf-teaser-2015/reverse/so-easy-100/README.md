@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [HoLyVieR](https://github.com/HoLyVieR)
+
 At a high-level the program executed the following instructions in the main:
 
 	char flag[32];

@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [evgenymartynov](https://github.com/evgenymartynov)
+
 You are provided with a binary that implements decompression-as-a-service with a simple custom data format. The decompression appends data to the output buffer either by taking a literal byte from the input stream, or reusing a slice of the output buffer.
 
 As far as protection goes, we have ASLR and NX, but no PIE. We also have `system()@plt` in the binary, which helps.
