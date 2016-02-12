@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We extract the file using `unxz` and get a PNG according to `file`.
 
 The PNG shows us a filesystem, the PI symbol and a binary string:

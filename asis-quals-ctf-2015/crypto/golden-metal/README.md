@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [elliptic-shiho](https://github.com/elliptic-shiho)
+
 This challenge is [Goldwasser–Micali cryptosystem](http://en.wikipedia.org/wiki/Goldwasser%E2%80%93Micali_cryptosystem). so, this is a factoring challenge!
 I've used the [msieve](http://sourceforge.net/projects/msieve/) to factorization.
 ```

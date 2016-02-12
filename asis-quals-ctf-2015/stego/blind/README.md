@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on a writeup by [khack40](http://khack40.info/asis-quals-ctf-2015-blind-write-up/).
 
 Using `file`, we see that we are given a xz-compressed file and uncompress it using `unxz`:

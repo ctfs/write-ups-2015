@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [Ghaaf](https://github.com/Ghaaf)
+
 After spend sometimes to find some vulnerabilities with no luck I check robots.txt, there was an important path there and it was misc folder contains pcap file. So take a look at pcap and filter with ‘http && ip.dst == 217.218.48.85’ and get some interesting packets:
 
 	GET /login.php HTTP/1.1

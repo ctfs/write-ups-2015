@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We extract the given xz compressed file to find a 7-zip archive:
 
 ```bash

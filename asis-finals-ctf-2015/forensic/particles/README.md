@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writups:
 
 * <https://kt.pe/blog/2015/10/asis-2015-finals-particles/>

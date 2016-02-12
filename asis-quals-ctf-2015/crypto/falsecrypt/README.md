@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [DerBaer0](https://github.com/DerBaer0)
+
 Ok, let's see what to do with the challange with the most points in this contest. It took me a long time to understand, how this is working and again a lot of time to get the output correct. However, solving was quite easy.
 
 **First step**

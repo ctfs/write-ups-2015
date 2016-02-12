@@ -17,6 +17,8 @@
 
 ## Write-up
 
+by [DerBaer0](https://github.com/DerBaer0)
+
 **Observing**
 When we connect, the server asks for the solution of a simple addition
 > Welcone to AngriCrypt challange :)

@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [reap-](https://github.com/reap-)
+
 We are served an xz compressed binary My_Ped_11ceeee7565e3bbd5c9db2c1a791236f which decompresses to
 ![1](https://cloud.githubusercontent.com/assets/10586902/7574178/4f02afae-f7f9-11e4-9940-bb1300ef57e5.png)
 

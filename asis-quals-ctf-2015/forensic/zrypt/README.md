@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://xmgv.wordpress.com/2015/05/11/asis-ctf-quals-2015-zrypt/>

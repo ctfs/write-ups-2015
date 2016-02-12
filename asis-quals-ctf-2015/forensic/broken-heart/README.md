@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on these writeups:
 
 * <http://www.thice.nl/asis-ctf-2015-write-ups/>

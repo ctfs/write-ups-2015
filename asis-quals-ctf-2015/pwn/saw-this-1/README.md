@@ -17,6 +17,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <http://fritzfs.blogspot.com/2015/05/writeup-saw-this-1-asis-ctf-quals-2015.html> (Common understanding)

@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups (You should have a look at them to see the now deleted paste links):
 
 * <https://github.com/bl4de/ctf/blob/master/ASIS_CTF_2015/Biglie_Forensic_100_writeup.md>
