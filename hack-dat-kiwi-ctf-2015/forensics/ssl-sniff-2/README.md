@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a tcpdump of SSL encrypted data and a RSA key that should decrypt this conversation.
 
 This is easily done using `wireshark`: `Preferences -> Protocols -> SSL -> Edit RSA keys list`, then input all required information (e.g. key file location, IP etc):

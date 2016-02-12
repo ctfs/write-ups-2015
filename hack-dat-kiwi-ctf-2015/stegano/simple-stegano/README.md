@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a PNG and a website that encodes a given string into the same troll picture.
 
 Using [pixels.py](./pixels.py), we determine differences in the pixel values between pictures.

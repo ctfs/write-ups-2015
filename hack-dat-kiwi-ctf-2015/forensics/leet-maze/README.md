@@ -19,6 +19,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a domain name `track.dat.kiwi`, which DNS TXT record we have to read, according to the description.
 
 This can be done using `dig` as the description suggests or `python` with the `dns` module.

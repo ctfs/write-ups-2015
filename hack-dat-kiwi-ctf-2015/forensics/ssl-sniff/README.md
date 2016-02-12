@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a tcpdump capture that contains an SSL encrypted conversation.
 
 Fortunately, the key is hidden inside the certificate's stateOrProvinceName field:
