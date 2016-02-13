@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on following write-ups:
 
 * <https://github.com/teamavidya/ctf/tree/master/2015_whitehat_quals/ca_mau%5Bforensics100%5D>

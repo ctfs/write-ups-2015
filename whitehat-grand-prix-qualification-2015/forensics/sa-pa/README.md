@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [Tin](https://blog.tinduong.pw/whitehat-grandprix-global-challenge/) <!-- hi Tin :) -->.
 
 Note: This writeup is work in progress and not really finished :/
