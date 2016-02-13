@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [bobbyblues](https://github.com/bobbyblues)
+
 The challenge consists in a pcap file containing network traffic.
 Most of it is encrypted, but a few TCP streams are here, and we quickly find emails exchanged about joining the Little Orphan Annie fanclub.
 By exporting the HTTP objects from the capture we can retrieve those emails and find two interesting ones.

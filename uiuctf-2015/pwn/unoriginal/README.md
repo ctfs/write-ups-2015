@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://gist.github.com/emyei/5f60c733761573b760d2>

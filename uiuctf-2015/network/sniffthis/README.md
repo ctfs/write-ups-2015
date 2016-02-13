@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [bobbyblues](https://github.com/bobbyblues)
+
 This challenge consists in a pcap file for network traffic.
 Let's export the HTTP objects and browse the files.
 In the middle of a lot of Pandora traffic, we find key.gif and key.bmp.
