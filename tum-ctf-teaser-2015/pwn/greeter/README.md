@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 This was the first challenge in the pwn category and was pretty easy to solve.
 The service asks us for our name and then tells us to pwn harder.
 

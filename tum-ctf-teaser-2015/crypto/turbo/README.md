@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 This was a fun challenge. Again the service is written in python. This services seems
 to involve two secrets we don't know. We can send a password and a command, if the 
 password is correct it will be executed. The flag and the output are then encrypted

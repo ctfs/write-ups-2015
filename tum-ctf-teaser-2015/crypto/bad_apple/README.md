@@ -17,6 +17,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 The code for the service is pretty small and given the low amount of
 points it will be pretty straight forward. 
 

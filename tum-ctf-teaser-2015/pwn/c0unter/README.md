@@ -14,6 +14,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://0xabe.io/ctf/exploit/2015/10/30/TUM-CTF-Teaser-2015-pwn-counter.html>

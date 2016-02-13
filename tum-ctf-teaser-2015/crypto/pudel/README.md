@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [f0rki](https://github.com/f0rki)
+
 We received the code of the service, which is again written in python
 and rather short, and a pcap of a client interacting with the service.
 The service basically reads data from the socket and tries to decrypt
