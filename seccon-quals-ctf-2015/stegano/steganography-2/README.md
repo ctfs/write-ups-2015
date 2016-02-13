@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Inside the zip is a png that we check with `pngcheck`, `exiftool` and steganography tools such as `stegsolve` for any inconsistencies, hints or the flag itself.
 
 Neither `exiftool` nor any stego tool gives us any clue as to where the flag is.

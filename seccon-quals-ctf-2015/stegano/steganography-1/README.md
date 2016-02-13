@@ -16,6 +16,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 First, with `file`, we see that the given file `MrFusion.gpjb` is a GIF.
 
 Using `binwalk`, we see that this gif contains several other gifs, bmps, jpgs and pngs:

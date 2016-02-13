@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This solution is based on several solution by [this writeup](https://hackmd.io/s/VJKXiph4x) and these two: [1](https://github.com/Execut3/CTF/tree/master/Participated-CTF/2015/seccon/SecconWars), [2](http://hfukuda.hatenablog.com/entry/2015/12/07/235823).
 
 We are given a youtube video that shows a scrolling yellow text in Japanese on black background in Star-Wars style, a moving title split in tiles that appears after some time and a QR Code in black that is visible as an overlay over the Japanese text.
