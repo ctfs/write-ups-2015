@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is very loosely based on [this Indonesian writeup](http://www.hasnydes.us/2015/05/schoolctf-tacticus-abilitus-100pts/)
 We are given a PNG:
 

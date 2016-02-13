@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a zip archive that we extract using `7z` to find 6 images and one thumbnail database, `Thumbs.db`:
 
 ```bash

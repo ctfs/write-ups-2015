@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture:
 
 ![](stegano2_d5e256930e8becd029ed32477365cd0270ca698a.jpeg)

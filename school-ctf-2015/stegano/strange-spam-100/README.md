@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on this [Indonesian writeup](http://www.hasnydes.us/2015/05/schoolctf-strange-spam-100pts/).
 
 Searching for the keywords `spam steganography`, we find a [website that offers steganography using spam mails](http://www.spammimic.com/).
