@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 using `binwalk`, we see that the provided picture contains a zip archive:
 
 ```bash

@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The picture is a Piet program. We can execute it using [npiet](http://www.bertnase.de/npiet/):
 
 ```bash

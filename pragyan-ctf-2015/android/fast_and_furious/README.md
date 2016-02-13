@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 After decompiling the `fast.apk` application file, we detect a hardcoded string, `65544231587a52794d3138316458417a636c396d4e44553343673d3d`, in `Main.java`.
 
 Converting this Hex string to an ASCII string, we get `eTB1XzRyM181dXAzcl9mNDU3Cg=`, which is a base64 encoded string.

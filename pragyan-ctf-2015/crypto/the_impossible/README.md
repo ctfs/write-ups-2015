@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a ciphertext and a clue:
 
 ```bash

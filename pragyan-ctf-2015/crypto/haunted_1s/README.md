@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We notice that the numbers in the ciphertext are only `0` or in the range `2-9`.
 The number `1` is missing, hence the task name `Haunted 1's`.
 So we replace everything that is not `0` with `1` and decode the resulting binary text into an ASCII string:

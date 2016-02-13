@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture of Emma Watson:
 
 ![](the_bling_ring.png)

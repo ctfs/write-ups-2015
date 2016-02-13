@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Opening the `test.html` file with a web-browser of your choice, we see a blank page.
 
 Further inspection yields that there are several blocks with RGB background colors of either `rgb(255, 255, 254)` or `rgb(255, 255, 255)`.

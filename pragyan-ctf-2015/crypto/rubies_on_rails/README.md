@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The ciphertext is encrypted using the [telephone keypad](http://en.wikipedia.org/wiki/Telephone_keypad):
 
 ![](keypad.png)

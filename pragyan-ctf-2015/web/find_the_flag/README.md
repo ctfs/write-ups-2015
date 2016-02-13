@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Unzipping the archive with `unzip ctf.zip`, we get a bunch of javascript and css files, as well as a PNG.
 
 The first thing we do is trying to find the string `flag` using `grep`:

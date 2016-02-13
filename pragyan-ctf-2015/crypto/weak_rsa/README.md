@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [juanjohn](https://github.com/juanjohn)
+
 Download the file and inspect it.
 
 ```bash

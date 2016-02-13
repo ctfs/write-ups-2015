@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 When decompiling the `circle.apk` application file with [jadx](https://github.com/skylot/jadx), we see four Java files:
 
 ```bash

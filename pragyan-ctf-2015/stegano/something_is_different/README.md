@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a picture of pi and the first `20590` decimal places.
 
 Using an [online OCR tool](http://www.free-ocr.com/), we get the textual representation of this picture.

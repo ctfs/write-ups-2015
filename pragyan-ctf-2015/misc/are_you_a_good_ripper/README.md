@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 After extracting the xz archive using `unxz < misc > here`, we are given a POSIX tar archive.
 
 We unpack this archive with `tar xvf here` and get another archive, this time it is a zip archive named `misc.zip`.

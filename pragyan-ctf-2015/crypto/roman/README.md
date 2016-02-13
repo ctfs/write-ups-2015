@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 After extracting the gzipped tar archive using `tar xzvf question2.tar.gz`, we are given two files, `clue` and `encrypt`:
 
 ```bash

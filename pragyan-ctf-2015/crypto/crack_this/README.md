@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The ciphertext `qsbfvdmdpjtmamrY` is encrypted with the Playfair cipher.
 
 We can use an [online tool](http://rumkin.com/tools/cipher/playfair.php) to decrypt the ciphertext:

@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Extracting the xz compressed archive using `unxz < misc-2 > here` and the resulting POSIX tar archive using `tar xvf here`, we get a file named `flag.txt`.
 
 The file contains `307200` RGB values.

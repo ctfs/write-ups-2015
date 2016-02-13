@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 When opening the PDF, we see a censored image of a painting and an "encrypted code" and are told that the "KEYED" painter has the access code to this picture.
 
 The encrypted code is `heitsctrnpsmysk` and we can extract the thumbnail of the picture using any carving tool, e.g `foremost` or `scalpel`:
