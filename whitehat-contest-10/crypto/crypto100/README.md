@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [x0w1](https://github.com/x0w1)
+
 There must be 50 letters encoded in 10 numbers, 5 letters per number. All given numbers are less then 1. There are 64 letters in the charset.
 
 If we multiply the first number and 64, we get 49.127273917. 49 is the position of letter "W" in the charset (if we start counting from 1). We take only fractional part of the new number and myltiply it x64:
