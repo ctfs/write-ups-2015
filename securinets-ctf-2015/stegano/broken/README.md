@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a ''broken'' QR code:
 
 ![](Broken.jpg)

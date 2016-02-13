@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [Freddrickk](https://github.com/Freddrickk)
+
 That's my first write-up ever, so I apologize in advance if this is a bit clumsy.
 
 What we have here is an ASPack packed binary. Usually, the proper way to solve a packed

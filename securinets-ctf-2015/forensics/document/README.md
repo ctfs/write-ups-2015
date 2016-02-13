@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [shikata-ga-nai](https://github.com/shikata-ga-nai)
+
 We are given with file, which we can discover with Unix "file" command, happens to be RAR archive. Firstly we unrar it. We get a folder with 3 folders and 1 file inside. Folders: word, docProps, customXml. File: [Content_Types].xml. Word folder gives us a clue that it might be a word document, which is basically a zipped archive of mentioned folders and that file above. Thus, we zip-archive the folder and give it .docx extension. After that we can open the file, for example, in Google Drive (https://docs.google.com/document/d/1aV4tQvcVd6BULTrHQpE-JiJG57KAFG9NVku7K2oReZI)  and get the flag. 
  Flag= D3_R13N_ChA113Ng3R_
 

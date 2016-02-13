@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We look at out cookies and see several cookies of similar length and one cookie that does stand out:
 
 ![](cookies.png)

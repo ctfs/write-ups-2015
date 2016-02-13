@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is loosely based on a writeup by [ipushino](http://ipushino.blogspot.de/2015/03/securinets-ctf-2015-stegano-google.html).
 
 We are given a PNG that display the Google Home Page:

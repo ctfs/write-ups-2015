@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a rar that we extract to find two files, `SAM` and `SYSTEM`:
 
 ```bash
