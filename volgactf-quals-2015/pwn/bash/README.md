@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <http://www.rogdham.net/2015/05/03/volgactf-2015-quals-write-ups.en>

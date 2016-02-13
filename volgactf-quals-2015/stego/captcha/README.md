@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a big PNG file and apply `pngcheck` on it to find that it produces an error:
 
 ```bash

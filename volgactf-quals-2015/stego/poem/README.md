@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on two writeups: A writeup by [whitehatters](https://www.whitehatters.academy/volgactf-2015-poem/) and a [Japanese writeup](http://sioncojp.hateblo.jp/entry/2015/05/14/201258)
 
 We are given a PDF with a poem verbatim copied from an original poem.

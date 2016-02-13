@@ -19,6 +19,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based no a writeup by [whitehatters](https://www.whitehatters.academy/volgactf-2015-tlsb/).
 Also can be read [here](http://www.symbiosysconsulting.com/articles/intro-to-stenography).
 
