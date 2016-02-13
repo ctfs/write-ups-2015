@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [bannsecurity](http://bannsecurity.com/index.php/home/10-ctf-writeups/25-th3jackers-ctf-2015-ultimate-steg).
 
 We are given a gif:

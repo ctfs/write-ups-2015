@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Googling for `58076138` in Google Images results in this [meme](http://memegenerator.net/instance/58076138):
 
 ![](58076138.jpg)

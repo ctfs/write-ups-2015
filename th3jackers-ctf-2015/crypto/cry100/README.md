@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given a binary and a Readme, called [crypto.txt](crypto.txt) and are instructed to use the binary to decode the message:
 
 > 019t-0-080-3-1b-19t-25z-080-03f-8j-1b-12n-12n

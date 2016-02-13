@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We have to decode the message `^[[1;3Aload+^[[1;3Bload+^[[1;3C+here+^[[1;3D4dead`.
 
 First, we have to know that these weird-looking character sequences `^[[1;3A` are keycodes:

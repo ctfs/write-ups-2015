@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on a writeup by [this persian writeup](http://nevermore.blog.ir/post/th3jackers-2015-CTF-writeup).
 
 By running `file 0227597b75da424e4233f8b3c1873446`, we see that we are given a JPG, which shows several pictures of arrows, QR codes, numbers etc in small tiles:

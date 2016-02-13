@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The flag was `flag{john frink}`.
 
 ![](frink.png)

@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 We are given [this textfile](ec5883451bb7d0aa6b5950e39ed5f16d), consisting of blank newlines, lines containing a specific number of underscores (`_`) and lines with a lone character.
 
 After noticing that four underscore lines preceding the `{` symbol might match `flag`, we are convinced that the number of underscores of each line represent a character.

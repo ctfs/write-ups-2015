@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 The flag was `flag{the password of omar}`.
 
 ## Other write-ups and resources

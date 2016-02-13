@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This write-up is based on a write-up by [ctf-team](https://ctf-team.vulnhub.com/the3jackers-2015-steg100/).
 
 Using the `file` command, we see that we are given a JPG.

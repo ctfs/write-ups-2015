@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 Besides a question of the best command-line text editor, the given homepage had a HTML comment with a base64 encoded message in it:
 
 > RWRpdGVkIGJ5IGphY2tzdG9uZSB1c2luZyBuYW5vIGVkaXRvcg==
