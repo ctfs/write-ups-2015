@@ -1,4 +1,4 @@
-# MMM-CTF-2015: Alicegame
+# MMA-CTF-2015: Alicegame
 
 **Category:** Crypto
 **Points:** 250

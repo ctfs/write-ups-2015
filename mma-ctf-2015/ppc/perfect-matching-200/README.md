@@ -1,4 +1,4 @@
-# MMM-CTF-2015: perfect-matching-200
+# MMA-CTF-2015: perfect-matching-200
 
 **Category:** PPC
 **Points:** 200

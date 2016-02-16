@@ -1,4 +1,4 @@
-# MMM-CTF-2015: Splitted
+# MMA-CTF-2015: Splitted
 
 **Category:** Forensics
 **Points:** 30

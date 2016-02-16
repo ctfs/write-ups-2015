@@ -1,4 +1,4 @@
-# MMM-CTF-2015: pieceofeight-reloaded-100
+# MMA-CTF-2015: pieceofeight-reloaded-100
 
 **Category:** Forensics
 **Points:** 100

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: how-to-use-30
+# MMA-CTF-2015: how-to-use-30
 
 **Category:** Reverse
 **Points:** 30
@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/angr/angr-doc/blob/master/examples/mma_howtouse/howtouse.py - mostly-automated solution using the angr binary analysis framework
+* <https://github.com/angr/angr-doc/blob/master/examples/mma_howtouse/howtouse.py> - mostly-automated solution using the angr binary analysis framework
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/08/005012)

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: d3flate-500
+# MMA-CTF-2015: d3flate-500
 
 **Category:** Pwn
 **Points:** 500

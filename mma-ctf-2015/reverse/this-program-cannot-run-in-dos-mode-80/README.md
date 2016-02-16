@@ -1,4 +1,4 @@
-# MMM-CTF-2015: this-program-cannot-run-in-dos-mode-80
+# MMA-CTF-2015: this-program-cannot-run-in-dos-mode-80
 
 **Category:** Reverse
 **Points:** 80
@@ -16,3 +16,4 @@
 
 * <http://fadec0d3.blogspot.com/2015/09/mma-ctf-2015-cannotberun-80.html> 
 * <http://boaster.github.io/ctf/2015/09/08/MMA-CTF-RE-80.html>
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/08/005012)

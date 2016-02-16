@@ -1,4 +1,4 @@
-# MMM-CTF-2015: money-game-200
+# MMA-CTF-2015: money-game-200
 
 **Category:**
 **Points:**
@@ -25,4 +25,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctfhacker.com/ctf/pwnable/2015/09/07/mmactf-moneygame.html>
+* [Japanese](http://shinh.hatenablog.com/entry/2015/09/07/230522)
+* [Japanese](https://193s.github.io/blog/2015/09/08/MMACTF2015-writeup/)

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: motto-mijkai-address-400
+# MMA-CTF-2015: motto-mijkai-address-400
 
 **Category:** Web
 **Points:** 100,300
@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mslc.ctf.su/wp/mma-ctf-2015-motto-mijikai-address-cryptoweb-100300/>

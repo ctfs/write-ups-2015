@@ -1,4 +1,4 @@
-# MMM-CTF-2015: miyako-350
+# MMA-CTF-2015: miyako-350
 
 **Category:**  Stego
 **Points:** 350

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: signer-and-verifier-100
+# MMA-CTF-2015: signer-and-verifier-100
 
 **Category:** Crypto
 **Points:** 100

@@ -1,4 +1,4 @@
-# MMM-CTF-2015: mortal-magi-agents-300
+# MMA-CTF-2015: mortal-magi-agents-300
 
 **Category:** Web
 **Points:** 300

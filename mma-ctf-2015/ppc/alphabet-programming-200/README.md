@@ -1,4 +1,4 @@
-# MMM-CTF-2015: alphabet-programming-200
+# MMA-CTF-2015: alphabet-programming-200
 
 **Category:** PPC
 **Points:** 200
@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/08/005012)

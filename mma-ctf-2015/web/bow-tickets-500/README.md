@@ -1,4 +1,4 @@
-# MMM-CTF-2015: bow-tickets-500
+# MMA-CTF-2015: bow-tickets-500
 
 **Category:** Web
 **Points:** 500

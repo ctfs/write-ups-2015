@@ -1,4 +1,4 @@
-# MMM-CTF-2015: i-150
+# MMA-CTF-2015: i-150
 
 **Category:** PPC  
 **Points:** 150

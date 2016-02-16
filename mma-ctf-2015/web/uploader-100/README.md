@@ -1,4 +1,4 @@
-# MMM-CTF-2015: uploader-100
+# MMA-CTF-2015: uploader-100
 
 **Category:** Web
 **Points:** 100

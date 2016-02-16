@@ -1,4 +1,4 @@
-# MMM-CTF-2015: digital-circuit-250
+# MMA-CTF-2015: digital-circuit-250
 
 **Category:** Reverse
 **Points:** 250
@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://shinh.hatenablog.com/entry/2015/09/07/230522)
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/09/08/005012)

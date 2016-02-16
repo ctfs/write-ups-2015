@@ -1,4 +1,4 @@
-# MMM-CTF-2015: Smart Cipher System
+# MMA-CTF-2015: Smart Cipher System
 
 **Category:** Crypto
 **Points:** 10,10,30,40
@@ -34,3 +34,4 @@
 
 * <http://bannsecurity.com/index.php/home/10-ctf-writeups/17-mma-ctf-2015-smart-cipher-system>
 * <https://0x90r00t.com/2015/09/07/mma-2015-cryptowarmup-smart-cipher-system-write-up/>
+* [Japanese](f9cf7a3ddd5710e85116814fef01c907f4df35ce)

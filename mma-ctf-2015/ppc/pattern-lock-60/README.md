@@ -1,4 +1,4 @@
-# MMM-CTF-2015: pattern-lock-60
+# MMA-CTF-2015: pattern-lock-60
 
 **Category:** PPC
 **Points:** 20,40
