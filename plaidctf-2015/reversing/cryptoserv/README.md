@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2015/04/plaidctf-2015-cryptoserv-reversing-250/>
+* <http://trich.im/?p=16>

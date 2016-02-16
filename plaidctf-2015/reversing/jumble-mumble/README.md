@@ -15,4 +15,8 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://trich.im/?p=16>
+* [Vietnamese](https://wizi1340.wordpress.com/2015/04/20/write-up-plaidctf-ctf-2015-jumble-mumble/)
+* <https://github.com/wmliang/ctf/blob/master/jumble-mumble-solver.py>
+* <https://gist.github.com/0xEBFE/b55fddb1281e16f23330>
+* <http://pastebin.com/Ui9K2x0Y>

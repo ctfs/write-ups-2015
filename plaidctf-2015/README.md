@@ -25,6 +25,7 @@
 * [pwnable/qttpd](pwnable/qttpd)
 * [reversing/clifford](reversing/clifford)
 * [reversing/cryptoserv](reversing/cryptoserv)
+* [reversing/jumble-mumble](reversing/jumble-mumble)
 * [reversing/re-gex](reversing/re-gex)
 * [web/radhos](web/radhos)
 
@@ -34,4 +35,3 @@
 * [pwnable/tp](pwnable/tp)
 * [pwnable/traveller](pwnable/traveller)
 * [reversing/angela-merkel](reversing/angela-merkel)
-* [reversing/jumble-mumble](reversing/jumble-mumble)

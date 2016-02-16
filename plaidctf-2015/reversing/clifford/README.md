@@ -18,3 +18,4 @@
 
 * [Plaid CTF 2015: Clifford](https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/PCTF/reversing/clifford)
 * [sophia.re](http://sophia.re/plaid2015_clifford_writeup.html)
+* <http://trich.im/?p=16>

@@ -26,3 +26,4 @@
 * <https://gist.github.com/frenchie16/7db29643943ebcf185bb>
 * <http://www.securifera.com/blog/2015/04/23/plaidctf-2015-re-gex/>
 * <https://neg9.org/news/2015/4/22/plaidctf-2015-re-gex-reversing-250-writeup>
+* <https://github.com/wmliang/ctf/blob/master/regex-solver.py>
