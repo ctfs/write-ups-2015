@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://f00l.de/blog/hackover-ctf-2015-securelogin/>

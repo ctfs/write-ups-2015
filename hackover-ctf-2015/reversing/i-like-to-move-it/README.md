@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://uaf.io/reverse%20engineering/2015/10/18/Hackover-RE-350-The-Ghetto-solution.html>
