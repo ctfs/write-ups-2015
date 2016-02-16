@@ -21,6 +21,7 @@
 * [reverse/lbs-checker-300](reverse/lbs-checker-300)
 * [reverse/link-and-switch-200](reverse/link-and-switch-200)
 * [reverse/master-of-reversing-400](reverse/master-of-reversing-400)
+* [web/warmup-100](web/warmup-100)
 * [web/web-400](web/web-400)
 
 ## Missing write-ups
@@ -30,4 +31,3 @@
 * [exploit/that-moment-200](exploit/that-moment-200)
 * [web/rocket-science-admin-panel-300](web/rocket-science-admin-panel-300)
 * [web/the-hylian-dude-200](web/the-hylian-dude-200)
-* [web/warmup-100](web/warmup-100)
