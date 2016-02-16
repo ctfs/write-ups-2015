@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://gooverto.tistory.com/entry/EKOPARTY-Reversing-500-Writeup>

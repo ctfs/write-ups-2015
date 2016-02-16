@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://blog.0x80.org/ekoparty-rev100-rev300-writeup/>
