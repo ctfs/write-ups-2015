@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Vietnamese](http://namntvn.blogspot.de/2015/08/whitehat-contest-10-re400-writeup.html)
