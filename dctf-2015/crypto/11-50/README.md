@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#crypto50-11>
+* <https://github.com/p4-team/ctf/tree/master/2015-10-02-dctf/crypto_50>

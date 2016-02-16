@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * <https://b01lers.net/challenges/D-CTF%202015/LBS%20Checker/72/>
+* <https://github.com/p4-team/ctf/tree/master/2015-10-02-dctf/re_300_lbs_checker>

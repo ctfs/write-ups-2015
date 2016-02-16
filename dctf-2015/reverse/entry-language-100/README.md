@@ -21,3 +21,4 @@
 * <https://github.com/RandomsCTF/write-ups/tree/master/Defcamp%20CTF%20Qualification%202015/Entry%20language%20%5Breverse%5D%20(100)> 
 * <https://zeta-two.com/ctf/2015/11/22/dctf-qual-writeup.html#reversing100-entry-language>
 * <https://github.com/ByteBandits/writeups/blob/master/defcamp-quals-2015/reverse/r100/sudhackar/README.md>
+* <https://github.com/p4-team/ctf/tree/master/2015-10-02-dctf/re_100_entry>
