@@ -17,4 +17,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](https://www.iret.xyz/article.aspx/rctf2015_reverse)
+* [Chinese](http://bobao.360.cn/ctf/learning/155.html)
+* [Chinese](http://www.purpleroc.com/md/RCTF-WriteUp.html)
+* [Chinese](http://www.heysec.org/archives/85)

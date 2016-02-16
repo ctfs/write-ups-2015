@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/2110>
+* [Chinese](http://bobao.360.cn/ctf/learning/155.html)

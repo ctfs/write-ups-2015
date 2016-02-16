@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](https://github.com/garzon/CTF-Writeups/tree/master/RCTF2015#login-web-300)
