@@ -13,6 +13,13 @@
 * [forensic/old_school](forensic/old_school)
 * [forensic/POS](forensic/POS)
 * [pwnable/ToDoList](pwnable/ToDoList)
+* [reversing/anti-hexray](reversing/anti-hexray)
+* [reversing/CFT](reversing/CFT)
+* [reversing/CryptoWorld](reversing/CryptoWorld)
+* [reversing/insideout](reversing/insideout)
+* [reversing/NTMaze](reversing/NTMaze)
+* [reversing/Panic](reversing/Panic)
+* [reversing/Reversing](reversing/Reversing)
 
 ## Missing write-ups
 
@@ -22,13 +29,6 @@
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
 * [network/Network-hacking-is-easy](network/Network-hacking-is-easy)
 * [pwnable/Gameland](pwnable/Gameland)
-* [reversing/anti-hexray](reversing/anti-hexray)
-* [reversing/CFT](reversing/CFT)
-* [reversing/CryptoWorld](reversing/CryptoWorld)
-* [reversing/insideout](reversing/insideout)
-* [reversing/NTMaze](reversing/NTMaze)
-* [reversing/Panic](reversing/Panic)
-* [reversing/Reversing](reversing/Reversing)
 * [web/ARKANOID](web/ARKANOID)
 * [web/OSS](web/OSS)
 * [web/Solve-a-problem-with-kakao-friends](web/Solve-a-problem-with-kakao-friends)

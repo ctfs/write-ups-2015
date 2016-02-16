@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Korean](https://protos37.github.io/2015/08/25/inc0gnito-2015-ctf-writeups/)
+* [Korean](http://cfile26.uf.tistory.com/attach/250DC14255DC73E20B571F) (PDF)
