@@ -2,6 +2,7 @@
 
 * <http://ctf.hxp.io/>
 * [Scoreboard](https://ctftime.org/event/238) or [local alternative](./scoreboard)
+* Flags available for each challenge at the end, see [here for example](http://2015.ctf.link/challenges/6/)
 
 ## Completed write-ups
 
@@ -16,6 +17,7 @@
 * [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
 * [misc/sanity_check](misc/sanity_check)
+* [rev/selftest](rev/selftest)
 * [rev/whitebox_crypto](rev/whitebox_crypto)
 * [web/neocities](web/neocities)
 
@@ -36,6 +38,5 @@
 * [rev/b0rked_screens4ver](rev/b0rked_screens4ver)
 * [rev/qqqshit](rev/qqqshit)
 * [rev/quine](rev/quine)
-* [rev/selftest](rev/selftest)
 * [web/italy_food](web/italy_food)
 * [web/webshop](web/webshop)

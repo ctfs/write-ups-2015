@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://vulnerablespace.blogspot.de/2015/10/ctf-writeup-tum-ctf-teaser-selftest-rev.html>

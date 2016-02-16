@@ -14,6 +14,8 @@
 
 (TODO)
 
+Flag: [hxp{th3_pr0gr4m_sux}](http://2015.ctf.link/challenges/6/)
+
 ## Other write-ups and resources
 
 * none yet
