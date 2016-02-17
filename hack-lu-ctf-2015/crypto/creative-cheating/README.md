@@ -17,3 +17,4 @@
 
 * <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/Creative%20Cheating%20%5Bcrypto%5D%20(150)>
 * <https://github.com/ByteBandits/writeups/blob/master/hack.lu-ctf-2015/crypto/Creative%20Cheating/sudhackar/README.md>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131675675589/hacklu-ctf-2015-writeup)

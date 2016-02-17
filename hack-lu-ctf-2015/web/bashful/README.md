@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/RandomsCTF/write-ups/tree/master/Hack.lu%20CTF%202015/Bashful%20%5Bweb%5D%20(200)>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131675675589/hacklu-ctf-2015-writeup)

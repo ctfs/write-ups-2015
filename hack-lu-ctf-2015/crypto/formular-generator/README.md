@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131675675589/hacklu-ctf-2015-writeup)

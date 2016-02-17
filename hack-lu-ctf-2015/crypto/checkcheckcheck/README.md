@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/2067>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131675675589/hacklu-ctf-2015-writeup)

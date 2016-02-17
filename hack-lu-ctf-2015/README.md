@@ -15,6 +15,7 @@
 * [coding/php-golf](coding/php-golf)
 * [crypto/checkcheckcheck](crypto/checkcheckcheck)
 * [crypto/creative-cheating](crypto/creative-cheating)
+* [crypto/formular-generator](crypto/formular-generator)
 * [exploiting/course-creator](exploiting/course-creator)
 * [exploiting/petition-builder](exploiting/petition-builder)
 * [exploiting/stackstuff](exploiting/stackstuff)
@@ -31,7 +32,6 @@
 
 * [coding/speedrun](coding/speedrun)
 * [crypto/campus-id-sso](crypto/campus-id-sso)
-* [crypto/formular-generator](crypto/formular-generator)
 * [exploiting/bookstore](exploiting/bookstore)
 * [exploiting/dragbox](exploiting/dragbox)
 * [web/champion](web/champion)
