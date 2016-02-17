@@ -2,6 +2,7 @@
 
 * <http://ctf.web-attack.info/>
 * [Scoreboard](http://ctf.web-attack.info/scoreboard.php)
+* [Slideshow with writeups](http://www.slideshare.net/taqrim/juara-3jrsfaisalwriteupctfindonesianbacktrackteam)
 
 ## Completed write-ups
 
