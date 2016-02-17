@@ -20,6 +20,7 @@
 * [misc/sign-in](misc/sign-in)
 * [mobile/flag-system](mobile/flag-system)
 * [mobile/load](mobile/load)
+* [mobile/target](mobile/target)
 * [mobile/where](mobile/where)
 * [pwn/g27](pwn/g27)
 * [pwn/keys](pwn/keys)
@@ -38,7 +39,6 @@
 
 ## Missing write-ups
 
-* [mobile/target](mobile/target)
 * [web/comprehensive](web/comprehensive)
 * [web/upload](web/upload)
 * [web/xss](web/xss)

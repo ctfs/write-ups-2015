@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://drops.wooyun.org/mobile/10557)
