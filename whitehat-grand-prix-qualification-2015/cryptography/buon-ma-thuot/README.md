@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Vietnamese](https://forum.whitehat.vn/forum/wargame/whitehat-grand-prix/writeup-whitehat-grand-prix/53316-writeup-vong-loai-whitehat-grand-prix-2015-crypto100-crypto200-crypto250)
