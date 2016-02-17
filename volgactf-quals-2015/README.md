@@ -16,6 +16,7 @@
 
 * [admin/remote-web](admin/remote-web)
 * [crypto/carry](crypto/carry)
+* [crypto/cpkc](crypto/cpkc)
 * [crypto/gostfuscator](crypto/gostfuscator)
 * [crypto/lcg](crypto/lcg)
 * [crypto/rsa](crypto/rsa)
@@ -33,7 +34,6 @@
 
 ## Missing write-ups
 
-* [crypto/cpkc](crypto/cpkc)
 * [crypto/rusty-idea](crypto/rusty-idea)
 * [web/hack-t-private-site-1](web/hack-t-private-site-1)
 * [web/hack-t-private-site-2](web/hack-t-private-site-2)

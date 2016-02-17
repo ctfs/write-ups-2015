@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mslc.ctf.su/wp/volgactf-quals-2015-cpkc-crypto-400-writeup/>
