@@ -30,3 +30,4 @@ Using these credentials, we login to the website to find the flag, `flag_damn_th
 ## Other write-ups and resources
 
 * <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>
+* <http://73696e65.github.io/blog/2015/08/24/icec-dot-tf-writeup/>

@@ -18,3 +18,4 @@
 
 * <http://blog.oleaass.com/ctf-icectf-fermat-80pts-binary/>
 * <http://blog.atx.name/icectf/#Fermat>
+* <http://73696e65.github.io/blog/2015/08/24/icec-dot-tf-writeup/>

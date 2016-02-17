@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://73696e65.github.io/blog/2015/08/24/icec-dot-tf-writeup/>
