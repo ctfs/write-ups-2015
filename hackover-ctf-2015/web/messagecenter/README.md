@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <https://f00l.de/blog/hackover-ctf-2015-messagecenter/>
+* <https://0x90r00t.com/2015/10/27/hackover-2015-web-100-message-center-write-up/>

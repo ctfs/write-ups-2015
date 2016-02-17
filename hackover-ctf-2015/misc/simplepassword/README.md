@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2015/10/27/hackover-2015-misc-100-simple-password-write-up/>

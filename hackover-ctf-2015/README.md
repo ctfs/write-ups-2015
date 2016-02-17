@@ -12,8 +12,10 @@
 
 * [crypto/nodistinguisher](crypto/nodistinguisher)
 * [crypto/racer](crypto/racer)
+* [crypto/radorium](crypto/radorium)
 * [crypto/yodigga](crypto/yodigga)
 * [misc/allyourbase](misc/allyourbase)
+* [misc/simplepassword](misc/simplepassword)
 * [pwn/easy-shell](pwn/easy-shell)
 * [reversing/easy-math](reversing/easy-math)
 * [reversing/goto](reversing/goto)
@@ -25,13 +27,11 @@
 ## Missing write-ups
 
 * [crypto/fuckaduck](crypto/fuckaduck)
-* [crypto/radorium](crypto/radorium)
 * [forensics/alienmessage](forensics/alienmessage)
 * [forensics/meargot](forensics/meargot)
 * [misc/ctfbeer](misc/ctfbeer)
 * [misc/dna](misc/dna)
 * [misc/greetings](misc/greetings)
-* [misc/simplepassword](misc/simplepassword)
 * [pwn/ascii-painter](pwn/ascii-painter)
 * [pwn/brainplant](pwn/brainplant)
 * [pwn/nodev](pwn/nodev)
