@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/ByteBandits/writeups/blob/master/hackover-ctf-2015/reverse/goto/sudhackar/README.md>
+* <http://capturetheswag.blogspot.de/2015/10/hackover15-goto-150pt-reverse.html>

@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ufologists/write-ups/tree/master/hackover15/crypto>
+* <https://0x90r00t.com/2015/10/19/hackover-2015-crypto-500-yodigga-write-up/>
+* <https://github.com/janglapuk/ctf-writeup/tree/master/2015/hackover/crypto/yodigga>

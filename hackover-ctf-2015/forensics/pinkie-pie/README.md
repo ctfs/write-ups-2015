@@ -26,4 +26,5 @@ The flag is `hackover15{pInKie_pIe_LoVeS_pArTy}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://614ckc0de.wordpress.com/2015/10/23/writeup-hackover-ctf-2015/>
+* [Indonesian](http://osslovers.blogspot.de/2015/10/write-up-hack-over-2015-pinkie-pie.html)

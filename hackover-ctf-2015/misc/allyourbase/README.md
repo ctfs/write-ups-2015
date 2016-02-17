@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://614ckc0de.wordpress.com/2015/10/23/writeup-hackover-ctf-2015/>

@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <http://uaf.io/reverse%20engineering/2015/10/18/Hackover-RE-350-The-Ghetto-solution.html>
+* <https://github.com/dqi/ctf_writeup/tree/master/2015/hackover/reversing/%20i-like-to-move-it>

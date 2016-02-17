@@ -10,23 +10,24 @@
 
 ## External write-ups only
 
+* [crypto/nodistinguisher](crypto/nodistinguisher)
+* [crypto/racer](crypto/racer)
+* [crypto/yodigga](crypto/yodigga)
+* [misc/allyourbase](misc/allyourbase)
 * [pwn/easy-shell](pwn/easy-shell)
 * [reversing/easy-math](reversing/easy-math)
 * [reversing/goto](reversing/goto)
 * [reversing/i-like-to-move-it](reversing/i-like-to-move-it)
 * [web/hack-the-planet](web/hack-the-planet)
+* [web/messagecenter](web/messagecenter)
 * [web/securelogin](web/securelogin)
 
 ## Missing write-ups
 
 * [crypto/fuckaduck](crypto/fuckaduck)
-* [crypto/nodistinguisher](crypto/nodistinguisher)
-* [crypto/racer](crypto/racer)
 * [crypto/radorium](crypto/radorium)
-* [crypto/yodigga](crypto/yodigga)
 * [forensics/alienmessage](forensics/alienmessage)
 * [forensics/meargot](forensics/meargot)
-* [misc/allyourbase](misc/allyourbase)
 * [misc/ctfbeer](misc/ctfbeer)
 * [misc/dna](misc/dna)
 * [misc/greetings](misc/greetings)
@@ -35,4 +36,3 @@
 * [pwn/brainplant](pwn/brainplant)
 * [pwn/nodev](pwn/nodev)
 * [pwn/unfortune](pwn/unfortune)
-* [web/messagecenter](web/messagecenter)

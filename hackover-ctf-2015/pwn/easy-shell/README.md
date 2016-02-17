@@ -31,5 +31,7 @@
 
 * <https://github.com/ByteBandits/writeups/blob/master/hackover-ctf-2015/pwn/easy-shell/sudhackar/README.md>
 * <https://f00l.de/blog/hackover-ctf-2015-easy-shell/>
-* <http://www.leakedin.com/2015/10/18/shellcode-291/>
+* <http://www.leakedin.com/2015/10/18/shellcode-291/>cA
+* <https://nuc13us.wordpress.com/2015/10/19/hackoverctf-2015-easy-shell-75-exploitaion/>
+* <http://rikaard.io/hackover-ctf-easyshell/>
 * <http://pastebin.com/SWyyaXwn>

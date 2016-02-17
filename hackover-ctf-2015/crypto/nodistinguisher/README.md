@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/SuperVirus/CTF/blob/master/2015/Hackover_CTF_2015/crypto/100-nodistinguisher/nodistinguisher.py>

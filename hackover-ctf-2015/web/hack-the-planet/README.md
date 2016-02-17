@@ -23,3 +23,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/ByteBandits/writeups/blob/master/hackover-ctf-2015/web/hack-the-planet/sudhackar/README.md>
+* <https://ctftime.org/writeup/1931>
