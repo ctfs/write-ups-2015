@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://uaf.io/reverse%20engineering/2015/07/25/WhiteHat-Contest-10-RE-300.html>

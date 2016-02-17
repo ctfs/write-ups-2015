@@ -14,4 +14,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctftime.org/writeup/2038>
+* <https://github.com/pcchou/ctf-writeups/tree/master/2015/ekoparty/cry50>
+* <http://www.nobbd.de/blog/artikel.php?titel=write-up-Ekoparty-CTF---Crypto-50-100-200#weirdvigenere>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)

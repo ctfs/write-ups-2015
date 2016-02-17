@@ -66,4 +66,11 @@ written by [@elliptic_shiho](https://twitter.com/elliptic-shiho)
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.de/2015/10/ekoparty-2015-xor-crypter-crypto-200.html>
+* <https://ctftime.org/writeup/2049>
+* <https://en.internetwache.org/ekoparty-ctf-2015-writeups-24-10-2015/>
+* <https://github.com/bl4de/ctf/blob/master/2015/Ekoparty_CTF_2015/XOR_Crypter_Crypto200.md>
+* <https://github.com/p4-team/ctf/tree/master/2015-10-22-ekoparty/crpto_200_xorcrypter#eng-version>
+* <https://github.com/pcchou/ctf-writeups/tree/master/2015/ekoparty/cry200>
+* <http://www.nobbd.de/blog/artikel.php?titel=write-up-Ekoparty-CTF---Crypto-50-100-200#weirdvigenere>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)

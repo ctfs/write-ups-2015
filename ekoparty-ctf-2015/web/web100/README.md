@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://capturetheswag.blogspot.de/2015/10/ekoparty-2015-custom-acl-web-100pt.html>

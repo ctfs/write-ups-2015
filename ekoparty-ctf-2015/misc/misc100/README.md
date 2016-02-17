@@ -23,4 +23,6 @@ flag is `EKO{ibm_model_m}`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://en.internetwache.org/ekoparty-ctf-2015-writeups-24-10-2015/>
+* <https://github.com/pcchou/ctf-writeups/tree/master/2015/ekoparty/misc100>
+* [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)
