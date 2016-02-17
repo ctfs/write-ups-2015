@@ -12,17 +12,6 @@
 
 ## External write-ups only
 
-* [joy/not-weird-selfie-200](joy/not-weird-selfie-200)
-* [joy/weird-selfie-100](joy/weird-selfie-100)
-* [networks/tricky-authorization-200](networks/tricky-authorization-200)
-* [pwn/ssh-jail-500](pwn/ssh-jail-500)
-* [reverse/school-incident-150](reverse/school-incident-150)
-* [web/shop-of-goodness-100](web/shop-of-goodness-100)
-* [web/stored-pass-100](web/stored-pass-100)
-* [web/unusual-redirection-300](web/unusual-redirection-300)
-
-## Missing write-ups
-
 * [crypto/affine-cipher-100](crypto/affine-cipher-100)
 * [crypto/bypassing-the-snake-400](crypto/bypassing-the-snake-400)
 * [crypto/crypto-lego-500](crypto/crypto-lego-500)
@@ -31,8 +20,18 @@
 * [joy/agrement-by-default-100](joy/agrement-by-default-100)
 * [joy/alpha-to-foxtrot-alpha-150](joy/alpha-to-foxtrot-alpha-150)
 * [joy/darkness-200](joy/darkness-200)
+* [joy/not-weird-selfie-200](joy/not-weird-selfie-200)
 * [joy/old-school-hacking-200](joy/old-school-hacking-200)
+* [joy/weird-selfie-100](joy/weird-selfie-100)
 * [networks/misconfiguration-300](networks/misconfiguration-300)
+* [networks/tricky-authorization-200](networks/tricky-authorization-200)
+* [pwn/ssh-jail-500](pwn/ssh-jail-500)
+* [reverse/school-incident-150](reverse/school-incident-150)
 * [reverse/strange-program-300](reverse/strange-program-300)
 * [stegano/the-great-thing-200](stegano/the-great-thing-200)
 * [web/junior-pentesting-300](web/junior-pentesting-300)
+* [web/shop-of-goodness-100](web/shop-of-goodness-100)
+* [web/stored-pass-100](web/stored-pass-100)
+* [web/unusual-redirection-300](web/unusual-redirection-300)
+
+## Missing write-ups

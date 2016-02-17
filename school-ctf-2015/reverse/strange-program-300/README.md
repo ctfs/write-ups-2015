@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/05/03/225115)

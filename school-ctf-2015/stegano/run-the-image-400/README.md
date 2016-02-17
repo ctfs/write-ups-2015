@@ -45,4 +45,5 @@ Running the resulting [executable](00000072.exe) in any sandbox of our choice (e
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://charo-it.hatenablog.jp/entry/2015/05/03/225115)
+* [Chinese](http://blog.lionbug.pw/ctf/school-ctf-spring-writeup/) (Down, [Cached version](http://webcache.googleusercontent.com/search?q=cache:9Ss-ircs-WgJ:blog.lionbug.pw/ctf/school-ctf-spring-writeup/+&cd=4&hl=de&ct=clnk&gl=de))
