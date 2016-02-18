@@ -24,6 +24,7 @@
 * [reversing/solution-checker](reversing/solution-checker)
 * [reversing/zoo](reversing/zoo)
 * [web/bashful](web/bashful)
+* [web/champion](web/champion)
 * [web/grading-board](web/grading-board)
 * [web/module-loader](web/module-loader)
 * [web/prof-m-eista-hax](web/prof-m-eista-hax)
@@ -34,4 +35,3 @@
 * [crypto/campus-id-sso](crypto/campus-id-sso)
 * [exploiting/bookstore](exploiting/bookstore)
 * [exploiting/dragbox](exploiting/dragbox)
-* [web/champion](web/champion)

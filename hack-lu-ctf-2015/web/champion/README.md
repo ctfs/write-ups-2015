@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.youtube.com/watch?v=EbeXJzgaPCQ> and <https://www.youtube.com/watch?v=YYipvs62fA8>
