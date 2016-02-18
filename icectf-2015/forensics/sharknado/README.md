@@ -31,3 +31,4 @@ Using these credentials, we login to the website to find the flag, `flag_damn_th
 
 * <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>
 * <http://73696e65.github.io/blog/2015/08/24/icec-dot-tf-writeup/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/SHARKNADO!/Solution.txt>

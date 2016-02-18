@@ -45,3 +45,4 @@ The flag is `boy_this_goes_by_so_fast`.
 ## Other write-ups and resources
 
 * <http://blog.oleaass.com/ctf-icectf-logoventures-35-forensics/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Logoventures/Solution.txt>

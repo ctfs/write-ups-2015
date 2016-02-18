@@ -69,3 +69,4 @@ The flag is `now_youre_thinking_with_exif`.
 ## Other write-ups and resources
 
 * <http://blog.oleaass.com/ctf-icectf-logoventures-2-reloaded-40-forensics/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Logoventures%202:%20Reloaded/Solution.txt>

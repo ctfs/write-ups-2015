@@ -56,3 +56,4 @@ PS: It could be that Window's `.docx` files are zip files in general - haven't l
 
 * <http://blog.oleaass.com/ctf-icectf-trivials-writeup/>
 * <https://www.hasnydes.us/2015/09/writeup-ice-ctf/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Document%20Troubles/Solution.txt>

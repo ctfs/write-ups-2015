@@ -96,4 +96,4 @@ if __name__ == '__main__':
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Statistics/Solution.py>

@@ -73,3 +73,4 @@ flag_wait_wasnt_it_dalvik
 ## Other write-ups and resources
 
 * <http://blog.oleaass.com/ctf-icectf-husavik-85-forensics/>
+* <https://github.com/james9909/PracticeCTF/blob/master/IceCTF-2015/Husavik/Solution.txt>
