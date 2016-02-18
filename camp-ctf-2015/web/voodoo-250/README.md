@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://pacmans.army/?p=296#more-296>
+* <http://0-day.me/ctf/camp_ctf_voodoo.txt>

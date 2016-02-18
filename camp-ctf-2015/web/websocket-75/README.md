@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* http://bannsecurity.com/index.php/home/10-ctf-writeups/15-camp-ctf-2015-websocket
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/15-camp-ctf-2015-websocket>
+* <https://pacmans.army/?p=280>
