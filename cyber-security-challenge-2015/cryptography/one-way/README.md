@@ -161,3 +161,4 @@ The flag we obtain this way is `saltmine`.
 ## Other write-ups and resources
 
 * <https://ruben.infogroep.be/?p=12>
+* <http://blog.nviso.be/2015/04/cyber-security-challenge-belgium-2015_20.html>

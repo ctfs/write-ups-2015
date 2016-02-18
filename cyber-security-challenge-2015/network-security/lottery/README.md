@@ -115,4 +115,4 @@ while True:
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.nviso.be/2015/05/cyber-security-challenge-belgium-2015.html>

@@ -78,4 +78,4 @@ When you looks closely (this depends on monitor and color configuration), you ca
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.nviso.be/2015/04/cyber-security-challenge-belgium-2015.html>
