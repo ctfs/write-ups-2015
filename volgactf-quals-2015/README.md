@@ -30,11 +30,11 @@
 * [recon/yacst](recon/yacst)
 * [reverse/interstellar](reverse/interstellar)
 * [stego/midi](stego/midi)
+* [web/hack-t-private-site-1](web/hack-t-private-site-1)
 * [web/web2](web/web2)
 
 ## Missing write-ups
 
 * [crypto/rusty-idea](crypto/rusty-idea)
-* [web/hack-t-private-site-1](web/hack-t-private-site-1)
 * [web/hack-t-private-site-2](web/hack-t-private-site-2)
 * [web/malware](web/malware)

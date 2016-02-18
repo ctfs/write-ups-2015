@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/g05u/2671db914f24968d7932>
