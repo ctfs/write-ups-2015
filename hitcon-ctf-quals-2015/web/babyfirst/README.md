@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/blob/master/hitcon2015/web100-babyfirst/writeup.md>
+* [Chinese](http://drops.wooyun.org/web/9845)

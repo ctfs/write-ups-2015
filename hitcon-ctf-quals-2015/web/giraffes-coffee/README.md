@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/blob/master/hitcon2015/web300-giraffes-coffee/readme.md>
+* [Chinese](http://drops.wooyun.org/web/9845)

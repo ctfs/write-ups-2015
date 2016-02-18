@@ -30,6 +30,7 @@
 * [reverse/risky](reverse/risky)
 * [web/babyfirst](web/babyfirst)
 * [web/giraffes-coffee](web/giraffes-coffee)
+* [web/lalala](web/lalala)
 
 ## Missing write-ups
 
@@ -37,4 +38,3 @@
 * [pwn/deathweed](pwn/deathweed)
 * [reverse/vcopy](reverse/vcopy)
 * [stego/waterleaf](stego/waterleaf)
-* [web/lalala](web/lalala)

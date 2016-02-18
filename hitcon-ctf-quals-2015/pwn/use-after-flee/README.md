@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/pwning/public-writeup/blob/master/hitcon2015/web500-use-after-flee/writeup.md>
+* [Chinese](http://drops.wooyun.org/web/9845)
