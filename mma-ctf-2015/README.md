@@ -7,6 +7,7 @@
 
 * [forensics/splitted-30](forensics/splitted-30)
 * [forensics/stream-100](forensics/stream-100)
+* [misc/welcome-10](misc/welcome-10)
 * [pwn/rps-50](pwn/rps-50)
 * [stego/miyako-350](stego/miyako-350)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
@@ -41,6 +42,5 @@
 
 ## Missing write-ups
 
-* [misc/welcome-10](misc/welcome-10)
 * [reverse/encrypted-500](reverse/encrypted-500)
 * [web/bow-tickets-500](web/bow-tickets-500)

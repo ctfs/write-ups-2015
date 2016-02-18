@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+See description.
 
 ## Other write-ups and resources
 
