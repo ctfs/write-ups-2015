@@ -22,4 +22,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/mastahyeti/the-blog/blob/master/solution.md>

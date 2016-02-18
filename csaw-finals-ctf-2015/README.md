@@ -22,6 +22,7 @@
 * [pwnadventurez/memory-disclosure-flag](pwnadventurez/memory-disclosure-flag)
 * [pwnadventurez/quarantinebreaker](pwnadventurez/quarantinebreaker)
 * [trivia/sanity-check](trivia/sanity-check)
+* [web/tbbpe](web/tbbpe)
 
 ## Missing write-ups
 
@@ -35,4 +36,3 @@
 * [reversing/return-of-the-wieners](reversing/return-of-the-wieners)
 * [reversing/wyvern2](reversing/wyvern2)
 * [web/animewall](web/animewall)
-* [web/tbbpe](web/tbbpe)
