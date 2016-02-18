@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/d4rwinb0ts/ctf-writeups/blob/master/2015-hack-im/trivia_2/solution.md>
