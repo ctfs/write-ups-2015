@@ -26,9 +26,12 @@
 * [reversing/rev300](reversing/rev300)
 * [reversing/rev50](reversing/rev50)
 * [reversing/rev500](reversing/rev500)
+* [trivia/trv70](trivia/trv70)
+* [trivia/trv80](trivia/trv80)
 * [trivia/trv90](trivia/trv90)
 * [web/web100](web/web100)
 * [web/web300](web/web300)
+* [web/web400](web/web400)
 * [web/web50](web/web50)
 
 ## Missing write-ups
@@ -38,7 +41,4 @@
 * [misc/misc400](misc/misc400)
 * [pwn/pwn300](pwn/pwn300)
 * [reversing/rev400](reversing/rev400)
-* [trivia/trv70](trivia/trv70)
-* [trivia/trv80](trivia/trv80)
-* [web/web400](web/web400)
 * [web/web500](web/web500)

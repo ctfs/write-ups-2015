@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://capturetheswag.blogspot.de/2015/10/ekoparty-2015-custom-acl-web-100pt.html>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#web100-custom-acl>

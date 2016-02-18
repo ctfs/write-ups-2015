@@ -19,4 +19,5 @@ What if you are not at the con? the right thing comes up, using the location ava
 ## Other write-ups and resources
 
 * <https://en.internetwache.org/ekoparty-ctf-2015-writeups-24-10-2015/>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#trv100-blocking-truck>
 * [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)

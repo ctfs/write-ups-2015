@@ -15,4 +15,5 @@
 ## Other write-ups and resources
 
 * <https://en.internetwache.org/ekoparty-ctf-2015-writeups-24-10-2015/>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#trv90-ssl-attack>
 * [Japanese](http://shiho-elliptic.tumblr.com/post/131769380689/ekoparty-ctf-2015-writeup)

@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/ByteBandits/writeups/blob/master/ekoparty-ctf-2015/reversing/Patch%20me/sudhackar/README.md>
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#rev50-patch-me>

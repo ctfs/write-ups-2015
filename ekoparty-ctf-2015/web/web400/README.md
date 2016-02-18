@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#rand-doom>
+* <https://0x90r00t.com/fr/2015/10/24/ekoparty-part-2-2015-web400-rand-doom-write-up/>

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://research.g0blin.co.uk/ekoparty-ctf-2015-writeups/#trv80-mr-anderson>
