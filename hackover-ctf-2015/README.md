@@ -7,6 +7,7 @@
 
 * [forensics/invisible1337](forensics/invisible1337)
 * [forensics/pinkie-pie](forensics/pinkie-pie)
+* [misc/greetings](misc/greetings)
 
 ## External write-ups only
 
@@ -31,7 +32,6 @@
 * [forensics/meargot](forensics/meargot)
 * [misc/ctfbeer](misc/ctfbeer)
 * [misc/dna](misc/dna)
-* [misc/greetings](misc/greetings)
 * [pwn/ascii-painter](pwn/ascii-painter)
 * [pwn/brainplant](pwn/brainplant)
 * [pwn/nodev](pwn/nodev)
