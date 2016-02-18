@@ -25,4 +25,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://the2702.com/2015/10/25/T9.html>
+* [Romanian](http://pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html) (Down, [Cached Version](http://webcache.googleusercontent.com/search?q=cache:_cZomTKiHhUJ:pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html+&cd=5&hl=de&ct=clnk&gl=de))

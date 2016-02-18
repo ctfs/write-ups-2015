@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.tasteless.eu/post/2015/10/tumctf-web200/>
+* <http://fadec0d3.blogspot.de/2015/10/tum-ctf-2015-italy-food-200.html>

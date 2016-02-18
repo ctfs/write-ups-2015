@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://614ckc0de.wordpress.com/2015/11/01/writeup-tum-ctf-teaser-2015/>
+* [Romanian](http://pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html) (Down, [Cached Version](http://webcache.googleusercontent.com/search?q=cache:_cZomTKiHhUJ:pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html+&cd=5&hl=de&ct=clnk&gl=de))

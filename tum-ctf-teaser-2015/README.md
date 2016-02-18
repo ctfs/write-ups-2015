@@ -16,16 +16,18 @@
 
 * [crypto/really_slow_arithmetic](crypto/really_slow_arithmetic)
 * [misc/autoagressive_desensitization](misc/autoagressive_desensitization)
+* [misc/circ](misc/circ)
 * [misc/sanity_check](misc/sanity_check)
+* [misc/t9](misc/t9)
 * [rev/selftest](rev/selftest)
 * [rev/whitebox_crypto](rev/whitebox_crypto)
+* [web/italy_food](web/italy_food)
 * [web/neocities](web/neocities)
+* [web/webshop](web/webshop)
 
 ## Missing write-ups
 
 * [crypto/linear](crypto/linear)
-* [misc/circ](misc/circ)
-* [misc/t9](misc/t9)
 * [pwn/cloud_gaming](pwn/cloud_gaming)
 * [pwn/lame_nayn](pwn/lame_nayn)
 * [pwn/scge](pwn/scge)
@@ -38,5 +40,3 @@
 * [rev/b0rked_screens4ver](rev/b0rked_screens4ver)
 * [rev/qqqshit](rev/qqqshit)
 * [rev/quine](rev/quine)
-* [web/italy_food](web/italy_food)
-* [web/webshop](web/webshop)

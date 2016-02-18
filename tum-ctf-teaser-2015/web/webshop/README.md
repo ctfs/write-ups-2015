@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://the2702.com/2015/10/25/Web-Shop.html>
+* <http://icheernoom.blogspot.de/2015/10/tum-ctf-teaser-webshop-web-write-up.html>
+* [Romanian](http://pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html) (Down, [Cached Version](http://webcache.googleusercontent.com/search?q=cache:_cZomTKiHhUJ:pwn.ro/2015/tum-ctf-teaser-kteva-write-up-uri.html+&cd=5&hl=de&ct=clnk&gl=de))
