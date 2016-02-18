@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Korean](http://inc0gnito.com/wordpress/wp-content/uploads/2015/09/ARKANOID_Writeup_Kroot.pdf) (PDF)

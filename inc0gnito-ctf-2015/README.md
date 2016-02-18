@@ -20,6 +20,7 @@
 * [reversing/NTMaze](reversing/NTMaze)
 * [reversing/Panic](reversing/Panic)
 * [reversing/Reversing](reversing/Reversing)
+* [web/ARKANOID](web/ARKANOID)
 
 ## Missing write-ups
 
@@ -29,6 +30,5 @@
 * [network/Hack-a-network-administrator's-terminal](network/Hack-a-network-administrator's-terminal)
 * [network/Network-hacking-is-easy](network/Network-hacking-is-easy)
 * [pwnable/Gameland](pwnable/Gameland)
-* [web/ARKANOID](web/ARKANOID)
 * [web/OSS](web/OSS)
 * [web/Solve-a-problem-with-kakao-friends](web/Solve-a-problem-with-kakao-friends)
