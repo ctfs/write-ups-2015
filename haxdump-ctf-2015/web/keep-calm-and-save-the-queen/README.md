@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/Haxdump%202015/Keep%20Calm%20and%20Save%20The%20Queen/33/>

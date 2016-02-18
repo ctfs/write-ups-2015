@@ -21,7 +21,6 @@
 * [pwn/nih](pwn/nih)
 * [pwn/pwnxy](pwn/pwnxy)
 * [recon/amanda-parkside](recon/amanda-parkside)
+* [web/keep-calm-and-save-the-queen](web/keep-calm-and-save-the-queen)
 
 ## Missing write-ups
-
-* [web/keep-calm-and-save-the-queen](web/keep-calm-and-save-the-queen)
