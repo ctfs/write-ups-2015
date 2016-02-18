@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* tldr-fee9e4a3e7bb0e8094abc141de206684.tar.bz2
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>

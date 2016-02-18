@@ -89,4 +89,5 @@ The resulting image is WIN-DEA2KM5I93L-20150318-151408_e93e1b0d01e0b5c4d5985254e
 
 f39aff9d45911160c2ca9b8b2394ac62324b288752de264619cf3c9aeb8516e7
 
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>
 [French](http://snipefoo.blogspot.fr/2015/03/insomnihack-2015.html?m=1)

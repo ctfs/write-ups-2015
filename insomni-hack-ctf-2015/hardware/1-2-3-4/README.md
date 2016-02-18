@@ -16,5 +16,6 @@
 
 ## Other write-ups and resources
 
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>
 [French](https://phil242.wordpress.com/2015/03/23/insomnihack-2015-write-up-hardware-1-2-3-4/)
 [http://www.balda.ch/posts/2015/Mar/24/ins15-1-2-3-4/](http://www.balda.ch/posts/2015/Mar/24/ins15-1-2-3-4/)

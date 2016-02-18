@@ -106,4 +106,5 @@ Table: secret
 
 ## Other write-ups and resources
 
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>
 * [serial_hackers_79022c2579b5ff134338fb696a8196da.zip](serial_hackers_79022c2579b5ff134338fb696a8196da.zip)

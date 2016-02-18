@@ -43,4 +43,4 @@ Finally, the flag reads `INS{MAGNIFICATION_X100_FOR_STARTERS}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>

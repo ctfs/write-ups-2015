@@ -23,3 +23,4 @@
 [French](http://snipefoo.blogspot.fr/2015/03/insomnihack-2015.html?m=1)
 * HTML page: swordfish_dod_hack_4a9031353e8ea65ef6d261d3e4b1a0bb.html
 * Flash: swordfish_dod_hack_1cba8d223d0d25e79aeae4c7714eb84e.swf
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>

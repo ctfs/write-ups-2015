@@ -13,3 +13,4 @@
 ## Other write-ups and resources
 
 [https://github.com/Insomnihack/Insomnihack-2015/tree/master/web/Hack%20like%20it's%201999!](https://github.com/Insomnihack/Insomnihack-2015/tree/master/web/Hack%20like%20it's%201999!)
+* <http://insomnihack.ch/wp-content/uploads/2016/01/Hacking_like_in_the_movies.pdf>
