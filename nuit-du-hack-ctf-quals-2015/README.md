@@ -3,6 +3,7 @@
 * <http://quals.nuitduhack.com/>
 * [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
+* <https://www.nuitduhack.com/fr/quals.html>
 
 ## Completed write-ups
 
