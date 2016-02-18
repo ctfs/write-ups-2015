@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.reddit.com/r/netsec/comments/3003hk/bctf_2015_writeups/cppu4zb>

@@ -18,6 +18,7 @@
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)
 * [exploit/zhongguancun](exploit/zhongguancun)
+* [misc/broken-oj](misc/broken-oj)
 * [programming/experiment](programming/experiment)
 * [reverse/camlmaze](reverse/camlmaze)
 * [reverse/freak](reverse/freak)
@@ -29,5 +30,4 @@
 
 ## Missing write-ups
 
-* [misc/broken-oj](misc/broken-oj)
 * [reverse/crappy_oj](reverse/crappy_oj)
