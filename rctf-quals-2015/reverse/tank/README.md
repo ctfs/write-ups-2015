@@ -21,3 +21,4 @@
 * [Chinese](http://bobao.360.cn/ctf/learning/155.html)
 * [Chinese](http://www.purpleroc.com/md/RCTF-WriteUp.html)
 * [Chinese](http://www.heysec.org/archives/85)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)

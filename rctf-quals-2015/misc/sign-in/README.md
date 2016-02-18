@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [Chinese](http://bobao.360.cn/ctf/learning/155.html)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)

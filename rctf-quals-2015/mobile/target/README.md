@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * [Chinese](http://drops.wooyun.org/mobile/10557)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)

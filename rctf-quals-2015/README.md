@@ -33,12 +33,11 @@
 * [reverse/tank](reverse/tank)
 * [reverse/vb](reverse/vb)
 * [survey/survey](survey/survey)
+* [web/comprehensive](web/comprehensive)
 * [web/easysql](web/easysql)
 * [web/login](web/login)
+* [web/upload](web/upload)
 * [web/weeeeeb3](web/weeeeeb3)
+* [web/xss](web/xss)
 
 ## Missing write-ups
-
-* [web/comprehensive](web/comprehensive)
-* [web/upload](web/upload)
-* [web/xss](web/xss)

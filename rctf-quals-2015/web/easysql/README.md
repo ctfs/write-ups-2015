@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [Spanish](https://blog.ka0labs.net/post/26/)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)

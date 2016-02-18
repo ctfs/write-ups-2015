@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [Chinese](https://github.com/garzon/CTF-Writeups/tree/master/RCTF2015#weeeeeb3-web-150)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf

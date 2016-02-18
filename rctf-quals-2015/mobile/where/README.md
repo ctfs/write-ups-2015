@@ -24,3 +24,4 @@
 
 * [Chinese](http://bobao.360.cn/ctf/learning/155.html)
 * [Chinese](http://drops.wooyun.org/mobile/10557)
+* [Chinese](http://roisfzu.org/static/rctf2015-writeup.pdf)
