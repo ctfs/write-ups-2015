@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-defcamp2015-rocket-science-admin-panel-web-200/> (Down, [Cached Version](http://webcache.googleusercontent.com/search?q=cache:T1vTKzR3_-8J:https://ucs.fbi.h-da.de/writeup-defcamp2015-rocket-science-admin-panel-web-200/&num=1&hl=en&gl=de&strip=1&vwsrc=0))
