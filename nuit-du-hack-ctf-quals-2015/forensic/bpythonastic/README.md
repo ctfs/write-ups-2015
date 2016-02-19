@@ -7,7 +7,7 @@
 
 > <http://static.challs.nuitduhack.com/Bpythonastic.tar.gz>
 
-[Alternative download](https://mega.nz/#!GE9x0A4K)
+[Alternative download](https://mega.nz/#!GE9x0A4K!2A-9Pc3DLOGPiu7cUSKnHIIs-l1PXJnaId0FOz_o92c)
 
 ## Write-up
 

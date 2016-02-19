@@ -7,7 +7,7 @@
 
 > Where is flag in this [file](http://tasks.asis-ctf.ir/dump_afd637ec02406cd89caed36d74849cf1)?
 
-[Alternative download](https://mega.nz/#!HMFBHRBR)
+[Alternative download](https://mega.nz/#!HMFBHRBR!g08oZoXkyqvB_NcJdpP4Rt36gp2Q3ug0ZXKJhVk-F1g)
 
 ## Write-up
 

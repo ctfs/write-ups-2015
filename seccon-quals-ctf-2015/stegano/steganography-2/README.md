@@ -9,7 +9,7 @@
 > 
 > [sunrise.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Stegano/100_Steganography%202/sunrise.zip)
 
-[Alternative download](https://mega.nz/#!KEtT2DDB)
+[Alternative download](https://mega.nz/#!KEtT2DDB!2-6CgeI_prJAtxejPjQduHlvbhHUtk7qANT1Rnlcyp0)
 
 
 ## Write-up

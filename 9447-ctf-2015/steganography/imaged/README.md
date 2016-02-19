@@ -7,7 +7,7 @@
 
 > Our spies found this image. They think something is hidden in it... what could it be?
 >
-> [imaged.zip](https://mega.nz/#!KYEDhCxT)  384077bcc914fd7a2a5afd60c4e4874e
+> [imaged.zip](https://mega.nz/#!KYEDhCxT!-ds4cnfwADzH0JxHiokiFXTFSxqddsRqaPmP86ZXDcE)  384077bcc914fd7a2a5afd60c4e4874e
 
 
 ## Write-up

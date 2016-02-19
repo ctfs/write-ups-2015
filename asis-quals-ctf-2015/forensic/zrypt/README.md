@@ -7,7 +7,7 @@
 
 > Download [file](http://tasks.asis-ctf.ir/zrypt_6a370fc7e33aa5f6a44a2be4999c4966) and find the flag.
 
-[Alternative download](https://mega.nz/#!aAU2mJbQ)
+[Alternative download](https://mega.nz/#!aAU2mJbQ!USGve99wek6A10RR0ky459TlkG2P1-3yQfRZv4j3Jqw)
 
 ## Write-up
 

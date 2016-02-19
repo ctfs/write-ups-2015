@@ -15,7 +15,7 @@
 > 
 > [counterhardware.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Binary/500_Reverse-Engineering%20Hardware%202/counterhardware.zip)
 
-[Alternative download](https://mega.nz/#!6EdBDSwb)
+[Alternative download](https://mega.nz/#!6EdBDSwb!4cNZUASZXn3hXw5DkEd0ntLQ1klt9u3X6hE8s_m1WWo)
 
 ## Write-up
 

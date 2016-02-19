@@ -7,7 +7,7 @@
 
 > Follow the white rabbit! Khm.. I mean ["file"](http://school-ctf.org/files/start_dec1dd9b04e5e6f51e017573270dec210106031a.zip)
 
-[Alternative download](https://mega.nz/#!fFFFgAhY)
+[Alternative download](https://mega.nz/#!fFFFgAhY!aaF5b4L8HTVKJ92jZ-x32eCBYeHkSEXxLFKXFz4e9gE)
 
 
 ## Write-up

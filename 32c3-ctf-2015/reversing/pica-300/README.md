@@ -5,7 +5,7 @@
 **Solves:** 14
 **Description:**
 
-> [PICACHUUUUUUUUU!!!1!](https://mega.nz/#!7Y9AUTIS)
+> [PICACHUUUUUUUUU!!!1!](https://mega.nz/#!7Y9AUTIS!tIC9yfIvZg-4BTojyKUfgiUP5E_Or6m-HBZBwiMIHok)
 > 
 > 
 > If you switch to VTY2, you can log in as root without a password.

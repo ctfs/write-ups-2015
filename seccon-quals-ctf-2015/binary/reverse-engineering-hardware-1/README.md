@@ -16,7 +16,7 @@
 > 
 > [ChristmasIllumiations.zip](https://github.com/SECCON/SECCON2015_online_CTF/blob/master/Binary/400_Reverse-Engineering%20Hardware%201/ChristmasIllumiations.zip)
 
-[Alternative download](https://mega.nz/#!7Q8RESaY)
+[Alternative download](https://mega.nz/#!7Q8RESaY!kB0IIVdYi0suQDF1Hs50w_679D7ncJm32quPDa-zM0E)
 
 
 ## Write-up

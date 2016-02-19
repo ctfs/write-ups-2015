@@ -10,7 +10,7 @@
 > 
 > [relax_enjoy](http://files.2015.volgactf.ru/relax_enjoy/relax_enjoy.wmv)
 
-[Alternative download](https://mega.nz/#!ORVkGBRb)
+[Alternative download](https://mega.nz/#!ORVkGBRb!oTVpMkTkjwETLVeMECaElYkXShliwGBpSJCXFoXEvw8)
 
 ## Write-up
 
