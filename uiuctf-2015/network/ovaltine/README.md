@@ -7,6 +7,8 @@
 
 > NETWORK: Welcome to the 1337 LOASS...Ralphie!. [ovaltine.7z](https://ctf.acm.illinois.edu/archive/ovaltine.7z)
 
+[Alternative download](https://mega.nz/#!PFkQSYpS)
+
 ## Write-up
 
 by [bobbyblues](https://github.com/bobbyblues)

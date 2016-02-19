@@ -11,6 +11,8 @@
 > 
 > <http://static.challs.nuitduhack.com/PDFCeption.tar.gz>
 
+[Alternative download](https://mega.nz/#!jMcFXKKa)
+
 ## Write-up
 
 (TODO)

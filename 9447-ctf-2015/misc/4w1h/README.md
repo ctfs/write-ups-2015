@@ -13,7 +13,7 @@
 >
 > Hint! The direction is like S, NE
 >
-> [directions.tar.gz](./directions-98ca57f494014e6dbdfc9ae2933458bf.tar.gz)  98ca57f494014e6dbdfc9ae2933458bf
+> [directions.tar.gz](https://mega.nz/#!PFl2jZQA)  98ca57f494014e6dbdfc9ae2933458bf
 
 
 ## Write-up

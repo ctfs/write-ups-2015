@@ -6,6 +6,8 @@
 
 > You're a special agent, find the culprit! ([File](https://2015.ghostintheshellcode.com/rubicon-fb6dec9f517e171a15c4b3a63cc7c9ce1cc1141fdf0e23b5b377ebd305f7c8d6))
 
+[Alternative download](https://mega.nz/#!KVlBGDSJ)
+
 ## Write-up
 
 by [polym](https://github.com/abpolym)

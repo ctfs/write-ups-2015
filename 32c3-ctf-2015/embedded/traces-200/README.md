@@ -5,7 +5,7 @@
 **Solves:** 17
 **Description:**
 
-> Could you please decode this for me? KTHXBYE!
+> Could you please decode [this](https://mega.nz/#!fB0WVL4b) for me? KTHXBYE!
 
 
 ## Write-up
