@@ -7,6 +7,8 @@
 
 > We got a strange file, can you find a flag in it [image](http://files.2015.volgactf.ru/russian_doll/russian_doll.iso)
 
+[Alternative download](https://mega.nz/#!HR8jyQ4Y)
+
 ## Write-up
 
 (TODO)

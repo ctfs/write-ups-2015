@@ -12,6 +12,8 @@
 >
 > Hint: I've encrypted my custom app so no one can find the secretz! Thankfully, I uninstalled it before someone hacked my phone! Trouble is, I can't install it on my new phone! Can you help?
 
+[Alternative download](https://mega.nz/#!vA8yFSzS)
+
 ## Write-up
 
 by [Eriner](https://github.com/Eriner) and Brehret N

@@ -7,6 +7,8 @@
 
 > <http://static.challs.nuitduhack.com/Bpythonastic.tar.gz>
 
+[Alternative download](https://mega.nz/#!GE9x0A4K)
+
 ## Write-up
 
 by [polym](https://github.com/abpolym)
