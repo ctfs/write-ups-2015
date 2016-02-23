@@ -54,3 +54,4 @@ with open("imaged.png", "rw+b") as f:
 * <http://secgroup.github.io/2015/11/30/9447ctf2015-writeup-imaged/>
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/steg90-imaged>
 * [sophia.re](http://www.sophia.re/94472015_imaged_writeup.html)
+* <https://losfuzzys.github.io/writeup/2015/11/30/9447ctf-imaged/>

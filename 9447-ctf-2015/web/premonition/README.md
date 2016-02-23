@@ -139,3 +139,4 @@ the flag is:
 * <http://pastebin.com/NCSv5qpW>
 * <https://pony7.fr/ctf:public:9447:premonition>
 * [sophia.re](http://www.sophia.re/94472015_premonition_writeup.html)
+* <https://losfuzzys.github.io/writeup/2015/12/07/9447ctf-premonition/>

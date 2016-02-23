@@ -89,5 +89,6 @@ yay got it! Although given the flag I wonder if this really is the intended solu
 
 * <http://www.kernelpicnic.net/2015/11/29/9447CTF-Super-Turbo-Atomic-GIF-Converter-Write-Up.html>
 * <https://github.com/pwning/public-writeup/tree/master/9447ctf2015/web180-gif-converter>
+* <https://losfuzzys.github.io/writeup/2015/12/07/9447ctf-super-turbo-atomic-gif-converter/>
 * <http://pastebin.com/FrsQinQz>
 * <https://gist.github.com/Invizory/e45e1ee54cf0687f2002>

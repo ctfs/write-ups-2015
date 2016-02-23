@@ -21,3 +21,4 @@
 * <https://github.com/pwning/public-writeup/tree/e8104c307426dbeb8081a2f8b08200e7182e9db8/9447ctf2015/crypto130-dub-key>
 * <https://github.com/p4-team/ctf/tree/master/2015-11-28-9447/dub-key#eng-version>
 * <http://ohaithe.re/post/134557184717/dubkey-wobkey-writeup-9447-ctf>
+* <https://losfuzzys.github.io/writeup/2015/12/07/9447ctf-dubkey/>
