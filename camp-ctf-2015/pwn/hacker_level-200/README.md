@@ -219,6 +219,7 @@ Note that this writeup is not as perfect as others. Please read others and fix i
 
 ## Other write-ups and resources
 
+* <https://bannsecurity.com/index.php/home/10-ctf-writeups/32-camp-ctf-2015-hacker-level>
 * <https://ctf-team.vulnhub.com/campctf-2015-hacker-level/> 
 * <https://nuc13us.wordpress.com/2015/09/04/hacker_level-200-campctf-2015/>
 * [Russian](http://reu.org.ua/camp-ctf-2015-hacker-level.html)
