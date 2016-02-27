@@ -37,6 +37,7 @@
 * [secure-coding/owasp](secure-coding/owasp)
 * [secure-coding/static-analysis](secure-coding/static-analysis)
 * [web-application-security/nsa](web-application-security/nsa)
+* [web-application-security/nviso-file-host](web-application-security/nviso-file-host)
 
 ## External write-ups only
 
@@ -45,4 +46,3 @@
 ## Missing write-ups
 
 * [web-application-security/0day-hunting](web-application-security/0day-hunting)
-* [web-application-security/nviso-file-host](web-application-security/nviso-file-host)

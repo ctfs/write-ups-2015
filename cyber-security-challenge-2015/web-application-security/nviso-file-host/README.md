@@ -12,7 +12,7 @@
 
 ## Write-up
 
-(TODO)
+See [nviso_file_host_solution.py](nviso_file_host_solution.py) (Writeup by NVISO coming @ their blog)
 
 ## Other write-ups and resources
 

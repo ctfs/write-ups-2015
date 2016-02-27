@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2015-10-02-dctf/web_100>
+* <http://toh.necst.it/dctf2015/web/DCTF_2015_Web/#web100>
