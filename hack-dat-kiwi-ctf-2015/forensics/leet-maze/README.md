@@ -41,3 +41,4 @@ Finally, the flag (`8410393`) is hidden in one of these TXT records:
 
 * <http://edholabs.ga/ctf_writeups/Leet_Maze.txt>
 * <http://hack.dat.kiwi/writeup#Leet_Maze>
+* <https://github.com/tothi/ctfs/tree/master/hack-dat-kiwi-ctf-2015/forensics/leet-maze>
