@@ -16,7 +16,15 @@
 
 ## Write-up
 
-(TODO)
+Just running the binary yields the flag:
+
+```bash
+$ ./flagfinder-bbc6305273a39e9ccd751c24df86ac61 
+Usage: ./flagfinder-bbc6305273a39e9ccd751c24df86ac61 <password>
+$ ./flagfinder-bbc6305273a39e9ccd751c24df86ac61 1
+Try again
+9447{C0ngr47ulaT1ons_p4l_buddy_y0Uv3_solved_the_H4LT1N6_prObL3M_n1c3_} 1000024
+```
 
 ## Other write-ups and resources
 
