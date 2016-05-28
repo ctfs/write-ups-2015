@@ -14,6 +14,7 @@
 * [misc/recon-1](misc/recon-1)
 * [misc/recon-2](misc/recon-2)
 * [reversing/flag-finder](reversing/flag-finder)
+* [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
 * [steganography/binned](steganography/binned)
 * [steganography/gife-up-now](steganography/gife-up-now)
 * [steganography/imaged](steganography/imaged)
@@ -39,7 +40,6 @@
 * [reversing/danklang](reversing/danklang)
 * [reversing/hello-joe](reversing/hello-joe)
 * [reversing/nobranch](reversing/nobranch)
-* [reversing/the-real-flag-finder](reversing/the-real-flag-finder)
 * [web/nicklesndimes](web/nicklesndimes)
 * [web/sanutf8y-check](web/sanutf8y-check)
 
