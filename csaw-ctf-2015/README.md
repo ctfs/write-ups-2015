@@ -13,6 +13,7 @@
 * [forensics/sharpturn-400](forensics/sharpturn-400)
 * [forensics/transfer-100](forensics/transfer-100)
 * [pwn/precision-100](pwn/precision-100)
+* [reverse/ftp-300](reverse/ftp-300)
 
 ## External write-ups only
 
@@ -29,7 +30,6 @@
 * [recon/alexander-taylor-100](recon/alexander-taylor-100)
 * [recon/eric-liang-100](recon/eric-liang-100)
 * [recon/julian-cohen-100](recon/julian-cohen-100)
-* [reverse/ftp-300](reverse/ftp-300)
 * [reverse/hacking-time-200](reverse/hacking-time-200)
 * [reverse/wyvern-500](reverse/wyvern-500)
 * [trivia/trivia-1](trivia/trivia-1)
