@@ -86,36 +86,36 @@ Writing down relationships between addresses and ASCII characters we notice some
 10001120 }
 ```
 
-Since flags have the format `MMA{...}`, we guess that the flag is stored in the stack.
+Since flags have the format `MMA{...}`, we guess that the flag is stored on the stack.
 Executing the instructions by hand and having `push`/`pop` instructions in mind, we can see the flag:
 
 ```
 -------------------
 esp_new |EDI |ESI |
 esp+00h |M   |M   |
-esp+00h |A   |{   |
+esp+08h |A   |{   |
 esp+10h |f   |c   |
-esp+10h |7   |d   |
+esp+18h |7   |d   |
 esp+20h |9   |0   |
-esp+20h |c   |a   |
+esp+28h |c   |a   |
 esp+30h |0   |0   |
-esp+30h |1   |f   |
+esp+38h |1   |f   |
 esp+40h |c   |8   |
-esp+40h |7   |1   |
+esp+48h |7   |1   |
 esp+50h |2   |4   |
-esp+50h |9   |7   |
+esp+58h |9   |7   |
 esp+60h |d   |8   |
-esp+60h |8   |d   |
+esp+68h |8   |d   |
 esp+70h |9   |e   |
-esp+70h |e   |7   |
+esp+78h |e   |7   |
 esp+80h |e   |f   |
-esp+80h |a   |9   |
+esp+88h |a   |9   |
 esp+90h |e   |9   |
-esp+90h |b   |3   |
+esp+98h |b   |3   |
 esp+A0h |2   |e   |
-esp+A0h |d   |8   |
+esp+A8h |d   |8   |
 esp+B0h |}   |    |
-esp+B0h |    |    |
+esp+B8h |    |    |
 [...]
 -------------------
 ```
