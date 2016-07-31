@@ -11,6 +11,7 @@
 * [pwnable/haas](pwnable/haas)
 * [pwnable/johns-library](pwnable/johns-library)
 * [pwnable/johns-shuffle](pwnable/johns-shuffle)
+* [reversing/crack-me-if-you-can](reversing/crack-me-if-you-can)
 
 ## External write-ups only
 
@@ -24,7 +25,6 @@
 * [grab-bag/trollface](grab-bag/trollface)
 * [pwnable/john-pastry-shop](pwnable/john-pastry-shop)
 * [reversing/am-i-cheating](reversing/am-i-cheating)
-* [reversing/crack-me-if-you-can](reversing/crack-me-if-you-can)
 * [reversing/exceptionally](reversing/exceptionally)
 * [reversing/john-the-packer](reversing/john-the-packer)
 * [reversing/reversemeplz](reversing/reversemeplz)

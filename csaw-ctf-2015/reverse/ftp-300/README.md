@@ -16,7 +16,7 @@
 
 ## Write-up
 
-by [polym]()
+by [polym](https://github.com/abpolym)
 
 Keywords:
 
