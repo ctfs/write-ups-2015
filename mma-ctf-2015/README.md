@@ -10,6 +10,7 @@
 * [misc/welcome-10](misc/welcome-10)
 * [pwn/rps-50](pwn/rps-50)
 * [reverse/how-to-use-30](reverse/how-to-use-30)
+* [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
 * [stego/miyako-350](stego/miyako-350)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
 
@@ -33,7 +34,6 @@
 * [reverse/impossible-150](reverse/impossible-150)
 * [reverse/money-game-200](reverse/money-game-200)
 * [reverse/simple-hash-200](reverse/simple-hash-200)
-* [reverse/this-program-cannot-run-in-dos-mode-80](reverse/this-program-cannot-run-in-dos-mode-80)
 * [web/login-as-admin-1-30](web/login-as-admin-1-30)
 * [web/login-as-admin-2-200](web/login-as-admin-2-200)
 * [web/mortal-magi-agents-300](web/mortal-magi-agents-300)
