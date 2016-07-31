@@ -61,6 +61,8 @@ We quickly fix that by finding the start of the PE Header (It begins with `PE`),
 
 Now we can run `pedump` or analyze the binary with `radare2` and find a string using the `V`isual flag hud of `radare2`:
 
+![](./r2func.png)
+
 Jumping to the `x`ref of this string, we land in a function that calls printf("The Flag is MMA{%s}", <eaxASCIIcharacters>).
 We convert the ASCII characters written to the calloc buffer at `eax` and get the flag:
 
