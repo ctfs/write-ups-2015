@@ -1,0 +1,3 @@
+#!/bin/bash
+cp key key-patched
+r2 -w key-patched -i fix.r2s -q

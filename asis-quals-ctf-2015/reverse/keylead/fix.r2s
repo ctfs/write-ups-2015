@@ -1,0 +1,15 @@
+# Fix jumps
+s 0x00400fbb
+wa jmp 0x00400fc1
+
+s 0x00400ff7
+wa jmp 0x00400ffd
+
+s 0x00401033
+wa jmp 0x00401039
+
+s 0x0040106f
+wa jmp 0x00401071
+
+s 0x004010a4
+wa jmp 0x004010a6
