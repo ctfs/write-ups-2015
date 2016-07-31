@@ -9,6 +9,7 @@
 * [forensics/stream-100](forensics/stream-100)
 * [misc/welcome-10](misc/welcome-10)
 * [pwn/rps-50](pwn/rps-50)
+* [reverse/how-to-use-30](reverse/how-to-use-30)
 * [stego/miyako-350](stego/miyako-350)
 * [stego/nogaya-castle-100](stego/nogaya-castle-100)
 
@@ -29,7 +30,6 @@
 * [pwn/d3flate-500](pwn/d3flate-500)
 * [pwn/spell-300](pwn/spell-300)
 * [reverse/digital-circuit-250](reverse/digital-circuit-250)
-* [reverse/how-to-use-30](reverse/how-to-use-30)
 * [reverse/impossible-150](reverse/impossible-150)
 * [reverse/money-game-200](reverse/money-game-200)
 * [reverse/simple-hash-200](reverse/simple-hash-200)
