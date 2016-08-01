@@ -44,7 +44,7 @@ $ abcdef
 No command 'abcdef' found, did you mean:
  Command 'abcde' from package 'abcde' (universe)
 abcdef: command not found
-``
+```
 
 As we can see, the bianry requests user input that is at maximum 10 (`0xa`) Bytes of size (including newline).
 Opening the binary in `radare2`, we can display the main function as a CFG:
