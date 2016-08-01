@@ -63,7 +63,7 @@ Now we know that our goal is to direct the control flow of our Executable to pas
 
 If you follow the nodes and branches bottom-up or top-down, you can easily see that most conditional jumps are always taken by default and that the final Stack layout should look like that:
 
-```
+```bash
 ----------------------
 ebp-0x14 |  |  |  |  |
 ebp-0x10 |CA|4D|AB|E8|
