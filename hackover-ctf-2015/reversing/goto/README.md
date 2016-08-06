@@ -83,7 +83,7 @@ We look for loops with following conditional branch nodes in the CFG and see:
 
 ![](./cond.png)
 
-We see that the node `0x4006e5` is a conditonal branch that is preceded by several loop nodes. Lets set a breakpoint at this node ind `gdb-peda`:
+We see that the node `0x4006e5` is a conditonal branch that is preceded by several loop nodes. Lets set a breakpoint at this node in `gdb-peda`:
 
 ![](./peda.png)
 
