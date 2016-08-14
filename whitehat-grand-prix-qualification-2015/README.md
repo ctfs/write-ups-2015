@@ -8,6 +8,7 @@
 * [forensics/ca-mau](forensics/ca-mau)
 * [forensics/phong-nha-ke-bang](forensics/phong-nha-ke-bang)
 * [forensics/sa-pa](forensics/sa-pa)
+* [reverse/dong-van](reverse/dong-van)
 
 ## External write-ups only
 
@@ -16,7 +17,6 @@
 * [cryptography/tam-dao](cryptography/tam-dao)
 * [pwnable/binh-dinh](pwnable/binh-dinh)
 * [pwnable/vung-tau](pwnable/vung-tau)
-* [reverse/dong-van](reverse/dong-van)
 * [reverse/ha-long](reverse/ha-long)
 * [reverse/hue](reverse/hue)
 * [web/can-tho](web/can-tho)
