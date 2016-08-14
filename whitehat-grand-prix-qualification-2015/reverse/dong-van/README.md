@@ -70,7 +70,7 @@ vaddr=0x0040378c paddr=0x0000378c ordinal=007 sz=11 len=10 section=.rodata type=
 
 We follow the Xref of the `Good boy! Submit your flag :)` string at address `0x0040376e` and land in the `main` function:
 
-![])(./main.png)
+![](./main.png)
 
 After the initial C++ shock, we can see that our input string, stored at `rbp-0x40` (see `0x00401f87`) is passed at the function `sub._ZNSsC1ERKSs_112_490`.
 We set a breakpoint at `0x00401fb9` in `gdb-peda` and have a look at the content of `rbp-0x40` and `rbp-0x30`:
