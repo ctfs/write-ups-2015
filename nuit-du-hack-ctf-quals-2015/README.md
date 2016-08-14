@@ -9,6 +9,7 @@
 
 * [forensic/bpythonastic](forensic/bpythonastic)
 * [forensic/private](forensic/private)
+* [reverse/clark-kent](reverse/clark-kent)
 * [stegano/cooper](stegano/cooper)
 * [web/facebox](web/facebox)
 
@@ -21,7 +22,6 @@
 * [forensic/pdfception](forensic/pdfception)
 * [misc/bleep](misc/bleep)
 * [misc/raptor](misc/raptor)
-* [reverse/clark-kent](reverse/clark-kent)
 * [reverse/crackme-prime](reverse/crackme-prime)
 * [reverse/mass-surveillance-software](reverse/mass-surveillance-software)
 * [reverse/superman](reverse/superman)
