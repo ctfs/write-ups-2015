@@ -13,13 +13,13 @@
 
 ## Write-up
 
+by [polym](https://github.com/abpolym)
+
 This writeup is based on following writeups:
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/NUITDUHACK/reverse/clarkkent>
 * <http://depier.re/md/quals_ndh_2k15_clark_kent_150/>
 * [French](https://wiki.zenk-security.com/doku.php?id=ndhquals2015:clark_kent)
-
-by [polym](https://github.com/abpolym)
 
 Keywords:
 
