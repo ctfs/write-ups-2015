@@ -9,6 +9,7 @@
 * [pwn/prng-service](pwn/prng-service)
 * [pwn/smashing-the-stack-for-fun-and-profit](pwn/smashing-the-stack-for-fun-and-profit)
 * [rev/ekogift](rev/ekogift)
+* [rev/mov](rev/mov)
 
 ## External write-ups only
 
@@ -22,7 +23,6 @@
 * [misc/the-picture-challenge](misc/the-picture-challenge)
 * [pwn/echoes](pwn/echoes)
 * [rev/decode-it](rev/decode-it)
-* [rev/mov](rev/mov)
 * [rev/reversing-the-apc-cache](rev/reversing-the-apc-cache)
 * [web/flag-requester](web/flag-requester)
 * [web/hackers-market](web/hackers-market)
