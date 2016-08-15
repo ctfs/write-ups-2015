@@ -58,7 +58,7 @@ If we open the binary in `radare2` and have a look at the entry function, we see
 
 ![](./movmovmov.png)
 
-We pretty much only see `mov` instructions.
+We pretty much only see `mov` instructions. Upon further research, we find out that this executable has been compiled with an obfuscator called the [movfuscator](https://github.com/xoreaxeaxeax/movfuscator), which results in the executable consisting only of `mov` instructions.
 
 If we open the `radare2` Strings HUD, we can see some interesting strings, though:
 
@@ -72,7 +72,7 @@ We can see a `printf` call, so we set a hardware breakpoint (To avoid Anti-Debug
 
 ![](./gdb.png)
 
-Note that in Order to set a hardware breakpoint, I've set a software breakpoint right at th entry point at first, run the executable, deleted the software breakpoint and then set the hardware breakpoint at the desired location.
+Note that in order to set a hardware breakpoint, I've set a software breakpoint right at the entry point at first, run the executable, deleted the software breakpoint and then set the hardware breakpoint at the desired location.
 
 We can see an interesting string at the beginning of our stack, so we guess that the parameters are pushed to the stack.
 This means that the `printf` call looks like this:
