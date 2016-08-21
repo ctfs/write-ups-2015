@@ -118,7 +118,7 @@ We have a look at another table lookup (table addr.: `0x6029c0`) with WORD value
 
 ![](./table.6029c0.png)
 
-Since these values are passed as parameters for the `sleep` function - this is confirmed by converting the parameter of the `sleep` call (Decimal value `4300`, hexadecimal: `0x10cc`) previously seen in the `ltrace` output.
+These values are passed as parameters of the `sleep` function - this is confirmed by converting the parameter of the `sleep` call (Decimal value `4300`, hexadecimal: `0x10cc`) previously seen in the `ltrace` output.
 
 The last table lookup (table addr.: `0x602300`) with WORD values in bb `0x401121`:
 
