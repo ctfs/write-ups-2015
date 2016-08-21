@@ -132,7 +132,7 @@ This means that we cannot just null the `sleep` parameter table or `nop` patch t
 However, we can use the `LD_PRELOAD` trick (as done in [this](https://neg9.org/news/2015/5/11/asis-ctf-quals-2015-leach-reversing-250-writeup) and [that writeup](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/leach)) to hook the `sleep` and `time` functions:
 
 ```c
-nclude <unistd.h>
+#include <unistd.h>
 #include <time.h>
 
 unsigned int ret = 0;
