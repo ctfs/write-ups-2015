@@ -124,7 +124,7 @@ The last table lookup (table addr.: `0x602300`) with WORD values in bb `0x401121
 
 ![](./table.602300.png)
 
-We quickly see that the time elapsed between the first `time` call and the second `time` call - with a `sleep` in between them - is string concatted as an integer to the Integer values of the first table `0x602540`.
+We quickly see that the time elapsed between the first `time` call and the second `time` call - with a `sleep` in between them - is string concatted as an Integer to the Integer values of the first table `0x602540`.
 Afterwards this value as well as the values of the last table `0x602300` are passed as parameters to the `fcn.00400d65` function.
 
 This means that we cannot just null the `sleep` parameter table or `nop` patch the `sleep` call to avoid having to wait for the program to finish.
