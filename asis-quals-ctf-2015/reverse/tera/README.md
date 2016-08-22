@@ -57,7 +57,7 @@ $ xxd -l16 /tmp/.tera
 
 Looks like some custom file format.
 
-If we open the file with `radare2` and have a look at the strings, we can detect an URL:
+If we open the file with `radare2` and have a look at the strings, we can detect a URL:
 
 ```bash
 :> iz
@@ -124,7 +124,7 @@ Luckily, there are several ways to download specific bytes/ byte sequences from 
 
 * As [this writeup](http://blog.morganz.me/blog/2015/05/12/asis-ctf-quals-2015-re100-tera-writeup/) suggests, we also can use the [`thingking` module](https://bitbucket.org/darkskysims/data_release#markdown-header-python-based-exploration) from the content providers to access byte ranges via python (which internally just uses the same `Range` header together with the `requests` python module as seen [here](https://bitbucket.org/zeropy/thingking/src/965cdb7c1a7cf010b2742b0b2f983d0007703501/thingking/arbitrary_page.py?at=default&fileviewer=file-view-default)).
 
-To determine what happens after the download, we open the `main` function in `radare2` to see a pretty big CFG (Sumary visual mode):
+To determine what happens after the download, we open the `main` function in `radare2` to see a pretty big CFG (Summary visual mode):
 
 ![](./main.png)
 
@@ -138,14 +138,14 @@ We have a look at the loop to see the following:
 
 ![](./loop.png)
 
-We gather information about the loop and the values used withing:
+We gather information about the loop and the values used within:
 
 * First, we see a `xor` instruction of two 32bit registers with the result being converted to a signed byte and printed to stdout using `printf("%c\n",...)`
 * A counter in `rax`/`rbp-local_30h` is compared to the value of `rbp-local_3ch`. We highlight (`/`) "local_3ch" and find this counter (Value: `0x26`) in the beginning of our `main` function: ![](./local_3ch.png)
 * We also see a QWORD table, which is copied using the `rep movsq` instruction to `rbp-local_1c0h`, which is used . We print it:
 
 ![](./0x401480.png)
-* A `fread` call preceding the loop reads one element of the size stored in `rbp-local_38h` (which turns out to be the value `0x1f40001809e0` stored with `movabs` in the beginning of `main`) into `rbp-local_80h`. This address is then used together with the previous QWORD table values to read a single byte from presumably the downloaded file and stored into the `edx` register of our `xor` instruction
+* A `fread` call preceding the loop reads one element of the size stored in `rbp-local_38h` (which turns out to be the value `0x1f40001809e0` - ~31TB, the size of the file - stored with `movabs` in the beginning of `main`) into `rbp-local_80h`. This address is then used together with the previous QWORD table values to read a single byte from presumably the downloaded file and stored into the `edx` register of our `xor` instruction
 * We highlight "local_2340h" to find yet another table (this time containig `0x26` DWORD values) and counter (bb: `0x401089`), which are then stored into the second operand `eax` of our `xor` instruction:
 
 ![](./0x401680.png)
