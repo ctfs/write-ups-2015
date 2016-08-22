@@ -19,9 +19,10 @@ by [polym](https://github.com/abpolym)
 
 Keywords:
 
-* 
+* `x86-64` Executable for Linux
+* Big File Download
 
-We are given a xz-compressed `` Executable for Linux, which we decompress using `unxz`:
+We are given a xz-compressed `x86-64` Executable for Linux, which we decompress using `unxz`:
 
 ```bash
 $ file tera_85021482a68d6ed21892ea99b84f13f3 
@@ -69,7 +70,7 @@ vaddr=0x00401588 paddr=0x00001588 ordinal=005 sz=6 len=5 section=.rodata type=as
 vaddr=0x004015c0 paddr=0x000015c0 ordinal=006 sz=134 len=66 section=.rodata type=wide string=http://darksky.slac.stanford.edu/simulations/ds14_a/ds14_a_1.0000\n
 ```
 
-Since the file is in UTF-8 format (see the following picture), a usual `strings` call on the binary would not reveal the URL, since two bytes are used for each UTF-8 encoded character with nullbytes as padding:
+A usual `strings` call on the binary would not reveal the URL, since the URL is UTF-8 encoded, meaning that two bytes are used for each character with nullbytes as placeholders for unused bytes:
 
 ![](./utf8string.png)
 
@@ -84,13 +85,14 @@ We open the parent directory URL in `lynx` and see that the file is of size 31TB
 
 ![](./lynx.png)
 
-We won't for 31TB to load, especially because we can't hold that much space.
+We sure won't wait for a 31 *Tera*Byte file to download.
 Since the description tells us that the flag is hidden somewhere in the file, we most likely have to download a specific part of the file that might even be in the middle of those 31TB.
 
 Luckily, there are several ways to download specific bytes/ byte sequences from a file.
 
 * We can use the `Range` header to perform a partial download.
   * Either with `curl`:
+
     ```bash
     $ curl --header 'Range: bytes=100-200' http://darksky.slac.stanford.edu/simulations/ds14_a/ds14_a_1.0000 && echo
     T = 2;
@@ -99,7 +101,9 @@ Luckily, there are several ways to download specific bytes/ byte sequences from 
     float particle_mass = 5.6749434;
     int iter =
     ```
+
   * Or with [httpie](https://github.com/jkbrzt/httpie):
+
     ```bash
     +bash-4.3$ http -dh http://darksky.slac.stanford.edu/simulations/ds14_a/ds14_a_1.0000 'Range: bytes=100-200'
     HTTP/1.1 206 Partial Content
@@ -117,6 +121,7 @@ Luckily, there are several ways to download specific bytes/ byte sequences from 
     float particle_mass = 5.6749434;
     int iter =+bash-4.3
     ```
+
 * As [this writeup](http://blog.morganz.me/blog/2015/05/12/asis-ctf-quals-2015-re100-tera-writeup/) suggests, we also can use the [`thingking` module](https://bitbucket.org/darkskysims/data_release#markdown-header-python-based-exploration) from the content providers to access byte ranges via python (which internally just uses the same `Range` header together with the `requests` python module as seen [here](https://bitbucket.org/zeropy/thingking/src/965cdb7c1a7cf010b2742b0b2f983d0007703501/thingking/arbitrary_page.py?at=default&fileviewer=file-view-default)).
 
 To determine what happens after the download, we open the `main` function in `radare2` to see a pretty big CFG (Sumary visual mode):
@@ -137,9 +142,13 @@ We gather information about the loop and the values used withing:
 
 * First, we see a `xor` instruction of two 32bit registers with the result being converted to a signed byte and printed to stdout using `printf("%c\n",...)`
 * A counter in `rax`/`rbp-local_30h` is compared to the value of `rbp-local_3ch`. We highlight (`/`) "local_3ch" and find this counter (Value: `0x26`) in the beginning of our `main` function: ![](./local_3ch.png)
-* We also see a QWORD table, which is copied using the `rep movsq` instruction to `rbp-local_1c0h`, which is used . We print it: ![](./0x401480.png)
+* We also see a QWORD table, which is copied using the `rep movsq` instruction to `rbp-local_1c0h`, which is used . We print it:
+
+![](./0x401480.png)
 * A `fread` call preceding the loop reads one element of the size stored in `rbp-local_38h` (which turns out to be the value `0x1f40001809e0` stored with `movabs` in the beginning of `main`) into `rbp-local_80h`. This address is then used together with the previous QWORD table values to read a single byte from presumably the downloaded file and stored into the `edx` register of our `xor` instruction
-* We highlight "local_2340h" to find yet another table (this time containig `0x26` DWORD values) and counter (bb: `0x401089`), which are then stored into the second operand `eax` of our `xor` instruction: ![](./0x401680.png)
+* We highlight "local_2340h" to find yet another table (this time containig `0x26` DWORD values) and counter (bb: `0x401089`), which are then stored into the second operand `eax` of our `xor` instruction:
+
+![](./0x401680.png)
 
 All that is left to do now is download single bytes from the *Tera*byte sized binary blob using the `Range` header trick and QWORD offset table values, `XOR` these bytes with the given DWORD table values and hopefully gain the flag.
 
