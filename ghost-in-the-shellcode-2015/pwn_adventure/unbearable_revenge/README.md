@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [https://blog.keyidentity.com/2017/07/04/pwn-adventure-3-intercepting-packets/](https://blog.keyidentity.com/2017/07/04/pwn-adventure-3-intercepting-packets/)
