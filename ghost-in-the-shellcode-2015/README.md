@@ -21,6 +21,8 @@
 * [forensics/portal2](forensics/portal2)
 * [programming/edgy](programming/edgy)
 * [pwn_adventure/blockys_revenge](pwn_adventure/blockys_revenge)
+* [pwn_adventure/egg_hunter](pwn_adventure/egg_hunter)
+* [pwn_adventure/fire_and_ice](pwn_adventure/fire_and_ice)
 * [pwn_adventure/pirates_treasure](pwn_adventure/pirates_treasure)
 * [pwn_adventure/unbearable_revenge](pwn_adventure/unbearable_revenge)
 * [pwn_adventure/until_the_cows_come_home](pwn_adventure/until_the_cows_come_home)
@@ -32,6 +34,4 @@
 
 ## Missing write-ups
 
-* [pwn_adventure/egg_hunter](pwn_adventure/egg_hunter)
-* [pwn_adventure/fire_and_ice](pwn_adventure/fire_and_ice)
 * [pwn_adventure/overachiever](pwn_adventure/overachiever)
