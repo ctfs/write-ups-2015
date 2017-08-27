@@ -111,7 +111,7 @@ gdb-peda$ x/20wx $rbp-0xa8
 0x7fffffffe3a8: 0xffffe508      0x00007fff      0xf7a251a8      0x00007fff
 ```
 
-We see that our username size begins at `$rbp-0xd0` (`0x7fffffffe340`), followed by the username at `$rbp-0xcc` (`0x7fffffffe340`).
+We see that our username size begins at `$rbp-0xd0` (`0x7fffffffe340`), followed by the username at `$rbp-0xcc` (`0x7fffffffe344`).
 Right after that, we see our password size at `$rbp-0xbc` (`0x7fffffffe354`), followed by the password at `$rbp-0xb8` (`0x7fffffffe358`).
 Finally, we see the `showflag` value at `$rbp-0xa8` (`0x7fffffffe368`).
 
