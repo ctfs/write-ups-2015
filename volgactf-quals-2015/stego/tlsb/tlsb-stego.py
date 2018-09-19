@@ -13,10 +13,10 @@ for h in range(height):
 			print r,g,b,a
 		elif bands=='RGB':
 			r,g,b = pixels
-			# r&1 == a1, b&1==a2, g&1==a3
+			# r&1 == a1, b&1 == a2, g&1 == a3
 			x1 = (r & 1) ^ (g & 1) # x1 = a1 xor a3
-			x2 = (b & 1) ^ (g & 1) # x2 = a3 xor a3
-			msg+=str(x1)+str(x2)
+			x2 = (b & 1) ^ (g & 1) # x2 = a2 xor a3
+			msg += str(x1) + str(x2)
 		else:
 			print pixels
 with open(sys.argv[2], 'w') as f:
